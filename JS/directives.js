@@ -12,3 +12,19 @@ Monitor.directive("weatherReport", function() {
        }
    }
 });
+
+
+
+Monitor.directive("afterHRS", function() {
+   return {
+       restrict: 'E',
+       templateUrl: '../directives/DIRafterHRS.html',
+       replace: true,
+       scope: {
+           data: "=",
+           convertToStandard: "&",
+           convertToDate: "&",
+           dateFormat: "@"
+       }
+   }
+});

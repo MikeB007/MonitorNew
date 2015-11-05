@@ -15,6 +15,11 @@ Monitor.config(function ($routeProvider) {
             templateUrl: 'pages/charts.htm',
             controller: 'stocksController'
         })
+        .when('/afterHRS', {
+            templateUrl: 'pages/afterHRS.htm',
+            controller: 'afterHRSController'
+        })
+    
     .when('/indexes', {
             templateUrl: 'pages/indexes.htm',
             controller: ''

@@ -15,3 +15,14 @@ Monitor.factory("commonFactory", function() {
     }
 });
 
+
+Monitor.factory("afterHRSFactory", ['$resource', function($resource) {
+    return {
+        getAfterHrsQuote: function(ticker){
+            var api = $resource("http://markets.money.cnn.com/services/api/quotehover/?symb=TD", { callback: "JSON_CALLBACK" }, { get: { method: "JSONP" }});    
+            return api.get();
+    
+            //$scope.weatherResult = $scope.weatherAPI.get({ q: $scope.city, cnt: $scope.days });        
+    }
+}}]);
+

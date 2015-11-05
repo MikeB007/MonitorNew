@@ -16,7 +16,7 @@ Sectors:
 
 </label><br/>
 <br>
-{{howMany}}
+
 <span ng-repeat="t in tickersBySector | orderBy: '-QMV' | limitTo:10">
     <li><a href="#/chart/{{t.Symbol + '.' + t.Market}}"><i class="fa fa-home"></i>Details</a></li>
     <img  ng-src="http://chart.finance.yahoo.com/z?s={{t.Symbol + '.' + t.Market}}&t={{period.duration}}&q=c&l=on&z={{size.size}}&a=vm,fs,p&p=m50,e50,e200,b,v,m&lang=en-CA&region=CA">

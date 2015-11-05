@@ -56,6 +56,16 @@ Monitor.controller('marketsController', ['$scope', '$resource', '$routeParams', 
 }]);
 
 
+
+
+Monitor.controller('afterHRSController', ['$scope', '$resource', '$routeParams', 'afterHRSFactory', function($scope, $resource, $routeParams, afterHRSFactory) {
+    $scope.afterHRS = afterHRSFactory.getAfterHrsQuote("TD");
+    console.log($scope.afterHRS);
+    }
+]);
+
+
+
 Monitor.controller('indexController', ['$scope', '$resource', '$routeParams', 'symbolService', function($scope, $resource, $routeParams, symbolService) {
     $scope.symbol = symbolService.symbol;
     $scope.symbol = $routeParams.symbol || 'td.to';

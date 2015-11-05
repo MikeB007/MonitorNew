@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en-us" ng-app="Monitor">
+    <head>
+        <title>Stock Monitor</title>
+        <meta http-equiv="X-UA-Compatible" content="IE=Edge">
+        <meta charset="UTF-8">
+
+        <!-- load bootstrap and fontawesome via CDN -->
+        <link rel="stylesheet" href="CSS/bootstrap.min.css" />
+        <style>
+            html, body, input, select, textarea
+            {
+                font-size: 1.05em !important;
+            }
+        </style>
+        
+        <!-- load angular via CDN -->
+        <script src="vendor/angular.min.js"></script>
+        <script src="vendor/angular-route.min.js"></script>
+        <script src="vendor/angular-resource.min.js"></script>
+        <script src="vendor/underscore.js"></script>
+        <script src="JS/app.js"></script>
+        <script src="Routes/routes.js"></script>
+        <script src="Services/services.js"></script>
+        <script src="Services/tickers.js"></script>
+        <script src="Services/tickerFactory.js"></script>
+        <script src="Services/const.js"></script>
+        <script src="Services/commonFactory.js"></script>
+        <script src="JS/controllers.js"></script>
+        <script src="JS/directives.js"></script>
+    </head>
+    <body>
+
+        <header>
+			<nav class="navbar navbar-default">
+			<div class="container">
+				<div class="navbar-header">
+					<a class="navbar-brand" href="#/">Monitor</a>
+				</div>
+
+                <ul class="nav navbar-nav navbar">
+                    <li><a href="#/charts"><i class="fa fa-home"></i> Charts</a></li>
+                    <li><a href="#/indexes"><i class="fa fa-home"></i> Indexes</a></li>
+				    <li><a href="#"><i class="fa fa-home"></i> Home</a></li>
+                </ul>
+			</div>
+			</nav>
+		</header>
+
+        <div >
+
+            <div ng-view></div>
+
+		</div>
+
+    </body>
+</html>

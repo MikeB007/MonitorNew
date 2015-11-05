@@ -1,0 +1,11 @@
+<div>
+    Enter Symbol: <input type="text" ng-model="symbol" value="td.to"  />
+    CWidth: <input type="text" ng-model="cWidth"   value="200"/>
+    Period: <input type="text" ng-model="period.duration"   value="1d"/>
+</div>
+
+<div>
+    <IMG  ng-src="http://www.advfn.com/p.php?pid=staticchart&s={{advfn.symbol}}&p=0&t=23&dm=1&vol=1">
+    <IMG  ng-src="http://ichart.yahoo.com/t?a=m&p=m50&s={{symbol}}&width={{cWidth}}&height={{cWidth/1.402}}">
+    <IMG  ng-src="https://chart.finance.yahoo.com/z?s={{symbol}}&t={{period.duration}}&q=c&l=on&z=l&a=m,vm,fs,p&p=m50,b,v,m&lang=en-CA&region=CA">
+</div>

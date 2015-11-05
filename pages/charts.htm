@@ -1,0 +1,29 @@
+
+Sectors:
+<label>
+  <span  class="nullable">
+    <select ng-model="activeSector" ng-options="s for s in sectors">
+        <option value="">-- choose industry --</option>
+    </select>
+    Show Recs: <input type="text" ng-model="howMany">
+
+    Period: <select ng-model="period" ng-options="p.duration for p in periods">
+         <option value="">select</option>
+    </select>
+     Size: <select ng-model="size" ng-options="s.size for s in sizes">
+      <option value="">select</option>
+  </select>
+
+</label><br/>
+<br>
+{{howMany}}
+<span ng-repeat="t in tickersBySector | orderBy: '-QMV' | limitTo:10">
+    <li><a href="#/chart/{{t.Symbol + '.' + t.Market}}"><i class="fa fa-home"></i>Details</a></li>
+    <img  ng-src="http://chart.finance.yahoo.com/z?s={{t.Symbol + '.' + t.Market}}&t={{period.duration}}&q=c&l=on&z={{size.size}}&a=vm,fs,p&p=m50,e50,e200,b,v,m&lang=en-CA&region=CA">
+    </span>
+    {{gd}}
+Charts
+    
+        <!-- <IMG width="520" width="400" ng-src="https://chart.finance.yahoo.com/z?s={{t.Symbol + '.' + t.Market}}&t=3m&q=c&l=on&z=l&a=v,vm,p12,fs,r14&,p=v,b&lang=en-CA&region=CA"> -->
+<!--   <IMG  ng-src="http://ichart.yahoo.com/t?s={{t.Symbol + '.' + t.Market}}&width={{cWidth}}&height={{cWidth/1.402}}"> -->
+

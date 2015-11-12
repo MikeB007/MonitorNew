@@ -1,4 +1,5 @@
 Monitor.factory("tickerFactory", function() {
+    var favourites = [{S:"RT.TO"},{ S:"TD.TO"}];
     return {
         getTickers: function(){
             return tickers;
@@ -23,8 +24,21 @@ Monitor.factory("tickerFactory", function() {
         },
         getSubSectors: function(thisSector){
             return _.uniq(_.pluck(_.flatten(this.getTickersBySector(thisSector)), "Sub_Sec"));
+        },
+
+        getFavourites: function(){
+            return favourites;
+        },
+        getCompanyDetails: function(s){
+            return _.where(tickers, {Symbol: s});
+        },
+        getDefaultSector: function(s){
+            return this.getSector(s);
+        },
+        filterCompanies: function(n){
+            return _.where(tickers, {Name: n});
         }
 
-
+        
     }
 });

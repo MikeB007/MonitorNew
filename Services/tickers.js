@@ -11,7 +11,7 @@ var tickerstest= [
         "USSymbol": "",
         "ICntry": "",
         "USM": "LIMA (BVL)"
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "AAB",
         "Market": "TO",
@@ -24,7 +24,7 @@ var tickerstest= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "AAC",
         "Market": "V",
@@ -53,7 +53,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": "LIMA (BVL)"
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "AAB",
         "Market": "TO",
@@ -66,7 +66,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "AAC",
         "Market": "V",
@@ -79,7 +79,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "AAD",
         "Market": "V",
@@ -92,7 +92,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "AAG",
         "Market": "V",
@@ -105,7 +105,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "AAN",
         "Market": "V",
@@ -118,7 +118,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "AAO",
         "Market": "V",
@@ -131,7 +131,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "AAP",
         "Market": "V",
@@ -144,7 +144,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "AAR.UN",
         "Market": "TO",
@@ -157,7 +157,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "AAT",
         "Market": "V",
@@ -170,7 +170,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "AAU",
         "Market": "V",
@@ -183,7 +183,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": "LIMA (BVL)"
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "AAV",
         "Market": "TO",
@@ -196,7 +196,7 @@ var tickers= [
         "USSymbol": "AAV",
         "ICntry": "US",
         "USM": "NYSE"
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "AAX",
         "Market": "V",
@@ -209,7 +209,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "ABE",
         "Market": "V",
@@ -222,7 +222,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "ABG",
         "Market": "V",
@@ -235,7 +235,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "ABI",
         "Market": "V",
@@ -248,7 +248,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "ABK.A",
         "Market": "TO",
@@ -261,7 +261,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "ABM",
         "Market": "V",
@@ -274,7 +274,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "ABN",
         "Market": "V",
@@ -287,7 +287,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "ABR",
         "Market": "V",
@@ -300,7 +300,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "ABS",
         "Market": "V",
@@ -313,7 +313,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "ABT",
         "Market": "TO",
@@ -326,7 +326,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "ABU",
         "Market": "V",
@@ -339,7 +339,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "ABX",
         "Market": "TO",
@@ -352,7 +352,7 @@ var tickers= [
         "USSymbol": "ABX",
         "ICntry": "US",
         "USM": "NYSE"
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "ABZ",
         "Market": "V",
@@ -365,7 +365,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "AC",
         "Market": "TO",
@@ -378,7 +378,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "ACC",
         "Market": "TO",
@@ -391,7 +391,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "ACD",
         "Market": "TO",
@@ -404,7 +404,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "ACH",
         "Market": "V",
@@ -417,7 +417,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "ACK",
         "Market": "V",
@@ -430,7 +430,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "ACL",
         "Market": "V",
@@ -443,7 +443,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": "OTCQX"
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "ACN",
         "Market": "V",
@@ -456,7 +456,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "ACO.X",
         "Market": "TO",
@@ -469,7 +469,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "ACQ",
         "Market": "TO",
@@ -482,7 +482,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "ACR.UN",
         "Market": "TO",
@@ -495,7 +495,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "ACS",
         "Market": "V",
@@ -508,7 +508,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "ACU",
         "Market": "V",
@@ -521,7 +521,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "ACZ.UN",
         "Market": "TO",
@@ -534,7 +534,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "AD",
         "Market": "TO",
@@ -547,7 +547,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "ADC.UN",
         "Market": "TO",
@@ -560,7 +560,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "ADD",
         "Market": "V",
@@ -573,7 +573,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "ADE",
         "Market": "V",
@@ -586,7 +586,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "ADG",
         "Market": "V",
@@ -599,7 +599,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "ADI",
         "Market": "V",
@@ -612,7 +612,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "ADK",
         "Market": "V",
@@ -625,7 +625,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "ADL",
         "Market": "V",
@@ -638,7 +638,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "ADN",
         "Market": "TO",
@@ -651,7 +651,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "ADT",
         "Market": "V",
@@ -664,7 +664,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "ADV",
         "Market": "TO",
@@ -677,7 +677,7 @@ var tickers= [
         "USSymbol": "AXX",
         "ICntry": "US",
         "USM": "NYSE MKT"
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "ADW.A",
         "Market": "TO",
@@ -690,7 +690,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "ADZ",
         "Market": "V",
@@ -703,7 +703,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "AE",
         "Market": "V",
@@ -716,7 +716,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": "OTCQX"
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "AEC",
         "Market": "V",
@@ -729,7 +729,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "AEF.UN",
         "Market": "TO",
@@ -742,7 +742,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "AEI",
         "Market": "TO",
@@ -755,7 +755,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": "OTCQX"
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "AEM",
         "Market": "TO",
@@ -768,7 +768,7 @@ var tickers= [
         "USSymbol": "AEM",
         "ICntry": "US",
         "USM": "NYSE"
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "AEN",
         "Market": "V",
@@ -781,7 +781,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": "AIM"
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "AER",
         "Market": "V",
@@ -794,7 +794,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "AET.UN",
         "Market": "TO",
@@ -807,7 +807,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "AEU.UN",
         "Market": "TO",
@@ -820,7 +820,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "AEZ",
         "Market": "TO",
@@ -833,7 +833,7 @@ var tickers= [
         "USSymbol": "AEZS",
         "ICntry": "US",
         "USM": "NasdaqGM"
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "AF",
         "Market": "TO",
@@ -846,7 +846,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "AFE",
         "Market": "V",
@@ -859,7 +859,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "AFM",
         "Market": "V",
@@ -872,7 +872,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "AFN",
         "Market": "TO",
@@ -885,7 +885,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "AFR",
         "Market": "V",
@@ -898,7 +898,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "AFY",
         "Market": "V",
@@ -911,7 +911,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "AGB",
         "Market": "V",
@@ -924,7 +924,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": "ASX"
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "AGC",
         "Market": "V",
@@ -937,7 +937,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "AGD",
         "Market": "V",
@@ -950,7 +950,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": "OTCQX"
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "AGE",
         "Market": "V",
@@ -963,7 +963,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "AGF.B",
         "Market": "TO",
@@ -976,7 +976,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "AGG",
         "Market": "V",
@@ -989,7 +989,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "AGH",
         "Market": "V",
@@ -1002,7 +1002,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "AGI",
         "Market": "TO",
@@ -1015,7 +1015,7 @@ var tickers= [
         "USSymbol": "AGI",
         "ICntry": "US",
         "USM": "NYSE"
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "AGL",
         "Market": "V",
@@ -1028,7 +1028,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "AGM",
         "Market": "V",
@@ -1041,7 +1041,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "AGO",
         "Market": "V",
@@ -1054,7 +1054,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "AGQ",
         "Market": "V",
@@ -1067,7 +1067,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": "AIM"
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "AGT",
         "Market": "TO",
@@ -1080,7 +1080,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "AGU",
         "Market": "TO",
@@ -1093,7 +1093,7 @@ var tickers= [
         "USSymbol": "AGU",
         "ICntry": "US",
         "USM": "NYSE"
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "AGV",
         "Market": "V",
@@ -1106,7 +1106,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "AGX",
         "Market": "V",
@@ -1119,7 +1119,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "AGY",
         "Market": "V",
@@ -1132,7 +1132,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "AHF",
         "Market": "TO",
@@ -1145,7 +1145,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "AHI",
         "Market": "V",
@@ -1158,7 +1158,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "AHP",
         "Market": "V",
@@ -1171,7 +1171,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "AHR",
         "Market": "V",
@@ -1184,7 +1184,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": "OTCQB"
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "AHS",
         "Market": "V",
@@ -1197,7 +1197,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "AHU",
         "Market": "V",
@@ -1210,7 +1210,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "AHY.UN",
         "Market": "TO",
@@ -1223,7 +1223,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "AI",
         "Market": "TO",
@@ -1236,7 +1236,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "AIF",
         "Market": "TO",
@@ -1249,7 +1249,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "AII",
         "Market": "V",
@@ -1262,7 +1262,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "AIM",
         "Market": "TO",
@@ -1275,7 +1275,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "AIX",
         "Market": "V",
@@ -1288,7 +1288,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "AJX",
         "Market": "TO",
@@ -1301,7 +1301,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "AKC.P",
         "Market": "V",
@@ -1314,7 +1314,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "AKG",
         "Market": "TO",
@@ -1327,7 +1327,7 @@ var tickers= [
         "USSymbol": "AKG",
         "ICntry": "US",
         "USM": " NYSE MKT"
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "AKH",
         "Market": "V",
@@ -1340,7 +1340,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "AKM",
         "Market": "V",
@@ -1353,7 +1353,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "AKR",
         "Market": "V",
@@ -1366,7 +1366,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "AKT.A",
         "Market": "TO",
@@ -1379,7 +1379,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "AL",
         "Market": "V",
@@ -1392,7 +1392,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "ALA",
         "Market": "TO",
@@ -1405,7 +1405,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "ALB",
         "Market": "TO",
@@ -1418,7 +1418,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "ALC",
         "Market": "TO",
@@ -1431,7 +1431,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "ALD",
         "Market": "V",
@@ -1444,7 +1444,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "ALE",
         "Market": "V",
@@ -1457,7 +1457,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "ALG",
         "Market": "V",
@@ -1470,7 +1470,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "ALH",
         "Market": "V",
@@ -1483,7 +1483,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "ALI",
         "Market": "V",
@@ -1496,7 +1496,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "ALM",
         "Market": "V",
@@ -1509,7 +1509,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "ALN",
         "Market": "V",
@@ -1522,7 +1522,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "ALP",
         "Market": "V",
@@ -1535,7 +1535,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": "OTCQX"
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "ALQ",
         "Market": "V",
@@ -1548,7 +1548,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "ALS",
         "Market": "TO",
@@ -1561,7 +1561,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "ALT",
         "Market": "V",
@@ -1574,7 +1574,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": "LIMA (BVL)"
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "ALV",
         "Market": "V",
@@ -1587,7 +1587,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "ALW",
         "Market": "V",
@@ -1600,7 +1600,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "ALY",
         "Market": "V",
@@ -1613,7 +1613,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "ALZ",
         "Market": "V",
@@ -1626,7 +1626,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "AME",
         "Market": "V",
@@ -1639,7 +1639,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "AMG",
         "Market": "V",
@@ -1652,7 +1652,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "AMI",
         "Market": "TO",
@@ -1665,7 +1665,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "AMK",
         "Market": "V",
@@ -1678,7 +1678,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "AML",
         "Market": "V",
@@ -1691,7 +1691,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "AMM",
         "Market": "TO",
@@ -1704,7 +1704,7 @@ var tickers= [
         "USSymbol": "AAU",
         "ICntry": "US",
         "USM": "NYSE MKT"
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "AMN.P",
         "Market": "V",
@@ -1717,7 +1717,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "AMO",
         "Market": "V",
@@ -1730,7 +1730,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "AMT",
         "Market": "V",
@@ -1743,7 +1743,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "AMU",
         "Market": "V",
@@ -1756,7 +1756,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "AMX",
         "Market": "V",
@@ -1769,7 +1769,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "AMY",
         "Market": "V",
@@ -1782,7 +1782,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "AMZ",
         "Market": "V",
@@ -1795,7 +1795,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "AN",
         "Market": "V",
@@ -1808,7 +1808,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "ANB",
         "Market": "V",
@@ -1821,7 +1821,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "ANC.P",
         "Market": "V",
@@ -1834,7 +1834,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "ANE",
         "Market": "V",
@@ -1847,7 +1847,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "ANF",
         "Market": "V",
@@ -1860,7 +1860,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "ANG",
         "Market": "V",
@@ -1873,7 +1873,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "ANK",
         "Market": "V",
@@ -1886,7 +1886,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "ANO",
         "Market": "V",
@@ -1899,7 +1899,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "ANX",
         "Market": "TO",
@@ -1912,7 +1912,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "ANZ",
         "Market": "V",
@@ -1925,7 +1925,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "AOG.UN",
         "Market": "TO",
@@ -1938,7 +1938,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "AOI",
         "Market": "TO",
@@ -1951,7 +1951,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": "OMX Nordic Exchange"
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "AOS",
         "Market": "V",
@@ -1964,7 +1964,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "AOT",
         "Market": "V",
@@ -1977,7 +1977,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "AOZ",
         "Market": "V",
@@ -1990,7 +1990,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "AP.UN",
         "Market": "TO",
@@ -2003,7 +2003,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "APA",
         "Market": "V",
@@ -2016,7 +2016,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "APC",
         "Market": "V",
@@ -2029,7 +2029,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "APD.P",
         "Market": "V",
@@ -2042,7 +2042,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "APE",
         "Market": "V",
@@ -2055,7 +2055,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "APH",
         "Market": "V",
@@ -2068,7 +2068,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "APL",
         "Market": "V",
@@ -2081,7 +2081,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "APN",
         "Market": "V",
@@ -2094,7 +2094,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "APO",
         "Market": "V",
@@ -2107,7 +2107,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "APR.UN",
         "Market": "TO",
@@ -2120,7 +2120,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "APS",
         "Market": "TO",
@@ -2133,7 +2133,7 @@ var tickers= [
         "USSymbol": "APTO",
         "ICntry": "US",
         "USM": "NasdaqCM"
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "APT",
         "Market": "V",
@@ -2146,7 +2146,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "APV",
         "Market": "V",
@@ -2159,7 +2159,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "APY",
         "Market": "TO",
@@ -2172,7 +2172,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": "LSE"
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "AQ",
         "Market": "V",
@@ -2185,7 +2185,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "AQA",
         "Market": "TO",
@@ -2198,7 +2198,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": "OTCQX"
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "AQC",
         "Market": "V",
@@ -2211,7 +2211,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "AQM",
         "Market": "V",
@@ -2224,7 +2224,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": "LIMA (BVL)"
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "AQN",
         "Market": "TO",
@@ -2237,7 +2237,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "AQS",
         "Market": "V",
@@ -2250,7 +2250,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "AQX.UN",
         "Market": "TO",
@@ -2263,7 +2263,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "AR",
         "Market": "TO",
@@ -2276,7 +2276,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "ARA",
         "Market": "V",
@@ -2289,7 +2289,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "ARC",
         "Market": "V",
@@ -2302,7 +2302,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "ARD",
         "Market": "V",
@@ -2315,7 +2315,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "ARE",
         "Market": "TO",
@@ -2328,7 +2328,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "ARG",
         "Market": "TO",
@@ -2341,7 +2341,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": "Lima (BVL)"
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "ARH",
         "Market": "V",
@@ -2354,7 +2354,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "ARI",
         "Market": "V",
@@ -2367,7 +2367,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "ARK",
         "Market": "V",
@@ -2380,7 +2380,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "ARL",
         "Market": "TO",
@@ -2393,7 +2393,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "ARR",
         "Market": "V",
@@ -2406,7 +2406,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "ARS",
         "Market": "V",
@@ -2419,7 +2419,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": "AIM"
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "ART",
         "Market": "V",
@@ -2432,7 +2432,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "ARW",
         "Market": "V",
@@ -2445,7 +2445,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": "OTCQX"
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "ARX",
         "Market": "TO",
@@ -2458,7 +2458,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "ARY",
         "Market": "V",
@@ -2471,7 +2471,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "ASC",
         "Market": "V",
@@ -2484,7 +2484,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "ASG",
         "Market": "V",
@@ -2497,7 +2497,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "ASL",
         "Market": "V",
@@ -2510,7 +2510,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "ASM",
         "Market": "V",
@@ -2523,7 +2523,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": "NYSE MKT"
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "ASN",
         "Market": "V",
@@ -2536,7 +2536,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "ASP",
         "Market": "TO",
@@ -2549,7 +2549,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "ASQ",
         "Market": "V",
@@ -2562,7 +2562,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "ASR",
         "Market": "TO",
@@ -2575,7 +2575,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": "ASX"
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "AST",
         "Market": "V",
@@ -2588,7 +2588,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "AT",
         "Market": "V",
@@ -2601,7 +2601,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "ATA",
         "Market": "TO",
@@ -2614,7 +2614,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "ATC",
         "Market": "V",
@@ -2627,7 +2627,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "ATD.B",
         "Market": "TO",
@@ -2640,7 +2640,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "ATE",
         "Market": "V",
@@ -2653,7 +2653,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": "OTCQX"
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "ATG",
         "Market": "V",
@@ -2666,7 +2666,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": "OTCQX"
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "ATH",
         "Market": "TO",
@@ -2679,7 +2679,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "ATI",
         "Market": "V",
@@ -2692,7 +2692,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "ATL",
         "Market": "TO",
@@ -2705,7 +2705,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": "NYSE MKT"
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "ATM",
         "Market": "V",
@@ -2718,7 +2718,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "ATN",
         "Market": "TO",
@@ -2731,7 +2731,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "ATP",
         "Market": "TO",
@@ -2744,7 +2744,7 @@ var tickers= [
         "USSymbol": "AT",
         "ICntry": "US",
         "USM": "NYSE"
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "ATV",
         "Market": "V",
@@ -2757,7 +2757,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "ATW",
         "Market": "V",
@@ -2770,7 +2770,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "ATX",
         "Market": "V",
@@ -2783,7 +2783,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "ATY",
         "Market": "V",
@@ -2796,7 +2796,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "AU",
         "Market": "V",
@@ -2809,7 +2809,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "AUA",
         "Market": "V",
@@ -2822,7 +2822,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "AUE",
         "Market": "TO",
@@ -2835,7 +2835,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": "AIM"
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "AUG",
         "Market": "V",
@@ -2848,7 +2848,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": "OTCQX"
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "AUI.UN",
         "Market": "TO",
@@ -2861,7 +2861,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "AUM",
         "Market": "TO",
@@ -2874,7 +2874,7 @@ var tickers= [
         "USSymbol": "AUMN",
         "ICntry": "US",
         "USM": "NYSE MKT"
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "AUN",
         "Market": "V",
@@ -2887,7 +2887,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": "OTCQX"
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "AUP",
         "Market": "TO",
@@ -2900,7 +2900,7 @@ var tickers= [
         "USSymbol": "AUPH",
         "ICntry": "US",
         "USM": "NasdaqGM"
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "AUR",
         "Market": "V",
@@ -2913,7 +2913,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "AUT",
         "Market": "V",
@@ -2926,7 +2926,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "AUU",
         "Market": "V",
@@ -2939,7 +2939,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "AUV",
         "Market": "V",
@@ -2952,7 +2952,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "AUX",
         "Market": "V",
@@ -2965,7 +2965,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "AUZ.UN",
         "Market": "TO",
@@ -2978,7 +2978,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "AV.UN",
         "Market": "TO",
@@ -2991,7 +2991,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "AVA",
         "Market": "V",
@@ -3004,7 +3004,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "AVC",
         "Market": "V",
@@ -3017,7 +3017,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": "OTCQX"
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "AVD",
         "Market": "V",
@@ -3030,7 +3030,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "AVE",
         "Market": "V",
@@ -3043,7 +3043,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "AVK",
         "Market": "TO",
@@ -3056,7 +3056,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "AVL",
         "Market": "TO",
@@ -3069,7 +3069,7 @@ var tickers= [
         "USSymbol": "AVL",
         "ICntry": "US",
         "USM": "NYSE MKT"
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "AVM",
         "Market": "V",
@@ -3082,7 +3082,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "AVN",
         "Market": "V",
@@ -3095,7 +3095,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "AVO",
         "Market": "TO",
@@ -3108,7 +3108,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "AVP",
         "Market": "TO",
@@ -3121,7 +3121,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "AVT",
         "Market": "V",
@@ -3134,7 +3134,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "AVU",
         "Market": "V",
@@ -3147,7 +3147,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "AVX",
         "Market": "V",
@@ -3160,7 +3160,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "AVZ",
         "Market": "V",
@@ -3173,7 +3173,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "AW.UN",
         "Market": "TO",
@@ -3186,7 +3186,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "AWE",
         "Market": "V",
@@ -3199,7 +3199,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "AWI",
         "Market": "V",
@@ -3212,7 +3212,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "AWS",
         "Market": "V",
@@ -3225,7 +3225,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "AX.UN",
         "Market": "TO",
@@ -3238,7 +3238,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "AXC",
         "Market": "V",
@@ -3251,7 +3251,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "AXE",
         "Market": "V",
@@ -3264,7 +3264,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "AXG",
         "Market": "V",
@@ -3277,7 +3277,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "AXL",
         "Market": "TO",
@@ -3290,7 +3290,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "AXM",
         "Market": "V",
@@ -3303,7 +3303,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "AXQ",
         "Market": "V",
@@ -3316,7 +3316,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "AXR",
         "Market": "TO",
@@ -3329,7 +3329,7 @@ var tickers= [
         "USSymbol": "AXU",
         "ICntry": "US",
         "USM": "NYSE MKT"
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "AXX",
         "Market": "TO",
@@ -3342,7 +3342,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "AXY",
         "Market": "TO",
@@ -3355,7 +3355,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "AYA",
         "Market": "TO",
@@ -3368,7 +3368,7 @@ var tickers= [
         "USSymbol": "AYA",
         "ICntry": "US",
         "USM": "NasdaqGM"
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "AZ",
         "Market": "TO",
@@ -3381,7 +3381,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "AZA",
         "Market": "V",
@@ -3394,7 +3394,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "AZM",
         "Market": "V",
@@ -3407,7 +3407,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "AZN",
         "Market": "V",
@@ -3420,7 +3420,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "AZP.PR.A",
         "Market": "TO",
@@ -3433,7 +3433,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "AZX",
         "Market": "V",
@@ -3446,7 +3446,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "AZZ",
         "Market": "TO",
@@ -3459,7 +3459,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "B",
         "Market": "V",
@@ -3472,7 +3472,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "BAA",
         "Market": "TO",
@@ -3485,7 +3485,7 @@ var tickers= [
         "USSymbol": "BAA",
         "ICntry": "US",
         "USM": "NYSE MKT"
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "BAD",
         "Market": "TO",
@@ -3498,7 +3498,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "BAJ",
         "Market": "V",
@@ -3511,7 +3511,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": "OTCQB"
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "BAM.A",
         "Market": "TO",
@@ -3524,7 +3524,7 @@ var tickers= [
         "USSymbol": "BAM",
         "ICntry": "US",
         "USM": "NYSE"
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "BAN",
         "Market": "TO",
@@ -3537,7 +3537,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": "ASX"
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "BAR",
         "Market": "TO",
@@ -3550,7 +3550,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": "OTCQX"
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "BAT",
         "Market": "V",
@@ -3563,7 +3563,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "BAY",
         "Market": "V",
@@ -3576,7 +3576,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "BB",
         "Market": "TO",
@@ -3589,7 +3589,7 @@ var tickers= [
         "USSymbol": "BBRY",
         "ICntry": "US",
         "USM": "NasdaqGM"
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "BBB",
         "Market": "V",
@@ -3602,7 +3602,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "BBC.P",
         "Market": "V",
@@ -3615,7 +3615,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "BBD.B",
         "Market": "TO",
@@ -3628,7 +3628,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": "OTCQX"
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "BBI",
         "Market": "V",
@@ -3641,7 +3641,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "BBL.A",
         "Market": "TO",
@@ -3654,7 +3654,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "BBO",
         "Market": "TO",
@@ -3667,7 +3667,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "BCB",
         "Market": "TO",
@@ -3680,7 +3680,7 @@ var tickers= [
         "USSymbol": "COT",
         "ICntry": "US",
         "USM": "NYSE"
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "BCC",
         "Market": "V",
@@ -3693,7 +3693,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "BCE",
         "Market": "TO",
@@ -3706,7 +3706,7 @@ var tickers= [
         "USSymbol": "BCE",
         "ICntry": "US",
         "USM": "NYSE"
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "BCF",
         "Market": "V",
@@ -3719,7 +3719,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "BCG",
         "Market": "V",
@@ -3732,7 +3732,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "BCI",
         "Market": "TO",
@@ -3745,7 +3745,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "BCK",
         "Market": "V",
@@ -3758,7 +3758,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "BCM",
         "Market": "V",
@@ -3771,7 +3771,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "BCN",
         "Market": "V",
@@ -3784,7 +3784,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "BCO",
         "Market": "V",
@@ -3797,7 +3797,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "BCP.P",
         "Market": "V",
@@ -3810,7 +3810,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "BCT",
         "Market": "V",
@@ -3823,7 +3823,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "BCU",
         "Market": "V",
@@ -3836,7 +3836,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "BDC",
         "Market": "V",
@@ -3849,7 +3849,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "BDI",
         "Market": "TO",
@@ -3862,7 +3862,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "BDT",
         "Market": "TO",
@@ -3875,7 +3875,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "BEA",
         "Market": "V",
@@ -3888,7 +3888,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "BEE",
         "Market": "V",
@@ -3901,7 +3901,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "BEI.UN",
         "Market": "TO",
@@ -3914,7 +3914,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "BEK.B",
         "Market": "TO",
@@ -3927,7 +3927,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "BEL",
         "Market": "V",
@@ -3940,7 +3940,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "BEN",
         "Market": "V",
@@ -3953,7 +3953,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "BEP.UN",
         "Market": "TO",
@@ -3966,7 +3966,7 @@ var tickers= [
         "USSymbol": "BEP",
         "ICntry": "US",
         "USM": "NYSE"
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "BER",
         "Market": "V",
@@ -3979,7 +3979,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "BET",
         "Market": "V",
@@ -3992,7 +3992,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "BEX",
         "Market": "V",
@@ -4005,7 +4005,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "BEY",
         "Market": "V",
@@ -4018,7 +4018,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "BFD",
         "Market": "V",
@@ -4031,7 +4031,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "BFK.P",
         "Market": "V",
@@ -4044,7 +4044,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "BFM",
         "Market": "V",
@@ -4057,7 +4057,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "BFS",
         "Market": "V",
@@ -4070,7 +4070,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "BFT",
         "Market": "V",
@@ -4083,7 +4083,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "BG",
         "Market": "V",
@@ -4096,7 +4096,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "BGD",
         "Market": "V",
@@ -4109,7 +4109,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "BGE",
         "Market": "V",
@@ -4122,7 +4122,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "BGG",
         "Market": "V",
@@ -4135,7 +4135,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "BGI.UN",
         "Market": "TO",
@@ -4148,7 +4148,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "BGL",
         "Market": "V",
@@ -4161,7 +4161,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "BGM",
         "Market": "V",
@@ -4174,7 +4174,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "BGS",
         "Market": "V",
@@ -4187,7 +4187,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "BHK",
         "Market": "V",
@@ -4200,7 +4200,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "BHR",
         "Market": "V",
@@ -4213,7 +4213,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "BHS",
         "Market": "V",
@@ -4226,7 +4226,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "BHT",
         "Market": "V",
@@ -4239,7 +4239,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": "OTCQX"
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "BHV",
         "Market": "V",
@@ -4252,7 +4252,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "BHY.UN",
         "Market": "TO",
@@ -4265,7 +4265,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "BI.UN",
         "Market": "TO",
@@ -4278,7 +4278,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "BIG.D",
         "Market": "TO",
@@ -4291,7 +4291,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "BIN",
         "Market": "TO",
@@ -4304,7 +4304,7 @@ var tickers= [
         "USSymbol": "BIN",
         "ICntry": "US",
         "USM": "NYSE"
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "BIO",
         "Market": "V",
@@ -4317,7 +4317,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "BIP.UN",
         "Market": "TO",
@@ -4330,7 +4330,7 @@ var tickers= [
         "USSymbol": "BIP",
         "ICntry": "US",
         "USM": "NYSE"
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "BIR",
         "Market": "TO",
@@ -4343,7 +4343,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "BIT",
         "Market": "V",
@@ -4356,7 +4356,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "BK",
         "Market": "TO",
@@ -4369,7 +4369,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "BKD",
         "Market": "V",
@@ -4382,7 +4382,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "BKI",
         "Market": "TO",
@@ -4395,7 +4395,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "BKL",
         "Market": "TO",
@@ -4408,7 +4408,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "BKM",
         "Market": "V",
@@ -4421,7 +4421,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": "NYSE MKT"
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "BKR",
         "Market": "V",
@@ -4434,7 +4434,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "BKX",
         "Market": "TO",
@@ -4447,7 +4447,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "BLB.UN",
         "Market": "TO",
@@ -4460,7 +4460,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "BLD",
         "Market": "TO",
@@ -4473,7 +4473,7 @@ var tickers= [
         "USSymbol": "BLDP",
         "ICntry": "US",
         "USM": "NasdaqGM"
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "BLM",
         "Market": "V",
@@ -4486,7 +4486,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "BLN",
         "Market": "V",
@@ -4499,7 +4499,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "BLR",
         "Market": "V",
@@ -4512,7 +4512,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "BLU",
         "Market": "TO",
@@ -4525,7 +4525,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "BLV",
         "Market": "V",
@@ -4538,7 +4538,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "BLX",
         "Market": "TO",
@@ -4551,7 +4551,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "BM",
         "Market": "V",
@@ -4564,7 +4564,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "BME",
         "Market": "V",
@@ -4577,7 +4577,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "BMG",
         "Market": "V",
@@ -4590,7 +4590,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "BMK",
         "Market": "V",
@@ -4603,7 +4603,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "BML",
         "Market": "V",
@@ -4616,7 +4616,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "BMO",
         "Market": "TO",
@@ -4629,7 +4629,7 @@ var tickers= [
         "USSymbol": "BMO",
         "ICntry": "US",
         "USM": "NYSE"
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "BMW",
         "Market": "V",
@@ -4642,7 +4642,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "BNE",
         "Market": "TO",
@@ -4655,7 +4655,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "BNG",
         "Market": "TO",
@@ -4668,7 +4668,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "BNK",
         "Market": "TO",
@@ -4681,7 +4681,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": "AIM"
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "BNP",
         "Market": "TO",
@@ -4694,7 +4694,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "BNR",
         "Market": "V",
@@ -4707,7 +4707,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "BNS",
         "Market": "TO",
@@ -4720,7 +4720,7 @@ var tickers= [
         "USSymbol": "BNS",
         "ICntry": "US",
         "USM": "NYSE"
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "BOB",
         "Market": "V",
@@ -4733,7 +4733,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": "OTCQX"
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "BOC",
         "Market": "V",
@@ -4746,7 +4746,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "BOE",
         "Market": "V",
@@ -4759,7 +4759,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "BOL",
         "Market": "V",
@@ -4772,7 +4772,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "BOR",
         "Market": "V",
@@ -4785,7 +4785,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "BOS",
         "Market": "TO",
@@ -4798,7 +4798,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "BOW",
         "Market": "V",
@@ -4811,7 +4811,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "BOX.UN",
         "Market": "TO",
@@ -4824,7 +4824,7 @@ var tickers= [
         "USSymbol": "BOXC",
         "ICntry": "US",
         "USM": "NYSE"
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "BOY",
         "Market": "TO",
@@ -4837,7 +4837,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "BOZ",
         "Market": "V",
@@ -4850,7 +4850,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "BPE",
         "Market": "V",
@@ -4863,7 +4863,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "BPF.UN",
         "Market": "TO",
@@ -4876,7 +4876,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "BPL",
         "Market": "V",
@@ -4889,7 +4889,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "BPO.PR.A",
         "Market": "TO",
@@ -4902,7 +4902,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": "NYSE"
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "BPS.PR.U",
         "Market": "TO",
@@ -4915,7 +4915,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "BPY.UN",
         "Market": "TO",
@@ -4928,7 +4928,7 @@ var tickers= [
         "USSymbol": "BPY",
         "ICntry": "US",
         "USM": "NYSE"
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "BQE",
         "Market": "TO",
@@ -4941,7 +4941,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "BR",
         "Market": "TO",
@@ -4954,7 +4954,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "BRB",
         "Market": "TO",
@@ -4967,7 +4967,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "BRE",
         "Market": "TO",
@@ -4980,7 +4980,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "BRF.PR.C",
         "Market": "TO",
@@ -4993,7 +4993,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "BRI",
         "Market": "V",
@@ -5006,7 +5006,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": "OTCQX"
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "BRL",
         "Market": "V",
@@ -5019,7 +5019,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "BRM",
         "Market": "V",
@@ -5032,7 +5032,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "BRN.PR.A",
         "Market": "V",
@@ -5045,7 +5045,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "BRS",
         "Market": "V",
@@ -5058,7 +5058,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "BRU",
         "Market": "V",
@@ -5071,7 +5071,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "BRX",
         "Market": "V",
@@ -5084,7 +5084,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "BRY",
         "Market": "TO",
@@ -5097,7 +5097,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "BRZ",
         "Market": "V",
@@ -5110,7 +5110,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "BSC",
         "Market": "TO",
@@ -5123,7 +5123,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "BSD.UN",
         "Market": "TO",
@@ -5136,7 +5136,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "BSE.UN",
         "Market": "TO",
@@ -5149,7 +5149,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "BSH",
         "Market": "V",
@@ -5162,7 +5162,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "BSK",
         "Market": "V",
@@ -5175,7 +5175,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "BSO.UN",
         "Market": "TO",
@@ -5188,7 +5188,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "BSP",
         "Market": "V",
@@ -5201,7 +5201,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "BSR",
         "Market": "V",
@@ -5214,7 +5214,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "BSX",
         "Market": "TO",
@@ -5227,7 +5227,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "BTB.UN",
         "Market": "TO",
@@ -5240,7 +5240,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "BTC",
         "Market": "V",
@@ -5253,7 +5253,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "BTE",
         "Market": "TO",
@@ -5266,7 +5266,7 @@ var tickers= [
         "USSymbol": "BTE",
         "ICntry": "US",
         "USM": "NYSE"
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "BTI",
         "Market": "V",
@@ -5279,7 +5279,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": "OTCQX"
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "BTO",
         "Market": "TO",
@@ -5292,7 +5292,7 @@ var tickers= [
         "USSymbol": "BTG",
         "ICntry": "US",
         "USM": "OTCQX"
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "BTR",
         "Market": "V",
@@ -5305,7 +5305,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "BTT",
         "Market": "V",
@@ -5318,7 +5318,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "BTV",
         "Market": "V",
@@ -5331,7 +5331,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "BU",
         "Market": "TO",
@@ -5344,7 +5344,7 @@ var tickers= [
         "USSymbol": "BUR",
         "ICntry": "US",
         "USM": "NasdaqGM"
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "BUA.UN",
         "Market": "TO",
@@ -5357,7 +5357,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "BUD",
         "Market": "V",
@@ -5370,7 +5370,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "BUF",
         "Market": "TO",
@@ -5383,7 +5383,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": "JSE"
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "BUI",
         "Market": "TO",
@@ -5396,7 +5396,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "BUL",
         "Market": "V",
@@ -5409,7 +5409,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "BUS",
         "Market": "V",
@@ -5422,7 +5422,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "BVA",
         "Market": "V",
@@ -5435,7 +5435,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "BVD.UN",
         "Market": "V",
@@ -5448,7 +5448,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "BVE",
         "Market": "V",
@@ -5461,7 +5461,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "BVO",
         "Market": "V",
@@ -5474,7 +5474,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "BW",
         "Market": "V",
@@ -5487,7 +5487,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "BWR",
         "Market": "V",
@@ -5500,7 +5500,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "BX",
         "Market": "TO",
@@ -5513,7 +5513,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "BXE",
         "Market": "TO",
@@ -5526,7 +5526,7 @@ var tickers= [
         "USSymbol": "BXE",
         "ICntry": "US",
         "USM": "NYSE MKT"
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "BXF",
         "Market": "TO",
@@ -5539,7 +5539,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "BXO",
         "Market": "TO",
@@ -5552,7 +5552,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": "OTCQX"
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "BXR",
         "Market": "V",
@@ -5565,7 +5565,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "BXS.DB.C",
         "Market": "TO",
@@ -5578,7 +5578,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "BYD.UN",
         "Market": "TO",
@@ -5591,7 +5591,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "BYL",
         "Market": "TO",
@@ -5604,7 +5604,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "BYN",
         "Market": "V",
@@ -5617,7 +5617,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "BYU",
         "Market": "V",
@@ -5630,7 +5630,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "BZ",
         "Market": "V",
@@ -5643,7 +5643,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "C",
         "Market": "V",
@@ -5656,7 +5656,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "CA",
         "Market": "V",
@@ -5669,7 +5669,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "CAC",
         "Market": "V",
@@ -5682,7 +5682,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "CAD",
         "Market": "V",
@@ -5695,7 +5695,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "CAE",
         "Market": "TO",
@@ -5708,7 +5708,7 @@ var tickers= [
         "USSymbol": "CAE",
         "ICntry": "US",
         "USM": "NYSE"
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "CAF",
         "Market": "V",
@@ -5721,7 +5721,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "CAG.UN",
         "Market": "TO",
@@ -5734,7 +5734,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "CAH.UN",
         "Market": "TO",
@@ -5747,7 +5747,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "CAL",
         "Market": "TO",
@@ -5760,7 +5760,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "CAM",
         "Market": "TO",
@@ -5773,7 +5773,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "CAO",
         "Market": "TO",
@@ -5786,7 +5786,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "CAP",
         "Market": "V",
@@ -5799,7 +5799,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "CAR.UN",
         "Market": "TO",
@@ -5812,7 +5812,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "CAS",
         "Market": "TO",
@@ -5825,7 +5825,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "CAT",
         "Market": "V",
@@ -5838,7 +5838,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "CAY",
         "Market": "V",
@@ -5851,7 +5851,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "CAZ",
         "Market": "TO",
@@ -5864,7 +5864,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": "AIM"
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "CBA",
         "Market": "V",
@@ -5877,7 +5877,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "CBB",
         "Market": "TO",
@@ -5890,7 +5890,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "CBD",
         "Market": "TO",
@@ -5903,7 +5903,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "CBE",
         "Market": "V",
@@ -5916,7 +5916,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "CBF",
         "Market": "TO",
@@ -5929,7 +5929,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "CBG",
         "Market": "V",
@@ -5942,7 +5942,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "CBH",
         "Market": "TO",
@@ -5955,7 +5955,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "CBI",
         "Market": "V",
@@ -5968,7 +5968,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "CBJ",
         "Market": "V",
@@ -5981,7 +5981,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "CBL",
         "Market": "TO",
@@ -5994,7 +5994,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "CBN",
         "Market": "TO",
@@ -6007,7 +6007,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "CBO",
         "Market": "TO",
@@ -6020,7 +6020,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "CBQ",
         "Market": "TO",
@@ -6033,7 +6033,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "CBS",
         "Market": "V",
@@ -6046,7 +6046,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "CBU",
         "Market": "TO",
@@ -6059,7 +6059,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "CBV",
         "Market": "V",
@@ -6072,7 +6072,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "CBX",
         "Market": "V",
@@ -6085,7 +6085,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": "OTCQX"
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "CCA",
         "Market": "TO",
@@ -6098,7 +6098,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "CCB",
         "Market": "V",
@@ -6111,7 +6111,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "CCC",
         "Market": "V",
@@ -6124,7 +6124,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "CCD",
         "Market": "V",
@@ -6137,7 +6137,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "CCE",
         "Market": "V",
@@ -6150,7 +6150,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": "OTCQX"
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "CCI.UN",
         "Market": "TO",
@@ -6163,7 +6163,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "CCK",
         "Market": "V",
@@ -6176,7 +6176,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "CCL.B",
         "Market": "TO",
@@ -6189,7 +6189,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "CCM",
         "Market": "TO",
@@ -6202,7 +6202,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "CCO",
         "Market": "TO",
@@ -6215,7 +6215,7 @@ var tickers= [
         "USSymbol": "CCJ",
         "ICntry": "US",
         "USM": "NYSE"
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "CCS.PR.C",
         "Market": "TO",
@@ -6228,7 +6228,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "CCU",
         "Market": "V",
@@ -6241,7 +6241,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "CCV",
         "Market": "TO",
@@ -6254,7 +6254,7 @@ var tickers= [
         "USSymbol": "CPAH",
         "ICntry": "US",
         "USM": "NasdaqCM"
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "CCX",
         "Market": "TO",
@@ -6267,7 +6267,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "CCY",
         "Market": "V",
@@ -6280,7 +6280,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": "OTCQX"
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "CCZ",
         "Market": "TO",
@@ -6293,7 +6293,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "CD",
         "Market": "V",
@@ -6306,7 +6306,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "CDA",
         "Market": "V",
@@ -6319,7 +6319,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "CDB",
         "Market": "V",
@@ -6332,7 +6332,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "CDC",
         "Market": "V",
@@ -6345,7 +6345,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "CDD.UN",
         "Market": "TO",
@@ -6358,7 +6358,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "CDE",
         "Market": "V",
@@ -6371,7 +6371,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "CDG",
         "Market": "V",
@@ -6384,7 +6384,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "CDH",
         "Market": "TO",
@@ -6397,7 +6397,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "CDN",
         "Market": "V",
@@ -6410,7 +6410,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "CDU",
         "Market": "TO",
@@ -6423,7 +6423,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": "NYSE MKT"
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "CDV",
         "Market": "TO",
@@ -6436,7 +6436,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "CDX",
         "Market": "V",
@@ -6449,7 +6449,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "CDZ",
         "Market": "TO",
@@ -6462,7 +6462,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "CE",
         "Market": "V",
@@ -6475,7 +6475,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "CEA",
         "Market": "V",
@@ -6488,7 +6488,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "CEB",
         "Market": "V",
@@ -6501,7 +6501,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "CEC",
         "Market": "V",
@@ -6514,7 +6514,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "CED",
         "Market": "TO",
@@ -6527,7 +6527,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "CEE",
         "Market": "TO",
@@ -6540,7 +6540,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": "LSE"
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "CEF.A",
         "Market": "TO",
@@ -6553,7 +6553,7 @@ var tickers= [
         "USSymbol": "CEF",
         "ICntry": "US",
         "USM": "NYSE MKT"
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "CEM",
         "Market": "V",
@@ -6566,7 +6566,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "CEP.P",
         "Market": "V",
@@ -6579,7 +6579,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "CES",
         "Market": "TO",
@@ -6592,7 +6592,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "CET",
         "Market": "TO",
@@ -6605,7 +6605,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "CEU",
         "Market": "TO",
@@ -6618,7 +6618,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": "OTCQX"
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "CEV",
         "Market": "V",
@@ -6631,7 +6631,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": "OTCQX"
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "CEW",
         "Market": "TO",
@@ -6644,7 +6644,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "CF",
         "Market": "TO",
@@ -6657,7 +6657,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": "LSE"
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "CFB",
         "Market": "V",
@@ -6670,7 +6670,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "CFF",
         "Market": "TO",
@@ -6683,7 +6683,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "CFL",
         "Market": "V",
@@ -6696,7 +6696,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "CFM",
         "Market": "V",
@@ -6709,7 +6709,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": "OTCQX"
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "CFO",
         "Market": "V",
@@ -6722,7 +6722,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "CFP",
         "Market": "TO",
@@ -6735,7 +6735,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "CFW",
         "Market": "TO",
@@ -6748,7 +6748,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "CFX",
         "Market": "TO",
@@ -6761,7 +6761,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "CFY",
         "Market": "V",
@@ -6774,7 +6774,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "CG",
         "Market": "TO",
@@ -6787,7 +6787,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "CGC",
         "Market": "V",
@@ -6800,7 +6800,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "CGD",
         "Market": "V",
@@ -6813,7 +6813,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "CGE",
         "Market": "V",
@@ -6826,7 +6826,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "CGG",
         "Market": "TO",
@@ -6839,7 +6839,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": "HKEx"
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "CGI",
         "Market": "TO",
@@ -6852,7 +6852,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": "LSE"
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "CGJ",
         "Market": "TO",
@@ -6865,7 +6865,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": "OTCQX"
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "CGL",
         "Market": "TO",
@@ -6878,7 +6878,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "CGM",
         "Market": "V",
@@ -6891,7 +6891,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": "OTCQX"
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "CGO",
         "Market": "TO",
@@ -6904,7 +6904,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "CGP",
         "Market": "V",
@@ -6917,7 +6917,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "CGR",
         "Market": "TO",
@@ -6930,7 +6930,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "CGT",
         "Market": "V",
@@ -6943,7 +6943,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": "OTCQX"
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "CGW",
         "Market": "V",
@@ -6956,7 +6956,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "CGX",
         "Market": "TO",
@@ -6969,7 +6969,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "CH",
         "Market": "V",
@@ -6982,7 +6982,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "CHB",
         "Market": "TO",
@@ -6995,7 +6995,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "CHC",
         "Market": "V",
@@ -7008,7 +7008,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "CHE.UN",
         "Market": "TO",
@@ -7021,7 +7021,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "CHH",
         "Market": "TO",
@@ -7034,7 +7034,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "CHK.P",
         "Market": "V",
@@ -7047,7 +7047,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "CHN",
         "Market": "V",
@@ -7060,7 +7060,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": "OTCQX"
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "CHP.UN",
         "Market": "TO",
@@ -7073,7 +7073,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "CHQ",
         "Market": "V",
@@ -7086,7 +7086,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "CHR.B",
         "Market": "TO",
@@ -7099,7 +7099,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "CHW",
         "Market": "TO",
@@ -7112,7 +7112,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "CIA",
         "Market": "TO",
@@ -7125,7 +7125,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": "ASX"
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "CIC",
         "Market": "TO",
@@ -7138,7 +7138,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "CID",
         "Market": "V",
@@ -7151,7 +7151,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "CIE",
         "Market": "TO",
@@ -7164,7 +7164,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "CIF",
         "Market": "TO",
@@ -7177,7 +7177,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "CIG",
         "Market": "TO",
@@ -7190,7 +7190,7 @@ var tickers= [
         "USSymbol": "CIGI",
         "ICntry": "US",
         "USM": "NasdaqGM"
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "CII.P",
         "Market": "V",
@@ -7203,7 +7203,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "CIN",
         "Market": "V",
@@ -7216,7 +7216,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "CIO",
         "Market": "V",
@@ -7229,7 +7229,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "CIQ.UN",
         "Market": "TO",
@@ -7242,7 +7242,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "CIU.PR.A",
         "Market": "TO",
@@ -7255,7 +7255,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "CIX",
         "Market": "TO",
@@ -7268,7 +7268,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "CJ",
         "Market": "TO",
@@ -7281,7 +7281,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "CJC",
         "Market": "V",
@@ -7294,7 +7294,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "CJP",
         "Market": "TO",
@@ -7307,7 +7307,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "CJR.B",
         "Market": "TO",
@@ -7320,7 +7320,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "CJT",
         "Market": "TO",
@@ -7333,7 +7333,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "CKB",
         "Market": "V",
@@ -7346,7 +7346,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "CKE",
         "Market": "TO",
@@ -7359,7 +7359,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "CKG",
         "Market": "V",
@@ -7372,7 +7372,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": "OTCQX"
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "CKI",
         "Market": "TO",
@@ -7385,7 +7385,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "CKK",
         "Market": "V",
@@ -7398,7 +7398,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "CKR",
         "Market": "V",
@@ -7411,7 +7411,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "CKT",
         "Market": "V",
@@ -7424,7 +7424,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "CL",
         "Market": "V",
@@ -7437,7 +7437,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "CLB",
         "Market": "V",
@@ -7450,7 +7450,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "CLC",
         "Market": "TO",
@@ -7463,7 +7463,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "CLF",
         "Market": "TO",
@@ -7476,7 +7476,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "CLG",
         "Market": "TO",
@@ -7489,7 +7489,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "CLH",
         "Market": "V",
@@ -7502,7 +7502,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "CLI",
         "Market": "V",
@@ -7515,7 +7515,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "CLN.P",
         "Market": "V",
@@ -7528,7 +7528,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "CLR",
         "Market": "TO",
@@ -7541,7 +7541,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "CLS",
         "Market": "TO",
@@ -7554,7 +7554,7 @@ var tickers= [
         "USSymbol": "CLS",
         "ICntry": "US",
         "USM": "NYSE"
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "CLU",
         "Market": "TO",
@@ -7567,7 +7567,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "CLV",
         "Market": "V",
@@ -7580,7 +7580,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "CLX",
         "Market": "V",
@@ -7593,7 +7593,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "CLZ",
         "Market": "V",
@@ -7606,7 +7606,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "CM",
         "Market": "TO",
@@ -7619,7 +7619,7 @@ var tickers= [
         "USSymbol": "CM",
         "ICntry": "US",
         "USM": "NYSE"
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "CMB",
         "Market": "V",
@@ -7632,7 +7632,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "CMD",
         "Market": "V",
@@ -7645,7 +7645,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "CMG",
         "Market": "TO",
@@ -7658,7 +7658,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "CMH",
         "Market": "TO",
@@ -7671,7 +7671,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "CMI",
         "Market": "V",
@@ -7684,7 +7684,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "CMJ",
         "Market": "V",
@@ -7697,7 +7697,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "CML",
         "Market": "TO",
@@ -7710,7 +7710,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "CMO",
         "Market": "V",
@@ -7723,7 +7723,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "CMR",
         "Market": "TO",
@@ -7736,7 +7736,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "CMU",
         "Market": "V",
@@ -7749,7 +7749,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "CMV",
         "Market": "V",
@@ -7762,7 +7762,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "CMX",
         "Market": "V",
@@ -7775,7 +7775,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": "OTCQX"
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "CMZ.UN",
         "Market": "TO",
@@ -7788,7 +7788,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "CN",
         "Market": "V",
@@ -7801,7 +7801,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "CNA",
         "Market": "V",
@@ -7814,7 +7814,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "CNC",
         "Market": "V",
@@ -7827,7 +7827,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "CNE",
         "Market": "TO",
@@ -7840,7 +7840,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": "BVC"
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "CNG",
         "Market": "V",
@@ -7853,7 +7853,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "CNH",
         "Market": "V",
@@ -7866,7 +7866,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "CNL",
         "Market": "TO",
@@ -7879,7 +7879,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": "OTCQX"
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "CNO",
         "Market": "V",
@@ -7892,7 +7892,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "CNP",
         "Market": "V",
@@ -7905,7 +7905,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "CNQ",
         "Market": "TO",
@@ -7918,7 +7918,7 @@ var tickers= [
         "USSymbol": "CNQ",
         "ICntry": "US",
         "USM": "NYSE"
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "CNR",
         "Market": "TO",
@@ -7931,7 +7931,7 @@ var tickers= [
         "USSymbol": "CNI",
         "ICntry": "US",
         "USM": "NYSE"
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "CNS",
         "Market": "V",
@@ -7944,7 +7944,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "CNU",
         "Market": "TO",
@@ -7957,7 +7957,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": "NYSE"
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "CNX",
         "Market": "V",
@@ -7970,7 +7970,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": "OTCQX"
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "CNY",
         "Market": "V",
@@ -7983,7 +7983,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "CO",
         "Market": "V",
@@ -7996,7 +7996,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "COB.U",
         "Market": "V",
@@ -8009,7 +8009,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": "OTCQX"
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "COL",
         "Market": "V",
@@ -8022,7 +8022,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "COM",
         "Market": "TO",
@@ -8035,7 +8035,7 @@ var tickers= [
         "USSymbol": "CRME",
         "ICntry": "US",
         "USM": "NasdaqCM"
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "COO",
         "Market": "V",
@@ -8048,7 +8048,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "COP",
         "Market": "TO",
@@ -8061,7 +8061,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "COQ",
         "Market": "V",
@@ -8074,7 +8074,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "COR",
         "Market": "V",
@@ -8087,7 +8087,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "COS",
         "Market": "TO",
@@ -8100,7 +8100,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": "OTCQX"
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "COT",
         "Market": "V",
@@ -8113,7 +8113,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "COU",
         "Market": "V",
@@ -8126,7 +8126,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "COV",
         "Market": "V",
@@ -8139,7 +8139,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "COW",
         "Market": "TO",
@@ -8152,7 +8152,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "COX.UN",
         "Market": "TO",
@@ -8165,7 +8165,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "CP",
         "Market": "TO",
@@ -8178,7 +8178,7 @@ var tickers= [
         "USSymbol": "CP",
         "ICntry": "US",
         "USM": "NYSE"
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "CPA",
         "Market": "V",
@@ -8191,7 +8191,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "CPC",
         "Market": "V",
@@ -8204,7 +8204,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "CPD",
         "Market": "TO",
@@ -8217,7 +8217,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "CPF.UN",
         "Market": "TO",
@@ -8230,7 +8230,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "CPG",
         "Market": "TO",
@@ -8243,7 +8243,7 @@ var tickers= [
         "USSymbol": "CPG",
         "ICntry": "US",
         "USM": "NYSE"
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "CPH",
         "Market": "TO",
@@ -8256,7 +8256,7 @@ var tickers= [
         "USSymbol": "CPHR",
         "ICntry": "US",
         "USM": "NasdaqGM"
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "CPI",
         "Market": "TO",
@@ -8269,7 +8269,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "CPL",
         "Market": "V",
@@ -8282,7 +8282,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "CPM",
         "Market": "V",
@@ -8295,7 +8295,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": "OTCQX"
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "CPP",
         "Market": "V",
@@ -8308,7 +8308,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "CPS",
         "Market": "V",
@@ -8321,7 +8321,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "CPV",
         "Market": "V",
@@ -8334,7 +8334,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "CPW.DB",
         "Market": "TO",
@@ -8347,7 +8347,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "CPX",
         "Market": "TO",
@@ -8360,7 +8360,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "CQC",
         "Market": "V",
@@ -8373,7 +8373,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "CQE",
         "Market": "TO",
@@ -8386,7 +8386,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "CQM",
         "Market": "V",
@@ -8399,7 +8399,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "CQR",
         "Market": "V",
@@ -8412,7 +8412,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "CR",
         "Market": "TO",
@@ -8425,7 +8425,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "CRB",
         "Market": "V",
@@ -8438,7 +8438,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "CRD",
         "Market": "V",
@@ -8451,7 +8451,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": "OTCQX"
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "CRE",
         "Market": "V",
@@ -8464,7 +8464,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": "OTCQX"
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "CRF",
         "Market": "V",
@@ -8477,7 +8477,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": "OTCQX"
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "CRH",
         "Market": "TO",
@@ -8490,7 +8490,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": "OTCQX"
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "CRJ",
         "Market": "TO",
@@ -8503,7 +8503,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": "NYSE MKT"
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "CRN",
         "Market": "TO",
@@ -8516,7 +8516,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "CRO",
         "Market": "V",
@@ -8529,7 +8529,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "CRP",
         "Market": "TO",
@@ -8542,7 +8542,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "CRQ",
         "Market": "TO",
@@ -8555,7 +8555,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "CRR.UN",
         "Market": "TO",
@@ -8568,7 +8568,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "CRS",
         "Market": "V",
@@ -8581,7 +8581,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "CRT.UN",
         "Market": "TO",
@@ -8594,7 +8594,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "CRV",
         "Market": "V",
@@ -8607,7 +8607,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "CRX",
         "Market": "V",
@@ -8620,7 +8620,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "CS",
         "Market": "TO",
@@ -8633,7 +8633,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "CSB.UN",
         "Market": "TO",
@@ -8646,7 +8646,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "CSC",
         "Market": "V",
@@ -8659,7 +8659,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "CSD",
         "Market": "TO",
@@ -8672,7 +8672,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "CSE",
         "Market": "TO",
@@ -8685,7 +8685,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "CSH.UN",
         "Market": "TO",
@@ -8698,7 +8698,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "CSL",
         "Market": "V",
@@ -8711,7 +8711,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "CSN",
         "Market": "V",
@@ -8724,7 +8724,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "CSO",
         "Market": "V",
@@ -8737,7 +8737,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "CSQ",
         "Market": "V",
@@ -8750,7 +8750,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": "OTCQX"
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "CST",
         "Market": "V",
@@ -8763,7 +8763,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "CSU",
         "Market": "TO",
@@ -8776,7 +8776,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "CSV",
         "Market": "V",
@@ -8789,7 +8789,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "CSW.A",
         "Market": "TO",
@@ -8802,7 +8802,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "CSX",
         "Market": "V",
@@ -8815,7 +8815,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "CSY",
         "Market": "TO",
@@ -8828,7 +8828,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "CT",
         "Market": "V",
@@ -8841,7 +8841,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "CTC.A",
         "Market": "TO",
@@ -8854,7 +8854,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "CTF.UN",
         "Market": "TO",
@@ -8867,7 +8867,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "CTH",
         "Market": "TO",
@@ -8880,7 +8880,7 @@ var tickers= [
         "USSymbol": "CYNA",
         "ICntry": "US",
         "USM": "OTCQX"
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "CTI",
         "Market": "V",
@@ -8893,7 +8893,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "CTM",
         "Market": "V",
@@ -8906,7 +8906,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "CTN",
         "Market": "V",
@@ -8919,7 +8919,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "CTO",
         "Market": "V",
@@ -8932,7 +8932,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "CTU.A",
         "Market": "TO",
@@ -8945,7 +8945,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "CTY",
         "Market": "TO",
@@ -8958,7 +8958,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "CTZ",
         "Market": "V",
@@ -8971,7 +8971,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "CU",
         "Market": "TO",
@@ -8984,7 +8984,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "CUC",
         "Market": "V",
@@ -8997,7 +8997,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "CUD",
         "Market": "TO",
@@ -9010,7 +9010,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "CUF.UN",
         "Market": "TO",
@@ -9023,7 +9023,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "CUG",
         "Market": "V",
@@ -9036,7 +9036,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "CUI",
         "Market": "V",
@@ -9049,7 +9049,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "CUM",
         "Market": "TO",
@@ -9062,7 +9062,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "CUO",
         "Market": "V",
@@ -9075,7 +9075,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "CUP.U",
         "Market": "TO",
@@ -9088,7 +9088,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "CUR",
         "Market": "TO",
@@ -9101,7 +9101,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": "OTCQX"
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "CUS",
         "Market": "TO",
@@ -9114,7 +9114,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "CUU",
         "Market": "V",
@@ -9127,7 +9127,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "CVA",
         "Market": "V",
@@ -9140,7 +9140,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "CVC.P",
         "Market": "V",
@@ -9153,7 +9153,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "CVD",
         "Market": "TO",
@@ -9166,7 +9166,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "CVE",
         "Market": "TO",
@@ -9179,7 +9179,7 @@ var tickers= [
         "USSymbol": "CVE",
         "ICntry": "US",
         "USM": "NYSE"
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "CVG",
         "Market": "TO",
@@ -9192,7 +9192,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "CVL",
         "Market": "TO",
@@ -9205,7 +9205,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "CVN",
         "Market": "V",
@@ -9218,7 +9218,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "CVR",
         "Market": "V",
@@ -9231,7 +9231,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "CVV",
         "Market": "V",
@@ -9244,7 +9244,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": "OTCQB"
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "CVX",
         "Market": "V",
@@ -9257,7 +9257,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "CWB",
         "Market": "TO",
@@ -9270,7 +9270,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "CWC",
         "Market": "V",
@@ -9283,7 +9283,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "CWF",
         "Market": "TO",
@@ -9296,7 +9296,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "CWG",
         "Market": "V",
@@ -9309,7 +9309,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "CWI",
         "Market": "TO",
@@ -9322,7 +9322,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "CWL",
         "Market": "TO",
@@ -9335,7 +9335,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "CWM",
         "Market": "V",
@@ -9348,7 +9348,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "CWN",
         "Market": "V",
@@ -9361,7 +9361,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "CWO",
         "Market": "TO",
@@ -9374,7 +9374,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "CWV",
         "Market": "V",
@@ -9387,7 +9387,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "CWW",
         "Market": "TO",
@@ -9400,7 +9400,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "CWX",
         "Market": "TO",
@@ -9413,7 +9413,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "CX",
         "Market": "V",
@@ -9426,7 +9426,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "CXA.B",
         "Market": "TO",
@@ -9439,7 +9439,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "CXB",
         "Market": "V",
@@ -9452,7 +9452,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "CXD",
         "Market": "V",
@@ -9465,7 +9465,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "CXF",
         "Market": "TO",
@@ -9478,7 +9478,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "CXG.A",
         "Market": "V",
@@ -9491,7 +9491,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "CXI",
         "Market": "TO",
@@ -9504,7 +9504,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "CXM",
         "Market": "V",
@@ -9517,7 +9517,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "CXN",
         "Market": "TO",
@@ -9530,7 +9530,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": "ASX"
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "CXO",
         "Market": "V",
@@ -9543,7 +9543,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "CXR",
         "Market": "TO",
@@ -9556,7 +9556,7 @@ var tickers= [
         "USSymbol": "CXRX",
         "ICntry": "US",
         "USM": "OTCQX"
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "CXV",
         "Market": "V",
@@ -9569,7 +9569,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "CY",
         "Market": "V",
@@ -9582,7 +9582,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "CYB",
         "Market": "TO",
@@ -9595,7 +9595,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "CYF",
         "Market": "V",
@@ -9608,7 +9608,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "CYH",
         "Market": "TO",
@@ -9621,7 +9621,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "CYM",
         "Market": "V",
@@ -9634,7 +9634,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "CYP",
         "Market": "V",
@@ -9647,7 +9647,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "CYT",
         "Market": "TO",
@@ -9660,7 +9660,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "CYX",
         "Market": "V",
@@ -9673,7 +9673,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "CZ",
         "Market": "V",
@@ -9686,7 +9686,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "CZH",
         "Market": "V",
@@ -9699,7 +9699,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "CZN",
         "Market": "TO",
@@ -9712,7 +9712,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "CZO",
         "Market": "V",
@@ -9725,7 +9725,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "CZQ",
         "Market": "TO",
@@ -9738,7 +9738,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "CZX",
         "Market": "V",
@@ -9751,7 +9751,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "CZY",
         "Market": "V",
@@ -9764,7 +9764,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": "OTCQX"
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "D.UN",
         "Market": "TO",
@@ -9777,7 +9777,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "DA.A",
         "Market": "TO",
@@ -9790,7 +9790,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "DAL",
         "Market": "V",
@@ -9803,7 +9803,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "DAN",
         "Market": "V",
@@ -9816,7 +9816,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "DAP.U",
         "Market": "V",
@@ -9829,7 +9829,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "DAQ.A",
         "Market": "TO",
@@ -9842,7 +9842,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "DAU",
         "Market": "V",
@@ -9855,7 +9855,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": "OTCQX"
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "DBL",
         "Market": "V",
@@ -9868,7 +9868,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "DBO",
         "Market": "TO",
@@ -9881,7 +9881,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "DBV",
         "Market": "V",
@@ -9894,7 +9894,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "DC.A",
         "Market": "TO",
@@ -9907,7 +9907,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "DCD.UN",
         "Market": "TO",
@@ -9920,7 +9920,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "DCF",
         "Market": "TO",
@@ -9933,7 +9933,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "DCI",
         "Market": "TO",
@@ -9946,7 +9946,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "DCY",
         "Market": "V",
@@ -9959,7 +9959,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "DDC",
         "Market": "TO",
@@ -9972,7 +9972,7 @@ var tickers= [
         "USSymbol": "DDC",
         "ICntry": "US",
         "USM": "NYSE"
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "DE",
         "Market": "V",
@@ -9985,7 +9985,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "DEC",
         "Market": "V",
@@ -9998,7 +9998,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "DEE",
         "Market": "TO",
@@ -10011,7 +10011,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "DEF",
         "Market": "V",
@@ -10024,7 +10024,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "DEJ",
         "Market": "TO",
@@ -10037,7 +10037,7 @@ var tickers= [
         "USSymbol": "DEJ",
         "ICntry": "US",
         "USM": "NYSE MKT"
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "DEN",
         "Market": "TO",
@@ -10050,7 +10050,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "DEQ",
         "Market": "V",
@@ -10063,7 +10063,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "DEX",
         "Market": "V",
@@ -10076,7 +10076,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "DF",
         "Market": "TO",
@@ -10089,7 +10089,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "DFI",
         "Market": "V",
@@ -10102,7 +10102,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "DFN",
         "Market": "TO",
@@ -10115,7 +10115,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "DGA.P",
         "Market": "V",
@@ -10128,7 +10128,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "DGC",
         "Market": "TO",
@@ -10141,7 +10141,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "DGI",
         "Market": "TO",
@@ -10154,7 +10154,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "DGO",
         "Market": "V",
@@ -10167,7 +10167,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "DGS",
         "Market": "TO",
@@ -10180,7 +10180,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "DH",
         "Market": "TO",
@@ -10193,7 +10193,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "DHR",
         "Market": "V",
@@ -10206,7 +10206,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "DHX.B",
         "Market": "TO",
@@ -10219,7 +10219,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "DIA",
         "Market": "V",
@@ -10232,7 +10232,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "DII.B",
         "Market": "TO",
@@ -10245,7 +10245,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "DIN.DB",
         "Market": "TO",
@@ -10258,7 +10258,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "DIR.UN",
         "Market": "TO",
@@ -10271,7 +10271,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "DIV",
         "Market": "TO",
@@ -10284,7 +10284,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "DJI",
         "Market": "V",
@@ -10297,7 +10297,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "DL",
         "Market": "TO",
@@ -10310,7 +10310,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "DLC",
         "Market": "V",
@@ -10323,7 +10323,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "DLR",
         "Market": "TO",
@@ -10336,7 +10336,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "DLS",
         "Market": "V",
@@ -10349,7 +10349,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "DLV",
         "Market": "V",
@@ -10362,7 +10362,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "DMA",
         "Market": "V",
@@ -10375,7 +10375,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "DMC.P",
         "Market": "V",
@@ -10388,7 +10388,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "DMI",
         "Market": "V",
@@ -10401,7 +10401,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": "OTCQX"
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "DML",
         "Market": "TO",
@@ -10414,7 +10414,7 @@ var tickers= [
         "USSymbol": "DNN",
         "ICntry": "US",
         "USM": "NYSE MKT"
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "DMM",
         "Market": "TO",
@@ -10427,7 +10427,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": "OTCQX"
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "DMN.PR.A",
         "Market": "TO",
@@ -10440,7 +10440,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "DMR",
         "Market": "V",
@@ -10453,7 +10453,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "DNA",
         "Market": "TO",
@@ -10466,7 +10466,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": "OTCQX"
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "DNG",
         "Market": "TO",
@@ -10479,7 +10479,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "DNI",
         "Market": "V",
@@ -10492,7 +10492,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "DNT",
         "Market": "TO",
@@ -10505,7 +10505,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": "Lima (BVL)"
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "DNX",
         "Market": "V",
@@ -10518,7 +10518,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "DOL",
         "Market": "TO",
@@ -10531,7 +10531,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "DOM.UN",
         "Market": "TO",
@@ -10544,7 +10544,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "DOO",
         "Market": "TO",
@@ -10557,7 +10557,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "DOS",
         "Market": "V",
@@ -10570,7 +10570,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "DOX",
         "Market": "V",
@@ -10583,7 +10583,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "DPH",
         "Market": "V",
@@ -10596,7 +10596,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": "OTCQX"
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "DPM",
         "Market": "TO",
@@ -10609,7 +10609,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "DR",
         "Market": "TO",
@@ -10622,7 +10622,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "DRA.UN",
         "Market": "TO",
@@ -10635,7 +10635,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "DRG.UN",
         "Market": "TO",
@@ -10648,7 +10648,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "DRM",
         "Market": "TO",
@@ -10661,7 +10661,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "DRT",
         "Market": "TO",
@@ -10674,7 +10674,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "DRV",
         "Market": "V",
@@ -10687,7 +10687,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": "LIMA (BVL)"
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "DRX",
         "Market": "TO",
@@ -10700,7 +10700,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "DS",
         "Market": "TO",
@@ -10713,7 +10713,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "DSF",
         "Market": "V",
@@ -10726,7 +10726,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": "OTCPK"
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "DSG",
         "Market": "TO",
@@ -10739,7 +10739,7 @@ var tickers= [
         "USSymbol": "DSGX",
         "ICntry": "US",
         "USM": "NasdaqGM"
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "DSL.UN",
         "Market": "TO",
@@ -10752,7 +10752,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "DSR",
         "Market": "V",
@@ -10765,7 +10765,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "DSY",
         "Market": "V",
@@ -10778,7 +10778,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": "OTCQX"
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "DTS",
         "Market": "V",
@@ -10791,7 +10791,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "DUG",
         "Market": "V",
@@ -10804,7 +10804,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "DV",
         "Market": "V",
@@ -10817,7 +10817,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "DVG",
         "Market": "V",
@@ -10830,7 +10830,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "DVI",
         "Market": "V",
@@ -10843,7 +10843,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "DVN",
         "Market": "V",
@@ -10856,7 +10856,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": "OTCQX"
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "DVO.U",
         "Market": "V",
@@ -10869,7 +10869,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": "OTCQX"
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "DVR",
         "Market": "V",
@@ -10882,7 +10882,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "DVT",
         "Market": "V",
@@ -10895,7 +10895,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "DW",
         "Market": "TO",
@@ -10908,7 +10908,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "DWI",
         "Market": "TO",
@@ -10921,7 +10921,7 @@ var tickers= [
         "USSymbol": "DRWI",
         "ICntry": "US",
         "USM": "NasdaqGM"
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "DWS",
         "Market": "V",
@@ -10934,7 +10934,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "DXA",
         "Market": "V",
@@ -10947,7 +10947,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": "OTCQX"
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "DXE",
         "Market": "V",
@@ -10960,7 +10960,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "DXM",
         "Market": "TO",
@@ -10973,7 +10973,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "DXX",
         "Market": "V",
@@ -10986,7 +10986,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "DYA",
         "Market": "V",
@@ -10999,7 +10999,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "DYG",
         "Market": "V",
@@ -11012,7 +11012,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "E",
         "Market": "TO",
@@ -11025,7 +11025,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "EAM",
         "Market": "V",
@@ -11038,7 +11038,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "EAS",
         "Market": "V",
@@ -11051,7 +11051,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "EB.UN",
         "Market": "TO",
@@ -11064,7 +11064,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "EBC.UN",
         "Market": "TO",
@@ -11077,7 +11077,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "EBF.UN",
         "Market": "TO",
@@ -11090,7 +11090,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "EBM",
         "Market": "V",
@@ -11103,7 +11103,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "EBN",
         "Market": "V",
@@ -11116,7 +11116,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "EBT.UN",
         "Market": "TO",
@@ -11129,7 +11129,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "EBY",
         "Market": "V",
@@ -11142,7 +11142,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "ECA",
         "Market": "TO",
@@ -11155,7 +11155,7 @@ var tickers= [
         "USSymbol": "ECA",
         "ICntry": "US",
         "USM": "NYSE"
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "ECC",
         "Market": "V",
@@ -11168,7 +11168,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": "OTCQX"
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "ECF.UN",
         "Market": "TO",
@@ -11181,7 +11181,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "ECH",
         "Market": "V",
@@ -11194,7 +11194,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "ECI",
         "Market": "TO",
@@ -11207,7 +11207,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "ECO",
         "Market": "TO",
@@ -11220,7 +11220,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "ECP",
         "Market": "TO",
@@ -11233,7 +11233,7 @@ var tickers= [
         "USSymbol": "EC",
         "ICntry": "US",
         "USM": "NYSE"
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "ECR",
         "Market": "V",
@@ -11246,7 +11246,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "ED.UN",
         "Market": "V",
@@ -11259,7 +11259,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "EDE",
         "Market": "V",
@@ -11272,7 +11272,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "EDG",
         "Market": "V",
@@ -11285,7 +11285,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "EDR",
         "Market": "TO",
@@ -11298,7 +11298,7 @@ var tickers= [
         "USSymbol": "EXK",
         "ICntry": "US",
         "USM": "NYSE"
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "EDT",
         "Market": "TO",
@@ -11311,7 +11311,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": "OTCQX"
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "EDV",
         "Market": "TO",
@@ -11324,7 +11324,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": "OTCQX"
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "EDW",
         "Market": "V",
@@ -11337,7 +11337,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": "OTCQX"
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "EEC",
         "Market": "V",
@@ -11350,7 +11350,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "EEL",
         "Market": "V",
@@ -11363,7 +11363,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "EEN",
         "Market": "V",
@@ -11376,7 +11376,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "EEV",
         "Market": "V",
@@ -11389,7 +11389,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "EFH",
         "Market": "TO",
@@ -11402,7 +11402,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "EFL",
         "Market": "TO",
@@ -11415,7 +11415,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "EFN",
         "Market": "TO",
@@ -11428,7 +11428,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "EFR",
         "Market": "TO",
@@ -11441,7 +11441,7 @@ var tickers= [
         "USSymbol": "UUUU",
         "ICntry": "US",
         "USM": "OTCQX"
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "EFT",
         "Market": "V",
@@ -11454,7 +11454,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "EFX",
         "Market": "TO",
@@ -11467,7 +11467,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "EGA",
         "Market": "V",
@@ -11480,7 +11480,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "EGD",
         "Market": "V",
@@ -11493,7 +11493,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "EGI.UN",
         "Market": "TO",
@@ -11506,7 +11506,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "EGL.UN",
         "Market": "TO",
@@ -11519,7 +11519,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "EGT",
         "Market": "V",
@@ -11532,7 +11532,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "EGX",
         "Market": "V",
@@ -11545,7 +11545,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "EGZ",
         "Market": "TO",
@@ -11558,7 +11558,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": "OTCQX"
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "EHT",
         "Market": "V",
@@ -11571,7 +11571,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "EIF",
         "Market": "TO",
@@ -11584,7 +11584,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "EIL",
         "Market": "V",
@@ -11597,7 +11597,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "EIT.UN",
         "Market": "TO",
@@ -11610,7 +11610,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "EKG",
         "Market": "V",
@@ -11623,7 +11623,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "EL",
         "Market": "V",
@@ -11636,7 +11636,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "ELC",
         "Market": "V",
@@ -11649,7 +11649,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "ELD",
         "Market": "TO",
@@ -11662,7 +11662,7 @@ var tickers= [
         "USSymbol": "EGO",
         "ICntry": "US",
         "USM": "NYSE"
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "ELE.P",
         "Market": "V",
@@ -11675,7 +11675,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "ELF",
         "Market": "TO",
@@ -11688,7 +11688,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "ELI",
         "Market": "V",
@@ -11701,7 +11701,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": "OTCQX"
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "ELN",
         "Market": "V",
@@ -11714,7 +11714,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": "OTCQX"
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "ELO",
         "Market": "V",
@@ -11727,7 +11727,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "ELR",
         "Market": "TO",
@@ -11740,7 +11740,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": "JSE"
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "ELS",
         "Market": "V",
@@ -11753,7 +11753,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": "OTCQX"
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "ELT",
         "Market": "V",
@@ -11766,7 +11766,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "ELV",
         "Market": "TO",
@@ -11779,7 +11779,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "ELY",
         "Market": "V",
@@ -11792,7 +11792,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "EMA",
         "Market": "TO",
@@ -11805,7 +11805,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "EMB",
         "Market": "V",
@@ -11818,7 +11818,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "EMD",
         "Market": "TO",
@@ -11831,7 +11831,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": "AIM"
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "EME",
         "Market": "V",
@@ -11844,7 +11844,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "EMH",
         "Market": "V",
@@ -11857,7 +11857,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "EMO",
         "Market": "V",
@@ -11870,7 +11870,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "EMP.A",
         "Market": "TO",
@@ -11883,7 +11883,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "EMR",
         "Market": "V",
@@ -11896,7 +11896,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "EMS.P",
         "Market": "V",
@@ -11909,7 +11909,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "EMT",
         "Market": "V",
@@ -11922,7 +11922,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "EMX",
         "Market": "V",
@@ -11935,7 +11935,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": "NYSE MKT"
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "ENA",
         "Market": "V",
@@ -11948,7 +11948,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "ENB",
         "Market": "TO",
@@ -11961,7 +11961,7 @@ var tickers= [
         "USSymbol": "ENB",
         "ICntry": "US",
         "USM": "NYSE"
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "ENF",
         "Market": "TO",
@@ -11974,7 +11974,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "ENG",
         "Market": "V",
@@ -11987,7 +11987,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "ENI.UN",
         "Market": "TO",
@@ -12000,7 +12000,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "ENL",
         "Market": "TO",
@@ -12013,7 +12013,7 @@ var tickers= [
         "USSymbol": "ENDP",
         "ICntry": "US",
         "USM": "NasdaqGM"
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "ENP",
         "Market": "V",
@@ -12026,7 +12026,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "ENS",
         "Market": "V",
@@ -12039,7 +12039,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "ENT",
         "Market": "TO",
@@ -12052,7 +12052,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "ENW",
         "Market": "V",
@@ -12065,7 +12065,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "EOG",
         "Market": "V",
@@ -12078,7 +12078,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "EOM",
         "Market": "TO",
@@ -12091,7 +12091,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "EOR",
         "Market": "V",
@@ -12104,7 +12104,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": "OTCQX"
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "EOX",
         "Market": "V",
@@ -12117,7 +12117,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": "OTCQX"
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "EPI",
         "Market": "TO",
@@ -12130,7 +12130,7 @@ var tickers= [
         "USSymbol": "EPIX",
         "ICntry": "US",
         "USM": "NasdaqCM"
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "EPL",
         "Market": "V",
@@ -12143,7 +12143,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "EPO",
         "Market": "V",
@@ -12156,7 +12156,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": "OTCQX"
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "EPS",
         "Market": "TO",
@@ -12169,7 +12169,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "EPT",
         "Market": "V",
@@ -12182,7 +12182,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "EQ",
         "Market": "V",
@@ -12195,7 +12195,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "EQB",
         "Market": "TO",
@@ -12208,7 +12208,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "EQG",
         "Market": "V",
@@ -12221,7 +12221,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "EQI",
         "Market": "TO",
@@ -12234,7 +12234,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "EQT",
         "Market": "V",
@@ -12247,7 +12247,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "EQU.DB.B",
         "Market": "TO",
@@ -12260,7 +12260,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": "NYSE"
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "ER",
         "Market": "TO",
@@ -12273,7 +12273,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "ERA",
         "Market": "V",
@@ -12286,7 +12286,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "ERC",
         "Market": "V",
@@ -12299,7 +12299,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "ERD",
         "Market": "TO",
@@ -12312,7 +12312,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "ERF",
         "Market": "TO",
@@ -12325,7 +12325,7 @@ var tickers= [
         "USSymbol": "ERF",
         "ICntry": "US",
         "USM": "NYSE"
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "ERG",
         "Market": "V",
@@ -12338,7 +12338,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "ERM",
         "Market": "TO",
@@ -12351,7 +12351,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "ERN",
         "Market": "V",
@@ -12364,7 +12364,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "ES",
         "Market": "V",
@@ -12377,7 +12377,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "ESE",
         "Market": "V",
@@ -12390,7 +12390,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "ESI",
         "Market": "TO",
@@ -12403,7 +12403,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "ESK",
         "Market": "V",
@@ -12416,7 +12416,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "ESL",
         "Market": "TO",
@@ -12429,7 +12429,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "ESN",
         "Market": "TO",
@@ -12442,7 +12442,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "ESP",
         "Market": "TO",
@@ -12455,7 +12455,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "ESS",
         "Market": "V",
@@ -12468,7 +12468,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "ESU",
         "Market": "V",
@@ -12481,7 +12481,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "ESV",
         "Market": "V",
@@ -12494,7 +12494,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "ET",
         "Market": "TO",
@@ -12507,7 +12507,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "ETF",
         "Market": "V",
@@ -12520,7 +12520,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "ETG",
         "Market": "TO",
@@ -12533,7 +12533,7 @@ var tickers= [
         "USSymbol": "EGI",
         "ICntry": "US",
         "USM": "NYSE MKT"
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "ETP",
         "Market": "TO",
@@ -12546,7 +12546,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "ETV.P",
         "Market": "V",
@@ -12559,7 +12559,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "ETX",
         "Market": "TO",
@@ -12572,7 +12572,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": "OMX Nordic Exchange"
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "EU",
         "Market": "V",
@@ -12585,7 +12585,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "EUK",
         "Market": "V",
@@ -12598,7 +12598,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "EUO",
         "Market": "V",
@@ -12611,7 +12611,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "EUR",
         "Market": "TO",
@@ -12624,7 +12624,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "EUU",
         "Market": "V",
@@ -12637,7 +12637,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": "OTCQX"
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "EV",
         "Market": "V",
@@ -12650,7 +12650,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "EVM",
         "Market": "V",
@@ -12663,7 +12663,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "EVR",
         "Market": "V",
@@ -12676,7 +12676,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": "OTCQX"
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "EVT",
         "Market": "TO",
@@ -12689,7 +12689,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "EW",
         "Market": "V",
@@ -12702,7 +12702,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "EWK",
         "Market": "V",
@@ -12715,7 +12715,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "EWS",
         "Market": "V",
@@ -12728,7 +12728,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "EXC",
         "Market": "V",
@@ -12741,7 +12741,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "EXE",
         "Market": "TO",
@@ -12754,7 +12754,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "EXF",
         "Market": "TO",
@@ -12767,7 +12767,7 @@ var tickers= [
         "USSymbol": "EXFO",
         "ICntry": "US",
         "USM": "NasdaqGM"
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "EXG",
         "Market": "V",
@@ -12780,7 +12780,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "EXI.P",
         "Market": "V",
@@ -12793,7 +12793,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "EXN",
         "Market": "TO",
@@ -12806,7 +12806,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "EXO",
         "Market": "V",
@@ -12819,7 +12819,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "EXS",
         "Market": "V",
@@ -12832,7 +12832,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "EXX",
         "Market": "V",
@@ -12845,7 +12845,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "EY",
         "Market": "V",
@@ -12858,7 +12858,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "EYC",
         "Market": "V",
@@ -12871,7 +12871,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "EYE.A",
         "Market": "V",
@@ -12884,7 +12884,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "FA",
         "Market": "V",
@@ -12897,7 +12897,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "FAC",
         "Market": "V",
@@ -12910,7 +12910,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "FAI",
         "Market": "TO",
@@ -12923,7 +12923,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "FAM",
         "Market": "V",
@@ -12936,7 +12936,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "FAN",
         "Market": "V",
@@ -12949,7 +12949,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "FAO",
         "Market": "TO",
@@ -12962,7 +12962,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "FAP",
         "Market": "TO",
@@ -12975,7 +12975,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "FAR",
         "Market": "TO",
@@ -12988,7 +12988,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "FBF",
         "Market": "V",
@@ -13001,7 +13001,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "FBI",
         "Market": "V",
@@ -13014,7 +13014,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "FBS.B",
         "Market": "TO",
@@ -13027,7 +13027,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "FBX",
         "Market": "V",
@@ -13040,7 +13040,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "FC",
         "Market": "TO",
@@ -13053,7 +13053,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "FCD.UN",
         "Market": "V",
@@ -13066,7 +13066,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "FCF",
         "Market": "V",
@@ -13079,7 +13079,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "FCO",
         "Market": "TO",
@@ -13092,7 +13092,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": "OTCQX"
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "FCR",
         "Market": "TO",
@@ -13105,7 +13105,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "FCS.UN",
         "Market": "TO",
@@ -13118,7 +13118,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "FCU",
         "Market": "TO",
@@ -13131,7 +13131,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "FCV",
         "Market": "V",
@@ -13144,7 +13144,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "FDC",
         "Market": "V",
@@ -13157,7 +13157,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "FDE",
         "Market": "TO",
@@ -13170,7 +13170,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "FDR",
         "Market": "V",
@@ -13183,7 +13183,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "FDS.UN",
         "Market": "TO",
@@ -13196,7 +13196,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "FDV",
         "Market": "TO",
@@ -13209,7 +13209,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "FDY",
         "Market": "TO",
@@ -13222,7 +13222,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "FEE",
         "Market": "V",
@@ -13235,7 +13235,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "FEM",
         "Market": "V",
@@ -13248,7 +13248,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "FEN",
         "Market": "V",
@@ -13261,7 +13261,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "FEO",
         "Market": "V",
@@ -13274,7 +13274,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": "OTCQX"
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "FER",
         "Market": "TO",
@@ -13287,7 +13287,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "FEX",
         "Market": "V",
@@ -13300,7 +13300,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "FF",
         "Market": "V",
@@ -13313,7 +13313,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "FFF",
         "Market": "V",
@@ -13326,7 +13326,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "FFH",
         "Market": "TO",
@@ -13339,7 +13339,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "FFI.UN",
         "Market": "TO",
@@ -13352,7 +13352,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "FFM",
         "Market": "V",
@@ -13365,7 +13365,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "FFN",
         "Market": "TO",
@@ -13378,7 +13378,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "FFP",
         "Market": "V",
@@ -13391,7 +13391,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "FG",
         "Market": "V",
@@ -13404,7 +13404,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "FGC",
         "Market": "V",
@@ -13417,7 +13417,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "FGD",
         "Market": "V",
@@ -13430,7 +13430,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "FGF",
         "Market": "V",
@@ -13443,7 +13443,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "FGH",
         "Market": "V",
@@ -13456,7 +13456,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "FGX",
         "Market": "TO",
@@ -13469,7 +13469,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "FHB",
         "Market": "TO",
@@ -13482,7 +13482,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "FHC",
         "Market": "TO",
@@ -13495,7 +13495,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "FHD",
         "Market": "TO",
@@ -13508,7 +13508,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "FHE",
         "Market": "TO",
@@ -13521,7 +13521,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "FHF",
         "Market": "TO",
@@ -13534,7 +13534,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "FHG",
         "Market": "TO",
@@ -13547,7 +13547,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "FHH",
         "Market": "TO",
@@ -13560,7 +13560,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "FHM",
         "Market": "TO",
@@ -13573,7 +13573,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "FHQ",
         "Market": "TO",
@@ -13586,7 +13586,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "FHU",
         "Market": "TO",
@@ -13599,7 +13599,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "FHY",
         "Market": "TO",
@@ -13612,7 +13612,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "FI",
         "Market": "V",
@@ -13625,7 +13625,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "FIC",
         "Market": "TO",
@@ -13638,7 +13638,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "FIE",
         "Market": "TO",
@@ -13651,7 +13651,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "FIH.U",
         "Market": "TO",
@@ -13664,7 +13664,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "FIX",
         "Market": "V",
@@ -13677,7 +13677,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "FLI",
         "Market": "TO",
@@ -13690,7 +13690,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "FLX",
         "Market": "V",
@@ -13703,7 +13703,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "FLY",
         "Market": "V",
@@ -13716,7 +13716,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": "OTCQX"
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "FM",
         "Market": "TO",
@@ -13729,7 +13729,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": "LSE"
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "FMG",
         "Market": "V",
@@ -13742,7 +13742,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "FMK.P",
         "Market": "V",
@@ -13755,7 +13755,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "FMM",
         "Market": "V",
@@ -13768,7 +13768,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "FMR",
         "Market": "V",
@@ -13781,7 +13781,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "FMS",
         "Market": "V",
@@ -13794,7 +13794,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": "OTCQX"
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "FMX",
         "Market": "V",
@@ -13807,7 +13807,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "FN",
         "Market": "TO",
@@ -13820,7 +13820,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "FNC",
         "Market": "V",
@@ -13833,7 +13833,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "FNM.UN",
         "Market": "TO",
@@ -13846,7 +13846,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "FNR",
         "Market": "V",
@@ -13859,7 +13859,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "FNV",
         "Market": "TO",
@@ -13872,7 +13872,7 @@ var tickers= [
         "USSymbol": "FNV",
         "ICntry": "US",
         "USM": "NYSE"
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "FO",
         "Market": "V",
@@ -13885,7 +13885,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": "AIM"
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "FOM",
         "Market": "V",
@@ -13898,7 +13898,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "FOR",
         "Market": "TO",
@@ -13911,7 +13911,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "FOS",
         "Market": "TO",
@@ -13924,7 +13924,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "FP",
         "Market": "TO",
@@ -13937,7 +13937,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "FPC",
         "Market": "V",
@@ -13950,7 +13950,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "FPX",
         "Market": "TO",
@@ -13963,7 +13963,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "FR",
         "Market": "TO",
@@ -13976,7 +13976,7 @@ var tickers= [
         "USSymbol": "AG",
         "ICntry": "US",
         "USM": "NYSE"
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "FRC",
         "Market": "TO",
@@ -13989,7 +13989,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "FRI",
         "Market": "V",
@@ -14002,7 +14002,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "FRL.UN",
         "Market": "TO",
@@ -14015,7 +14015,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "FRN",
         "Market": "V",
@@ -14028,7 +14028,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "FRO",
         "Market": "TO",
@@ -14041,7 +14041,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "FRU",
         "Market": "TO",
@@ -14054,7 +14054,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "FRX",
         "Market": "TO",
@@ -14067,7 +14067,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "FSD.UN",
         "Market": "TO",
@@ -14080,7 +14080,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "FSL",
         "Market": "TO",
@@ -14093,7 +14093,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "FSN",
         "Market": "V",
@@ -14106,7 +14106,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "FSV",
         "Market": "TO",
@@ -14119,7 +14119,7 @@ var tickers= [
         "USSymbol": "FSV",
         "ICntry": "US",
         "USM": "NasdaqGM"
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "FSW",
         "Market": "V",
@@ -14132,7 +14132,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "FSY",
         "Market": "TO",
@@ -14145,7 +14145,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "FSZ",
         "Market": "TO",
@@ -14158,7 +14158,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "FT",
         "Market": "TO",
@@ -14171,7 +14171,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": "OTCQX"
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "FTB",
         "Market": "TO",
@@ -14184,7 +14184,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "FTG",
         "Market": "TO",
@@ -14197,7 +14197,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "FTI",
         "Market": "V",
@@ -14210,7 +14210,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "FTJ",
         "Market": "V",
@@ -14223,7 +14223,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "FTN",
         "Market": "TO",
@@ -14236,7 +14236,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "FTP",
         "Market": "TO",
@@ -14249,7 +14249,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "FTR",
         "Market": "V",
@@ -14262,7 +14262,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "FTS",
         "Market": "TO",
@@ -14275,7 +14275,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "FTT",
         "Market": "TO",
@@ -14288,7 +14288,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "FTU",
         "Market": "TO",
@@ -14301,7 +14301,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "FUD",
         "Market": "TO",
@@ -14314,7 +14314,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "FUR",
         "Market": "V",
@@ -14327,7 +14327,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "FUU",
         "Market": "V",
@@ -14340,7 +14340,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "FV",
         "Market": "V",
@@ -14353,7 +14353,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "FVI",
         "Market": "TO",
@@ -14366,7 +14366,7 @@ var tickers= [
         "USSymbol": "FSM",
         "ICntry": "US",
         "USM": "Lima (BVL)"
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "FVL",
         "Market": "TO",
@@ -14379,7 +14379,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "FVR",
         "Market": "V",
@@ -14392,7 +14392,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "FWK",
         "Market": "V",
@@ -14405,7 +14405,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "FXM",
         "Market": "TO",
@@ -14418,7 +14418,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "FYL",
         "Market": "V",
@@ -14431,7 +14431,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "G",
         "Market": "TO",
@@ -14444,7 +14444,7 @@ var tickers= [
         "USSymbol": "GG",
         "ICntry": "US",
         "USM": "NYSE"
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "GAF.UN",
         "Market": "TO",
@@ -14457,7 +14457,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "GAL",
         "Market": "V",
@@ -14470,7 +14470,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": "AIM"
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "GAR",
         "Market": "V",
@@ -14483,7 +14483,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "GAZ.UN",
         "Market": "V",
@@ -14496,7 +14496,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "GB",
         "Market": "V",
@@ -14509,7 +14509,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "GBB",
         "Market": "V",
@@ -14522,7 +14522,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "GBD",
         "Market": "V",
@@ -14535,7 +14535,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "GBL",
         "Market": "V",
@@ -14548,7 +14548,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "GBN",
         "Market": "V",
@@ -14561,7 +14561,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": "OTCQX"
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "GBR",
         "Market": "V",
@@ -14574,7 +14574,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "GBT",
         "Market": "TO",
@@ -14587,7 +14587,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "GBU",
         "Market": "TO",
@@ -14600,7 +14600,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "GC",
         "Market": "TO",
@@ -14613,7 +14613,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "GCE",
         "Market": "V",
@@ -14626,7 +14626,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "GCG.A",
         "Market": "TO",
@@ -14639,7 +14639,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "GCL",
         "Market": "TO",
@@ -14652,7 +14652,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "GCM",
         "Market": "TO",
@@ -14665,7 +14665,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "GCN",
         "Market": "V",
@@ -14678,7 +14678,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "GCO",
         "Market": "V",
@@ -14691,7 +14691,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "GCR",
         "Market": "V",
@@ -14704,7 +14704,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "GCS.PR.A",
         "Market": "TO",
@@ -14717,7 +14717,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "GCT",
         "Market": "TO",
@@ -14730,7 +14730,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "GCU",
         "Market": "V",
@@ -14743,7 +14743,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "GCX",
         "Market": "V",
@@ -14756,7 +14756,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "GDC",
         "Market": "TO",
@@ -14769,7 +14769,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "GDG.UN",
         "Market": "TO",
@@ -14782,7 +14782,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "GDI",
         "Market": "TO",
@@ -14795,7 +14795,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "GDL",
         "Market": "TO",
@@ -14808,7 +14808,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "GDM",
         "Market": "V",
@@ -14821,7 +14821,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "GDN",
         "Market": "V",
@@ -14834,7 +14834,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "GDP.UN",
         "Market": "TO",
@@ -14847,7 +14847,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "GDS",
         "Market": "TO",
@@ -14860,7 +14860,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "GDX",
         "Market": "V",
@@ -14873,7 +14873,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "GEA",
         "Market": "V",
@@ -14886,7 +14886,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "GEI",
         "Market": "TO",
@@ -14899,7 +14899,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "GEM",
         "Market": "V",
@@ -14912,7 +14912,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": "OTCQX"
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "GEN",
         "Market": "TO",
@@ -14925,7 +14925,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "GEO",
         "Market": "TO",
@@ -14938,7 +14938,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "GER",
         "Market": "V",
@@ -14951,7 +14951,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "GES",
         "Market": "V",
@@ -14964,7 +14964,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "GFK",
         "Market": "V",
@@ -14977,7 +14977,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "GFL.P",
         "Market": "V",
@@ -14990,7 +14990,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "GFN",
         "Market": "V",
@@ -15003,7 +15003,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "GG",
         "Market": "V",
@@ -15016,7 +15016,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "GGA",
         "Market": "TO",
@@ -15029,7 +15029,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "GGC",
         "Market": "V",
@@ -15042,7 +15042,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "GGD",
         "Market": "TO",
@@ -15055,7 +15055,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "GGG",
         "Market": "V",
@@ -15068,7 +15068,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "GGI",
         "Market": "V",
@@ -15081,7 +15081,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "GGL",
         "Market": "V",
@@ -15094,7 +15094,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "GGS",
         "Market": "V",
@@ -15107,7 +15107,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "GGT.UN",
         "Market": "TO",
@@ -15120,7 +15120,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "GGY",
         "Market": "V",
@@ -15133,7 +15133,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "GH",
         "Market": "TO",
@@ -15146,7 +15146,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "GHC.UN",
         "Market": "TO",
@@ -15159,7 +15159,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "GHR",
         "Market": "V",
@@ -15172,7 +15172,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "GI",
         "Market": "V",
@@ -15185,7 +15185,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "GIB.A",
         "Market": "TO",
@@ -15198,7 +15198,7 @@ var tickers= [
         "USSymbol": "GIB",
         "ICntry": "US",
         "USM": "NYSE"
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "GIC",
         "Market": "V",
@@ -15211,7 +15211,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "GIF.UN",
         "Market": "TO",
@@ -15224,7 +15224,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "GII.UN",
         "Market": "TO",
@@ -15237,7 +15237,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "GIL",
         "Market": "TO",
@@ -15250,7 +15250,7 @@ var tickers= [
         "USSymbol": "GIL",
         "ICntry": "US",
         "USM": "NYSE"
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "GIT",
         "Market": "V",
@@ -15263,7 +15263,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "GIX",
         "Market": "TO",
@@ -15276,7 +15276,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": "OTCQX"
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "GJB",
         "Market": "V",
@@ -15289,7 +15289,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "GKX",
         "Market": "V",
@@ -15302,7 +15302,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "GLB",
         "Market": "V",
@@ -15315,7 +15315,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "GLD",
         "Market": "V",
@@ -15328,7 +15328,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "GLG",
         "Market": "TO",
@@ -15341,7 +15341,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "GLK",
         "Market": "V",
@@ -15354,7 +15354,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "GLW",
         "Market": "V",
@@ -15367,7 +15367,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "GMA",
         "Market": "V",
@@ -15380,7 +15380,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "GMM.U",
         "Market": "TO",
@@ -15393,7 +15393,7 @@ var tickers= [
         "USSymbol": "GM",
         "ICntry": "US",
         "USM": "NYSE"
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "GMN",
         "Market": "V",
@@ -15406,7 +15406,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "GMO",
         "Market": "TO",
@@ -15419,7 +15419,7 @@ var tickers= [
         "USSymbol": "GMO",
         "ICntry": "US",
         "USM": "NYSE MKT"
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "GMP",
         "Market": "TO",
@@ -15432,7 +15432,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "GMV",
         "Market": "V",
@@ -15445,7 +15445,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "GMX",
         "Market": "TO",
@@ -15458,7 +15458,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": "OTCQX"
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "GMZ",
         "Market": "V",
@@ -15471,7 +15471,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "GN",
         "Market": "V",
@@ -15484,7 +15484,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "GNC",
         "Market": "V",
@@ -15497,7 +15497,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "GNF",
         "Market": "V",
@@ -15510,7 +15510,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "GNG",
         "Market": "V",
@@ -15523,7 +15523,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "GNH",
         "Market": "V",
@@ -15536,7 +15536,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "GNT",
         "Market": "V",
@@ -15549,7 +15549,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "GO",
         "Market": "TO",
@@ -15562,7 +15562,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "GOD",
         "Market": "V",
@@ -15575,7 +15575,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": "OTCQX"
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "GOE",
         "Market": "V",
@@ -15588,7 +15588,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "GOG",
         "Market": "V",
@@ -15601,7 +15601,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "GOK",
         "Market": "V",
@@ -15614,7 +15614,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "GOM",
         "Market": "V",
@@ -15627,7 +15627,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "GOP",
         "Market": "V",
@@ -15640,7 +15640,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "GP",
         "Market": "V",
@@ -15653,7 +15653,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "GPE",
         "Market": "V",
@@ -15666,7 +15666,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "GPF.UN",
         "Market": "TO",
@@ -15679,7 +15679,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "GPG",
         "Market": "V",
@@ -15692,7 +15692,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "GPH",
         "Market": "V",
@@ -15705,7 +15705,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": "OTCQX"
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "GPL",
         "Market": "V",
@@ -15718,7 +15718,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "GPM",
         "Market": "V",
@@ -15731,7 +15731,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "GPR",
         "Market": "TO",
@@ -15744,7 +15744,7 @@ var tickers= [
         "USSymbol": "GPL",
         "ICntry": "US",
         "USM": "NYSE MKT"
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "GPS",
         "Market": "V",
@@ -15757,7 +15757,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "GPV",
         "Market": "V",
@@ -15770,7 +15770,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "GPW",
         "Market": "V",
@@ -15783,7 +15783,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "GPY",
         "Market": "V",
@@ -15796,7 +15796,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "GQ",
         "Market": "V",
@@ -15809,7 +15809,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "GQC",
         "Market": "V",
@@ -15822,7 +15822,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "GQM",
         "Market": "TO",
@@ -15835,7 +15835,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": "OTCQX"
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "GR",
         "Market": "V",
@@ -15848,7 +15848,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "GRB",
         "Market": "V",
@@ -15861,7 +15861,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "GRC",
         "Market": "V",
@@ -15874,7 +15874,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "GRG",
         "Market": "V",
@@ -15887,7 +15887,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "GRI",
         "Market": "V",
@@ -15900,7 +15900,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "GRK",
         "Market": "V",
@@ -15913,7 +15913,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "GRL",
         "Market": "TO",
@@ -15926,7 +15926,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "GRM",
         "Market": "V",
@@ -15939,7 +15939,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "GRR",
         "Market": "V",
@@ -15952,7 +15952,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "GRT.UN",
         "Market": "TO",
@@ -15965,7 +15965,7 @@ var tickers= [
         "USSymbol": "GRP.U",
         "ICntry": "US",
         "USM": "NYSE"
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "GRV",
         "Market": "V",
@@ -15978,7 +15978,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "GRZ",
         "Market": "V",
@@ -15991,7 +15991,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "GS",
         "Market": "TO",
@@ -16004,7 +16004,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "GSA",
         "Market": "V",
@@ -16017,7 +16017,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "GSB.UN",
         "Market": "TO",
@@ -16030,7 +16030,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "GSC",
         "Market": "TO",
@@ -16043,7 +16043,7 @@ var tickers= [
         "USSymbol": "GSS",
         "ICntry": "US",
         "USM": "NYSE MKT"
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "GSH",
         "Market": "V",
@@ -16056,7 +16056,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "GSI",
         "Market": "V",
@@ -16069,7 +16069,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "GSP",
         "Market": "V",
@@ -16082,7 +16082,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "GSR",
         "Market": "V",
@@ -16095,7 +16095,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "GSS",
         "Market": "V",
@@ -16108,7 +16108,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "GSV",
         "Market": "V",
@@ -16121,7 +16121,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": "NYSE MKT"
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "GSW",
         "Market": "V",
@@ -16134,7 +16134,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "GSX",
         "Market": "V",
@@ -16147,7 +16147,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "GSY",
         "Market": "TO",
@@ -16160,7 +16160,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "GTA",
         "Market": "V",
@@ -16173,7 +16173,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "GTB",
         "Market": "V",
@@ -16186,7 +16186,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "GTC",
         "Market": "V",
@@ -16199,7 +16199,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "GTE",
         "Market": "TO",
@@ -16212,7 +16212,7 @@ var tickers= [
         "USSymbol": "GTE",
         "ICntry": "US",
         "USM": "NYSE MKT"
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "GTG",
         "Market": "V",
@@ -16225,7 +16225,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "GTH",
         "Market": "TO",
@@ -16238,7 +16238,7 @@ var tickers= [
         "USSymbol": "HTM",
         "ICntry": "US",
         "USM": "NYSE MKT"
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "GTP",
         "Market": "V",
@@ -16251,7 +16251,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": "OTCQX"
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "GTU.UN",
         "Market": "TO",
@@ -16264,7 +16264,7 @@ var tickers= [
         "USSymbol": "GTU",
         "ICntry": "US",
         "USM": "NYSE MKT"
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "GTX",
         "Market": "TO",
@@ -16277,7 +16277,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "GUD",
         "Market": "TO",
@@ -16290,7 +16290,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "GUF",
         "Market": "V",
@@ -16303,7 +16303,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "GUG",
         "Market": "V",
@@ -16316,7 +16316,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "GUL",
         "Market": "V",
@@ -16329,7 +16329,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "GUM",
         "Market": "V",
@@ -16342,7 +16342,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "GUN",
         "Market": "V",
@@ -16355,7 +16355,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "GUY",
         "Market": "TO",
@@ -16368,7 +16368,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "GV",
         "Market": "V",
@@ -16381,7 +16381,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "GVC",
         "Market": "TO",
@@ -16394,7 +16394,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "GVG",
         "Market": "V",
@@ -16407,7 +16407,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "GVY",
         "Market": "V",
@@ -16420,7 +16420,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "GWA",
         "Market": "V",
@@ -16433,7 +16433,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "GWM",
         "Market": "V",
@@ -16446,7 +16446,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "GWO",
         "Market": "TO",
@@ -16459,7 +16459,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "GWQ",
         "Market": "V",
@@ -16472,7 +16472,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "GWR",
         "Market": "TO",
@@ -16485,7 +16485,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": "OTCQX"
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "GX",
         "Market": "V",
@@ -16498,7 +16498,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "GXE",
         "Market": "TO",
@@ -16511,7 +16511,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "GXI",
         "Market": "TO",
@@ -16524,7 +16524,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "GXM",
         "Market": "V",
@@ -16537,7 +16537,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "GXO",
         "Market": "TO",
@@ -16550,7 +16550,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": "OTCQX"
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "GXR",
         "Market": "V",
@@ -16563,7 +16563,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "GXS",
         "Market": "V",
@@ -16576,7 +16576,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "GZD",
         "Market": "V",
@@ -16589,7 +16589,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": "OTCQX"
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "GZT",
         "Market": "TO",
@@ -16602,7 +16602,7 @@ var tickers= [
         "USSymbol": "GZT",
         "ICntry": "US",
         "USM": "NYSE"
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "GZZ",
         "Market": "V",
@@ -16615,7 +16615,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "HA",
         "Market": "V",
@@ -16628,7 +16628,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "HAA",
         "Market": "TO",
@@ -16641,7 +16641,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "HAB",
         "Market": "TO",
@@ -16654,7 +16654,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "HAC",
         "Market": "TO",
@@ -16667,7 +16667,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "HAD",
         "Market": "TO",
@@ -16680,7 +16680,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "HAF",
         "Market": "TO",
@@ -16693,7 +16693,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "HAJ",
         "Market": "TO",
@@ -16706,7 +16706,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "HAL",
         "Market": "TO",
@@ -16719,7 +16719,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "HAU",
         "Market": "TO",
@@ -16732,7 +16732,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "HAY.UN",
         "Market": "TO",
@@ -16745,7 +16745,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "HAZ",
         "Market": "TO",
@@ -16758,7 +16758,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "HBB",
         "Market": "TO",
@@ -16771,7 +16771,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "HBC",
         "Market": "TO",
@@ -16784,7 +16784,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "HBD",
         "Market": "TO",
@@ -16797,7 +16797,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "HBE",
         "Market": "V",
@@ -16810,7 +16810,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "HBF.UN",
         "Market": "TO",
@@ -16823,7 +16823,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "HBK",
         "Market": "V",
@@ -16836,7 +16836,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "HBL.UN",
         "Market": "TO",
@@ -16849,7 +16849,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "HBM",
         "Market": "TO",
@@ -16862,7 +16862,7 @@ var tickers= [
         "USSymbol": "HBM",
         "ICntry": "US",
         "USM": "NYSE"
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "HBP",
         "Market": "TO",
@@ -16875,7 +16875,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "HBU",
         "Market": "TO",
@@ -16888,7 +16888,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "HCG",
         "Market": "TO",
@@ -16901,7 +16901,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "HDX",
         "Market": "TO",
@@ -16914,7 +16914,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "HE",
         "Market": "TO",
@@ -16927,7 +16927,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "HEA",
         "Market": "TO",
@@ -16940,7 +16940,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "HEC",
         "Market": "V",
@@ -16953,7 +16953,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "HED",
         "Market": "TO",
@@ -16966,7 +16966,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "HEE",
         "Market": "TO",
@@ -16979,7 +16979,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "HEF",
         "Market": "TO",
@@ -16992,7 +16992,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "HEI",
         "Market": "V",
@@ -17005,7 +17005,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "HEJ",
         "Market": "TO",
@@ -17018,7 +17018,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "HEM",
         "Market": "V",
@@ -17031,7 +17031,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "HEN.UN",
         "Market": "TO",
@@ -17044,7 +17044,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "HEO",
         "Market": "V",
@@ -17057,7 +17057,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": " OTCQX"
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "HEP",
         "Market": "TO",
@@ -17070,7 +17070,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "HER",
         "Market": "TO",
@@ -17083,7 +17083,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": "ASX"
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "HEU",
         "Market": "TO",
@@ -17096,7 +17096,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "HEW",
         "Market": "TO",
@@ -17109,7 +17109,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "HEX",
         "Market": "TO",
@@ -17122,7 +17122,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "HFD",
         "Market": "TO",
@@ -17135,7 +17135,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "HFP",
         "Market": "TO",
@@ -17148,7 +17148,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "HFR",
         "Market": "TO",
@@ -17161,7 +17161,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "HFU",
         "Market": "TO",
@@ -17174,7 +17174,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "HGD",
         "Market": "TO",
@@ -17187,7 +17187,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "HGI.UN",
         "Market": "TO",
@@ -17200,7 +17200,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "HGM",
         "Market": "TO",
@@ -17213,7 +17213,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "HGN",
         "Market": "TO",
@@ -17226,7 +17226,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "HGO",
         "Market": "V",
@@ -17239,7 +17239,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "HGU",
         "Market": "TO",
@@ -17252,7 +17252,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "HGY",
         "Market": "TO",
@@ -17265,7 +17265,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "HHF",
         "Market": "TO",
@@ -17278,7 +17278,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "HHL.UN",
         "Market": "TO",
@@ -17291,7 +17291,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "HHY.UN",
         "Market": "TO",
@@ -17304,7 +17304,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "HI",
         "Market": "V",
@@ -17317,7 +17317,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "HIG.UN",
         "Market": "TO",
@@ -17330,7 +17330,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "HII",
         "Market": "TO",
@@ -17343,7 +17343,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "HIT",
         "Market": "V",
@@ -17356,7 +17356,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "HIU",
         "Market": "TO",
@@ -17369,7 +17369,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "HIX",
         "Market": "TO",
@@ -17382,7 +17382,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "HJI",
         "Market": "V",
@@ -17395,7 +17395,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "HLC",
         "Market": "TO",
@@ -17408,7 +17408,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "HLF",
         "Market": "TO",
@@ -17421,7 +17421,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "HLM",
         "Market": "V",
@@ -17434,7 +17434,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "HMA",
         "Market": "TO",
@@ -17447,7 +17447,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "HMB",
         "Market": "V",
@@ -17460,7 +17460,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "HME",
         "Market": "V",
@@ -17473,7 +17473,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "HMF",
         "Market": "TO",
@@ -17486,7 +17486,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "HMI",
         "Market": "V",
@@ -17499,7 +17499,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "HMM.A",
         "Market": "TO",
@@ -17512,7 +17512,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "HMP",
         "Market": "TO",
@@ -17525,7 +17525,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "HMT",
         "Market": "V",
@@ -17538,7 +17538,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "HMX",
         "Market": "V",
@@ -17551,7 +17551,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "HN",
         "Market": "V",
@@ -17564,7 +17564,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "HNC",
         "Market": "V",
@@ -17577,7 +17577,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "HND",
         "Market": "TO",
@@ -17590,7 +17590,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "HNL",
         "Market": "TO",
@@ -17603,7 +17603,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "HNU",
         "Market": "TO",
@@ -17616,7 +17616,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "HNY",
         "Market": "TO",
@@ -17629,7 +17629,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "HNZ.A",
         "Market": "TO",
@@ -17642,7 +17642,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "HOD",
         "Market": "TO",
@@ -17655,7 +17655,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "HOG",
         "Market": "TO",
@@ -17668,7 +17668,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "HOP",
         "Market": "V",
@@ -17681,7 +17681,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "HOT.UN",
         "Market": "TO",
@@ -17694,7 +17694,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": "OTCQX"
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "HOU",
         "Market": "TO",
@@ -17707,7 +17707,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "HPF.UN",
         "Market": "TO",
@@ -17720,7 +17720,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "HPI",
         "Market": "V",
@@ -17733,7 +17733,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "HPL",
         "Market": "V",
@@ -17746,7 +17746,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "HPR",
         "Market": "TO",
@@ -17759,7 +17759,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "HPS.A",
         "Market": "TO",
@@ -17772,7 +17772,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "HPY",
         "Market": "V",
@@ -17785,7 +17785,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "HQD",
         "Market": "TO",
@@ -17798,7 +17798,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "HQU",
         "Market": "TO",
@@ -17811,7 +17811,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "HR.UN",
         "Market": "TO",
@@ -17824,7 +17824,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "HRC",
         "Market": "V",
@@ -17837,7 +17837,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "HRE",
         "Market": "V",
@@ -17850,7 +17850,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": "OTCQX"
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "HRH",
         "Market": "V",
@@ -17863,7 +17863,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "HRL",
         "Market": "V",
@@ -17876,7 +17876,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "HRM",
         "Market": "V",
@@ -17889,7 +17889,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "HRR.UN",
         "Market": "TO",
@@ -17902,7 +17902,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "HRT",
         "Market": "TO",
@@ -17915,7 +17915,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "HRX",
         "Market": "TO",
@@ -17928,7 +17928,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "HSB.PR.C",
         "Market": "TO",
@@ -17941,7 +17941,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "HSC.UN",
         "Market": "TO",
@@ -17954,7 +17954,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "HSD",
         "Market": "TO",
@@ -17967,7 +17967,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "HSE",
         "Market": "TO",
@@ -17980,7 +17980,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "HSL",
         "Market": "TO",
@@ -17993,7 +17993,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "HSR",
         "Market": "V",
@@ -18006,7 +18006,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "HSU",
         "Market": "TO",
@@ -18019,7 +18019,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "HTA.UN",
         "Market": "TO",
@@ -18032,7 +18032,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "HTB",
         "Market": "TO",
@@ -18045,7 +18045,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "HTC",
         "Market": "V",
@@ -18058,7 +18058,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "HTD",
         "Market": "TO",
@@ -18071,7 +18071,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "HTL",
         "Market": "V",
@@ -18084,7 +18084,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "HTO.UN",
         "Market": "TO",
@@ -18097,7 +18097,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "HTR",
         "Market": "V",
@@ -18110,7 +18110,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "HUC",
         "Market": "TO",
@@ -18123,7 +18123,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "HUD",
         "Market": "V",
@@ -18136,7 +18136,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": "OTCQX"
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "HUF",
         "Market": "TO",
@@ -18149,7 +18149,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "HUG",
         "Market": "TO",
@@ -18162,7 +18162,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "HUL.UN",
         "Market": "TO",
@@ -18175,7 +18175,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "HUN",
         "Market": "TO",
@@ -18188,7 +18188,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "HUS.U",
         "Market": "TO",
@@ -18201,7 +18201,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "HUT",
         "Market": "TO",
@@ -18214,7 +18214,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "HUV",
         "Market": "TO",
@@ -18227,7 +18227,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "HUZ",
         "Market": "TO",
@@ -18240,7 +18240,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "HVG",
         "Market": "V",
@@ -18253,7 +18253,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "HVI",
         "Market": "TO",
@@ -18266,7 +18266,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "HVU",
         "Market": "TO",
@@ -18279,7 +18279,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "HVV",
         "Market": "V",
@@ -18292,7 +18292,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "HWD",
         "Market": "TO",
@@ -18305,7 +18305,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "HWK.A",
         "Market": "V",
@@ -18318,7 +18318,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "HWO",
         "Market": "TO",
@@ -18331,7 +18331,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "HWY",
         "Market": "V",
@@ -18344,7 +18344,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "HXC",
         "Market": "V",
@@ -18357,7 +18357,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "HXD",
         "Market": "TO",
@@ -18370,7 +18370,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "HXE",
         "Market": "TO",
@@ -18383,7 +18383,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "HXF",
         "Market": "TO",
@@ -18396,7 +18396,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "HXS",
         "Market": "TO",
@@ -18409,7 +18409,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "HXT",
         "Market": "TO",
@@ -18422,7 +18422,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "HXU",
         "Market": "TO",
@@ -18435,7 +18435,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "HYB.UN",
         "Market": "TO",
@@ -18448,7 +18448,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "HYD",
         "Market": "TO",
@@ -18461,7 +18461,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "HYG",
         "Market": "TO",
@@ -18474,7 +18474,7 @@ var tickers= [
         "USSymbol": "HYGS",
         "ICntry": "US",
         "USM": "NasdaqGM"
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "HYI",
         "Market": "TO",
@@ -18487,7 +18487,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "HZD",
         "Market": "TO",
@@ -18500,7 +18500,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "HZM",
         "Market": "TO",
@@ -18513,7 +18513,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": "AIM"
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "HZU",
         "Market": "TO",
@@ -18526,7 +18526,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "I",
         "Market": "TO",
@@ -18539,7 +18539,7 @@ var tickers= [
         "USSymbol": "IPCI",
         "ICntry": "US",
         "USM": "NasdaqCM"
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "IAC.UN",
         "Market": "TO",
@@ -18552,7 +18552,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "IAE",
         "Market": "TO",
@@ -18565,7 +18565,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": "AIM"
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "IAG",
         "Market": "TO",
@@ -18578,7 +18578,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "IAM",
         "Market": "TO",
@@ -18591,7 +18591,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "IB",
         "Market": "V",
@@ -18604,7 +18604,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": "OTCQX"
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "IBC",
         "Market": "V",
@@ -18617,7 +18617,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "IBG",
         "Market": "TO",
@@ -18630,7 +18630,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "IBH",
         "Market": "V",
@@ -18643,7 +18643,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "IBT",
         "Market": "V",
@@ -18656,7 +18656,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "ICE",
         "Market": "TO",
@@ -18669,7 +18669,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "ICG",
         "Market": "V",
@@ -18682,7 +18682,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": "OTCQX"
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "ICM",
         "Market": "V",
@@ -18695,7 +18695,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "ICO",
         "Market": "V",
@@ -18708,7 +18708,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": "OTCQX"
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "ICP",
         "Market": "TO",
@@ -18721,7 +18721,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": "OTCQX"
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "ICU",
         "Market": "V",
@@ -18734,7 +18734,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "IDC",
         "Market": "TO",
@@ -18747,7 +18747,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "IDG",
         "Market": "TO",
@@ -18760,7 +18760,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "IDI",
         "Market": "V",
@@ -18773,7 +18773,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "IDL",
         "Market": "V",
@@ -18786,7 +18786,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "IDM",
         "Market": "TO",
@@ -18799,7 +18799,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "IDR.UN",
         "Market": "TO",
@@ -18812,7 +18812,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "IDW",
         "Market": "V",
@@ -18825,7 +18825,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "IDX.UN",
         "Market": "TO",
@@ -18838,7 +18838,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "IEI",
         "Market": "V",
@@ -18851,7 +18851,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "IES",
         "Market": "V",
@@ -18864,7 +18864,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "IEX",
         "Market": "V",
@@ -18877,7 +18877,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "IFA",
         "Market": "TO",
@@ -18890,7 +18890,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "IFB.UN",
         "Market": "TO",
@@ -18903,7 +18903,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "IFC",
         "Market": "TO",
@@ -18916,7 +18916,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "IFD",
         "Market": "V",
@@ -18929,7 +18929,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "IFL.UN",
         "Market": "TO",
@@ -18942,7 +18942,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "IFM",
         "Market": "V",
@@ -18955,7 +18955,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "IFP",
         "Market": "TO",
@@ -18968,7 +18968,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "IFR",
         "Market": "V",
@@ -18981,7 +18981,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "IFX",
         "Market": "V",
@@ -18994,7 +18994,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "IGD",
         "Market": "V",
@@ -19007,7 +19007,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": "OTCQX"
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "IGG",
         "Market": "TO",
@@ -19020,7 +19020,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "IGM",
         "Market": "TO",
@@ -19033,7 +19033,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "IGO",
         "Market": "V",
@@ -19046,7 +19046,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "IGP",
         "Market": "V",
@@ -19059,7 +19059,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "IGT",
         "Market": "TO",
@@ -19072,7 +19072,7 @@ var tickers= [
         "USSymbol": "IAU",
         "ICntry": "US",
         "USM": "NYSE Arca"
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "IGX",
         "Market": "V",
@@ -19085,7 +19085,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": "OTCQX"
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "IHL.UN",
         "Market": "TO",
@@ -19098,7 +19098,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "III",
         "Market": "TO",
@@ -19111,7 +19111,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "IIP.UN",
         "Market": "TO",
@@ -19124,7 +19124,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "IKM",
         "Market": "V",
@@ -19137,7 +19137,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "ILA",
         "Market": "V",
@@ -19150,7 +19150,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "ILC",
         "Market": "V",
@@ -19163,7 +19163,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "ILV",
         "Market": "TO",
@@ -19176,7 +19176,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "IMA",
         "Market": "V",
@@ -19189,7 +19189,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": "OTCQX"
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "IMG",
         "Market": "TO",
@@ -19202,7 +19202,7 @@ var tickers= [
         "USSymbol": "IAG",
         "ICntry": "US",
         "USM": "NYSE"
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "IMI",
         "Market": "V",
@@ -19215,7 +19215,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "IML",
         "Market": "V",
@@ -19228,7 +19228,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "IMM",
         "Market": "V",
@@ -19241,7 +19241,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "IMO",
         "Market": "TO",
@@ -19254,7 +19254,7 @@ var tickers= [
         "USSymbol": "IMO",
         "ICntry": "US",
         "USM": "NYSE MKT"
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "IMP",
         "Market": "TO",
@@ -19267,7 +19267,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "IMT",
         "Market": "V",
@@ -19280,7 +19280,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "IMU",
         "Market": "V",
@@ -19293,7 +19293,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "IMV",
         "Market": "TO",
@@ -19306,7 +19306,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": "OTCQX"
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "INA",
         "Market": "V",
@@ -19319,7 +19319,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "INC.UN",
         "Market": "TO",
@@ -19332,7 +19332,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "INE",
         "Market": "TO",
@@ -19345,7 +19345,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "INM",
         "Market": "V",
@@ -19358,7 +19358,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "INN.UN",
         "Market": "TO",
@@ -19371,7 +19371,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "INO.UN",
         "Market": "TO",
@@ -19384,7 +19384,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "INP",
         "Market": "V",
@@ -19397,7 +19397,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "INQ",
         "Market": "TO",
@@ -19410,7 +19410,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "INT",
         "Market": "V",
@@ -19423,7 +19423,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": "OTCQX"
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "INV",
         "Market": "TO",
@@ -19436,7 +19436,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "INX",
         "Market": "V",
@@ -19449,7 +19449,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "IO",
         "Market": "V",
@@ -19462,7 +19462,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "IOG",
         "Market": "V",
@@ -19475,7 +19475,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "IOT",
         "Market": "V",
@@ -19488,7 +19488,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "IOU",
         "Market": "V",
@@ -19501,7 +19501,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "IPC",
         "Market": "V",
@@ -19514,7 +19514,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "IPD",
         "Market": "V",
@@ -19527,7 +19527,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "IPL",
         "Market": "TO",
@@ -19540,7 +19540,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "IPT",
         "Market": "V",
@@ -19553,7 +19553,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "IQ",
         "Market": "V",
@@ -19566,7 +19566,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "IRC",
         "Market": "V",
@@ -19579,7 +19579,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": "OTCQX"
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "IRD",
         "Market": "TO",
@@ -19592,7 +19592,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "IRG",
         "Market": "TO",
@@ -19605,7 +19605,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "IRI",
         "Market": "V",
@@ -19618,7 +19618,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "IRL",
         "Market": "TO",
@@ -19631,7 +19631,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": "Lima (BVL)"
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "IRO",
         "Market": "V",
@@ -19644,7 +19644,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "IRR",
         "Market": "V",
@@ -19657,7 +19657,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "IS",
         "Market": "V",
@@ -19670,7 +19670,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "ISD",
         "Market": "V",
@@ -19683,7 +19683,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": "OTCQX"
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "ISL.UN",
         "Market": "TO",
@@ -19696,7 +19696,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "ISM",
         "Market": "TO",
@@ -19709,7 +19709,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "ISS",
         "Market": "V",
@@ -19722,7 +19722,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "ISV",
         "Market": "TO",
@@ -19735,7 +19735,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "IT",
         "Market": "TO",
@@ -19748,7 +19748,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "ITC",
         "Market": "TO",
@@ -19761,7 +19761,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "ITH",
         "Market": "TO",
@@ -19774,7 +19774,7 @@ var tickers= [
         "USSymbol": "THM",
         "ICntry": "US",
         "USM": "NYSE MKT"
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "ITM",
         "Market": "V",
@@ -19787,7 +19787,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "ITP",
         "Market": "TO",
@@ -19800,7 +19800,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "ITT",
         "Market": "V",
@@ -19813,7 +19813,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "IVC",
         "Market": "V",
@@ -19826,7 +19826,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "IVI",
         "Market": "V",
@@ -19839,7 +19839,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "IVN",
         "Market": "TO",
@@ -19852,7 +19852,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "IVQ.P",
         "Market": "V",
@@ -19865,7 +19865,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "IVS",
         "Market": "V",
@@ -19878,7 +19878,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "IVW",
         "Market": "TO",
@@ -19891,7 +19891,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "IVX",
         "Market": "V",
@@ -19904,7 +19904,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "IWG",
         "Market": "V",
@@ -19917,7 +19917,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "IXI",
         "Market": "V",
@@ -19930,7 +19930,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "IZN",
         "Market": "V",
@@ -19943,7 +19943,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "JAG",
         "Market": "V",
@@ -19956,7 +19956,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "JAU",
         "Market": "V",
@@ -19969,7 +19969,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "JAX",
         "Market": "V",
@@ -19982,7 +19982,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "JCO",
         "Market": "V",
@@ -19995,7 +19995,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": "OTCQX"
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "JDL",
         "Market": "V",
@@ -20008,7 +20008,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "JDN",
         "Market": "TO",
@@ -20021,7 +20021,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "JE",
         "Market": "TO",
@@ -20034,7 +20034,7 @@ var tickers= [
         "USSymbol": "JE",
         "ICntry": "US",
         "USM": "NYSE"
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "JEC",
         "Market": "TO",
@@ -20047,7 +20047,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "JET",
         "Market": "V",
@@ -20060,7 +20060,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "JFC",
         "Market": "V",
@@ -20073,7 +20073,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "JFI",
         "Market": "V",
@@ -20086,7 +20086,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "JFS.UN",
         "Market": "TO",
@@ -20099,7 +20099,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "JLR",
         "Market": "V",
@@ -20112,7 +20112,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "JML",
         "Market": "V",
@@ -20125,7 +20125,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "JNX",
         "Market": "V",
@@ -20138,7 +20138,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "JOR",
         "Market": "V",
@@ -20151,7 +20151,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "JOY",
         "Market": "TO",
@@ -20164,7 +20164,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "JP",
         "Market": "V",
@@ -20177,7 +20177,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "JRI",
         "Market": "V",
@@ -20190,7 +20190,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "JSP",
         "Market": "V",
@@ -20203,7 +20203,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "JTC",
         "Market": "V",
@@ -20216,7 +20216,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "JTR",
         "Market": "V",
@@ -20229,7 +20229,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "JUB",
         "Market": "V",
@@ -20242,7 +20242,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "JZR",
         "Market": "V",
@@ -20255,7 +20255,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "K",
         "Market": "TO",
@@ -20268,7 +20268,7 @@ var tickers= [
         "USSymbol": "KGC",
         "ICntry": "US",
         "USM": "NYSE"
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "KAM",
         "Market": "V",
@@ -20281,7 +20281,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "KAP",
         "Market": "V",
@@ -20294,7 +20294,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "KAR",
         "Market": "V",
@@ -20307,7 +20307,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "KAS",
         "Market": "V",
@@ -20320,7 +20320,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "KAT",
         "Market": "TO",
@@ -20333,7 +20333,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "KAY",
         "Market": "V",
@@ -20346,7 +20346,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "KBG",
         "Market": "V",
@@ -20359,7 +20359,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "KBL",
         "Market": "TO",
@@ -20372,7 +20372,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "KBT",
         "Market": "V",
@@ -20385,7 +20385,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "KCC",
         "Market": "V",
@@ -20398,7 +20398,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "KCK",
         "Market": "V",
@@ -20411,7 +20411,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "KDI",
         "Market": "V",
@@ -20424,7 +20424,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "KDX",
         "Market": "TO",
@@ -20437,7 +20437,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": "OTCQX"
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "KEG.UN",
         "Market": "TO",
@@ -20450,7 +20450,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "KEK",
         "Market": "V",
@@ -20463,7 +20463,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": "OTCQX"
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "KEL",
         "Market": "TO",
@@ -20476,7 +20476,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "KER",
         "Market": "TO",
@@ -20489,7 +20489,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "KES",
         "Market": "V",
@@ -20502,7 +20502,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "KEY",
         "Market": "TO",
@@ -20515,7 +20515,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "KFG",
         "Market": "V",
@@ -20528,7 +20528,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "KFS",
         "Market": "TO",
@@ -20541,7 +20541,7 @@ var tickers= [
         "USSymbol": "KFS",
         "ICntry": "US",
         "USM": "NYSE"
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "KG",
         "Market": "V",
@@ -20554,7 +20554,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "KGC",
         "Market": "V",
@@ -20567,7 +20567,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "KGF",
         "Market": "V",
@@ -20580,7 +20580,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "KGI",
         "Market": "TO",
@@ -20593,7 +20593,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": "AIM"
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "KGL",
         "Market": "V",
@@ -20606,7 +20606,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "KIT",
         "Market": "V",
@@ -20619,7 +20619,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "KIV",
         "Market": "V",
@@ -20632,7 +20632,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "KLE",
         "Market": "V",
@@ -20645,7 +20645,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "KLH",
         "Market": "V",
@@ -20658,7 +20658,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "KLM",
         "Market": "V",
@@ -20671,7 +20671,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "KLS",
         "Market": "TO",
@@ -20684,7 +20684,7 @@ var tickers= [
         "USSymbol": "KIQ",
         "ICntry": "US",
         "USM": "OTCQX"
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "KMP",
         "Market": "TO",
@@ -20697,7 +20697,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "KMT",
         "Market": "V",
@@ -20710,7 +20710,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "KNA",
         "Market": "V",
@@ -20723,7 +20723,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "KNE",
         "Market": "V",
@@ -20736,7 +20736,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "KNG",
         "Market": "V",
@@ -20749,7 +20749,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "KNX",
         "Market": "V",
@@ -20762,7 +20762,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "KOR",
         "Market": "TO",
@@ -20775,7 +20775,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": "OTCQX"
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "KPT",
         "Market": "TO",
@@ -20788,7 +20788,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "KR",
         "Market": "V",
@@ -20801,7 +20801,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "KRN",
         "Market": "TO",
@@ -20814,7 +20814,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "KRR",
         "Market": "V",
@@ -20827,7 +20827,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "KRS",
         "Market": "V",
@@ -20840,7 +20840,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "KS",
         "Market": "V",
@@ -20853,7 +20853,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "KSK",
         "Market": "V",
@@ -20866,7 +20866,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "KTN",
         "Market": "V",
@@ -20879,7 +20879,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "KUB",
         "Market": "V",
@@ -20892,7 +20892,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "KUT",
         "Market": "V",
@@ -20905,7 +20905,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "KWA",
         "Market": "V",
@@ -20918,7 +20918,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "KWF",
         "Market": "V",
@@ -20931,7 +20931,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "KWH.UN",
         "Market": "TO",
@@ -20944,7 +20944,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "KXM",
         "Market": "V",
@@ -20957,7 +20957,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": "OTCQB"
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "KXS",
         "Market": "TO",
@@ -20970,7 +20970,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "KYU",
         "Market": "V",
@@ -20983,7 +20983,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "KZD",
         "Market": "V",
@@ -20996,7 +20996,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "KZX",
         "Market": "V",
@@ -21009,7 +21009,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "KZZ",
         "Market": "V",
@@ -21022,7 +21022,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "L",
         "Market": "TO",
@@ -21035,7 +21035,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "LA",
         "Market": "V",
@@ -21048,7 +21048,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "LAB",
         "Market": "V",
@@ -21061,7 +21061,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "LAD",
         "Market": "V",
@@ -21074,7 +21074,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "LAK",
         "Market": "V",
@@ -21087,7 +21087,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "LAM",
         "Market": "TO",
@@ -21100,7 +21100,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": "ASX"
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "LAN",
         "Market": "V",
@@ -21113,7 +21113,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "LAQ",
         "Market": "V",
@@ -21126,7 +21126,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "LAS.A",
         "Market": "TO",
@@ -21139,7 +21139,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "LAT",
         "Market": "V",
@@ -21152,7 +21152,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": "OTCQX"
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "LB",
         "Market": "TO",
@@ -21165,7 +21165,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "LBS",
         "Market": "TO",
@@ -21178,7 +21178,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "LCS",
         "Market": "TO",
@@ -21191,7 +21191,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "LDM",
         "Market": "V",
@@ -21204,7 +21204,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "LE",
         "Market": "V",
@@ -21217,7 +21217,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "LED",
         "Market": "V",
@@ -21230,7 +21230,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "LEN",
         "Market": "V",
@@ -21243,7 +21243,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "LES",
         "Market": "V",
@@ -21256,7 +21256,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "LET",
         "Market": "V",
@@ -21269,7 +21269,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "LEX",
         "Market": "TO",
@@ -21282,7 +21282,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": "OTCQX"
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "LFE",
         "Market": "TO",
@@ -21295,7 +21295,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "LGC",
         "Market": "TO",
@@ -21308,7 +21308,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": "Lima (BVL)"
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "LGN",
         "Market": "V",
@@ -21321,7 +21321,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "LGO",
         "Market": "V",
@@ -21334,7 +21334,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "LGR",
         "Market": "V",
@@ -21347,7 +21347,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "LGT.B",
         "Market": "TO",
@@ -21360,7 +21360,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "LHC",
         "Market": "V",
@@ -21373,7 +21373,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "LHR",
         "Market": "V",
@@ -21386,7 +21386,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "LIF",
         "Market": "TO",
@@ -21399,7 +21399,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "LII",
         "Market": "TO",
@@ -21412,7 +21412,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "LIO",
         "Market": "V",
@@ -21425,7 +21425,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": "OTCQX"
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "LIQ",
         "Market": "TO",
@@ -21438,7 +21438,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "LIR",
         "Market": "V",
@@ -21451,7 +21451,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "LJ",
         "Market": "V",
@@ -21464,7 +21464,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "LL",
         "Market": "V",
@@ -21477,7 +21477,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "LLC",
         "Market": "V",
@@ -21490,7 +21490,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "LLG",
         "Market": "V",
@@ -21503,7 +21503,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": "OTCQX"
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "LM",
         "Market": "V",
@@ -21516,7 +21516,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "LMD",
         "Market": "V",
@@ -21529,7 +21529,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": "OTCQX"
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "LME",
         "Market": "V",
@@ -21542,7 +21542,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": "OTCQX"
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "LMG",
         "Market": "V",
@@ -21555,7 +21555,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "LMP",
         "Market": "TO",
@@ -21568,7 +21568,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "LMR",
         "Market": "V",
@@ -21581,7 +21581,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": "OTCQX"
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "LMS",
         "Market": "V",
@@ -21594,7 +21594,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "LN",
         "Market": "TO",
@@ -21607,7 +21607,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": "NYSE MKT"
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "LND",
         "Market": "V",
@@ -21620,7 +21620,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "LNE",
         "Market": "V",
@@ -21633,7 +21633,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "LNF",
         "Market": "TO",
@@ -21646,7 +21646,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "LNR",
         "Market": "TO",
@@ -21659,7 +21659,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "LOT",
         "Market": "V",
@@ -21672,7 +21672,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "LOW.UN",
         "Market": "TO",
@@ -21685,7 +21685,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "LPC",
         "Market": "V",
@@ -21698,7 +21698,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "LPK",
         "Market": "V",
@@ -21711,7 +21711,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "LPS",
         "Market": "V",
@@ -21724,7 +21724,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "LRA",
         "Market": "V",
@@ -21737,7 +21737,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "LRC",
         "Market": "V",
@@ -21750,7 +21750,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "LRE",
         "Market": "TO",
@@ -21763,7 +21763,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "LRL",
         "Market": "V",
@@ -21776,7 +21776,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "LRT.UN",
         "Market": "TO",
@@ -21789,7 +21789,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "LSG",
         "Market": "TO",
@@ -21802,7 +21802,7 @@ var tickers= [
         "USSymbol": "LSG",
         "ICntry": "US",
         "USM": "NYSE MKT"
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "LSI",
         "Market": "V",
@@ -21815,7 +21815,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "LTG",
         "Market": "V",
@@ -21828,7 +21828,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "LTS",
         "Market": "TO",
@@ -21841,7 +21841,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "LTV",
         "Market": "V",
@@ -21854,7 +21854,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "LTX",
         "Market": "V",
@@ -21867,7 +21867,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "LUC",
         "Market": "TO",
@@ -21880,7 +21880,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": "OMX Nordic Exchange"
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "LUG",
         "Market": "TO",
@@ -21893,7 +21893,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": "OMX Nordic Exchange"
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "LUN",
         "Market": "TO",
@@ -21906,7 +21906,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": "OMX Nordic Exchange"
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "LVL",
         "Market": "V",
@@ -21919,7 +21919,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "LVN",
         "Market": "TO",
@@ -21932,7 +21932,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": "OTCQX"
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "LVU.UN",
         "Market": "TO",
@@ -21945,7 +21945,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "LWP",
         "Market": "TO",
@@ -21958,7 +21958,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "LXE",
         "Market": "V",
@@ -21971,7 +21971,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "LYD",
         "Market": "TO",
@@ -21984,7 +21984,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "M",
         "Market": "V",
@@ -21997,7 +21997,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "MA",
         "Market": "TO",
@@ -22010,7 +22010,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "MAC",
         "Market": "V",
@@ -22023,7 +22023,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "MAD",
         "Market": "V",
@@ -22036,7 +22036,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "MAE",
         "Market": "V",
@@ -22049,7 +22049,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "MAG",
         "Market": "TO",
@@ -22062,7 +22062,7 @@ var tickers= [
         "USSymbol": "MVG",
         "ICntry": "US",
         "USM": "NYSE MKT"
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "MAH",
         "Market": "V",
@@ -22075,7 +22075,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "MAI",
         "Market": "V",
@@ -22088,7 +22088,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "MAK",
         "Market": "TO",
@@ -22101,7 +22101,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": "ASX"
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "MAL",
         "Market": "TO",
@@ -22114,7 +22114,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "MAN",
         "Market": "V",
@@ -22127,7 +22127,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "MAO",
         "Market": "V",
@@ -22140,7 +22140,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": "OTCQX"
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "MAP.P",
         "Market": "V",
@@ -22153,7 +22153,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "MAQ",
         "Market": "TO",
@@ -22166,7 +22166,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "MAR",
         "Market": "TO",
@@ -22179,7 +22179,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "MAS",
         "Market": "V",
@@ -22192,7 +22192,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "MAT",
         "Market": "V",
@@ -22205,7 +22205,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": "OTCQX"
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "MAW",
         "Market": "TO",
@@ -22218,7 +22218,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "MAX",
         "Market": "TO",
@@ -22231,7 +22231,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": "OTCQX"
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "MAY",
         "Market": "TO",
@@ -22244,7 +22244,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "MBA",
         "Market": "TO",
@@ -22257,7 +22257,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": "OTCQX"
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "MBB.UN",
         "Market": "TO",
@@ -22270,7 +22270,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "MBC",
         "Market": "TO",
@@ -22283,7 +22283,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": "OTCQX"
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "MBG",
         "Market": "V",
@@ -22296,7 +22296,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "MBI",
         "Market": "V",
@@ -22309,7 +22309,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "MBK.UN",
         "Market": "TO",
@@ -22322,7 +22322,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "MBN",
         "Market": "TO",
@@ -22335,7 +22335,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "MBO",
         "Market": "V",
@@ -22348,7 +22348,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "MBT",
         "Market": "TO",
@@ -22361,7 +22361,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "MBX",
         "Market": "TO",
@@ -22374,7 +22374,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "MCA",
         "Market": "V",
@@ -22387,7 +22387,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "MCB",
         "Market": "TO",
@@ -22400,7 +22400,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": "OTCQX"
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "MCC",
         "Market": "V",
@@ -22413,7 +22413,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "MCG",
         "Market": "V",
@@ -22426,7 +22426,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "MCI",
         "Market": "V",
@@ -22439,7 +22439,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "MCK",
         "Market": "V",
@@ -22452,7 +22452,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "MCM.A",
         "Market": "V",
@@ -22465,7 +22465,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "MCP.P",
         "Market": "V",
@@ -22478,7 +22478,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "MCR",
         "Market": "V",
@@ -22491,7 +22491,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "MCS",
         "Market": "V",
@@ -22504,7 +22504,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "MCU",
         "Market": "V",
@@ -22517,7 +22517,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "MCW",
         "Market": "V",
@@ -22530,7 +22530,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": "OTCQX"
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "MCZ",
         "Market": "TO",
@@ -22543,7 +22543,7 @@ var tickers= [
         "USSymbol": "MCZ",
         "ICntry": "US",
         "USM": "NYSE MKT"
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "MD",
         "Market": "V",
@@ -22556,7 +22556,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "MDA",
         "Market": "TO",
@@ -22569,7 +22569,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "MDF",
         "Market": "TO",
@@ -22582,7 +22582,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "MDI",
         "Market": "TO",
@@ -22595,7 +22595,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "MDL",
         "Market": "V",
@@ -22608,7 +22608,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": "OTCQX"
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "MDN",
         "Market": "TO",
@@ -22621,7 +22621,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "MDO",
         "Market": "V",
@@ -22634,7 +22634,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "MDS.UN",
         "Market": "TO",
@@ -22647,7 +22647,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "MDV",
         "Market": "V",
@@ -22660,7 +22660,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "MDX",
         "Market": "V",
@@ -22673,7 +22673,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "MDZ.A",
         "Market": "TO",
@@ -22686,7 +22686,7 @@ var tickers= [
         "USSymbol": "MDCA",
         "ICntry": "US",
         "USM": "NasdaqGM"
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "ME",
         "Market": "TO",
@@ -22699,7 +22699,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "MEA.P",
         "Market": "V",
@@ -22712,7 +22712,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "MED",
         "Market": "V",
@@ -22725,7 +22725,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "MEG",
         "Market": "TO",
@@ -22738,7 +22738,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "MEI",
         "Market": "V",
@@ -22751,7 +22751,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "MEK",
         "Market": "V",
@@ -22764,7 +22764,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "MEP",
         "Market": "V",
@@ -22777,7 +22777,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "MEQ",
         "Market": "TO",
@@ -22790,7 +22790,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "MET",
         "Market": "TO",
@@ -22803,7 +22803,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "MEZ",
         "Market": "V",
@@ -22816,7 +22816,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "MFC",
         "Market": "TO",
@@ -22829,7 +22829,7 @@ var tickers= [
         "USSymbol": "MFC",
         "ICntry": "US",
         "USM": "HKEx"
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "MFI",
         "Market": "TO",
@@ -22842,7 +22842,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "MFM",
         "Market": "V",
@@ -22855,7 +22855,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "MFR.UN",
         "Market": "TO",
@@ -22868,7 +22868,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "MFS",
         "Market": "V",
@@ -22881,7 +22881,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": "OTCQX"
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "MFX",
         "Market": "V",
@@ -22894,7 +22894,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "MG",
         "Market": "TO",
@@ -22907,7 +22907,7 @@ var tickers= [
         "USSymbol": "MGA",
         "ICntry": "US",
         "USM": "NYSE"
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "MGA",
         "Market": "TO",
@@ -22920,7 +22920,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "MGC",
         "Market": "V",
@@ -22933,7 +22933,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "MGG",
         "Market": "V",
@@ -22946,7 +22946,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "MGI",
         "Market": "V",
@@ -22959,7 +22959,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "MGL",
         "Market": "V",
@@ -22972,7 +22972,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "MGO",
         "Market": "TO",
@@ -22985,7 +22985,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "MGS",
         "Market": "V",
@@ -22998,7 +22998,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "MGT",
         "Market": "TO",
@@ -23011,7 +23011,7 @@ var tickers= [
         "USSymbol": "MGN",
         "ICntry": "US",
         "USM": "NYSE MKT"
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "MGW",
         "Market": "V",
@@ -23024,7 +23024,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "MHI",
         "Market": "V",
@@ -23037,7 +23037,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "MHY.UN",
         "Market": "TO",
@@ -23050,7 +23050,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "MI",
         "Market": "V",
@@ -23063,7 +23063,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "MIA.P",
         "Market": "V",
@@ -23076,7 +23076,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "MIC",
         "Market": "TO",
@@ -23089,7 +23089,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "MID.UN",
         "Market": "TO",
@@ -23102,7 +23102,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "MIF.UN",
         "Market": "TO",
@@ -23115,7 +23115,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "MIG.UN",
         "Market": "TO",
@@ -23128,7 +23128,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "MIN",
         "Market": "V",
@@ -23141,7 +23141,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": "OTCQX"
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "MIO",
         "Market": "V",
@@ -23154,7 +23154,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": "ASX"
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "MIR",
         "Market": "V",
@@ -23167,7 +23167,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "MIT",
         "Market": "V",
@@ -23180,7 +23180,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "MIX",
         "Market": "V",
@@ -23193,7 +23193,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "MJN",
         "Market": "V",
@@ -23206,7 +23206,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "MJO",
         "Market": "V",
@@ -23219,7 +23219,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "MJS",
         "Market": "V",
@@ -23232,7 +23232,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": "OTCQX"
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "MJX",
         "Market": "V",
@@ -23245,7 +23245,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "MKA",
         "Market": "V",
@@ -23258,7 +23258,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "MKN",
         "Market": "V",
@@ -23271,7 +23271,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "MKP",
         "Market": "TO",
@@ -23284,7 +23284,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "MKR",
         "Market": "V",
@@ -23297,7 +23297,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "MKZ.UN",
         "Market": "TO",
@@ -23310,7 +23310,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "MLD.UN",
         "Market": "TO",
@@ -23323,7 +23323,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "MLE.UN",
         "Market": "TO",
@@ -23336,7 +23336,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "MLF.UN",
         "Market": "TO",
@@ -23349,7 +23349,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "MLM",
         "Market": "V",
@@ -23362,7 +23362,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "MLN",
         "Market": "V",
@@ -23375,7 +23375,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": "OTCQX"
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "MLP",
         "Market": "TO",
@@ -23388,7 +23388,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "MLR",
         "Market": "V",
@@ -23401,7 +23401,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "MLY",
         "Market": "V",
@@ -23414,7 +23414,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": "OTCQX"
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "MM",
         "Market": "TO",
@@ -23427,7 +23427,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": "AIM"
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "MMA",
         "Market": "V",
@@ -23440,7 +23440,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "MMC.P",
         "Market": "V",
@@ -23453,7 +23453,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "MMF.UN",
         "Market": "TO",
@@ -23466,7 +23466,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "MML",
         "Market": "V",
@@ -23479,7 +23479,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "MMM",
         "Market": "TO",
@@ -23492,7 +23492,7 @@ var tickers= [
         "USSymbol": "MGH",
         "ICntry": "US",
         "USM": "NYSE MKT"
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "MMO",
         "Market": "V",
@@ -23505,7 +23505,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "MMP.UN",
         "Market": "TO",
@@ -23518,7 +23518,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "MMS",
         "Market": "V",
@@ -23531,7 +23531,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": "OTCQX"
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "MMT",
         "Market": "TO",
@@ -23544,7 +23544,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "MMV",
         "Market": "V",
@@ -23557,7 +23557,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": "OTCQX"
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "MMX",
         "Market": "V",
@@ -23570,7 +23570,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "MMY",
         "Market": "V",
@@ -23583,7 +23583,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "MND",
         "Market": "TO",
@@ -23596,7 +23596,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "MNH",
         "Market": "V",
@@ -23609,7 +23609,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "MNM",
         "Market": "V",
@@ -23622,7 +23622,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": "OTCQX"
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "MNP",
         "Market": "V",
@@ -23635,7 +23635,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "MNS",
         "Market": "TO",
@@ -23648,7 +23648,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "MNT",
         "Market": "TO",
@@ -23661,7 +23661,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "MNW",
         "Market": "TO",
@@ -23674,7 +23674,7 @@ var tickers= [
         "USSymbol": "MITL",
         "ICntry": "US",
         "USM": "NasdaqGM"
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "MNX",
         "Market": "V",
@@ -23687,7 +23687,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "MNY",
         "Market": "V",
@@ -23700,7 +23700,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "MOC",
         "Market": "V",
@@ -23713,7 +23713,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "MOI",
         "Market": "V",
@@ -23726,7 +23726,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "MOM",
         "Market": "V",
@@ -23739,7 +23739,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "MON",
         "Market": "V",
@@ -23752,7 +23752,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "MOO",
         "Market": "V",
@@ -23765,7 +23765,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "MOR",
         "Market": "V",
@@ -23778,7 +23778,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "MOV.P",
         "Market": "V",
@@ -23791,7 +23791,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "MOX",
         "Market": "V",
@@ -23804,7 +23804,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "MOZ",
         "Market": "TO",
@@ -23817,7 +23817,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "MPC",
         "Market": "TO",
@@ -23830,7 +23830,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "MPH",
         "Market": "V",
@@ -23843,7 +23843,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "MPI",
         "Market": "TO",
@@ -23856,7 +23856,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "MPL",
         "Market": "V",
@@ -23869,7 +23869,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "MPS",
         "Market": "V",
@@ -23882,7 +23882,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "MPT",
         "Market": "V",
@@ -23895,7 +23895,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "MPV",
         "Market": "TO",
@@ -23908,7 +23908,7 @@ var tickers= [
         "USSymbol": "MDM",
         "ICntry": "US",
         "USM": "NasdaqGM"
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "MQA.UN",
         "Market": "TO",
@@ -23921,7 +23921,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "MQI.UN",
         "Market": "TO",
@@ -23934,7 +23934,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "MQL",
         "Market": "V",
@@ -23947,7 +23947,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": "OTCQX"
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "MQR",
         "Market": "V",
@@ -23960,7 +23960,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "MQV.P",
         "Market": "V",
@@ -23973,7 +23973,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "MR.UN",
         "Market": "TO",
@@ -23986,7 +23986,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "MRB",
         "Market": "V",
@@ -23999,7 +23999,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "MRC",
         "Market": "TO",
@@ -24012,7 +24012,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "MRD",
         "Market": "TO",
@@ -24025,7 +24025,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "MRE",
         "Market": "TO",
@@ -24038,7 +24038,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "MRG.UN",
         "Market": "TO",
@@ -24051,7 +24051,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "MRI.U",
         "Market": "TO",
@@ -24064,7 +24064,7 @@ var tickers= [
         "USSymbol": "MERC",
         "ICntry": "US",
         "USM": "NasdaqGM"
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "MRL",
         "Market": "V",
@@ -24077,7 +24077,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "MRN",
         "Market": "TO",
@@ -24090,7 +24090,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": "ASX"
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "MRO",
         "Market": "V",
@@ -24103,7 +24103,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": "OTCQX"
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "MRS",
         "Market": "V",
@@ -24116,7 +24116,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "MRT.UN",
         "Market": "TO",
@@ -24129,7 +24129,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "MRU",
         "Market": "TO",
@@ -24142,7 +24142,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "MRV",
         "Market": "V",
@@ -24155,7 +24155,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "MRZ",
         "Market": "V",
@@ -24168,7 +24168,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "MSA",
         "Market": "V",
@@ -24181,7 +24181,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "MSD",
         "Market": "V",
@@ -24194,7 +24194,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "MSI",
         "Market": "TO",
@@ -24207,7 +24207,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "MSL",
         "Market": "TO",
@@ -24220,7 +24220,7 @@ var tickers= [
         "USSymbol": "MSLI",
         "ICntry": "US",
         "USM": "NasdaqCM"
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "MSP",
         "Market": "V",
@@ -24233,7 +24233,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "MSR",
         "Market": "V",
@@ -24246,7 +24246,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "MST.UN",
         "Market": "TO",
@@ -24259,7 +24259,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "MSV",
         "Market": "TO",
@@ -24272,7 +24272,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": "OTCQX"
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "MT",
         "Market": "V",
@@ -24285,7 +24285,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "MTB",
         "Market": "V",
@@ -24298,7 +24298,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "MTC",
         "Market": "V",
@@ -24311,7 +24311,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "MTE",
         "Market": "V",
@@ -24324,7 +24324,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "MTG",
         "Market": "TO",
@@ -24337,7 +24337,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "MTH",
         "Market": "V",
@@ -24350,7 +24350,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "MTL",
         "Market": "TO",
@@ -24363,7 +24363,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "MTO",
         "Market": "V",
@@ -24376,7 +24376,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "MTS",
         "Market": "V",
@@ -24389,7 +24389,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "MTU",
         "Market": "V",
@@ -24402,7 +24402,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "MTV",
         "Market": "V",
@@ -24415,7 +24415,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "MTX",
         "Market": "V",
@@ -24428,7 +24428,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "MTY",
         "Market": "TO",
@@ -24441,7 +24441,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "MTZ",
         "Market": "V",
@@ -24454,7 +24454,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "MU",
         "Market": "V",
@@ -24467,7 +24467,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "MUM",
         "Market": "V",
@@ -24480,7 +24480,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "MUN",
         "Market": "V",
@@ -24493,7 +24493,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "MUX",
         "Market": "TO",
@@ -24506,7 +24506,7 @@ var tickers= [
         "USSymbol": "MUX",
         "ICntry": "US",
         "USM": "NYSE"
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "MV",
         "Market": "V",
@@ -24519,7 +24519,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "MVA.P",
         "Market": "V",
@@ -24532,7 +24532,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "MVM",
         "Market": "V",
@@ -24545,7 +24545,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "MVN",
         "Market": "V",
@@ -24558,7 +24558,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "MVP",
         "Market": "V",
@@ -24571,7 +24571,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "MVW",
         "Market": "V",
@@ -24584,7 +24584,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": "OTCQX"
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "MWE",
         "Market": "TO",
@@ -24597,7 +24597,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "MWI.UN",
         "Market": "V",
@@ -24610,7 +24610,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "MWX",
         "Market": "V",
@@ -24623,7 +24623,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "MX",
         "Market": "TO",
@@ -24636,7 +24636,7 @@ var tickers= [
         "USSymbol": "MEOH",
         "ICntry": "US",
         "USM": "NasdaqGM"
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "MXF",
         "Market": "TO",
@@ -24649,7 +24649,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "MXG",
         "Market": "TO",
@@ -24662,7 +24662,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "MXI",
         "Market": "V",
@@ -24675,7 +24675,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "MXM",
         "Market": "V",
@@ -24688,7 +24688,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "MXR",
         "Market": "V",
@@ -24701,7 +24701,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "MXX",
         "Market": "V",
@@ -24714,7 +24714,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "MYA",
         "Market": "V",
@@ -24727,7 +24727,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "MZI",
         "Market": "V",
@@ -24740,7 +24740,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "NA",
         "Market": "TO",
@@ -24753,7 +24753,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "NAA",
         "Market": "V",
@@ -24766,7 +24766,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": "OTCQX"
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "NAF.UN",
         "Market": "TO",
@@ -24779,7 +24779,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "NAI",
         "Market": "V",
@@ -24792,7 +24792,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "NAL",
         "Market": "TO",
@@ -24805,7 +24805,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "NAN",
         "Market": "V",
@@ -24818,7 +24818,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "NAP",
         "Market": "V",
@@ -24831,7 +24831,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "NAR",
         "Market": "V",
@@ -24844,7 +24844,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "NB",
         "Market": "TO",
@@ -24857,7 +24857,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": "OTCQX"
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "NBD",
         "Market": "TO",
@@ -24870,7 +24870,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "NBR",
         "Market": "V",
@@ -24883,7 +24883,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "NBU",
         "Market": "V",
@@ -24896,7 +24896,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "NBZ",
         "Market": "TO",
@@ -24909,7 +24909,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "NCA",
         "Market": "V",
@@ -24922,7 +24922,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": "OTCQX"
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "NCC.A",
         "Market": "TO",
@@ -24935,7 +24935,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "NCD.UN",
         "Market": "TO",
@@ -24948,7 +24948,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "NCE",
         "Market": "V",
@@ -24961,7 +24961,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "NCF",
         "Market": "TO",
@@ -24974,7 +24974,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "NCI",
         "Market": "V",
@@ -24987,7 +24987,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "NCO",
         "Market": "V",
@@ -25000,7 +25000,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "NCQ",
         "Market": "TO",
@@ -25013,7 +25013,7 @@ var tickers= [
         "USSymbol": "NCQ",
         "ICntry": "US",
         "USM": "NYSE MKT"
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "NCU",
         "Market": "TO",
@@ -25026,7 +25026,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "NCX",
         "Market": "V",
@@ -25039,7 +25039,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "NDM",
         "Market": "TO",
@@ -25052,7 +25052,7 @@ var tickers= [
         "USSymbol": "NAK",
         "ICntry": "US",
         "USM": "NYSE MKT"
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "NDQ",
         "Market": "TO",
@@ -25065,7 +25065,7 @@ var tickers= [
         "USSymbol": "NVDQ",
         "ICntry": "US",
         "USM": "NasdaqGM"
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "NDR",
         "Market": "V",
@@ -25078,7 +25078,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "NED",
         "Market": "V",
@@ -25091,7 +25091,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "NEE",
         "Market": "V",
@@ -25104,7 +25104,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": "OTCQX"
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "NEL.UN",
         "Market": "V",
@@ -25117,7 +25117,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "NEM",
         "Market": "V",
@@ -25130,7 +25130,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "NER",
         "Market": "V",
@@ -25143,7 +25143,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "NET",
         "Market": "V",
@@ -25156,7 +25156,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "NEV",
         "Market": "V",
@@ -25169,7 +25169,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "NEW.A",
         "Market": "TO",
@@ -25182,7 +25182,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "NFD.A",
         "Market": "V",
@@ -25195,7 +25195,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "NFE",
         "Market": "V",
@@ -25208,7 +25208,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": "OTCQX"
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "NFI",
         "Market": "TO",
@@ -25221,7 +25221,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "NFR",
         "Market": "V",
@@ -25234,7 +25234,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "NG",
         "Market": "TO",
@@ -25247,7 +25247,7 @@ var tickers= [
         "USSymbol": "NG",
         "ICntry": "US",
         "USM": "NYSE MKT"
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "NGC",
         "Market": "V",
@@ -25260,7 +25260,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": "OTCQX"
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "NGD",
         "Market": "TO",
@@ -25273,7 +25273,7 @@ var tickers= [
         "USSymbol": "NGD",
         "ICntry": "US",
         "USM": "NYSE MKT"
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "NGE",
         "Market": "V",
@@ -25286,7 +25286,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "NGH",
         "Market": "V",
@@ -25299,7 +25299,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "NGI.UN",
         "Market": "TO",
@@ -25312,7 +25312,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "NGM",
         "Market": "V",
@@ -25325,7 +25325,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "NGQ",
         "Market": "TO",
@@ -25338,7 +25338,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": "OMX Nordic Exchange"
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "NHC",
         "Market": "TO",
@@ -25351,7 +25351,7 @@ var tickers= [
         "USSymbol": "HLTH",
         "ICntry": "US",
         "USM": "NYSE MKT"
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "NHK",
         "Market": "V",
@@ -25364,7 +25364,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "NI",
         "Market": "TO",
@@ -25377,7 +25377,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "NIA",
         "Market": "V",
@@ -25390,7 +25390,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "NIC",
         "Market": "V",
@@ -25403,7 +25403,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "NIF.UN",
         "Market": "TO",
@@ -25416,7 +25416,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "NII",
         "Market": "TO",
@@ -25429,7 +25429,7 @@ var tickers= [
         "USSymbol": "NSAT",
         "ICntry": "US",
         "USM": "NYSE MKT"
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "NIK",
         "Market": "V",
@@ -25442,7 +25442,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "NIM",
         "Market": "V",
@@ -25455,7 +25455,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "NIO",
         "Market": "V",
@@ -25468,7 +25468,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "NIP",
         "Market": "V",
@@ -25481,7 +25481,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "NIR",
         "Market": "V",
@@ -25494,7 +25494,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "NKO",
         "Market": "TO",
@@ -25507,7 +25507,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "NKW",
         "Market": "V",
@@ -25520,7 +25520,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "NL",
         "Market": "V",
@@ -25533,7 +25533,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "NLL",
         "Market": "V",
@@ -25546,7 +25546,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "NLN",
         "Market": "TO",
@@ -25559,7 +25559,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "NM",
         "Market": "V",
@@ -25572,7 +25572,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "NMD",
         "Market": "V",
@@ -25585,7 +25585,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "NMG",
         "Market": "V",
@@ -25598,7 +25598,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "NMI",
         "Market": "TO",
@@ -25611,7 +25611,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": "OTCQX"
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "NML",
         "Market": "TO",
@@ -25624,7 +25624,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": "OTCQX"
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "NMX",
         "Market": "V",
@@ -25637,7 +25637,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": "OTCQX"
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "NNA",
         "Market": "V",
@@ -25650,7 +25650,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "NNO",
         "Market": "V",
@@ -25663,7 +25663,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "NNP",
         "Market": "V",
@@ -25676,7 +25676,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "NNX",
         "Market": "V",
@@ -25689,7 +25689,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "NOA",
         "Market": "TO",
@@ -25702,7 +25702,7 @@ var tickers= [
         "USSymbol": "NOA",
         "ICntry": "US",
         "USM": "NYSE"
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "NOB",
         "Market": "V",
@@ -25715,7 +25715,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "NOG",
         "Market": "V",
@@ -25728,7 +25728,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "NOR",
         "Market": "V",
@@ -25741,7 +25741,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "NOT",
         "Market": "V",
@@ -25754,7 +25754,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "NOU",
         "Market": "V",
@@ -25767,7 +25767,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "NOV",
         "Market": "V",
@@ -25780,7 +25780,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "NOX",
         "Market": "V",
@@ -25793,7 +25793,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": "OTCQX"
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "NPA",
         "Market": "V",
@@ -25806,7 +25806,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "NPC",
         "Market": "TO",
@@ -25819,7 +25819,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "NPD",
         "Market": "V",
@@ -25832,7 +25832,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": "OTCQX"
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "NPF.UN",
         "Market": "TO",
@@ -25845,7 +25845,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "NPH",
         "Market": "V",
@@ -25858,7 +25858,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "NPI",
         "Market": "TO",
@@ -25871,7 +25871,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "NPK",
         "Market": "TO",
@@ -25884,7 +25884,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "NPR.UN",
         "Market": "TO",
@@ -25897,7 +25897,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "NPS",
         "Market": "TO",
@@ -25910,7 +25910,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "NQ",
         "Market": "V",
@@ -25923,7 +25923,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "NQE",
         "Market": "V",
@@ -25936,7 +25936,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "NR",
         "Market": "V",
@@ -25949,7 +25949,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "NRE",
         "Market": "TO",
@@ -25962,7 +25962,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": "OTCQX"
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "NRF.UN",
         "Market": "TO",
@@ -25975,7 +25975,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "NRI",
         "Market": "TO",
@@ -25988,7 +25988,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "NRL",
         "Market": "V",
@@ -26001,7 +26001,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "NRM",
         "Market": "V",
@@ -26014,7 +26014,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "NRN",
         "Market": "V",
@@ -26027,7 +26027,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "NRT",
         "Market": "V",
@@ -26040,7 +26040,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "NS",
         "Market": "V",
@@ -26053,7 +26053,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "NSC",
         "Market": "V",
@@ -26066,7 +26066,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "NSI.PR.D",
         "Market": "TO",
@@ -26079,7 +26079,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "NSP",
         "Market": "V",
@@ -26092,7 +26092,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": "OTCQB"
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "NST",
         "Market": "V",
@@ -26105,7 +26105,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "NSU",
         "Market": "TO",
@@ -26118,7 +26118,7 @@ var tickers= [
         "USSymbol": "NSU",
         "ICntry": "US",
         "USM": "NYSE MKT"
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "NSX",
         "Market": "V",
@@ -26131,7 +26131,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "NSY",
         "Market": "V",
@@ -26144,7 +26144,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "NTB",
         "Market": "TO",
@@ -26157,7 +26157,7 @@ var tickers= [
         "USSymbol": "NEPT",
         "ICntry": "US",
         "USM": "NasdaqCM"
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "NTC",
         "Market": "V",
@@ -26170,7 +26170,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "NTE",
         "Market": "V",
@@ -26183,7 +26183,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "NTQ",
         "Market": "V",
@@ -26196,7 +26196,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "NTS",
         "Market": "V",
@@ -26209,7 +26209,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": "OTCQX"
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "NTY",
         "Market": "V",
@@ -26222,7 +26222,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "NU",
         "Market": "V",
@@ -26235,7 +26235,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "NUG",
         "Market": "V",
@@ -26248,7 +26248,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": "OTCQX"
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "NUK",
         "Market": "V",
@@ -26261,7 +26261,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "NUS",
         "Market": "TO",
@@ -26274,7 +26274,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": "OTCQX"
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "NUX",
         "Market": "TO",
@@ -26287,7 +26287,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "NVA",
         "Market": "TO",
@@ -26300,7 +26300,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "NVC",
         "Market": "TO",
@@ -26313,7 +26313,7 @@ var tickers= [
         "USSymbol": "NVCN",
         "ICntry": "US",
         "USM": "NasdaqCM"
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "NVI",
         "Market": "V",
@@ -26326,7 +26326,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "NVM",
         "Market": "V",
@@ -26339,7 +26339,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "NVO",
         "Market": "V",
@@ -26352,7 +26352,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "NVT",
         "Market": "V",
@@ -26365,7 +26365,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "NVV",
         "Market": "V",
@@ -26378,7 +26378,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "NVX",
         "Market": "V",
@@ -26391,7 +26391,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "NVY",
         "Market": "V",
@@ -26404,7 +26404,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "NW",
         "Market": "V",
@@ -26417,7 +26417,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "NWC",
         "Market": "TO",
@@ -26430,7 +26430,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "NWE",
         "Market": "V",
@@ -26443,7 +26443,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "NWH.UN",
         "Market": "TO",
@@ -26456,7 +26456,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "NWM",
         "Market": "V",
@@ -26469,7 +26469,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "NWN",
         "Market": "V",
@@ -26482,7 +26482,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "NWT",
         "Market": "V",
@@ -26495,7 +26495,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "NWX",
         "Market": "V",
@@ -26508,7 +26508,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "NX",
         "Market": "V",
@@ -26521,7 +26521,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "NXC",
         "Market": "TO",
@@ -26534,7 +26534,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "NXE",
         "Market": "V",
@@ -26547,7 +26547,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": "OTCQX"
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "NXF",
         "Market": "TO",
@@ -26560,7 +26560,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "NXG",
         "Market": "V",
@@ -26573,7 +26573,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "NXJ",
         "Market": "TO",
@@ -26586,7 +26586,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "NXS",
         "Market": "V",
@@ -26599,7 +26599,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "NXT",
         "Market": "V",
@@ -26612,7 +26612,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "NXX",
         "Market": "V",
@@ -26625,7 +26625,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "NYX",
         "Market": "V",
@@ -26638,7 +26638,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "NZ",
         "Market": "V",
@@ -26651,7 +26651,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": "OTCQX"
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "NZN",
         "Market": "V",
@@ -26664,7 +26664,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "NZZ",
         "Market": "V",
@@ -26677,7 +26677,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "OAG",
         "Market": "V",
@@ -26690,7 +26690,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "OBM",
         "Market": "TO",
@@ -26703,7 +26703,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "OBN",
         "Market": "V",
@@ -26716,7 +26716,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "OCN",
         "Market": "V",
@@ -26729,7 +26729,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "OCO",
         "Market": "V",
@@ -26742,7 +26742,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "OCS.UN",
         "Market": "TO",
@@ -26755,7 +26755,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "OCV.UN",
         "Market": "TO",
@@ -26768,7 +26768,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "OCX",
         "Market": "TO",
@@ -26781,7 +26781,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "ODI.UN",
         "Market": "TO",
@@ -26794,7 +26794,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "ODN",
         "Market": "V",
@@ -26807,7 +26807,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "ODS",
         "Market": "V",
@@ -26820,7 +26820,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "OEC",
         "Market": "V",
@@ -26833,7 +26833,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "OEE",
         "Market": "V",
@@ -26846,7 +26846,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "OEG",
         "Market": "V",
@@ -26859,7 +26859,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "OER",
         "Market": "TO",
@@ -26872,7 +26872,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "OFR.UN",
         "Market": "TO",
@@ -26885,7 +26885,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "OGC",
         "Market": "TO",
@@ -26898,7 +26898,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": "ASX"
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "OGD",
         "Market": "TO",
@@ -26911,7 +26911,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "OGI",
         "Market": "V",
@@ -26924,7 +26924,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "OIL",
         "Market": "V",
@@ -26937,7 +26937,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "OLA",
         "Market": "V",
@@ -26950,7 +26950,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "OLE.P",
         "Market": "V",
@@ -26963,7 +26963,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "OLV",
         "Market": "V",
@@ -26976,7 +26976,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "OLY",
         "Market": "TO",
@@ -26989,7 +26989,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "OMI",
         "Market": "TO",
@@ -27002,7 +27002,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": "AIM"
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "OML",
         "Market": "V",
@@ -27015,7 +27015,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "OMM",
         "Market": "V",
@@ -27028,7 +27028,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "OMN",
         "Market": "V",
@@ -27041,7 +27041,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "ON",
         "Market": "V",
@@ -27054,7 +27054,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "ONC",
         "Market": "TO",
@@ -27067,7 +27067,7 @@ var tickers= [
         "USSymbol": "ONCY",
         "ICntry": "US",
         "USM": "NasdaqCM"
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "ONE",
         "Market": "V",
@@ -27080,7 +27080,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "ONR.UN",
         "Market": "TO",
@@ -27093,7 +27093,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "ONV",
         "Market": "V",
@@ -27106,7 +27106,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "OOI",
         "Market": "V",
@@ -27119,7 +27119,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "OOO",
         "Market": "V",
@@ -27132,7 +27132,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": "OTCQX"
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "OPA",
         "Market": "V",
@@ -27145,7 +27145,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "OPG",
         "Market": "V",
@@ -27158,7 +27158,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "OPM",
         "Market": "TO",
@@ -27171,7 +27171,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "OPS",
         "Market": "V",
@@ -27184,7 +27184,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": "OTCQX"
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "OPW",
         "Market": "V",
@@ -27197,7 +27197,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "OR",
         "Market": "TO",
@@ -27210,7 +27210,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "ORA",
         "Market": "TO",
@@ -27223,7 +27223,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "ORC.B",
         "Market": "V",
@@ -27236,7 +27236,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "ORE",
         "Market": "TO",
@@ -27249,7 +27249,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "ORG",
         "Market": "V",
@@ -27262,7 +27262,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "ORL",
         "Market": "TO",
@@ -27275,7 +27275,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": "ASX"
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "ORO",
         "Market": "V",
@@ -27288,7 +27288,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "ORR",
         "Market": "V",
@@ -27301,7 +27301,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "ORS",
         "Market": "V",
@@ -27314,7 +27314,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "ORT",
         "Market": "TO",
@@ -27327,7 +27327,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": "OTCQX"
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "ORV",
         "Market": "TO",
@@ -27340,7 +27340,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "ORX",
         "Market": "V",
@@ -27353,7 +27353,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "OSF.UN",
         "Market": "TO",
@@ -27366,7 +27366,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "OSL.UN",
         "Market": "TO",
@@ -27379,7 +27379,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "OSP",
         "Market": "TO",
@@ -27392,7 +27392,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "OSS",
         "Market": "V",
@@ -27405,7 +27405,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "OSU",
         "Market": "TO",
@@ -27418,7 +27418,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": "AIM"
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "OTC",
         "Market": "TO",
@@ -27431,7 +27431,7 @@ var tickers= [
         "USSymbol": "OTEX",
         "ICntry": "US",
         "USM": "NasdaqGM"
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "OUY.UN",
         "Market": "TO",
@@ -27444,7 +27444,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "OVI.A",
         "Market": "TO",
@@ -27457,7 +27457,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "OVT",
         "Market": "V",
@@ -27470,7 +27470,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "OWI",
         "Market": "V",
@@ -27483,7 +27483,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "OX",
         "Market": "V",
@@ -27496,7 +27496,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "OXC",
         "Market": "TO",
@@ -27509,7 +27509,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "OXF",
         "Market": "TO",
@@ -27522,7 +27522,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "OY",
         "Market": "V",
@@ -27535,7 +27535,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "OYL",
         "Market": "V",
@@ -27548,7 +27548,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "P",
         "Market": "TO",
@@ -27561,7 +27561,7 @@ var tickers= [
         "USSymbol": "PPP",
         "ICntry": "US",
         "USM": "NYSE"
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "PAA",
         "Market": "TO",
@@ -27574,7 +27574,7 @@ var tickers= [
         "USSymbol": "PAAS",
         "ICntry": "US",
         "USM": "NasdaqGM"
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "PAK",
         "Market": "V",
@@ -27587,7 +27587,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "PAL",
         "Market": "V",
@@ -27600,7 +27600,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "PAN",
         "Market": "V",
@@ -27613,7 +27613,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "PAR.UN",
         "Market": "TO",
@@ -27626,7 +27626,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": "OTCQX"
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "PAV",
         "Market": "V",
@@ -27639,7 +27639,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "PAW",
         "Market": "V",
@@ -27652,7 +27652,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "PBD",
         "Market": "TO",
@@ -27665,7 +27665,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "PBH",
         "Market": "TO",
@@ -27678,7 +27678,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "PBI",
         "Market": "TO",
@@ -27691,7 +27691,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "PBL",
         "Market": "TO",
@@ -27704,7 +27704,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "PBM",
         "Market": "V",
@@ -27717,7 +27717,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "PBR",
         "Market": "V",
@@ -27730,7 +27730,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "PBS",
         "Market": "V",
@@ -27743,7 +27743,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "PBU.UN",
         "Market": "TO",
@@ -27756,7 +27756,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "PBY.UN",
         "Market": "TO",
@@ -27769,7 +27769,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "PCD.UN",
         "Market": "TO",
@@ -27782,7 +27782,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "PCF.UN",
         "Market": "TO",
@@ -27795,7 +27795,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "PCI",
         "Market": "V",
@@ -27808,7 +27808,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "PCO",
         "Market": "V",
@@ -27821,7 +27821,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "PCQ",
         "Market": "V",
@@ -27834,7 +27834,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "PCR",
         "Market": "V",
@@ -27847,7 +27847,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "PCS",
         "Market": "V",
@@ -27860,7 +27860,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "PCV",
         "Market": "V",
@@ -27873,7 +27873,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "PCY",
         "Market": "TO",
@@ -27886,7 +27886,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": "OTCQX"
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "PD",
         "Market": "TO",
@@ -27899,7 +27899,7 @@ var tickers= [
         "USSymbol": "PDS",
         "ICntry": "US",
         "USM": "NYSE"
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "PDC",
         "Market": "TO",
@@ -27912,7 +27912,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "PDF",
         "Market": "TO",
@@ -27925,7 +27925,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "PDL",
         "Market": "TO",
@@ -27938,7 +27938,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": "NYSE MKT"
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "PDN",
         "Market": "TO",
@@ -27951,7 +27951,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": "ASX"
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "PDP",
         "Market": "V",
@@ -27964,7 +27964,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "PDQ",
         "Market": "V",
@@ -27977,7 +27977,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "PDV",
         "Market": "TO",
@@ -27990,7 +27990,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "PE",
         "Market": "V",
@@ -28003,7 +28003,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "PEA",
         "Market": "V",
@@ -28016,7 +28016,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "PEG",
         "Market": "TO",
@@ -28029,7 +28029,7 @@ var tickers= [
         "USSymbol": "PEGI",
         "ICntry": "US",
         "USM": "NasdaqGM"
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "PEH",
         "Market": "V",
@@ -28042,7 +28042,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "PEO",
         "Market": "V",
@@ -28055,7 +28055,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "PER",
         "Market": "TO",
@@ -28068,7 +28068,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "PET",
         "Market": "V",
@@ -28081,7 +28081,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "PEU",
         "Market": "TO",
@@ -28094,7 +28094,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "PEX",
         "Market": "V",
@@ -28107,7 +28107,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "PEY",
         "Market": "TO",
@@ -28120,7 +28120,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "PFB",
         "Market": "TO",
@@ -28133,7 +28133,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "PFC",
         "Market": "V",
@@ -28146,7 +28146,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "PFD.UN",
         "Market": "TO",
@@ -28159,7 +28159,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "PFH",
         "Market": "TO",
@@ -28172,7 +28172,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "PFL",
         "Market": "TO",
@@ -28185,7 +28185,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "PFM",
         "Market": "V",
@@ -28198,7 +28198,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "PFN",
         "Market": "V",
@@ -28211,7 +28211,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "PFR.UN",
         "Market": "TO",
@@ -28224,7 +28224,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "PFT.UN",
         "Market": "TO",
@@ -28237,7 +28237,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "PFU.UN",
         "Market": "TO",
@@ -28250,7 +28250,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "PG",
         "Market": "TO",
@@ -28263,7 +28263,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "PGC",
         "Market": "V",
@@ -28276,7 +28276,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "PGD",
         "Market": "TO",
@@ -28289,7 +28289,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "PGE",
         "Market": "V",
@@ -28302,7 +28302,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "PGF",
         "Market": "TO",
@@ -28315,7 +28315,7 @@ var tickers= [
         "USSymbol": "PGH",
         "ICntry": "US",
         "USM": "NYSE"
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "PGI.UN",
         "Market": "TO",
@@ -28328,7 +28328,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "PGK",
         "Market": "V",
@@ -28341,7 +28341,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "PGL",
         "Market": "TO",
@@ -28354,7 +28354,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "PGM",
         "Market": "V",
@@ -28367,7 +28367,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "PGS",
         "Market": "V",
@@ -28380,7 +28380,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "PGV",
         "Market": "V",
@@ -28393,7 +28393,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "PGX",
         "Market": "V",
@@ -28406,7 +28406,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "PGZ",
         "Market": "V",
@@ -28419,7 +28419,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "PH.P",
         "Market": "V",
@@ -28432,7 +28432,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "PHE",
         "Market": "TO",
@@ -28445,7 +28445,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "PHI",
         "Market": "V",
@@ -28458,7 +28458,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "PHM",
         "Market": "V",
@@ -28471,7 +28471,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "PHO",
         "Market": "V",
@@ -28484,7 +28484,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "PHR",
         "Market": "TO",
@@ -28497,7 +28497,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "PHS.U",
         "Market": "TO",
@@ -28510,7 +28510,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": "NYSE Arca"
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "PHW",
         "Market": "TO",
@@ -28523,7 +28523,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "PHX",
         "Market": "TO",
@@ -28536,7 +28536,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "PHY.U",
         "Market": "TO",
@@ -28549,7 +28549,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": "NYSE Arca"
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "PIC.A",
         "Market": "TO",
@@ -28562,7 +28562,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "PID",
         "Market": "TO",
@@ -28575,7 +28575,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "PIF",
         "Market": "TO",
@@ -28588,7 +28588,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "PIH",
         "Market": "TO",
@@ -28601,7 +28601,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "PIN",
         "Market": "TO",
@@ -28614,7 +28614,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "PJC.A",
         "Market": "TO",
@@ -28627,7 +28627,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "PJT",
         "Market": "V",
@@ -28640,7 +28640,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "PJX",
         "Market": "V",
@@ -28653,7 +28653,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "PKI",
         "Market": "TO",
@@ -28666,7 +28666,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "PKK",
         "Market": "V",
@@ -28679,7 +28679,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "PKL",
         "Market": "V",
@@ -28692,7 +28692,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": "Frankfurt"
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "PKT",
         "Market": "V",
@@ -28705,7 +28705,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": "OTCQX"
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "PLA",
         "Market": "V",
@@ -28718,7 +28718,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "PLC",
         "Market": "V",
@@ -28731,7 +28731,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "PLG",
         "Market": "TO",
@@ -28744,7 +28744,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "PLI",
         "Market": "TO",
@@ -28757,7 +28757,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": "OTCQX"
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "PLR",
         "Market": "V",
@@ -28770,7 +28770,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "PLS",
         "Market": "TO",
@@ -28783,7 +28783,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "PLT.UN",
         "Market": "TO",
@@ -28796,7 +28796,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "PLU",
         "Market": "V",
@@ -28809,7 +28809,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "PLV",
         "Market": "TO",
@@ -28822,7 +28822,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "PLY",
         "Market": "V",
@@ -28835,7 +28835,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "PLZ.UN",
         "Market": "TO",
@@ -28848,7 +28848,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "PM",
         "Market": "V",
@@ -28861,7 +28861,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "PMA",
         "Market": "V",
@@ -28874,7 +28874,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "PMB.UN",
         "Market": "TO",
@@ -28887,7 +28887,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "PMD",
         "Market": "V",
@@ -28900,7 +28900,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "PME",
         "Market": "TO",
@@ -28913,7 +28913,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "PMI",
         "Market": "V",
@@ -28926,7 +28926,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "PML",
         "Market": "V",
@@ -28939,7 +28939,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": "LIMA (BVL)"
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "PMM",
         "Market": "TO",
@@ -28952,7 +28952,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "PMN",
         "Market": "TO",
@@ -28965,7 +28965,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "PMR",
         "Market": "V",
@@ -28978,7 +28978,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "PMT",
         "Market": "TO",
@@ -28991,7 +28991,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": "OTCQX"
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "PMX",
         "Market": "V",
@@ -29004,7 +29004,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "PNC.B",
         "Market": "TO",
@@ -29017,7 +29017,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "PNE",
         "Market": "V",
@@ -29030,7 +29030,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "PNG",
         "Market": "V",
@@ -29043,7 +29043,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "PNN",
         "Market": "V",
@@ -29056,7 +29056,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "PNP",
         "Market": "TO",
@@ -29069,7 +29069,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "POC",
         "Market": "V",
@@ -29082,7 +29082,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "POE",
         "Market": "V",
@@ -29095,7 +29095,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "POM",
         "Market": "TO",
@@ -29108,7 +29108,7 @@ var tickers= [
         "USSymbol": "PLM",
         "ICntry": "US",
         "USM": "NYSE MKT"
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "POP",
         "Market": "V",
@@ -29121,7 +29121,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "POR",
         "Market": "V",
@@ -29134,7 +29134,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "POT",
         "Market": "TO",
@@ -29147,7 +29147,7 @@ var tickers= [
         "USSymbol": "POT",
         "ICntry": "US",
         "USM": "NYSE"
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "POU",
         "Market": "TO",
@@ -29160,7 +29160,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "POW",
         "Market": "TO",
@@ -29173,7 +29173,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "PP",
         "Market": "V",
@@ -29186,7 +29186,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": "OTCQX"
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "PPA",
         "Market": "V",
@@ -29199,7 +29199,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "PPC",
         "Market": "V",
@@ -29212,7 +29212,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "PPE",
         "Market": "V",
@@ -29225,7 +29225,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "PPI",
         "Market": "V",
@@ -29238,7 +29238,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": "OTCQX"
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "PPK",
         "Market": "V",
@@ -29251,7 +29251,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "PPL",
         "Market": "TO",
@@ -29264,7 +29264,7 @@ var tickers= [
         "USSymbol": "PBA",
         "ICntry": "US",
         "USM": "NYSE"
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "PPM",
         "Market": "V",
@@ -29277,7 +29277,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "PPP",
         "Market": "V",
@@ -29290,7 +29290,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "PPS",
         "Market": "TO",
@@ -29303,7 +29303,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "PPT.U",
         "Market": "TO",
@@ -29316,7 +29316,7 @@ var tickers= [
         "USSymbol": "SPPP",
         "ICntry": "US",
         "USM": "NYSE Arca"
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "PPX",
         "Market": "V",
@@ -29329,7 +29329,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": "LIMA (BVL)"
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "PPY",
         "Market": "TO",
@@ -29342,7 +29342,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "PR",
         "Market": "TO",
@@ -29355,7 +29355,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "PRA",
         "Market": "TO",
@@ -29368,7 +29368,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "PRB",
         "Market": "V",
@@ -29381,7 +29381,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "PRD",
         "Market": "V",
@@ -29394,7 +29394,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "PRE",
         "Market": "TO",
@@ -29407,7 +29407,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": "BOVESPA"
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "PRF.UN",
         "Market": "TO",
@@ -29420,7 +29420,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "PRG",
         "Market": "V",
@@ -29433,7 +29433,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "PRH",
         "Market": "V",
@@ -29446,7 +29446,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "PRJ",
         "Market": "V",
@@ -29459,7 +29459,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": "BOVESPA"
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "PRK",
         "Market": "TO",
@@ -29472,7 +29472,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": "OTCQX"
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "PRN",
         "Market": "V",
@@ -29485,7 +29485,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "PRO",
         "Market": "V",
@@ -29498,7 +29498,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "PRU",
         "Market": "TO",
@@ -29511,7 +29511,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": "ASX"
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "PRV.UN",
         "Market": "V",
@@ -29524,7 +29524,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "PRW",
         "Market": "TO",
@@ -29537,7 +29537,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "PSA",
         "Market": "TO",
@@ -29550,7 +29550,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "PSB",
         "Market": "TO",
@@ -29563,7 +29563,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "PSD",
         "Market": "TO",
@@ -29576,7 +29576,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": "OTCQX"
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "PSF.UN",
         "Market": "TO",
@@ -29589,7 +29589,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "PSG",
         "Market": "TO",
@@ -29602,7 +29602,7 @@ var tickers= [
         "USSymbol": "PSG",
         "ICntry": "US",
         "USM": "NYSE"
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "PSH",
         "Market": "V",
@@ -29615,7 +29615,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": "OTCQX"
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "PSI",
         "Market": "TO",
@@ -29628,7 +29628,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "PSK",
         "Market": "TO",
@@ -29641,7 +29641,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "PSL",
         "Market": "V",
@@ -29654,7 +29654,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "PSP",
         "Market": "V",
@@ -29667,7 +29667,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "PST",
         "Market": "V",
@@ -29680,7 +29680,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "PSY",
         "Market": "TO",
@@ -29693,7 +29693,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "PTA",
         "Market": "V",
@@ -29706,7 +29706,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "PTB",
         "Market": "TO",
@@ -29719,7 +29719,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "PTC",
         "Market": "V",
@@ -29732,7 +29732,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "PTE",
         "Market": "V",
@@ -29745,7 +29745,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "PTF",
         "Market": "V",
@@ -29758,7 +29758,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "PTG",
         "Market": "V",
@@ -29771,7 +29771,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "PTK",
         "Market": "V",
@@ -29784,7 +29784,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": "OTCQX"
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "PTM",
         "Market": "TO",
@@ -29797,7 +29797,7 @@ var tickers= [
         "USSymbol": "PLG",
         "ICntry": "US",
         "USM": "NYSE MKT"
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "PTP",
         "Market": "V",
@@ -29810,7 +29810,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "PTR",
         "Market": "V",
@@ -29823,7 +29823,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "PTS",
         "Market": "TO",
@@ -29836,7 +29836,7 @@ var tickers= [
         "USSymbol": "PCOM",
         "ICntry": "US",
         "USM": "NasdaqCM"
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "PTU",
         "Market": "V",
@@ -29849,7 +29849,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "PTV",
         "Market": "V",
@@ -29862,7 +29862,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "PTX",
         "Market": "V",
@@ -29875,7 +29875,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "PUC",
         "Market": "V",
@@ -29888,7 +29888,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "PUD",
         "Market": "TO",
@@ -29901,7 +29901,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "PUM",
         "Market": "V",
@@ -29914,7 +29914,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "PUR",
         "Market": "TO",
@@ -29927,7 +29927,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "PVF",
         "Market": "V",
@@ -29940,7 +29940,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "PVG",
         "Market": "TO",
@@ -29953,7 +29953,7 @@ var tickers= [
         "USSymbol": "PVG",
         "ICntry": "US",
         "USM": "NYSE"
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "PVS.PR.D",
         "Market": "TO",
@@ -29966,7 +29966,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "PVX",
         "Market": "V",
@@ -29979,7 +29979,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "PWB",
         "Market": "TO",
@@ -29992,7 +29992,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "PWC",
         "Market": "TO",
@@ -30005,7 +30005,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "PWF",
         "Market": "TO",
@@ -30018,7 +30018,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "PWR.P",
         "Market": "V",
@@ -30031,7 +30031,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "PWT",
         "Market": "TO",
@@ -30044,7 +30044,7 @@ var tickers= [
         "USSymbol": "PWE",
         "ICntry": "US",
         "USM": "NYSE"
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "PX",
         "Market": "V",
@@ -30057,7 +30057,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "PXA",
         "Market": "V",
@@ -30070,7 +30070,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "PXC",
         "Market": "TO",
@@ -30083,7 +30083,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "PXF",
         "Market": "TO",
@@ -30096,7 +30096,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "PXG",
         "Market": "TO",
@@ -30109,7 +30109,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "PXI",
         "Market": "V",
@@ -30122,7 +30122,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "PXS",
         "Market": "TO",
@@ -30135,7 +30135,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "PXT",
         "Market": "TO",
@@ -30148,7 +30148,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "PXU",
         "Market": "TO",
@@ -30161,7 +30161,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "PXX",
         "Market": "TO",
@@ -30174,7 +30174,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": "OMX Nordic Exchange"
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "PYD",
         "Market": "V",
@@ -30187,7 +30187,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "PYR",
         "Market": "V",
@@ -30200,7 +30200,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "PYT",
         "Market": "V",
@@ -30213,7 +30213,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "PZ",
         "Market": "V",
@@ -30226,7 +30226,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "PZA",
         "Market": "TO",
@@ -30239,7 +30239,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "PZC",
         "Market": "TO",
@@ -30252,7 +30252,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "PZW",
         "Market": "TO",
@@ -30265,7 +30265,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "Q.B",
         "Market": "V",
@@ -30278,7 +30278,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "QBR.B",
         "Market": "TO",
@@ -30291,7 +30291,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "QCP",
         "Market": "TO",
@@ -30304,7 +30304,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "QEC",
         "Market": "TO",
@@ -30317,7 +30317,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": "Oslo Bors"
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "QGE",
         "Market": "TO",
@@ -30330,7 +30330,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "QGR",
         "Market": "V",
@@ -30343,7 +30343,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "QHR",
         "Market": "V",
@@ -30356,7 +30356,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "QI",
         "Market": "V",
@@ -30369,7 +30369,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "QIC",
         "Market": "V",
@@ -30382,7 +30382,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "QIS",
         "Market": "V",
@@ -30395,7 +30395,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "QIT",
         "Market": "V",
@@ -30408,7 +30408,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "QLT",
         "Market": "TO",
@@ -30421,7 +30421,7 @@ var tickers= [
         "USSymbol": "QLTI",
         "ICntry": "US",
         "USM": "NasdaqGM"
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "QMC",
         "Market": "V",
@@ -30434,7 +30434,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "QMG",
         "Market": "TO",
@@ -30447,7 +30447,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "QMV",
         "Market": "TO",
@@ -30460,7 +30460,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "QMX",
         "Market": "V",
@@ -30473,7 +30473,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "QOP.P",
         "Market": "V",
@@ -30486,7 +30486,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "QPT",
         "Market": "V",
@@ -30499,7 +30499,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "QQ",
         "Market": "V",
@@ -30512,7 +30512,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "QQC",
         "Market": "TO",
@@ -30525,7 +30525,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "QRD",
         "Market": "TO",
@@ -30538,7 +30538,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "QRH",
         "Market": "TO",
@@ -30551,7 +30551,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "QRI",
         "Market": "TO",
@@ -30564,7 +30564,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "QRM",
         "Market": "TO",
@@ -30577,7 +30577,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": "NYSE MKT"
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "QRT",
         "Market": "TO",
@@ -30590,7 +30590,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "QSP.UN",
         "Market": "TO",
@@ -30603,7 +30603,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "QSR",
         "Market": "TO",
@@ -30616,7 +30616,7 @@ var tickers= [
         "USSymbol": "QSR",
         "ICntry": "US",
         "USM": "NYSE"
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "QST",
         "Market": "V",
@@ -30629,7 +30629,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "QTA",
         "Market": "V",
@@ -30642,7 +30642,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": "OTCQX"
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "QXM",
         "Market": "TO",
@@ -30655,7 +30655,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "QXP",
         "Market": "V",
@@ -30668,7 +30668,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "QZM",
         "Market": "V",
@@ -30681,7 +30681,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "R",
         "Market": "TO",
@@ -30694,7 +30694,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "RAB",
         "Market": "V",
@@ -30707,7 +30707,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": "AIM"
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "RAI.UN",
         "Market": "TO",
@@ -30720,7 +30720,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "RAV.UN",
         "Market": "TO",
@@ -30733,7 +30733,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "RAY.B",
         "Market": "TO",
@@ -30746,7 +30746,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "RB",
         "Market": "V",
@@ -30759,7 +30759,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "RBA",
         "Market": "TO",
@@ -30772,7 +30772,7 @@ var tickers= [
         "USSymbol": "RBA",
         "ICntry": "US",
         "USM": "NYSE"
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "RBE",
         "Market": "V",
@@ -30785,7 +30785,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "RBM",
         "Market": "TO",
@@ -30798,7 +30798,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "RBN.UN",
         "Market": "TO",
@@ -30811,7 +30811,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "RBO",
         "Market": "TO",
@@ -30824,7 +30824,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "RBS",
         "Market": "TO",
@@ -30837,7 +30837,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "RBX",
         "Market": "V",
@@ -30850,7 +30850,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "RC",
         "Market": "TO",
@@ -30863,7 +30863,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "RCC.P",
         "Market": "V",
@@ -30876,7 +30876,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "RCD",
         "Market": "TO",
@@ -30889,7 +30889,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "RCE",
         "Market": "TO",
@@ -30902,7 +30902,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "RCH",
         "Market": "TO",
@@ -30915,7 +30915,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "RCI.B",
         "Market": "TO",
@@ -30928,7 +30928,7 @@ var tickers= [
         "USSymbol": "RCI",
         "ICntry": "US",
         "USM": "NYSE"
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "RCK",
         "Market": "V",
@@ -30941,7 +30941,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "RCO.UN",
         "Market": "TO",
@@ -30954,7 +30954,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "RCT",
         "Market": "V",
@@ -30967,7 +30967,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "RD",
         "Market": "V",
@@ -30980,7 +30980,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": "OTCQX"
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "RDI",
         "Market": "TO",
@@ -30993,7 +30993,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": "JSE"
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "RDK",
         "Market": "TO",
@@ -31006,7 +31006,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": "OTCQX"
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "RDL",
         "Market": "TO",
@@ -31019,7 +31019,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "RDS",
         "Market": "V",
@@ -31032,7 +31032,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "RDU",
         "Market": "V",
@@ -31045,7 +31045,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "RDX",
         "Market": "V",
@@ -31058,7 +31058,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": "OTCQX"
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "RE",
         "Market": "TO",
@@ -31071,7 +31071,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "REC",
         "Market": "V",
@@ -31084,7 +31084,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "REF.UN",
         "Market": "TO",
@@ -31097,7 +31097,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "REG",
         "Market": "V",
@@ -31110,7 +31110,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "REI.UN",
         "Market": "TO",
@@ -31123,7 +31123,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "REK",
         "Market": "V",
@@ -31136,7 +31136,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "REL",
         "Market": "V",
@@ -31149,7 +31149,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "REN",
         "Market": "TO",
@@ -31162,7 +31162,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "REO",
         "Market": "V",
@@ -31175,7 +31175,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "REQ.P",
         "Market": "V",
@@ -31188,7 +31188,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "RER",
         "Market": "V",
@@ -31201,7 +31201,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "RES",
         "Market": "TO",
@@ -31214,7 +31214,7 @@ var tickers= [
         "USSymbol": "REE",
         "ICntry": "US",
         "USM": "NYSE MKT"
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "RET.A",
         "Market": "TO",
@@ -31227,7 +31227,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "REX",
         "Market": "V",
@@ -31240,7 +31240,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "REZ",
         "Market": "V",
@@ -31253,7 +31253,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "RFC",
         "Market": "V",
@@ -31266,7 +31266,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "RFP",
         "Market": "TO",
@@ -31279,7 +31279,7 @@ var tickers= [
         "USSymbol": "RFP",
         "ICntry": "US",
         "USM": "NYSE"
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "RG",
         "Market": "V",
@@ -31292,7 +31292,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "RGC",
         "Market": "V",
@@ -31305,7 +31305,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "RGD",
         "Market": "V",
@@ -31318,7 +31318,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "RGI",
         "Market": "V",
@@ -31331,7 +31331,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "RGL",
         "Market": "TO",
@@ -31344,7 +31344,7 @@ var tickers= [
         "USSymbol": "RGLD",
         "ICntry": "US",
         "USM": "NasdaqGM"
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "RGM",
         "Market": "V",
@@ -31357,7 +31357,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "RGX",
         "Market": "TO",
@@ -31370,7 +31370,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "RGZ",
         "Market": "V",
@@ -31383,7 +31383,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "RHA",
         "Market": "V",
@@ -31396,7 +31396,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "RHC",
         "Market": "V",
@@ -31409,7 +31409,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "RHF",
         "Market": "TO",
@@ -31422,7 +31422,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "RHI",
         "Market": "TO",
@@ -31435,7 +31435,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "RHP",
         "Market": "TO",
@@ -31448,7 +31448,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "RHR",
         "Market": "V",
@@ -31461,7 +31461,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "RHS",
         "Market": "TO",
@@ -31474,7 +31474,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "RHU",
         "Market": "TO",
@@ -31487,7 +31487,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "RI",
         "Market": "V",
@@ -31500,7 +31500,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "RIB.UN",
         "Market": "TO",
@@ -31513,7 +31513,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "RIC",
         "Market": "TO",
@@ -31526,7 +31526,7 @@ var tickers= [
         "USSymbol": "RIC",
         "ICntry": "US",
         "USM": "NYSE MKT"
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "RID",
         "Market": "TO",
@@ -31539,7 +31539,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "RIE",
         "Market": "TO",
@@ -31552,7 +31552,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "RIN",
         "Market": "V",
@@ -31565,7 +31565,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "RIR",
         "Market": "V",
@@ -31578,7 +31578,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "RIT",
         "Market": "TO",
@@ -31591,7 +31591,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "RJ",
         "Market": "V",
@@ -31604,7 +31604,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "RJX.A",
         "Market": "V",
@@ -31617,7 +31617,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "RK",
         "Market": "V",
@@ -31630,7 +31630,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "RKN",
         "Market": "TO",
@@ -31643,7 +31643,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "RKR",
         "Market": "V",
@@ -31656,7 +31656,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "RL",
         "Market": "V",
@@ -31669,7 +31669,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "RLC",
         "Market": "TO",
@@ -31682,7 +31682,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "RLY.P",
         "Market": "V",
@@ -31695,7 +31695,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "RM",
         "Market": "V",
@@ -31708,7 +31708,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": "OTCQX"
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "RMC",
         "Market": "V",
@@ -31721,7 +31721,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "RMD",
         "Market": "V",
@@ -31734,7 +31734,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "RME",
         "Market": "TO",
@@ -31747,7 +31747,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": "OTCQX"
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "RMK",
         "Market": "V",
@@ -31760,7 +31760,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "RML",
         "Market": "V",
@@ -31773,7 +31773,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "RMN",
         "Market": "V",
@@ -31786,7 +31786,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "RMO",
         "Market": "V",
@@ -31799,7 +31799,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "RMP",
         "Market": "TO",
@@ -31812,7 +31812,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "RMR",
         "Market": "V",
@@ -31825,7 +31825,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "RMT",
         "Market": "V",
@@ -31838,7 +31838,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "RMX",
         "Market": "TO",
@@ -31851,7 +31851,7 @@ var tickers= [
         "USSymbol": "RBY",
         "ICntry": "US",
         "USM": "NYSE MKT"
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "RN",
         "Market": "TO",
@@ -31864,7 +31864,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "RNK",
         "Market": "V",
@@ -31877,7 +31877,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "RNW",
         "Market": "TO",
@@ -31890,7 +31890,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "RNX",
         "Market": "TO",
@@ -31903,7 +31903,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "ROB",
         "Market": "V",
@@ -31916,7 +31916,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "ROC",
         "Market": "V",
@@ -31929,7 +31929,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": "OTCQX"
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "ROE",
         "Market": "V",
@@ -31942,7 +31942,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "ROG",
         "Market": "V",
@@ -31955,7 +31955,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "ROI",
         "Market": "V",
@@ -31968,7 +31968,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "ROL.P",
         "Market": "V",
@@ -31981,7 +31981,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "ROM",
         "Market": "V",
@@ -31994,7 +31994,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "RON",
         "Market": "TO",
@@ -32007,7 +32007,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "ROT",
         "Market": "V",
@@ -32020,7 +32020,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "ROU",
         "Market": "V",
@@ -32033,7 +32033,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "ROX",
         "Market": "V",
@@ -32046,7 +32046,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "RP",
         "Market": "V",
@@ -32059,7 +32059,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "RPC",
         "Market": "V",
@@ -32072,7 +32072,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "RPD",
         "Market": "TO",
@@ -32085,7 +32085,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "RPI.UN",
         "Market": "TO",
@@ -32098,7 +32098,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "RPM",
         "Market": "V",
@@ -32111,7 +32111,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": "OTCQX"
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "RPN",
         "Market": "V",
@@ -32124,7 +32124,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "RPP",
         "Market": "V",
@@ -32137,7 +32137,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "RPR",
         "Market": "V",
@@ -32150,7 +32150,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "RPT",
         "Market": "V",
@@ -32163,7 +32163,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "RPX",
         "Market": "V",
@@ -32176,7 +32176,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "RQC",
         "Market": "TO",
@@ -32189,7 +32189,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "RQD",
         "Market": "TO",
@@ -32202,7 +32202,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "RQE",
         "Market": "TO",
@@ -32215,7 +32215,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "RQF",
         "Market": "TO",
@@ -32228,7 +32228,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "RQG",
         "Market": "TO",
@@ -32241,7 +32241,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "RQH",
         "Market": "TO",
@@ -32254,7 +32254,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "RQI",
         "Market": "TO",
@@ -32267,7 +32267,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "RRC",
         "Market": "V",
@@ -32280,7 +32280,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "RRE",
         "Market": "V",
@@ -32293,7 +32293,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "RRF.UN",
         "Market": "TO",
@@ -32306,7 +32306,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "RRI",
         "Market": "V",
@@ -32319,7 +32319,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "RRK",
         "Market": "V",
@@ -32332,7 +32332,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "RRL",
         "Market": "V",
@@ -32345,7 +32345,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "RRR.UN",
         "Market": "V",
@@ -32358,7 +32358,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "RRS",
         "Market": "V",
@@ -32371,7 +32371,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "RRX",
         "Market": "TO",
@@ -32384,7 +32384,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "RSA.P",
         "Market": "V",
@@ -32397,7 +32397,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "RSI",
         "Market": "TO",
@@ -32410,7 +32410,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "RSL",
         "Market": "V",
@@ -32423,7 +32423,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "RST",
         "Market": "V",
@@ -32436,7 +32436,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "RSV",
         "Market": "V",
@@ -32449,7 +32449,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "RSY",
         "Market": "V",
@@ -32462,7 +32462,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "RTG",
         "Market": "TO",
@@ -32475,7 +32475,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": "ASX"
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "RTH",
         "Market": "V",
@@ -32488,7 +32488,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "RTI",
         "Market": "V",
@@ -32501,7 +32501,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "RTM",
         "Market": "V",
@@ -32514,7 +32514,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "RTU.UN",
         "Market": "TO",
@@ -32527,7 +32527,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "RUD",
         "Market": "TO",
@@ -32540,7 +32540,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "RUE",
         "Market": "TO",
@@ -32553,7 +32553,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "RUF.UN",
         "Market": "V",
@@ -32566,7 +32566,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": "OTCQX"
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "RUG",
         "Market": "V",
@@ -32579,7 +32579,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "RUM",
         "Market": "V",
@@ -32592,7 +32592,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "RUN",
         "Market": "V",
@@ -32605,7 +32605,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "RUP",
         "Market": "V",
@@ -32618,7 +32618,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "RUS",
         "Market": "TO",
@@ -32631,7 +32631,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "RVA",
         "Market": "V",
@@ -32644,7 +32644,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "RVL",
         "Market": "V",
@@ -32657,7 +32657,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "RVV",
         "Market": "V",
@@ -32670,7 +32670,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "RVX",
         "Market": "TO",
@@ -32683,7 +32683,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "RW",
         "Market": "V",
@@ -32696,7 +32696,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "RWC",
         "Market": "TO",
@@ -32709,7 +32709,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "RWE",
         "Market": "TO",
@@ -32722,7 +32722,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "RWU",
         "Market": "TO",
@@ -32735,7 +32735,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "RWW",
         "Market": "TO",
@@ -32748,7 +32748,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "RX",
         "Market": "V",
@@ -32761,7 +32761,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "RXD",
         "Market": "TO",
@@ -32774,7 +32774,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "RY",
         "Market": "TO",
@@ -32787,7 +32787,7 @@ var tickers= [
         "USSymbol": "RY",
         "ICntry": "US",
         "USM": "NYSE"
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "RYE",
         "Market": "V",
@@ -32800,7 +32800,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "RYO",
         "Market": "V",
@@ -32813,7 +32813,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "RYR",
         "Market": "V",
@@ -32826,7 +32826,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "RYU",
         "Market": "V",
@@ -32839,7 +32839,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "RZ",
         "Market": "V",
@@ -32852,7 +32852,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "RZZ",
         "Market": "V",
@@ -32865,7 +32865,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "S",
         "Market": "TO",
@@ -32878,7 +32878,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "SAE",
         "Market": "V",
@@ -32891,7 +32891,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "SAH",
         "Market": "V",
@@ -32904,7 +32904,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "SAI",
         "Market": "V",
@@ -32917,7 +32917,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "SAM",
         "Market": "TO",
@@ -32930,7 +32930,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "SAO",
         "Market": "V",
@@ -32943,7 +32943,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "SAP",
         "Market": "TO",
@@ -32956,7 +32956,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "SAS",
         "Market": "TO",
@@ -32969,7 +32969,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": "OTCQX"
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "SAT",
         "Market": "V",
@@ -32982,7 +32982,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "SAU",
         "Market": "TO",
@@ -32995,7 +32995,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "SB",
         "Market": "V",
@@ -33008,7 +33008,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "SBB",
         "Market": "TO",
@@ -33021,7 +33021,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "SBC",
         "Market": "TO",
@@ -33034,7 +33034,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "SBI",
         "Market": "TO",
@@ -33047,7 +33047,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": "AIM"
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "SBM",
         "Market": "V",
@@ -33060,7 +33060,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": "OTCQX"
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "SBN",
         "Market": "TO",
@@ -33073,7 +33073,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "SBR",
         "Market": "TO",
@@ -33086,7 +33086,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "SBT.UN",
         "Market": "TO",
@@ -33099,7 +33099,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "SBW",
         "Market": "V",
@@ -33112,7 +33112,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "SBX",
         "Market": "V",
@@ -33125,7 +33125,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "SC",
         "Market": "V",
@@ -33138,7 +33138,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "SCA",
         "Market": "V",
@@ -33151,7 +33151,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "SCB",
         "Market": "TO",
@@ -33164,7 +33164,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "SCC",
         "Market": "TO",
@@ -33177,7 +33177,7 @@ var tickers= [
         "USSymbol": "SRSC",
         "ICntry": "US",
         "USM": "NasdaqGM"
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "SCD",
         "Market": "V",
@@ -33190,7 +33190,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "SCG",
         "Market": "V",
@@ -33203,7 +33203,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "SCL",
         "Market": "TO",
@@ -33216,7 +33216,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "SCO",
         "Market": "V",
@@ -33229,7 +33229,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "SCP",
         "Market": "TO",
@@ -33242,7 +33242,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "SCR",
         "Market": "V",
@@ -33255,7 +33255,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "SCU",
         "Market": "TO",
@@ -33268,7 +33268,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "SCW.UN",
         "Market": "TO",
@@ -33281,7 +33281,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "SCY",
         "Market": "TO",
@@ -33294,7 +33294,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "SCZ",
         "Market": "V",
@@ -33307,7 +33307,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": "OTCQX"
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "SDC",
         "Market": "V",
@@ -33320,7 +33320,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "SDE",
         "Market": "V",
@@ -33333,7 +33333,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "SDR",
         "Market": "V",
@@ -33346,7 +33346,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "SDS",
         "Market": "V",
@@ -33359,7 +33359,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "SDW",
         "Market": "V",
@@ -33372,7 +33372,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "SDY",
         "Market": "TO",
@@ -33385,7 +33385,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "SDZ",
         "Market": "V",
@@ -33398,7 +33398,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "SE",
         "Market": "V",
@@ -33411,7 +33411,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "SEA",
         "Market": "TO",
@@ -33424,7 +33424,7 @@ var tickers= [
         "USSymbol": "SA",
         "ICntry": "US",
         "USM": "NYSE"
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "SEB",
         "Market": "V",
@@ -33437,7 +33437,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "Sector",
         "Market": "TO",
@@ -33450,7 +33450,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "SEI",
         "Market": "V",
@@ -33463,7 +33463,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "SEK",
         "Market": "V",
@@ -33476,7 +33476,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "SEN",
         "Market": "TO",
@@ -33489,7 +33489,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": "Warsaw"
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "SES",
         "Market": "TO",
@@ -33502,7 +33502,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "SEV",
         "Market": "TO",
@@ -33515,7 +33515,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "SEW",
         "Market": "V",
@@ -33528,7 +33528,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "SFD",
         "Market": "V",
@@ -33541,7 +33541,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "SFI.UN",
         "Market": "TO",
@@ -33554,7 +33554,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "SFM",
         "Market": "V",
@@ -33567,7 +33567,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "SFT",
         "Market": "V",
@@ -33580,7 +33580,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "SFX",
         "Market": "V",
@@ -33593,7 +33593,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "SG",
         "Market": "V",
@@ -33606,7 +33606,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "SGA",
         "Market": "V",
@@ -33619,7 +33619,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "SGB",
         "Market": "V",
@@ -33632,7 +33632,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "SGC",
         "Market": "V",
@@ -33645,7 +33645,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": "OTCQX"
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "SGE",
         "Market": "V",
@@ -33658,7 +33658,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "SGF",
         "Market": "TO",
@@ -33671,7 +33671,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "SGG",
         "Market": "V",
@@ -33684,7 +33684,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "SGH",
         "Market": "V",
@@ -33697,7 +33697,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": "OTCQX"
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "SGL",
         "Market": "TO",
@@ -33710,7 +33710,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": "OTCQX"
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "SGM",
         "Market": "V",
@@ -33723,7 +33723,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": "OTCQX"
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "SGN",
         "Market": "V",
@@ -33736,7 +33736,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "SGQ",
         "Market": "TO",
@@ -33749,7 +33749,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": "HKEx"
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "SGU",
         "Market": "V",
@@ -33762,7 +33762,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "SGW",
         "Market": "V",
@@ -33775,7 +33775,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": "OTCQB"
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "SGX",
         "Market": "V",
@@ -33788,7 +33788,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "SGY",
         "Market": "TO",
@@ -33801,7 +33801,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "SGZ",
         "Market": "V",
@@ -33814,7 +33814,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "SH",
         "Market": "TO",
@@ -33827,7 +33827,7 @@ var tickers= [
         "USSymbol": "SHOP",
         "ICntry": "US",
         "USM": "NYSE"
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "SHI",
         "Market": "V",
@@ -33840,7 +33840,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "SHJ",
         "Market": "V",
@@ -33853,7 +33853,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "SHL",
         "Market": "V",
@@ -33866,7 +33866,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "SHM",
         "Market": "V",
@@ -33879,7 +33879,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "SHO.P",
         "Market": "V",
@@ -33892,7 +33892,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "SI",
         "Market": "V",
@@ -33905,7 +33905,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "SIA",
         "Market": "TO",
@@ -33918,7 +33918,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "SIC",
         "Market": "V",
@@ -33931,7 +33931,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "SIE",
         "Market": "V",
@@ -33944,7 +33944,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "SIF.UN",
         "Market": "TO",
@@ -33957,7 +33957,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "SII",
         "Market": "TO",
@@ -33970,7 +33970,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "SIM",
         "Market": "V",
@@ -33983,7 +33983,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "SIN.UN",
         "Market": "TO",
@@ -33996,7 +33996,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "SIO",
         "Market": "V",
@@ -34009,7 +34009,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "SIP",
         "Market": "V",
@@ -34022,7 +34022,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "SIR",
         "Market": "V",
@@ -34035,7 +34035,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "SIS",
         "Market": "TO",
@@ -34048,7 +34048,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "SJ",
         "Market": "TO",
@@ -34061,7 +34061,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "SJL",
         "Market": "V",
@@ -34074,7 +34074,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "SJR.B",
         "Market": "V",
@@ -34087,7 +34087,7 @@ var tickers= [
         "USSymbol": "SJR",
         "ICntry": "US",
         "USM": "NYSE"
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "SJR.B",
         "Market": "TO",
@@ -34100,7 +34100,7 @@ var tickers= [
         "USSymbol": "SJR",
         "ICntry": "US",
         "USM": "NYSE"
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "SKE",
         "Market": "V",
@@ -34113,7 +34113,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "SKG.UN",
         "Market": "TO",
@@ -34126,7 +34126,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "SKK",
         "Market": "V",
@@ -34139,7 +34139,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "SKP",
         "Market": "V",
@@ -34152,7 +34152,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "SKX",
         "Market": "V",
@@ -34165,7 +34165,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "SKY",
         "Market": "V",
@@ -34178,7 +34178,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "SLC",
         "Market": "V",
@@ -34191,7 +34191,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "SLF",
         "Market": "TO",
@@ -34204,7 +34204,7 @@ var tickers= [
         "USSymbol": "SLF",
         "ICntry": "US",
         "USM": "NYSE"
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "SLG",
         "Market": "V",
@@ -34217,7 +34217,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "SLK",
         "Market": "V",
@@ -34230,7 +34230,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "SLM",
         "Market": "V",
@@ -34243,7 +34243,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "SLR",
         "Market": "TO",
@@ -34256,7 +34256,7 @@ var tickers= [
         "USSymbol": "XPL",
         "ICntry": "US",
         "USM": "NYSE MKT"
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "SLW",
         "Market": "TO",
@@ -34269,7 +34269,7 @@ var tickers= [
         "USSymbol": "SLW",
         "ICntry": "US",
         "USM": "NYSE"
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "SMA",
         "Market": "TO",
@@ -34282,7 +34282,7 @@ var tickers= [
         "USSymbol": "SMT",
         "ICntry": "US",
         "USM": "NasdaqGM"
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "SMB",
         "Market": "V",
@@ -34295,7 +34295,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": "OTCQX"
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "SMC",
         "Market": "TO",
@@ -34308,7 +34308,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "SMD",
         "Market": "V",
@@ -34321,7 +34321,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "SME",
         "Market": "V",
@@ -34334,7 +34334,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "SMF",
         "Market": "TO",
@@ -34347,7 +34347,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": "OMX Nordic Exchange"
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "SMI",
         "Market": "V",
@@ -34360,7 +34360,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "SMM",
         "Market": "V",
@@ -34373,7 +34373,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "SMN",
         "Market": "V",
@@ -34386,7 +34386,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "SMO",
         "Market": "V",
@@ -34399,7 +34399,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "SMP",
         "Market": "V",
@@ -34412,7 +34412,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "SMS",
         "Market": "V",
@@ -34425,7 +34425,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "SMT",
         "Market": "TO",
@@ -34438,7 +34438,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": "Lima (BVL)"
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "SMU.UN",
         "Market": "TO",
@@ -34451,7 +34451,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "SMY",
         "Market": "V",
@@ -34464,7 +34464,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "SN",
         "Market": "V",
@@ -34477,7 +34477,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "SNA",
         "Market": "V",
@@ -34490,7 +34490,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "SNC",
         "Market": "TO",
@@ -34503,7 +34503,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "SNF",
         "Market": "V",
@@ -34516,7 +34516,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "SNG",
         "Market": "V",
@@ -34529,7 +34529,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "SNI.PR.A",
         "Market": "V",
@@ -34542,7 +34542,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "SNM",
         "Market": "V",
@@ -34555,7 +34555,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": "OMX"
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "SNR",
         "Market": "V",
@@ -34568,7 +34568,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "SNS",
         "Market": "V",
@@ -34581,7 +34581,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "SNV",
         "Market": "V",
@@ -34594,7 +34594,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "SOC",
         "Market": "V",
@@ -34607,7 +34607,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "SOF",
         "Market": "V",
@@ -34620,7 +34620,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "SOG",
         "Market": "V",
@@ -34633,7 +34633,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "SOI",
         "Market": "V",
@@ -34646,7 +34646,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "SOJ",
         "Market": "V",
@@ -34659,7 +34659,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "SOP",
         "Market": "V",
@@ -34672,7 +34672,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "SOT.UN",
         "Market": "TO",
@@ -34685,7 +34685,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "SOX",
         "Market": "TO",
@@ -34698,7 +34698,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "SOY",
         "Market": "TO",
@@ -34711,7 +34711,7 @@ var tickers= [
         "USSymbol": "STKL",
         "ICntry": "US",
         "USM": "NasdaqGM"
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "SPA",
         "Market": "V",
@@ -34724,7 +34724,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "SPB",
         "Market": "TO",
@@ -34737,7 +34737,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "SPC",
         "Market": "V",
@@ -34750,7 +34750,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "SPD",
         "Market": "V",
@@ -34763,7 +34763,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "SPE",
         "Market": "TO",
@@ -34776,7 +34776,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "SPF",
         "Market": "V",
@@ -34789,7 +34789,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "SPI",
         "Market": "V",
@@ -34802,7 +34802,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "SPK",
         "Market": "V",
@@ -34815,7 +34815,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "SPM",
         "Market": "TO",
@@ -34828,7 +34828,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "SPN",
         "Market": "V",
@@ -34841,7 +34841,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "SPP",
         "Market": "V",
@@ -34854,7 +34854,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "SPS.A",
         "Market": "V",
@@ -34867,7 +34867,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "SPT",
         "Market": "TO",
@@ -34880,7 +34880,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "SPX",
         "Market": "V",
@@ -34893,7 +34893,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "SQD",
         "Market": "V",
@@ -34906,7 +34906,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": "OTCQX"
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "SQG",
         "Market": "V",
@@ -34919,7 +34919,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "SQP",
         "Market": "TO",
@@ -34932,7 +34932,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "SRA",
         "Market": "V",
@@ -34945,7 +34945,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "SRC",
         "Market": "V",
@@ -34958,7 +34958,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "SRE",
         "Market": "V",
@@ -34971,7 +34971,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "SRI",
         "Market": "V",
@@ -34984,7 +34984,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "SRJ",
         "Market": "V",
@@ -34997,7 +34997,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "SRK",
         "Market": "V",
@@ -35010,7 +35010,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "SRL",
         "Market": "V",
@@ -35023,7 +35023,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "SRO",
         "Market": "V",
@@ -35036,7 +35036,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "SRT.UN",
         "Market": "TO",
@@ -35049,7 +35049,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "SRU.UN",
         "Market": "TO",
@@ -35062,7 +35062,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "SRV.UN",
         "Market": "TO",
@@ -35075,7 +35075,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "SRX",
         "Market": "V",
@@ -35088,7 +35088,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "SS",
         "Market": "V",
@@ -35101,7 +35101,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "SSA",
         "Market": "V",
@@ -35114,7 +35114,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "SSC",
         "Market": "V",
@@ -35127,7 +35127,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "SSE",
         "Market": "V",
@@ -35140,7 +35140,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "SSF.UN",
         "Market": "TO",
@@ -35153,7 +35153,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "SSG",
         "Market": "V",
@@ -35166,7 +35166,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "SSI",
         "Market": "V",
@@ -35179,7 +35179,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "SSL",
         "Market": "TO",
@@ -35192,7 +35192,7 @@ var tickers= [
         "USSymbol": "SAND",
         "ICntry": "US",
         "USM": "NYSE MKT"
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "SSM",
         "Market": "V",
@@ -35205,7 +35205,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": "LIMA (BVL)"
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "SSN",
         "Market": "V",
@@ -35218,7 +35218,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "SSO",
         "Market": "TO",
@@ -35231,7 +35231,7 @@ var tickers= [
         "USSymbol": "SSRI",
         "ICntry": "US",
         "USM": "NasdaqGM"
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "SSP",
         "Market": "V",
@@ -35244,7 +35244,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "SSV",
         "Market": "V",
@@ -35257,7 +35257,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "ST",
         "Market": "TO",
@@ -35270,7 +35270,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "STA",
         "Market": "V",
@@ -35283,7 +35283,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "STB",
         "Market": "TO",
@@ -35296,7 +35296,7 @@ var tickers= [
         "USSymbol": "STB",
         "ICntry": "US",
         "USM": "NasdaqGM"
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "STC",
         "Market": "V",
@@ -35309,7 +35309,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "STE",
         "Market": "V",
@@ -35322,7 +35322,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "STH",
         "Market": "V",
@@ -35335,7 +35335,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "STI",
         "Market": "V",
@@ -35348,7 +35348,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "STN",
         "Market": "TO",
@@ -35361,7 +35361,7 @@ var tickers= [
         "USSymbol": "STN",
         "ICntry": "US",
         "USM": "NYSE"
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "STT",
         "Market": "V",
@@ -35374,7 +35374,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "SU",
         "Market": "TO",
@@ -35387,7 +35387,7 @@ var tickers= [
         "USSymbol": "SU",
         "ICntry": "US",
         "USM": "NYSE"
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "SUD.A",
         "Market": "V",
@@ -35400,7 +35400,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "SUF.A",
         "Market": "V",
@@ -35413,7 +35413,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "SUG",
         "Market": "V",
@@ -35426,7 +35426,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "SUL",
         "Market": "V",
@@ -35439,7 +35439,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "SUM",
         "Market": "TO",
@@ -35452,7 +35452,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "SUO",
         "Market": "TO",
@@ -35465,7 +35465,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": "HKEx"
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "SUP",
         "Market": "V",
@@ -35478,7 +35478,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "SUS.A",
         "Market": "V",
@@ -35491,7 +35491,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "SV",
         "Market": "V",
@@ -35504,7 +35504,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": "ASX"
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "SVA",
         "Market": "V",
@@ -35517,7 +35517,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "SVB",
         "Market": "TO",
@@ -35530,7 +35530,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": "NYSE MKT"
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "SVC",
         "Market": "TO",
@@ -35543,7 +35543,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "SVG",
         "Market": "V",
@@ -35556,7 +35556,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "SVI",
         "Market": "V",
@@ -35569,7 +35569,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "SVL",
         "Market": "TO",
@@ -35582,7 +35582,7 @@ var tickers= [
         "USSymbol": "SVLC",
         "ICntry": "US",
         "USM": "NYSE MKT"
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "SVM",
         "Market": "TO",
@@ -35595,7 +35595,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": "NYSE"
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "SVO",
         "Market": "V",
@@ -35608,7 +35608,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "SVR",
         "Market": "TO",
@@ -35621,7 +35621,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "SVS",
         "Market": "V",
@@ -35634,7 +35634,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "SVT",
         "Market": "V",
@@ -35647,7 +35647,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "SVV",
         "Market": "V",
@@ -35660,7 +35660,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": "OTCQX"
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "SVY",
         "Market": "TO",
@@ -35673,7 +35673,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "SW",
         "Market": "TO",
@@ -35686,7 +35686,7 @@ var tickers= [
         "USSymbol": "SWIR",
         "ICntry": "US",
         "USM": "NasdaqGM"
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "SWA",
         "Market": "V",
@@ -35699,7 +35699,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "SWH",
         "Market": "TO",
@@ -35712,7 +35712,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "SWY",
         "Market": "TO",
@@ -35725,7 +35725,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "SXE",
         "Market": "V",
@@ -35738,7 +35738,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": "ASX"
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "SXI",
         "Market": "TO",
@@ -35751,7 +35751,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "SXL",
         "Market": "V",
@@ -35764,7 +35764,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "SXP",
         "Market": "TO",
@@ -35777,7 +35777,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "SXR",
         "Market": "V",
@@ -35790,7 +35790,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "SY",
         "Market": "V",
@@ -35803,7 +35803,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": "OTCQX"
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "SYD",
         "Market": "V",
@@ -35816,7 +35816,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "SYH",
         "Market": "V",
@@ -35829,7 +35829,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "SYI",
         "Market": "V",
@@ -35842,7 +35842,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "SYL",
         "Market": "V",
@@ -35855,7 +35855,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "SYN",
         "Market": "V",
@@ -35868,7 +35868,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "SYS",
         "Market": "V",
@@ -35881,7 +35881,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "SYZ",
         "Market": "V",
@@ -35894,7 +35894,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "T",
         "Market": "TO",
@@ -35907,7 +35907,7 @@ var tickers= [
         "USSymbol": "TU",
         "ICntry": "US",
         "USM": "NYSE"
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "TA",
         "Market": "TO",
@@ -35920,7 +35920,7 @@ var tickers= [
         "USSymbol": "TAC",
         "ICntry": "US",
         "USM": "NYSE"
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "TAC",
         "Market": "V",
@@ -35933,7 +35933,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "TAE",
         "Market": "V",
@@ -35946,7 +35946,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "TAJ",
         "Market": "V",
@@ -35959,7 +35959,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "TAN",
         "Market": "V",
@@ -35972,7 +35972,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "TAO",
         "Market": "TO",
@@ -35985,7 +35985,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "TAR",
         "Market": "V",
@@ -35998,7 +35998,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "TAU",
         "Market": "V",
@@ -36011,7 +36011,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": "OTCQX"
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "TAW",
         "Market": "V",
@@ -36024,7 +36024,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "TBE",
         "Market": "TO",
@@ -36037,7 +36037,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "TBL",
         "Market": "TO",
@@ -36050,7 +36050,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "TBO",
         "Market": "V",
@@ -36063,7 +36063,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "TBR",
         "Market": "V",
@@ -36076,7 +36076,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": "NYSE MKT"
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "TC",
         "Market": "TO",
@@ -36089,7 +36089,7 @@ var tickers= [
         "USSymbol": "TCX",
         "ICntry": "US",
         "USM": "NYSE MKT"
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "TCA",
         "Market": "V",
@@ -36102,7 +36102,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "TCI",
         "Market": "V",
@@ -36115,7 +36115,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "TCK.B",
         "Market": "TO",
@@ -36128,7 +36128,7 @@ var tickers= [
         "USSymbol": "TCK",
         "ICntry": "US",
         "USM": "NYSE"
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "TCL.A",
         "Market": "TO",
@@ -36141,7 +36141,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "TCM",
         "Market": "TO",
@@ -36154,7 +36154,7 @@ var tickers= [
         "USSymbol": "TC",
         "ICntry": "US",
         "USM": "NYSE"
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "TCN",
         "Market": "TO",
@@ -36167,7 +36167,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "TCO",
         "Market": "V",
@@ -36180,7 +36180,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "TCP",
         "Market": "TO",
@@ -36193,7 +36193,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "TCS",
         "Market": "TO",
@@ -36206,7 +36206,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "TCT.UN",
         "Market": "TO",
@@ -36219,7 +36219,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "TCW",
         "Market": "TO",
@@ -36232,7 +36232,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "TCX",
         "Market": "V",
@@ -36245,7 +36245,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "TCZ",
         "Market": "TO",
@@ -36258,7 +36258,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "TD",
         "Market": "TO",
@@ -36271,7 +36271,7 @@ var tickers= [
         "USSymbol": "TD",
         "ICntry": "US",
         "USM": "NYSE"
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "TDC",
         "Market": "V",
@@ -36284,7 +36284,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "TDG",
         "Market": "TO",
@@ -36297,7 +36297,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "TDS.C",
         "Market": "TO",
@@ -36310,7 +36310,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "TE",
         "Market": "V",
@@ -36323,7 +36323,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "TEA",
         "Market": "V",
@@ -36336,7 +36336,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "TEI",
         "Market": "TO",
@@ -36349,7 +36349,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "TEL",
         "Market": "TO",
@@ -36362,7 +36362,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "TEM",
         "Market": "V",
@@ -36375,7 +36375,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": "OTCQX"
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "TEN",
         "Market": "V",
@@ -36388,7 +36388,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "TEP.UN",
         "Market": "V",
@@ -36401,7 +36401,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "TES",
         "Market": "V",
@@ -36414,7 +36414,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "TET",
         "Market": "TO",
@@ -36427,7 +36427,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "TFI",
         "Market": "TO",
@@ -36440,7 +36440,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": "OTCQX"
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "TGA.DB",
         "Market": "TO",
@@ -36453,7 +36453,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "TGC",
         "Market": "V",
@@ -36466,7 +36466,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": "OTCQX"
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "TGD",
         "Market": "V",
@@ -36479,7 +36479,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "TGF.UN",
         "Market": "TO",
@@ -36492,7 +36492,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "TGK",
         "Market": "V",
@@ -36505,7 +36505,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "TGL",
         "Market": "TO",
@@ -36518,7 +36518,7 @@ var tickers= [
         "USSymbol": "TGA",
         "ICntry": "US",
         "USM": "NasdaqGM"
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "TGM",
         "Market": "V",
@@ -36531,7 +36531,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": "OTCQX"
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "TGO",
         "Market": "TO",
@@ -36544,7 +36544,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "TGR",
         "Market": "V",
@@ -36557,7 +36557,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "TGV",
         "Market": "V",
@@ -36570,7 +36570,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "TGX",
         "Market": "V",
@@ -36583,7 +36583,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "TGZ",
         "Market": "TO",
@@ -36596,7 +36596,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": "ASX"
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "TH",
         "Market": "TO",
@@ -36609,7 +36609,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "THH",
         "Market": "V",
@@ -36622,7 +36622,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "THM",
         "Market": "V",
@@ -36635,7 +36635,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "THO",
         "Market": "TO",
@@ -36648,7 +36648,7 @@ var tickers= [
         "USSymbol": "TAHO",
         "ICntry": "US",
         "USM": "Lima (BVL)"
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "THP",
         "Market": "V",
@@ -36661,7 +36661,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "THR",
         "Market": "V",
@@ -36674,7 +36674,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "THX",
         "Market": "V",
@@ -36687,7 +36687,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "TIC",
         "Market": "V",
@@ -36700,7 +36700,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "TIH",
         "Market": "TO",
@@ -36713,7 +36713,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "TII",
         "Market": "V",
@@ -36726,7 +36726,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "TIL",
         "Market": "V",
@@ -36739,7 +36739,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "TIN",
         "Market": "V",
@@ -36752,7 +36752,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "TIR",
         "Market": "V",
@@ -36765,7 +36765,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "TJ",
         "Market": "V",
@@ -36778,7 +36778,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "TK",
         "Market": "V",
@@ -36791,7 +36791,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "TKK",
         "Market": "V",
@@ -36804,7 +36804,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "TKO",
         "Market": "TO",
@@ -36817,7 +36817,7 @@ var tickers= [
         "USSymbol": "TGB",
         "ICntry": "US",
         "USM": "NYSE MKT"
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "TKU",
         "Market": "V",
@@ -36830,7 +36830,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "TLA",
         "Market": "V",
@@ -36843,7 +36843,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "TLB",
         "Market": "TO",
@@ -36856,7 +36856,7 @@ var tickers= [
         "USSymbol": "TEAR",
         "ICntry": "US",
         "USM": "NasdaqCM"
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "TLF.UN",
         "Market": "TO",
@@ -36869,7 +36869,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "TLK",
         "Market": "V",
@@ -36882,7 +36882,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "TLO",
         "Market": "TO",
@@ -36895,7 +36895,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "TLT",
         "Market": "V",
@@ -36908,7 +36908,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "TLV",
         "Market": "TO",
@@ -36921,7 +36921,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "TMA",
         "Market": "TO",
@@ -36934,7 +36934,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "TMB",
         "Market": "TO",
@@ -36947,7 +36947,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "TMC",
         "Market": "TO",
@@ -36960,7 +36960,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "TMD",
         "Market": "TO",
@@ -36973,7 +36973,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "TMG",
         "Market": "V",
@@ -36986,7 +36986,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "TMI",
         "Market": "TO",
@@ -36999,7 +36999,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": "OTCQX"
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "TML",
         "Market": "TO",
@@ -37012,7 +37012,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "TMM",
         "Market": "TO",
@@ -37025,7 +37025,7 @@ var tickers= [
         "USSymbol": "TGD",
         "ICntry": "US",
         "USM": "NYSE MKT"
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "TMR",
         "Market": "TO",
@@ -37038,7 +37038,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "TMV",
         "Market": "V",
@@ -37051,7 +37051,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "TN.UN",
         "Market": "TO",
@@ -37064,7 +37064,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "TNA",
         "Market": "V",
@@ -37077,7 +37077,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "TNC",
         "Market": "V",
@@ -37090,7 +37090,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "TNG",
         "Market": "V",
@@ -37103,7 +37103,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "TNK",
         "Market": "V",
@@ -37116,7 +37116,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "TNP",
         "Market": "TO",
@@ -37129,7 +37129,7 @@ var tickers= [
         "USSymbol": "TAT",
         "ICntry": "US",
         "USM": "NYSE MKT"
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "TNR",
         "Market": "V",
@@ -37142,7 +37142,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "TNT.UN",
         "Market": "TO",
@@ -37155,7 +37155,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "TNX",
         "Market": "TO",
@@ -37168,7 +37168,7 @@ var tickers= [
         "USSymbol": "TRX",
         "ICntry": "US",
         "USM": "NYSE MKT"
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "TOE",
         "Market": "V",
@@ -37181,7 +37181,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "TOF.UN",
         "Market": "TO",
@@ -37194,7 +37194,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "TOG",
         "Market": "TO",
@@ -37207,7 +37207,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "TOM",
         "Market": "V",
@@ -37220,7 +37220,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "TON",
         "Market": "V",
@@ -37233,7 +37233,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "TOO",
         "Market": "V",
@@ -37246,7 +37246,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "TOS",
         "Market": "TO",
@@ -37259,7 +37259,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "TOT",
         "Market": "TO",
@@ -37272,7 +37272,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "TOU",
         "Market": "TO",
@@ -37285,7 +37285,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "TOY",
         "Market": "TO",
@@ -37298,7 +37298,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "TPC",
         "Market": "V",
@@ -37311,7 +37311,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "TPH",
         "Market": "TO",
@@ -37324,7 +37324,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "TPK",
         "Market": "TO",
@@ -37337,7 +37337,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "TPL",
         "Market": "TO",
@@ -37350,7 +37350,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": "LSE"
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "TPN",
         "Market": "V",
@@ -37363,7 +37363,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": "OTCQX"
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "TPX.B",
         "Market": "TO",
@@ -37376,7 +37376,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "TQC.P",
         "Market": "V",
@@ -37389,7 +37389,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "TR",
         "Market": "TO",
@@ -37402,7 +37402,7 @@ var tickers= [
         "USSymbol": "TRIL",
         "ICntry": "US",
         "USM": "NasdaqCM"
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "TRA",
         "Market": "V",
@@ -37415,7 +37415,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": "OTCQX"
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "TRB",
         "Market": "V",
@@ -37428,7 +37428,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "TRC",
         "Market": "V",
@@ -37441,7 +37441,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "TRF.UN",
         "Market": "TO",
@@ -37454,7 +37454,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "TRH.UN",
         "Market": "TO",
@@ -37467,7 +37467,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "TRI",
         "Market": "TO",
@@ -37480,7 +37480,7 @@ var tickers= [
         "USSymbol": "TRI",
         "ICntry": "US",
         "USM": "NYSE"
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "TRM",
         "Market": "V",
@@ -37493,7 +37493,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": "OTCQX"
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "TRO",
         "Market": "V",
@@ -37506,7 +37506,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "TRP",
         "Market": "TO",
@@ -37519,7 +37519,7 @@ var tickers= [
         "USSymbol": "TRP",
         "ICntry": "US",
         "USM": "NYSE"
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "TRQ",
         "Market": "TO",
@@ -37532,7 +37532,7 @@ var tickers= [
         "USSymbol": "TRQ",
         "ICntry": "US",
         "USM": "NYSE"
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "TRS",
         "Market": "V",
@@ -37545,7 +37545,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "TRU",
         "Market": "V",
@@ -37558,7 +37558,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "TRX",
         "Market": "V",
@@ -37571,7 +37571,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": "OTCQX"
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "TRZ.B",
         "Market": "TO",
@@ -37584,7 +37584,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "TS.B",
         "Market": "TO",
@@ -37597,7 +37597,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "TSD",
         "Market": "V",
@@ -37610,7 +37610,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "TSG",
         "Market": "V",
@@ -37623,7 +37623,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "TSL",
         "Market": "TO",
@@ -37636,7 +37636,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "TSM",
         "Market": "V",
@@ -37649,7 +37649,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": "NYSE MKT"
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "TSN",
         "Market": "V",
@@ -37662,7 +37662,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "TSP",
         "Market": "V",
@@ -37675,7 +37675,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "TST",
         "Market": "TO",
@@ -37688,7 +37688,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": "ASX"
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "TT",
         "Market": "TO",
@@ -37701,7 +37701,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "TTD",
         "Market": "V",
@@ -37714,7 +37714,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "TTE.UN",
         "Market": "TO",
@@ -37727,7 +37727,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "TTG",
         "Market": "V",
@@ -37740,7 +37740,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "TTH",
         "Market": "TO",
@@ -37753,7 +37753,7 @@ var tickers= [
         "USSymbol": "TTHI",
         "ICntry": "US",
         "USM": "NasdaqGM"
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "TTM",
         "Market": "V",
@@ -37766,7 +37766,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "TTR",
         "Market": "V",
@@ -37779,7 +37779,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "TTS",
         "Market": "V",
@@ -37792,7 +37792,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "TTY.UN",
         "Market": "TO",
@@ -37805,7 +37805,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "TTZ",
         "Market": "V",
@@ -37818,7 +37818,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "TUF",
         "Market": "V",
@@ -37831,7 +37831,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "TUO",
         "Market": "V",
@@ -37844,7 +37844,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "TUS",
         "Market": "V",
@@ -37857,7 +37857,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "TUT.UN",
         "Market": "TO",
@@ -37870,7 +37870,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "TV",
         "Market": "TO",
@@ -37883,7 +37883,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": "OTCQX"
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "TVA.B",
         "Market": "TO",
@@ -37896,7 +37896,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "TVE",
         "Market": "TO",
@@ -37909,7 +37909,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "TVI",
         "Market": "TO",
@@ -37922,7 +37922,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": "OTCQX"
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "TVK",
         "Market": "TO",
@@ -37935,7 +37935,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "TVL",
         "Market": "V",
@@ -37948,7 +37948,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "TVR",
         "Market": "V",
@@ -37961,7 +37961,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "TWC",
         "Market": "TO",
@@ -37974,7 +37974,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "TWM",
         "Market": "V",
@@ -37987,7 +37987,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "TWR",
         "Market": "V",
@@ -38000,7 +38000,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "TWY",
         "Market": "V",
@@ -38013,7 +38013,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "TX",
         "Market": "TO",
@@ -38026,7 +38026,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "TXF",
         "Market": "TO",
@@ -38039,7 +38039,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "TXG",
         "Market": "TO",
@@ -38052,7 +38052,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "TXL",
         "Market": "TO",
@@ -38065,7 +38065,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "TXP",
         "Market": "TO",
@@ -38078,7 +38078,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "TXR",
         "Market": "V",
@@ -38091,7 +38091,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "TXT.UN",
         "Market": "TO",
@@ -38104,7 +38104,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "TXX",
         "Market": "V",
@@ -38117,7 +38117,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": "OTCQX"
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "TYE",
         "Market": "V",
@@ -38130,7 +38130,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "TYP",
         "Market": "V",
@@ -38143,7 +38143,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "TZM",
         "Market": "V",
@@ -38156,7 +38156,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "TZR",
         "Market": "V",
@@ -38169,7 +38169,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": "OTCQX"
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "TZS",
         "Market": "TO",
@@ -38182,7 +38182,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "TZZ",
         "Market": "TO",
@@ -38195,7 +38195,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "U",
         "Market": "TO",
@@ -38208,7 +38208,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "UBN",
         "Market": "V",
@@ -38221,7 +38221,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "UBR",
         "Market": "V",
@@ -38234,7 +38234,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "UC",
         "Market": "V",
@@ -38247,7 +38247,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "UCD.UN",
         "Market": "TO",
@@ -38260,7 +38260,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "UCU",
         "Market": "V",
@@ -38273,7 +38273,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": "OTCQX"
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "UDA.UN",
         "Market": "TO",
@@ -38286,7 +38286,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "UEX",
         "Market": "TO",
@@ -38299,7 +38299,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "UFC",
         "Market": "V",
@@ -38312,7 +38312,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "UFS",
         "Market": "TO",
@@ -38325,7 +38325,7 @@ var tickers= [
         "USSymbol": "UFS",
         "ICntry": "US",
         "USM": "NYSE"
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "UG",
         "Market": "V",
@@ -38338,7 +38338,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "UGD",
         "Market": "V",
@@ -38351,7 +38351,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "UHO",
         "Market": "V",
@@ -38364,7 +38364,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "UI",
         "Market": "V",
@@ -38377,7 +38377,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "ULI",
         "Market": "V",
@@ -38390,7 +38390,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "ULT",
         "Market": "V",
@@ -38403,7 +38403,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "ULV",
         "Market": "TO",
@@ -38416,7 +38416,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "UMF.A",
         "Market": "V",
@@ -38429,7 +38429,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "UN",
         "Market": "V",
@@ -38442,7 +38442,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "UNC",
         "Market": "TO",
@@ -38455,7 +38455,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "UNG.PR.D",
         "Market": "TO",
@@ -38468,7 +38468,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "UNI",
         "Market": "V",
@@ -38481,7 +38481,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "UNO",
         "Market": "V",
@@ -38494,7 +38494,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "UNS",
         "Market": "TO",
@@ -38507,7 +38507,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "UR",
         "Market": "TO",
@@ -38520,7 +38520,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "URA",
         "Market": "V",
@@ -38533,7 +38533,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "URB",
         "Market": "TO",
@@ -38546,7 +38546,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "URC",
         "Market": "V",
@@ -38559,7 +38559,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "URE",
         "Market": "TO",
@@ -38572,7 +38572,7 @@ var tickers= [
         "USSymbol": "URG",
         "ICntry": "US",
         "USM": "NYSE MKT"
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "US",
         "Market": "TO",
@@ -38585,7 +38585,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "USB",
         "Market": "TO",
@@ -38598,7 +38598,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "USF.UN",
         "Market": "TO",
@@ -38611,7 +38611,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "USH.UN",
         "Market": "TO",
@@ -38624,7 +38624,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "USM.UN",
         "Market": "TO",
@@ -38637,7 +38637,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "USO",
         "Market": "V",
@@ -38650,7 +38650,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "USR",
         "Market": "V",
@@ -38663,7 +38663,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "USS",
         "Market": "V",
@@ -38676,7 +38676,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "UST.UN",
         "Market": "TO",
@@ -38689,7 +38689,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "UTC.C",
         "Market": "TO",
@@ -38702,7 +38702,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "UTE.UN",
         "Market": "TO",
@@ -38715,7 +38715,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "UTY",
         "Market": "V",
@@ -38728,7 +38728,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "UVN",
         "Market": "V",
@@ -38741,7 +38741,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "UWE",
         "Market": "TO",
@@ -38754,7 +38754,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": "OTCQX"
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "UXM",
         "Market": "TO",
@@ -38767,7 +38767,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "VA",
         "Market": "TO",
@@ -38780,7 +38780,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "VAB",
         "Market": "TO",
@@ -38793,7 +38793,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "VAC",
         "Market": "TO",
@@ -38806,7 +38806,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": "OTCQX"
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "VAL",
         "Market": "V",
@@ -38819,7 +38819,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "VAN",
         "Market": "V",
@@ -38832,7 +38832,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "VAX",
         "Market": "V",
@@ -38845,7 +38845,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "VBG",
         "Market": "TO",
@@ -38858,7 +38858,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "VBI",
         "Market": "V",
@@ -38871,7 +38871,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "VBU",
         "Market": "TO",
@@ -38884,7 +38884,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "VCE",
         "Market": "TO",
@@ -38897,7 +38897,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "VCI",
         "Market": "V",
@@ -38910,7 +38910,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "VCM",
         "Market": "TO",
@@ -38923,7 +38923,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "VCN",
         "Market": "TO",
@@ -38936,7 +38936,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "VDO",
         "Market": "V",
@@ -38949,7 +38949,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "VDR",
         "Market": "V",
@@ -38962,7 +38962,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "VDU",
         "Market": "TO",
@@ -38975,7 +38975,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "VDY",
         "Market": "TO",
@@ -38988,7 +38988,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "VE",
         "Market": "TO",
@@ -39001,7 +39001,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "VEE",
         "Market": "TO",
@@ -39014,7 +39014,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "VEF",
         "Market": "TO",
@@ -39027,7 +39027,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "VEL",
         "Market": "V",
@@ -39040,7 +39040,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "VEM",
         "Market": "TO",
@@ -39053,7 +39053,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": "Lima (BVL)"
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "VET",
         "Market": "TO",
@@ -39066,7 +39066,7 @@ var tickers= [
         "USSymbol": "VET",
         "ICntry": "US",
         "USM": "NYSE"
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "VFF",
         "Market": "TO",
@@ -39079,7 +39079,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": "OTCQX"
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "VFV",
         "Market": "TO",
@@ -39092,7 +39092,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "VGC",
         "Market": "V",
@@ -39105,7 +39105,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "VGD",
         "Market": "V",
@@ -39118,7 +39118,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "VGG",
         "Market": "TO",
@@ -39131,7 +39131,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "VGH",
         "Market": "TO",
@@ -39144,7 +39144,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "VGI.UN",
         "Market": "TO",
@@ -39157,7 +39157,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "VGL",
         "Market": "V",
@@ -39170,7 +39170,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "VGN",
         "Market": "V",
@@ -39183,7 +39183,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "VGO",
         "Market": "V",
@@ -39196,7 +39196,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "VGZ",
         "Market": "TO",
@@ -39209,7 +39209,7 @@ var tickers= [
         "USSymbol": "VGZ",
         "ICntry": "US",
         "USM": "NYSE MKT"
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "VHO",
         "Market": "V",
@@ -39222,7 +39222,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "VID",
         "Market": "V",
@@ -39235,7 +39235,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "VIE.P",
         "Market": "V",
@@ -39248,7 +39248,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "VII",
         "Market": "TO",
@@ -39261,7 +39261,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "VIO",
         "Market": "V",
@@ -39274,7 +39274,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "VIP.UN",
         "Market": "TO",
@@ -39287,7 +39287,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "VIS",
         "Market": "V",
@@ -39300,7 +39300,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "VIT",
         "Market": "V",
@@ -39313,7 +39313,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "VIV",
         "Market": "V",
@@ -39326,7 +39326,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "VLA",
         "Market": "V",
@@ -39339,7 +39339,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "VLE",
         "Market": "TO",
@@ -39352,7 +39352,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "VLN",
         "Market": "TO",
@@ -39365,7 +39365,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "VLV",
         "Market": "V",
@@ -39378,7 +39378,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "VML",
         "Market": "V",
@@ -39391,7 +39391,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "VMS",
         "Market": "V",
@@ -39404,7 +39404,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "VNP",
         "Market": "TO",
@@ -39417,7 +39417,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "VNR",
         "Market": "TO",
@@ -39430,7 +39430,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "VOL",
         "Market": "V",
@@ -39443,7 +39443,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "VPI",
         "Market": "V",
@@ -39456,7 +39456,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "VPT",
         "Market": "V",
@@ -39469,7 +39469,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": "OTCQX"
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "VPY",
         "Market": "V",
@@ -39482,7 +39482,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "VQA",
         "Market": "V",
@@ -39495,7 +39495,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "VQS",
         "Market": "V",
@@ -39508,7 +39508,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "VR",
         "Market": "V",
@@ -39521,7 +39521,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": "OTCQX"
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "VRB",
         "Market": "V",
@@ -39534,7 +39534,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": "OTCQX"
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "VRD",
         "Market": "V",
@@ -39547,7 +39547,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "VRE",
         "Market": "TO",
@@ -39560,7 +39560,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "VRS",
         "Market": "V",
@@ -39573,7 +39573,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": "OTCQX"
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "VRX",
         "Market": "TO",
@@ -39586,7 +39586,7 @@ var tickers= [
         "USSymbol": "VRX",
         "ICntry": "US",
         "USM": "NYSE"
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "VRY",
         "Market": "V",
@@ -39599,7 +39599,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "VSB",
         "Market": "TO",
@@ -39612,7 +39612,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "VSC",
         "Market": "TO",
@@ -39625,7 +39625,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "VSI",
         "Market": "V",
@@ -39638,7 +39638,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "VSN",
         "Market": "TO",
@@ -39651,7 +39651,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "VSP",
         "Market": "TO",
@@ -39664,7 +39664,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "VSR",
         "Market": "V",
@@ -39677,7 +39677,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "VTI",
         "Market": "V",
@@ -39690,7 +39690,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "VTT",
         "Market": "V",
@@ -39703,7 +39703,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "VUI",
         "Market": "V",
@@ -39716,7 +39716,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": "OTCQX"
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "VUL",
         "Market": "V",
@@ -39729,7 +39729,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "VUN",
         "Market": "TO",
@@ -39742,7 +39742,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "VUS",
         "Market": "TO",
@@ -39755,7 +39755,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "VUX",
         "Market": "V",
@@ -39768,7 +39768,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "VV",
         "Market": "V",
@@ -39781,7 +39781,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "VVA",
         "Market": "V",
@@ -39794,7 +39794,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "VVC",
         "Market": "V",
@@ -39807,7 +39807,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "VVN",
         "Market": "V",
@@ -39820,7 +39820,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "VVV",
         "Market": "V",
@@ -39833,7 +39833,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "VXC",
         "Market": "TO",
@@ -39846,7 +39846,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "VXM",
         "Market": "TO",
@@ -39859,7 +39859,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "VXS",
         "Market": "TO",
@@ -39872,7 +39872,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "VYC",
         "Market": "V",
@@ -39885,7 +39885,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "VZZ",
         "Market": "V",
@@ -39898,7 +39898,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "W.PR.J",
         "Market": "TO",
@@ -39911,7 +39911,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "WAF",
         "Market": "V",
@@ -39924,7 +39924,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": "ASX"
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "WAI",
         "Market": "V",
@@ -39937,7 +39937,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "WAN",
         "Market": "V",
@@ -39950,7 +39950,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "WAR",
         "Market": "V",
@@ -39963,7 +39963,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "WAV",
         "Market": "V",
@@ -39976,7 +39976,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "WB",
         "Market": "TO",
@@ -39989,7 +39989,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "WBE",
         "Market": "V",
@@ -40002,7 +40002,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "WCB",
         "Market": "V",
@@ -40015,7 +40015,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "WCC",
         "Market": "V",
@@ -40028,7 +40028,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "WCE",
         "Market": "V",
@@ -40041,7 +40041,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "WCM.A",
         "Market": "TO",
@@ -40054,7 +40054,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "WCP",
         "Market": "TO",
@@ -40067,7 +40067,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "WCX",
         "Market": "V",
@@ -40080,7 +40080,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "WDG",
         "Market": "V",
@@ -40093,7 +40093,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": "JSE"
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "WDO",
         "Market": "TO",
@@ -40106,7 +40106,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "WEB",
         "Market": "V",
@@ -40119,7 +40119,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "WED",
         "Market": "V",
@@ -40132,7 +40132,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "WEE",
         "Market": "V",
@@ -40145,7 +40145,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": "OTCQX"
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "WEF",
         "Market": "TO",
@@ -40158,7 +40158,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "WEL",
         "Market": "V",
@@ -40171,7 +40171,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "WEQ",
         "Market": "TO",
@@ -40184,7 +40184,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "WEW",
         "Market": "TO",
@@ -40197,7 +40197,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "WEY",
         "Market": "V",
@@ -40210,7 +40210,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "WFC",
         "Market": "TO",
@@ -40223,7 +40223,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "WFG",
         "Market": "V",
@@ -40236,7 +40236,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "WFS",
         "Market": "TO",
@@ -40249,7 +40249,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "WFT",
         "Market": "TO",
@@ -40262,7 +40262,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "WG",
         "Market": "TO",
@@ -40275,7 +40275,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "WGF",
         "Market": "V",
@@ -40288,7 +40288,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "WHM",
         "Market": "V",
@@ -40301,7 +40301,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "WHN",
         "Market": "V",
@@ -40314,7 +40314,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "WHY",
         "Market": "V",
@@ -40327,7 +40327,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "WIL",
         "Market": "V",
@@ -40340,7 +40340,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "WIN",
         "Market": "TO",
@@ -40353,7 +40353,7 @@ var tickers= [
         "USSymbol": "WILN",
         "ICntry": "US",
         "USM": "NasdaqGM"
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "WIR.U",
         "Market": "TO",
@@ -40366,7 +40366,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": "OTCQX"
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "WJA",
         "Market": "TO",
@@ -40379,7 +40379,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "WJX",
         "Market": "TO",
@@ -40392,7 +40392,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "WKA.P",
         "Market": "V",
@@ -40405,7 +40405,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "WKG",
         "Market": "V",
@@ -40418,7 +40418,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "WKM",
         "Market": "V",
@@ -40431,7 +40431,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "WLC",
         "Market": "TO",
@@ -40444,7 +40444,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": "OTCQX"
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "WLF",
         "Market": "V",
@@ -40457,7 +40457,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "WLP.P",
         "Market": "V",
@@ -40470,7 +40470,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "WLV",
         "Market": "V",
@@ -40483,7 +40483,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "WM",
         "Market": "TO",
@@ -40496,7 +40496,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "WML",
         "Market": "V",
@@ -40509,7 +40509,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "WMM",
         "Market": "V",
@@ -40522,7 +40522,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "WMR",
         "Market": "V",
@@ -40535,7 +40535,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": "OTCQX"
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "WMT",
         "Market": "V",
@@ -40548,7 +40548,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "WN",
         "Market": "TO",
@@ -40561,7 +40561,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "WOW.P",
         "Market": "V",
@@ -40574,7 +40574,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "WP",
         "Market": "V",
@@ -40587,7 +40587,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "WPK",
         "Market": "TO",
@@ -40600,7 +40600,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "WPQ",
         "Market": "V",
@@ -40613,7 +40613,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "WPR",
         "Market": "V",
@@ -40626,7 +40626,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "WPT",
         "Market": "TO",
@@ -40639,7 +40639,7 @@ var tickers= [
         "USSymbol": "WPRT",
         "ICntry": "US",
         "USM": "NasdaqGM"
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "WPX",
         "Market": "TO",
@@ -40652,7 +40652,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "WR",
         "Market": "V",
@@ -40665,7 +40665,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "WRG",
         "Market": "TO",
@@ -40678,7 +40678,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "WRI",
         "Market": "V",
@@ -40691,7 +40691,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "WRN",
         "Market": "TO",
@@ -40704,7 +40704,7 @@ var tickers= [
         "USSymbol": "WRN",
         "ICntry": "US",
         "USM": "NYSE MKT"
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "WRP",
         "Market": "V",
@@ -40717,7 +40717,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "WRR",
         "Market": "V",
@@ -40730,7 +40730,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "WRY",
         "Market": "V",
@@ -40743,7 +40743,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "WSE",
         "Market": "V",
@@ -40756,7 +40756,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "WSP",
         "Market": "TO",
@@ -40769,7 +40769,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "WST",
         "Market": "V",
@@ -40782,7 +40782,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "WTE",
         "Market": "TO",
@@ -40795,7 +40795,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "WTR",
         "Market": "V",
@@ -40808,7 +40808,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "WXM",
         "Market": "TO",
@@ -40821,7 +40821,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "WZR",
         "Market": "V",
@@ -40834,7 +40834,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "X",
         "Market": "TO",
@@ -40847,7 +40847,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "XAG",
         "Market": "V",
@@ -40860,7 +40860,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "XAL",
         "Market": "TO",
@@ -40873,7 +40873,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "XAU",
         "Market": "V",
@@ -40886,7 +40886,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "XAW",
         "Market": "TO",
@@ -40899,7 +40899,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "XBB",
         "Market": "TO",
@@ -40912,7 +40912,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "XBC",
         "Market": "V",
@@ -40925,7 +40925,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "XBM",
         "Market": "TO",
@@ -40938,7 +40938,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "XBZ",
         "Market": "TO",
@@ -40951,7 +40951,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "XCB",
         "Market": "TO",
@@ -40964,7 +40964,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "XCD",
         "Market": "TO",
@@ -40977,7 +40977,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "XCG",
         "Market": "TO",
@@ -40990,7 +40990,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "XCH",
         "Market": "TO",
@@ -41003,7 +41003,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "XCR",
         "Market": "TO",
@@ -41016,7 +41016,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "XCS",
         "Market": "TO",
@@ -41029,7 +41029,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "XCV",
         "Market": "TO",
@@ -41042,7 +41042,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "XCX",
         "Market": "V",
@@ -41055,7 +41055,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "XDC",
         "Market": "TO",
@@ -41068,7 +41068,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "XDV",
         "Market": "TO",
@@ -41081,7 +41081,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "XE",
         "Market": "V",
@@ -41094,7 +41094,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "XEB",
         "Market": "TO",
@@ -41107,7 +41107,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "XEC",
         "Market": "TO",
@@ -41120,7 +41120,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "XEF",
         "Market": "TO",
@@ -41133,7 +41133,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "XEG",
         "Market": "TO",
@@ -41146,7 +41146,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "XEH",
         "Market": "TO",
@@ -41159,7 +41159,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "XEI",
         "Market": "TO",
@@ -41172,7 +41172,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "XEM",
         "Market": "TO",
@@ -41185,7 +41185,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "XEN",
         "Market": "TO",
@@ -41198,7 +41198,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "XEU",
         "Market": "TO",
@@ -41211,7 +41211,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "XFC",
         "Market": "TO",
@@ -41224,7 +41224,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "XFH",
         "Market": "TO",
@@ -41237,7 +41237,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "XFI",
         "Market": "TO",
@@ -41250,7 +41250,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "XFN",
         "Market": "TO",
@@ -41263,7 +41263,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "XFR",
         "Market": "TO",
@@ -41276,7 +41276,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "XFS",
         "Market": "TO",
@@ -41289,7 +41289,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "XGB",
         "Market": "TO",
@@ -41302,7 +41302,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "XGC",
         "Market": "TO",
@@ -41315,7 +41315,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "XGD",
         "Market": "TO",
@@ -41328,7 +41328,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "XGI",
         "Market": "TO",
@@ -41341,7 +41341,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "XGR",
         "Market": "TO",
@@ -41354,7 +41354,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "XHB",
         "Market": "TO",
@@ -41367,7 +41367,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "XHC",
         "Market": "TO",
@@ -41380,7 +41380,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "XHD",
         "Market": "TO",
@@ -41393,7 +41393,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "XHU",
         "Market": "TO",
@@ -41406,7 +41406,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "XHY",
         "Market": "TO",
@@ -41419,7 +41419,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "XI",
         "Market": "V",
@@ -41432,7 +41432,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "XIA",
         "Market": "V",
@@ -41445,7 +41445,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "XIC",
         "Market": "TO",
@@ -41458,7 +41458,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "XID",
         "Market": "TO",
@@ -41471,7 +41471,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "XIG",
         "Market": "TO",
@@ -41484,7 +41484,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "XIM",
         "Market": "V",
@@ -41497,7 +41497,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "XIN",
         "Market": "TO",
@@ -41510,7 +41510,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "XIT",
         "Market": "TO",
@@ -41523,7 +41523,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "XIU",
         "Market": "TO",
@@ -41536,7 +41536,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "XL",
         "Market": "V",
@@ -41549,7 +41549,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "XLB",
         "Market": "TO",
@@ -41562,7 +41562,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "XMA",
         "Market": "TO",
@@ -41575,7 +41575,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "XMC",
         "Market": "TO",
@@ -41588,7 +41588,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "XMD",
         "Market": "TO",
@@ -41601,7 +41601,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "XME",
         "Market": "V",
@@ -41614,7 +41614,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": "OTCQX"
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "XMF.A",
         "Market": "TO",
@@ -41627,7 +41627,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "XMH",
         "Market": "TO",
@@ -41640,7 +41640,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "XMI",
         "Market": "TO",
@@ -41653,7 +41653,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "XMM",
         "Market": "TO",
@@ -41666,7 +41666,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "XMU",
         "Market": "TO",
@@ -41679,7 +41679,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "XMV",
         "Market": "TO",
@@ -41692,7 +41692,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "XMW",
         "Market": "TO",
@@ -41705,7 +41705,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "XND",
         "Market": "V",
@@ -41718,7 +41718,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "XOP",
         "Market": "V",
@@ -41731,7 +41731,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": "LSE"
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "XPF",
         "Market": "TO",
@@ -41744,7 +41744,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "XQB",
         "Market": "TO",
@@ -41757,7 +41757,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "XQQ",
         "Market": "TO",
@@ -41770,7 +41770,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "XRB",
         "Market": "TO",
@@ -41783,7 +41783,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "XRC",
         "Market": "TO",
@@ -41796,7 +41796,7 @@ var tickers= [
         "USSymbol": "XRA",
         "ICntry": "US",
         "USM": "NYSE MKT"
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "XRE",
         "Market": "TO",
@@ -41809,7 +41809,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "XSB",
         "Market": "TO",
@@ -41822,7 +41822,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "XSC",
         "Market": "TO",
@@ -41835,7 +41835,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "XSE",
         "Market": "TO",
@@ -41848,7 +41848,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "XSH",
         "Market": "TO",
@@ -41861,7 +41861,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "XSI",
         "Market": "TO",
@@ -41874,7 +41874,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "XSP",
         "Market": "TO",
@@ -41887,7 +41887,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "XSQ",
         "Market": "TO",
@@ -41900,7 +41900,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "XSR",
         "Market": "TO",
@@ -41913,7 +41913,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "XST",
         "Market": "TO",
@@ -41926,7 +41926,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "XSU",
         "Market": "TO",
@@ -41939,7 +41939,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "XTC",
         "Market": "TO",
@@ -41952,7 +41952,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "XTD",
         "Market": "TO",
@@ -41965,7 +41965,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "XTG",
         "Market": "TO",
@@ -41978,7 +41978,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "XTM",
         "Market": "V",
@@ -41991,7 +41991,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "XTR",
         "Market": "TO",
@@ -42004,7 +42004,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "XTT",
         "Market": "V",
@@ -42017,7 +42017,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "XUH",
         "Market": "TO",
@@ -42030,7 +42030,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "XUS",
         "Market": "TO",
@@ -42043,7 +42043,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "XUT",
         "Market": "TO",
@@ -42056,7 +42056,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "XUU",
         "Market": "TO",
@@ -42069,7 +42069,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "XWD",
         "Market": "TO",
@@ -42082,7 +42082,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "XX",
         "Market": "V",
@@ -42095,7 +42095,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "XXM",
         "Market": "TO",
@@ -42108,7 +42108,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "XYL",
         "Market": "V",
@@ -42121,7 +42121,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "XYM",
         "Market": "TO",
@@ -42134,7 +42134,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "Y",
         "Market": "TO",
@@ -42147,7 +42147,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "YAK",
         "Market": "V",
@@ -42160,7 +42160,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "YCM",
         "Market": "TO",
@@ -42173,7 +42173,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "YES.P",
         "Market": "V",
@@ -42186,7 +42186,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "YFI",
         "Market": "V",
@@ -42199,7 +42199,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "YGR",
         "Market": "TO",
@@ -42212,7 +42212,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "YMI",
         "Market": "TO",
@@ -42225,7 +42225,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": "OTCQX"
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "YO",
         "Market": "V",
@@ -42238,7 +42238,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "YOO",
         "Market": "V",
@@ -42251,7 +42251,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "YOU.UN",
         "Market": "TO",
@@ -42264,7 +42264,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "YP.UN",
         "Market": "TO",
@@ -42277,7 +42277,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "YPG.DB",
         "Market": "TO",
@@ -42290,7 +42290,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "YRB.A",
         "Market": "TO",
@@ -42303,7 +42303,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "YRI",
         "Market": "TO",
@@ -42316,7 +42316,7 @@ var tickers= [
         "USSymbol": "AUY",
         "ICntry": "US",
         "USM": "NYSE"
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "YTY",
         "Market": "V",
@@ -42329,7 +42329,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "YVI",
         "Market": "V",
@@ -42342,7 +42342,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "YXM",
         "Market": "TO",
@@ -42355,7 +42355,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "ZAD",
         "Market": "V",
@@ -42368,7 +42368,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "ZAG",
         "Market": "TO",
@@ -42381,7 +42381,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "ZAO",
         "Market": "V",
@@ -42394,7 +42394,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "ZAR",
         "Market": "TO",
@@ -42407,7 +42407,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "ZAZ",
         "Market": "TO",
@@ -42420,7 +42420,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": "OTCQX"
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "ZBK",
         "Market": "TO",
@@ -42433,7 +42433,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "ZC",
         "Market": "V",
@@ -42446,7 +42446,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "ZCC",
         "Market": "V",
@@ -42459,7 +42459,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "ZCH",
         "Market": "TO",
@@ -42472,7 +42472,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "ZCL",
         "Market": "TO",
@@ -42485,7 +42485,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "ZCM",
         "Market": "TO",
@@ -42498,7 +42498,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "ZCN",
         "Market": "TO",
@@ -42511,7 +42511,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "ZCS",
         "Market": "TO",
@@ -42524,7 +42524,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "ZDB",
         "Market": "TO",
@@ -42537,7 +42537,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "ZDH",
         "Market": "TO",
@@ -42550,7 +42550,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "ZDI",
         "Market": "TO",
@@ -42563,7 +42563,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "ZDJ",
         "Market": "TO",
@@ -42576,7 +42576,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "ZDM",
         "Market": "TO",
@@ -42589,7 +42589,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "ZDV",
         "Market": "TO",
@@ -42602,7 +42602,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "ZDY",
         "Market": "TO",
@@ -42615,7 +42615,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "ZEA",
         "Market": "TO",
@@ -42628,7 +42628,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "ZEB",
         "Market": "TO",
@@ -42641,7 +42641,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "ZEE",
         "Market": "V",
@@ -42654,7 +42654,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "ZEF",
         "Market": "TO",
@@ -42667,7 +42667,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "ZEL",
         "Market": "TO",
@@ -42680,7 +42680,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "ZEM",
         "Market": "TO",
@@ -42693,7 +42693,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "ZEN",
         "Market": "V",
@@ -42706,7 +42706,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": "OTCQX"
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "ZEO",
         "Market": "TO",
@@ -42719,7 +42719,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "ZEQ",
         "Market": "TO",
@@ -42732,7 +42732,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "ZFH",
         "Market": "TO",
@@ -42745,7 +42745,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "ZFL",
         "Market": "TO",
@@ -42758,7 +42758,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "ZFM",
         "Market": "TO",
@@ -42771,7 +42771,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "ZFR",
         "Market": "V",
@@ -42784,7 +42784,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "ZFS",
         "Market": "TO",
@@ -42797,7 +42797,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "ZGD",
         "Market": "TO",
@@ -42810,7 +42810,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "ZGI",
         "Market": "TO",
@@ -42823,7 +42823,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "ZGQ",
         "Market": "TO",
@@ -42836,7 +42836,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "ZHY",
         "Market": "TO",
@@ -42849,7 +42849,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "ZIC",
         "Market": "TO",
@@ -42862,7 +42862,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "ZID",
         "Market": "TO",
@@ -42875,7 +42875,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "ZIM",
         "Market": "V",
@@ -42888,7 +42888,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "ZIN",
         "Market": "TO",
@@ -42901,7 +42901,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "ZJG",
         "Market": "TO",
@@ -42914,7 +42914,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "ZJN",
         "Market": "TO",
@@ -42927,7 +42927,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "ZJO",
         "Market": "TO",
@@ -42940,7 +42940,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "ZKL",
         "Market": "V",
@@ -42953,7 +42953,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "ZLB",
         "Market": "TO",
@@ -42966,7 +42966,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "ZLC",
         "Market": "TO",
@@ -42979,7 +42979,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "ZLI",
         "Market": "TO",
@@ -42992,7 +42992,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "ZLU",
         "Market": "TO",
@@ -43005,7 +43005,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "ZMD",
         "Market": "V",
@@ -43018,7 +43018,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "ZMI",
         "Market": "TO",
@@ -43031,7 +43031,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "ZMP",
         "Market": "TO",
@@ -43044,7 +43044,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "ZMS",
         "Market": "V",
@@ -43057,7 +43057,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "ZMT",
         "Market": "TO",
@@ -43070,7 +43070,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "ZMU",
         "Market": "TO",
@@ -43083,7 +43083,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "ZON",
         "Market": "V",
@@ -43096,7 +43096,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "ZOR.P",
         "Market": "V",
@@ -43109,7 +43109,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "ZPL",
         "Market": "TO",
@@ -43122,7 +43122,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "ZPR",
         "Market": "TO",
@@ -43135,7 +43135,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "ZPS",
         "Market": "TO",
@@ -43148,7 +43148,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "ZPW",
         "Market": "TO",
@@ -43161,7 +43161,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "ZQQ",
         "Market": "TO",
@@ -43174,7 +43174,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "ZRE",
         "Market": "TO",
@@ -43187,7 +43187,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "ZRR",
         "Market": "TO",
@@ -43200,7 +43200,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "ZSP",
         "Market": "TO",
@@ -43213,7 +43213,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "ZST",
         "Market": "TO",
@@ -43226,7 +43226,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "ZSU",
         "Market": "TO",
@@ -43239,7 +43239,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "ZUB",
         "Market": "TO",
@@ -43252,7 +43252,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "ZUD",
         "Market": "TO",
@@ -43265,7 +43265,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "ZUE",
         "Market": "TO",
@@ -43278,7 +43278,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "ZUH",
         "Market": "TO",
@@ -43291,7 +43291,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "ZUM",
         "Market": "V",
@@ -43304,7 +43304,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "ZUQ",
         "Market": "TO",
@@ -43317,7 +43317,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "ZUT",
         "Market": "TO",
@@ -43330,7 +43330,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "ZWA",
         "Market": "TO",
@@ -43343,7 +43343,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "ZWB",
         "Market": "TO",
@@ -43356,7 +43356,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "ZWE",
         "Market": "TO",
@@ -43369,7 +43369,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "ZWH",
         "Market": "TO",
@@ -43382,7 +43382,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "ZWU",
         "Market": "TO",
@@ -43395,7 +43395,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "ZXM",
         "Market": "TO",
@@ -43408,7 +43408,7 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    },
+    ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" },
     {
         "Symbol": "ZZZ",
         "Market": "TO",
@@ -43421,5 +43421,5 @@ var tickers= [
         "USSymbol": "",
         "ICntry": "",
         "USM": ""
-    }
+        ,"ClosingPrice" :"", "Fav":"","Fav1":"","Fav2":"","UpInd":"","DownInd":"" }
 ]

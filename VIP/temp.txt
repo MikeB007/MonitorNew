@@ -1,0 +1,5 @@
+  <IMG  ng-src='http://www.advfn.com/p.php?pid=staticchart&s={{formatAdvfn({S: ThisSymbol.S}) }}&p=0&t=23&dm=1&vol=1'>
+ formatAdvfn: "&"
+
+
+ <advfn-chart format-advfn="formatAdvfn(s)", passSymbol ="symbol" >hello</advfn-chart>

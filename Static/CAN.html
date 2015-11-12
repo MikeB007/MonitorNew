@@ -1,0 +1,33 @@
+<html lang="en-us" ng-app="StockMonitor">
+<head>
+<meta http-equiv="refresh" content="60">
+    <title>Stock Monitor</title>
+    <meta charset="UTF-8">
+        <!-- load bootstrap and fontawesome via CDN -->
+        <link rel="stylesheet" href="//netdna.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css" />
+        <style>
+            html, body, input, select, textarea
+            {
+                font-size: 1.05em !important;
+            }
+        </style>
+</head>
+<frameset rows="300,300,*">
+        <frameset cols=300,300,300,200">
+            <frame src="https://chart.finance.yahoo.com/z?s=%5eGSPTSE&t=5d&q=s&l=on&z=m&a=m,v&p=b,v&lang=en-CA&region=CA" name="left">
+            <frame src="https://chart.finance.yahoo.com/z?s=%5eSPCDNX&t=5d&q=s&l=on&z=m&a=m,v&p=b,v&lang=en-CA&region=CA" name="left">
+            <frame src="https://chart.finance.yahoo.com/z?s=TX60.TS&t=5d&q=s&l=on&z=m&a=m,v&p=b,v&lang=en-CA&region=CA" name="left">
+            <frame src="" name="left">
+      </frameset>
+    <frameset cols="500,500,500">
+        <frame src="https://chart.finance.yahoo.com/z?s=%5eNQCA&t=5d&q=s&l=on&z=m&a=m,v&p=b,v&lang=en-CA&region=CA" name="left">
+        <frame srcc="whttps://ca.finance.yahoo.com/actives?e=V" name="left">
+        <frame srcc="https://ca.finance.yahoo.com/actives?e=to" name="left">
+    </frameset>
+    <frameset cols="500,500,500">
+        <frame srcc="" name="left">
+        <frame srcc="https://ca.finance.yahoo.com/indices?e=cdnx" name="left">
+        <frame srcc="https://ca.finance.yahoo.com/indices?e=cax" name="left">
+    </frameset>
+</frameset>
+</html>

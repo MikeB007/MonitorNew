@@ -1,13 +1,23 @@
 //CONTROLLERS
 "use strict"
-Monitor.controller('stocksController', ['$scope','$log','$routeParams', 'tickerService','tickerFactory','commonFactory', function($scope,$log,$routeParams, tickerService, tickerFactory,commonFactory) {
-    $scope.symbol =  $routeParams.symbol || 'TD.TO' ; 
+Monitor.controller('stocksController', ['$scope','$log','$routeParams', 'tickerService','tickerFactory','commonFactory','afterHRSFactory', function($scope,$log,$routeParams, tickerService, tickerFactory,commonFactory,afterHRSFactory) {
+    $scope.symbol={S:"",ADVFN:""};
+    $scope.symbol.S =  $routeParams.symbol || tickerService.symbol.S;
     $scope.advfn={};
+    $scope.howMany={};
+    $scope.howMany.cnt = 10;
     $scope.tickers = tickerFactory.getTickers();
 
-    $scope.periods = commonFactory.getPeriods();
-    $scope.period= commonFactory.getDefaultPeriod();
+    $scope.USBanks = commonFactory.getUSBanks();
 
+    $scope.periods = commonFactory.getPeriods();
+    $scope.period = tickerService.period;
+        //$scope.period || commonFactory.getDefaultPeriod();
+
+    $scope.selected = {};
+    $scope.selected.Symbol = tickerFactory.getFavourites()[0];
+    $scope.favourites = tickerFactory.getFavourites();
+    
     $scope.sizes = commonFactory.getSizes();
     $scope.size= commonFactory.getDefaultSize();
 
@@ -16,18 +26,12 @@ Monitor.controller('stocksController', ['$scope','$log','$routeParams', 'tickerS
     $scope.sectors = tickerFactory.getSectors();
     $scope.activeSector = tickerFactory.getSector("TD");
 //    $scope.subSectors  = tickerFactory.getSubSectors($scope.activeSector);
-//    $scope.symbol = tickerService.symbol;
     $scope.$watch('symbol', function () {
         tickerService.symbol = $scope.symbol;
-    var pos = $scope.symbol.indexOf(".");
-        console.log(pos);
-        if (pos <0){ 
-        $scope.advfn.symbol=$scope.symbol;
-        }
-        else{
-            $scope.advfn.symbol=$scope.symbol.slice(pos+1,pos+2) + "^" + $scope.symbol.slice(0,pos);
-        }
-console.log($scope.advfn.symbol);
+        $scope.afterHRSData = afterHRSFactory.getAfterHrsQuote(tickerService.symbol.S);
+        $scope.advfn.symbol = $scope.formatADVFN($scope.symbol.S);
+        $scope.symbol.ADVFN= $scope.formatADVFN($scope.symbol.S);
+
     });
 
     $scope.cWidth = 800;
@@ -37,10 +41,34 @@ console.log($scope.advfn.symbol);
 
     $scope.$watch('period',function () {
         $scope.tickersBySector = tickerFactory.getTickersBySector($scope.activeSector);
-
+        tickerService.period=$scope.period;
     });
 
-    
+    $scope.formatADVFN = function (s) {
+        var sADVFN = {};
+        var pos = s.indexOf(".");
+        if (pos <0){
+            sADVFN=s;
+        }
+        else{
+            sADVFN=s.slice(pos+1,pos+2) + "^" + s.slice(0,pos);
+        }
+        return sADVFN;
+    };
+    $scope.extractJustSymbol = function (s) {
+        var tmp = {};
+        var pos = s.indexOf(".");
+        if (pos <0){
+            tmp=s;
+        }
+        else{
+            tmp= s.slice(0,pos);
+        }
+        return tmp;
+    };
+
+    $scope.cProfile=tickerFactory.getCompanyDetails($scope.extractJustSymbol($scope.symbol.S)  );
+
 }]);
 
 
@@ -58,9 +86,10 @@ Monitor.controller('marketsController', ['$scope', '$resource', '$routeParams', 
 
 
 
-Monitor.controller('afterHRSController', ['$scope', '$resource', '$routeParams', 'afterHRSFactory', function($scope, $resource, $routeParams, afterHRSFactory) {
-    $scope.afterHRS = afterHRSFactory.getAfterHrsQuote("TD");
-    console.log($scope.afterHRS);
+Monitor.controller('afterHRSController', ['$scope', '$resource', '$routeParams', 'afterHRSFactory','tickerService', function($scope, $resource, $routeParams, afterHRSFactory,tickerService) {
+    console.log(tickerService.symbol.S);
+    $scope.afterHRSData = afterHRSFactory.getAfterHrsQuote(tickerService.symbol.S);
+    console.log($scope.afterHRSData);
     }
 ]);
 
@@ -68,7 +97,7 @@ Monitor.controller('afterHRSController', ['$scope', '$resource', '$routeParams',
 
 Monitor.controller('indexController', ['$scope', '$resource', '$routeParams', 'symbolService', function($scope, $resource, $routeParams, symbolService) {
     $scope.symbol = symbolService.symbol;
-    $scope.symbol = $routeParams.symbol || 'td.to';
+    $scope.symbol = $routeParams.symbol || 'RY.to';
        
 
 }]);

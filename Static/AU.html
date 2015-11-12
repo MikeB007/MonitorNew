@@ -1,0 +1,35 @@
+<html lang="en-us" ng-app="StockMonitor">
+<head>
+<meta http-equiv="refresh" content="60">
+    <title>Stock Monitor</title>
+    <meta charset="UTF-8">
+        <!-- load bootstrap and fontawesome via CDN -->
+        <link rel="stylesheet" href="//netdna.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css" />
+        <style>
+            html, body, input, select, textarea
+            {
+                font-size: 1.05em !important;
+            }
+        </style>
+</head>
+<frameset rows="500,500,*">
+        <frameset cols=300,300,300,200">
+            <frame src="https://chart.finance.yahoo.com/z?s=%5eAORD&t=5d&q=l&l=on&z=m&a=m,v&p=b&lang=en-AU&region=AU" name="left">
+            <frame src="https://chart.finance.yahoo.com/w?s=%5eAXJO&a=m&lang=en-AU&region=AU" name="main">
+            <frame src="" name="main">
+            <frame src="" name="main">
+      </frameset>
+    <frameset cols=300,300,300,200">
+        <frame src="" name="left">
+        <frame src="" name="main">
+        <frame src="" name="main">
+        <frame src="" name="main">
+    </frameset>
+    <frameset cols=300,300,300,200">
+        <frame src="" name="left">
+        <frame src="" name="main">
+        <frame src="" name="main">
+        <frame src="" name="main">
+    </frameset>
+</frameset>
+</html>

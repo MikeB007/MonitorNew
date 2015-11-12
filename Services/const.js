@@ -63,3 +63,110 @@ var _sizes= [
 
 ]
 
+var _USBanks= [
+    {
+        id:1,
+        s:"TD"
+    },
+    {
+        id:2,
+        s:"HSBC"
+    },
+    {
+        id:3,
+        s:"BAC"
+    },
+    {
+        id:4,
+        s:"USB"
+    },
+    {
+        id:5,
+        s:"JPM"
+    },
+    {
+        id:6,
+        s:"WFC"
+    },
+
+    {
+        id:7,
+        s:"MS"
+    },
+    {
+        id:8,
+        s:"HCBK"
+    },
+    {
+        id:9,
+        s:"BK"
+    },
+    {
+        id:10,
+        s:"PNC"
+    },
+
+    {
+        id:11,
+        s:"COF"
+    },
+    {
+        id:12,
+        s:"AAPL"
+    },
+    {
+        id:13,
+        s:"F"
+    },
+    {
+        id:14,
+        s:"TD"
+    },
+    {
+        id:15,
+        s:"RY"
+    },
+    {
+        id:16,
+        s:"CM"
+    },
+
+    {
+        id:17,
+        s:"BNS"
+    },
+    {
+        id:18,
+        s:"BMO"
+    },
+    {
+        id:19,
+        s:"CM"
+    },
+    {
+        id:20,
+        s:"TD.TO"
+    },
+    {
+        id:21,
+        s:"RY.TO"
+    },
+    {
+        id:22,
+        s:"CM.TO"
+    },
+
+    {
+        id:23,
+        s:"BNS.TO"
+    },
+    {
+        id:24,
+        s:"BMO.TO"
+    },
+    {
+        id:25,
+        s:"CM.TO"
+    },
+
+]

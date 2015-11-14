@@ -175,49 +175,122 @@ var _USBanks= [
 _INDEXES = [
 {
     id:"AU",
-        I:"%5eAORD"
+        i:"%5eAORD"
 },
 {
     id:"AU",
-        I:"%5eAXJO"
+        i:"%5eAXJO"
 },
 {
     id:"AA",
-        I:"10d"
+        i:"%5eN225"
 },
 {
     id:"AA",
-        I:"1m"
+        i:"%5eHSI"
 },
 {
     id:"AA",
-        I:"3m"
+        i:"%5eSTI"
 },
 {
-    id:6,
-        I:"6m"
+    id:"AA",
+        i:"%5eAXJO"
 },
 {
-    id:7,
-        I:"9m"
+    id:"SA",
+        i:"%5eBVSP"
 },
 {
-    id:8,
-        I:"1y"
+    id:"SA",
+        i:"%5eMXX"
 },
 {
-    id:9,
-        I:"3y"
+    id:"SA",
+        i:"%5eIPSA"
 },
 {
-    id:10,
-        I:"5y"
+    id:"SA",
+        i:"%5eMERV"
 },
 {
-    id:11,
-        I:"10y"
-}
+    id:"US",
+        i:"%5eDJI"
+},
+{
+    id:"US",
+    i:"%5eDJT"
+},
+{
+    id:"US",
+    i:"%5eDJU"
+},
+{
+    id:"US",
+    i:"%5eDJA"
+},
+{
+    id:"US",
+    i:"%5eDWCF"
+},
+{
+    id:"US",
+    i:"%5eNDX"
+},
+{
+    id:"US",
+    i:"%5eBANK"
+},
+{
+    id:"US",
+    i:"%5eNYA"
+},
+{
+    id:"US",
+    i:"%5eNYK"
+},
+{
+    id:"CA",
+    i:"%5eGSPTSE"
+},
+{
+    id:"CA",
+    i:"%5eSPCDNX"
+},
+{
+    id:"CA",
+    i:"TX60.TS"
+},
+{
+    id:"CA",
+    i:"%5eNQCA"
+},
 
+    {
+        id:"EU",
+        i:"%5eAXJO"
+    },
+
+    {
+        id:"EU",
+        i:"%5eFTSE"
+    },
+    {
+        id:"EU",
+        i:"%5eGDAXI"
+    },
+    {
+        id:"EU",
+        i:"%5eFCHI"
+    },
+    {
+        id:"EU",
+        i:"%5eSTOXX50E"
+    },
+    {
+        id: "EU",
+        i: "%5en100"
+    }
 ];
 
 

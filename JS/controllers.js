@@ -6,14 +6,11 @@ Monitor.controller('stocksController', ['$scope','$log','$routeParams', 'tickerS
     $scope.advfn={};
     $scope.howMany={};
     $scope.howMany.cnt = 10;
-
-    $scope.indexCountry= commonFactory.getIndexes($routeParams.indexCountry || "AA");
+    $scope.indexCountry= commonFactory.getIndexes($routeParams.indexCountry || "AU");
     $scope.tickers = tickerFactory.getTickers();
-
     $scope.USBanks = commonFactory.getUSBanks();
-
         $scope.periods = commonFactory.getPeriods();
-   if ( $routeParams.duration === undefined ){
+   if ( !$routeParams.duration ){
        $scope.period =  $scope.period || commonFactory.getDefaultPeriod();
    }
     else{

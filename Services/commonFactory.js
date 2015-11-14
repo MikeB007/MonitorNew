@@ -7,7 +7,8 @@ Monitor.factory("commonFactory", function() {
             return this.getPeriod("5d");
         },
         getPeriod: function(d){
-            return _periods[_.where(_periods, {duration: d}).id];
+            var i  =_.where(_periods, {duration: d} );
+            return (_periods[_.where(_periods, {duration: d})[0].id-1]);
         },
         getSizes: function(){
             return _sizes;
@@ -19,7 +20,7 @@ Monitor.factory("commonFactory", function() {
             return _USBanks;
         },
         getIndexes: function(indx){
-        return _.where(_INDEXES, {I:indx });
+        return _.where(_INDEXES, {id:indx });
     }
 
 };

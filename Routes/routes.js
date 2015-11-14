@@ -2,7 +2,7 @@
 Monitor.config(function ($routeProvider) {
 
     $routeProvider
-    
+
         .when('/', {
         templateUrl: 'pages/home.htm',
         controller: 'stocksController'
@@ -41,7 +41,7 @@ Monitor.config(function ($routeProvider) {
         templateUrl: 'pages/bankDetails2.htm',
         controller: 'stocksController'
         })
-        .when('/indx:indexCountry', {
+        .when('/indx/:indexCountry', {
             templateUrl: 'pages/showIndex.htm',
             controller: 'stocksController'
         })
@@ -53,6 +53,8 @@ Monitor.config(function ($routeProvider) {
         templateUrl: 'markets/Australia.htm',
         controller: 'marketsController as MC'
         })
-
+        .otherwise({
+            template: "BAD URL"
+        })
 
 });

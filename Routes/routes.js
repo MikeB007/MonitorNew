@@ -1,6 +1,6 @@
 // ROUTES
 Monitor.config(function ($routeProvider) {
-   
+
     $routeProvider
     
         .when('/', {
@@ -11,6 +11,11 @@ Monitor.config(function ($routeProvider) {
         templateUrl: 'pages/home.htm',
         controller: 'stocksController'
         })
+        .when('/chart/:symbol/:duration', {
+        templateUrl: 'pages/home.htm',
+        controller: 'stocksController'
+        })
+
         .when('/charts', {
         templateUrl: 'pages/charts.htm',
         controller: 'stocksController'
@@ -35,7 +40,11 @@ Monitor.config(function ($routeProvider) {
         .when('/bankDetails2', {
         templateUrl: 'pages/bankDetails2.htm',
         controller: 'stocksController'
-        })    
+        })
+        .when('/indx:indexCountry', {
+            templateUrl: 'pages/showIndex.htm',
+            controller: 'stocksController'
+        })
         .when('/indexes', {
         templateUrl: 'pages/indexes.htm',
         controller: ''

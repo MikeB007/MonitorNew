@@ -18,6 +18,7 @@
         
         <!-- load angular via CDN -->
         <script src="vendor/angular.min.js"></script>
+        <script src="vendor/angular-ui-router.js"></script>
         <script src="vendor/angular-route.min.js"></script>
         <script src="vendor/angular-resource.min.js"></script>
         <script src="vendor/underscore.js"></script>
@@ -41,14 +42,19 @@
 				</div>
 
                 <ul class="nav navbar-nav navbar">
-                    <li><a href="#/banksRT"><i class="fa fa-home"></i> CAD Banks RT</a></li>
-                    <li><a href="#/bankDetails1"><i class="fa fa-home"></i> Details1 </a></li>
-                    <li><a href="#/bankDetails2"><i class="fa fa-home"></i> Details2 </a></li>
+                    <li><a href="#/banksRT"><i class="fa fa-home"></i> CAD RT</a></li>
+                    <li><a href="#/bankDetails1"><i class="fa fa-home"></i> Det1 </a></li>
+                    <li><a href="#/bankDetails2"><i class="fa fa-home"></i> Det2 </a></li>
                     <li><a href="#/charts"><i class="fa fa-home"></i> Charts</a></li>
                     <li><a href="#/indexes"><i class="fa fa-home"></i> Indexes</a></li>
                     <li><a href="#/afterHRS"><i class="fa fa-home"></i> AfterHRS</a></li>
         			<li><a href="#/usBanks"><i class="fa fa-home"></i> US Banks</a></li>
-
+                    <li><a href="#/indx/AU"><i class="fa fa-home"></i> AU</a></li>
+                    <li><a href="#/indx/AA"><i class="fa fa-home"></i>Asia</a></li>
+                    <li><a href="#/indx/EU"><i class="fa fa-home"></i>EU</a></li>
+                    <li><a href="#/indx/SA"><i class="fa fa-home"></i>S AM</a></li>
+                    <li><a href="#/indx/NA"><i class="fa fa-home"></i>USA</a></li>
+                    <li><a href="#/indx/CA"><i class="fa fa-home"></i>CAN</a></li>
 				    <li><a href="#"><i class="fa fa-home"></i> Home</a></li>
                 </ul>
 			</div>
@@ -58,6 +64,7 @@
         <div >
 
             <div ng-view></div>
+            <div ui-view></div>
 
 		</div>
 

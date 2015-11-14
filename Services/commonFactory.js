@@ -3,9 +3,11 @@ Monitor.factory("commonFactory", function() {
         getPeriods: function(){
             return _periods;
         },
-        getDefaultPeriod: function(d){
-            return _periods[2]
-            //_.where(_periods, {duration: d});
+        getDefaultPeriod: function(){
+            return this.getPeriod("5d");
+        },
+        getPeriod: function(d){
+            return _periods[_.where(_periods, {duration: d}).id];
         },
         getSizes: function(){
             return _sizes;
@@ -15,8 +17,12 @@ Monitor.factory("commonFactory", function() {
         },
         getUSBanks: function(){
             return _USBanks;
-        }
-    };
+        },
+        getIndexes: function(indx){
+        return _.where(_INDEXES, {I:indx });
+    }
+
+};
 });
 
 

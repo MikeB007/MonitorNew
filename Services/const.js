@@ -42,9 +42,9 @@ var _periods= [
     {
         id:11,
         duration:"10y"
-    },
+    }
 
-]
+];
 
 
 var _sizes= [
@@ -59,9 +59,9 @@ var _sizes= [
     {
         id:3,
         size:"l"
-    },
+    }
 
-]
+];
 
 var _USBanks= [
     {
@@ -167,6 +167,57 @@ var _USBanks= [
     {
         id:25,
         s:"CM.TO"
-    },
+    }
 
-]
+];
+
+
+_INDEXES = [
+{
+    id:"AU",
+        I:"%5eAORD"
+},
+{
+    id:"AU",
+        I:"%5eAXJO"
+},
+{
+    id:"AA",
+        I:"10d"
+},
+{
+    id:"AA",
+        I:"1m"
+},
+{
+    id:"AA",
+        I:"3m"
+},
+{
+    id:6,
+        I:"6m"
+},
+{
+    id:7,
+        I:"9m"
+},
+{
+    id:8,
+        I:"1y"
+},
+{
+    id:9,
+        I:"3y"
+},
+{
+    id:10,
+        I:"5y"
+},
+{
+    id:11,
+        I:"10y"
+}
+
+];
+
+

@@ -1,19 +1,26 @@
 //CONTROLLERS
-"use strict"
+"use strict";
 Monitor.controller('stocksController', ['$scope','$log','$routeParams', 'tickerService','tickerFactory','commonFactory','afterHRSFactory', function($scope,$log,$routeParams, tickerService, tickerFactory,commonFactory,afterHRSFactory) {
     $scope.symbol={S:"",ADVFN:""};
     $scope.symbol.S =  $routeParams.symbol || tickerService.symbol.S;
     $scope.advfn={};
     $scope.howMany={};
     $scope.howMany.cnt = 10;
+
+    $scope.indexCountry= commonFactory.getIndexes($routeParams.indexCountry || "AA");
     $scope.tickers = tickerFactory.getTickers();
 
     $scope.USBanks = commonFactory.getUSBanks();
 
-    $scope.periods = commonFactory.getPeriods();
-    $scope.period = tickerService.period;
-        //$scope.period || commonFactory.getDefaultPeriod();
-
+        $scope.periods = commonFactory.getPeriods();
+   if ( $routeParams.duration === undefined ){
+       $scope.period =  $scope.period || commonFactory.getDefaultPeriod();
+   }
+    else{
+          $scope.period = commonFactory.getPeriod($routeParams.duration);
+    }
+    
+    
     $scope.selected = {};
     $scope.selected.Symbol = tickerFactory.getFavourites()[0];
     $scope.favourites = tickerFactory.getFavourites();
@@ -117,7 +124,7 @@ Monitor.controller('forecastController', ['$scope', '$resource', '$routeParams',
         
         return Math.round((1.8 * (degK - 273)) + 32);
         
-    }
+    };
     
     $scope.convertToDate = function(dt) { 
       

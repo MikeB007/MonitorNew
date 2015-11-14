@@ -41,7 +41,7 @@ var _periods= [
     },
     {
         id:11,
-        duration:"10y"
+        duration:"9y"
     }
 
 ];
@@ -66,107 +66,107 @@ var _sizes= [
 var _USBanks= [
     {
         id:1,
-        s:"TD"
+        Symbol:"TD"
     },
     {
         id:2,
-        s:"HSBC"
+        Symbol:"HSBC"
     },
     {
         id:3,
-        s:"BAC"
+        Symbol:"BAC"
     },
     {
         id:4,
-        s:"USB"
+        Symbol:"USB"
     },
     {
         id:5,
-        s:"JPM"
+        Symbol:"JPM"
     },
     {
         id:6,
-        s:"WFC"
+        Symbol:"WFC"
     },
 
     {
         id:7,
-        s:"MS"
+        Symbol:"MS"
     },
     {
         id:8,
-        s:"HCBK"
+        Symbol:"HCBK"
     },
     {
         id:9,
-        s:"BK"
+        Symbol:"BK"
     },
     {
         id:10,
-        s:"PNC"
+        Symbol:"PNC"
     },
 
     {
         id:11,
-        s:"COF"
+        Symbol:"COF"
     },
     {
         id:12,
-        s:"AAPL"
+        Symbol:"AAPL"
     },
     {
         id:13,
-        s:"F"
+        Symbol:"F"
     },
     {
         id:14,
-        s:"TD"
+        Symbol:"TD"
     },
     {
         id:15,
-        s:"RY"
+        Symbol:"RY"
     },
     {
         id:16,
-        s:"CM"
+        Symbol:"CM"
     },
 
     {
         id:17,
-        s:"BNS"
+        Symbol:"BNS"
     },
     {
         id:18,
-        s:"BMO"
+        Symbol:"BMO"
     },
     {
         id:19,
-        s:"CM"
+        Symbol:"CM"
     },
     {
         id:20,
-        s:"TD.TO"
+        Symbol:"TD.TO"
     },
     {
         id:21,
-        s:"RY.TO"
+        Symbol:"RY.TO"
     },
     {
         id:22,
-        s:"CM.TO"
+        Symbol:"CM.TO"
     },
 
     {
         id:23,
-        s:"BNS.TO"
+        Symbol:"BNS.TO"
     },
     {
         id:24,
-        s:"BMO.TO"
+        Symbol:"BMO.TO"
     },
     {
         id:25,
-        s:"CM.TO"
+        Symbol:"CM.TO"
     }
 
 ];

@@ -24,6 +24,11 @@ Monitor.config(function ($routeProvider) {
         templateUrl: 'pages/usBanks.htm',
         controller: 'stocksController'
         })
+        .when('/CADBanks', {
+            templateUrl: 'pages/CADBanks.htm',
+            controller: 'stocksController'
+        })
+
         .when('/afterHRS', {
         templateUrl: 'pages/afterHRS.htm',
         controller: 'afterHRSController'

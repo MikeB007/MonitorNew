@@ -8,7 +8,7 @@ Monitor.controller('stocksController', ['$scope','$log','$routeParams', 'tickerS
     $scope.howMany.cnt = 10;
     $scope.indexCountry= commonFactory.getIndexes($routeParams.indexCountry || "AU");
     $scope.tickers = tickerFactory.getTickers();
-    $scope.USBanks = commonFactory.getUSBanks();
+    $scope.list = commonFactory.getUSBanks();
         $scope.periods = commonFactory.getPeriods();
    if ( !$routeParams.duration ){
        $scope.period =  $scope.period || commonFactory.getDefaultPeriod();
@@ -23,7 +23,7 @@ Monitor.controller('stocksController', ['$scope','$log','$routeParams', 'tickerS
     $scope.favourites = tickerFactory.getFavourites();
     
     $scope.sizes = commonFactory.getSizes();
-    $scope.size= commonFactory.getDefaultSize();
+    $scope.size= tickerService.size ||commonFactory.getDefaultSize();
 
     $scope.tickersBySector = tickerFactory.getTickersSectorBySymbol("TD");
 
@@ -38,7 +38,7 @@ Monitor.controller('stocksController', ['$scope','$log','$routeParams', 'tickerS
 
     });
 
-    $scope.cWidth = 800;
+    $scope.cWidth = 400;
     $scope.$watch('activeSector',function () {
     $scope.tickersBySector = tickerFactory.getTickersBySector($scope.activeSector);
     });
@@ -47,6 +47,11 @@ Monitor.controller('stocksController', ['$scope','$log','$routeParams', 'tickerS
         $scope.tickersBySector = tickerFactory.getTickersBySector($scope.activeSector);
         tickerService.period=$scope.period;
     });
+
+    $scope.$watch('size',function () {
+        tickerService.size=$scope.size;
+    });
+
 
     $scope.formatADVFN = function (s) {
         var sADVFN = {};

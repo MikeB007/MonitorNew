@@ -14,7 +14,7 @@ Monitor.factory("commonFactory", function() {
             return _sizes;
         },
         getDefaultSize: function(){
-            return _sizes[2];
+            return _sizes[0];
         },
         getUSBanks: function(){
             return _USBanks;

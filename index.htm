@@ -33,15 +33,10 @@
         <script src="Directives/directives.js"></script>
     </head>
     <body>
-
         <header>
 			<nav class="navbar navbar-default">
-			<div class="container">
-				<div class="navbar-header">
-					<a class="navbar-brand" href="#/">Monitor</a>
-				</div>
-
                 <ul class="nav navbar-nav navbar">
+                    <li><a  href="#/">Monitor</a></li>
                     <li><a href="#/banksRT"><i class="fa fa-home"></i> CAD RT</a></li>
                     <li><a href="#/bankDetails1"><i class="fa fa-home"></i> Det1 </a></li>
                     <li><a href="#/bankDetails2"><i class="fa fa-home"></i> Det2 </a></li>
@@ -49,6 +44,7 @@
                     <li><a href="#/indexes"><i class="fa fa-home"></i> Indexes</a></li>
                     <li><a href="#/afterHRS"><i class="fa fa-home"></i> AfterHRS</a></li>
         			<li><a href="#/usBanks"><i class="fa fa-home"></i> US Banks</a></li>
+                    <li><a href="#/CADBanks"><i class="fa fa-home"></i> CAD Banks</a></li>
                     <li><a href="#/indx/AU"><i class="fa fa-home"></i> AU</a></li>
                     <li><a href="#/indx/AA"><i class="fa fa-home"></i>Asia</a></li>
                     <li><a href="#/indx/EU"><i class="fa fa-home"></i>EU</a></li>
@@ -57,16 +53,8 @@
                     <li><a href="#/indx/CA"><i class="fa fa-home"></i>CAN</a></li>
 				    <li><a href="#"><i class="fa fa-home"></i> Home</a></li>
                 </ul>
-			</div>
 			</nav>
 		</header>
-
-        <div >
-
             <div ng-view></div>
-            <div ui-view></div>
-
-		</div>
-
     </body>
 </html>

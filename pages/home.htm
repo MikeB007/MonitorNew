@@ -1,12 +1,5 @@
 <div>
-  
-
-    <label> Enter Symbol: <input type="text" ng-model="symbol.S" value="RY.TO"></label>
-    <label> CWidth: <input type="text" ng-model="cWidth"   value="200"/></label>
-    <label> Period:
-        <select ng-model="period" ng-options="p.duration for p in periods">
-        </select>
-    </label>
+    <dir-show-filter></dir-show-filter>
 </div>
 <div> 
     <div ng-controller="afterHRSController">
@@ -19,7 +12,7 @@
     </div>
 
     <IMG  ng-src="http://www.advfn.com/p.php?pid=staticchart&s={{formatADVFN(symbol.S)}}&p=0&t=23&dm=1&vol=1">
-    <IMG  ng-src="http://chart.finance.yahoo.com/z?s={{symbol.S}}&t={{period.duration}}&q=c&l=on&z=l&a=m,vm,fs,p&p=m50,b,v,m&lang=en-CA&region=CA">
+    <IMG  ng-src="http://chart.finance.yahoo.com/z?s={{symbol.S}}&t={{period.duration}}&q=c&l=on&z={{size.size}}&a=m,vm,fs,p&p=m50,b,v,m&lang=en-CA&region=CA">
     <IMG  ng-src="http://ichart.yahoo.com/t?a=m&p=m50&s={{symbol.S}}&width={{cWidth}}&height={{cWidth/1.402}}">
 
 </div>

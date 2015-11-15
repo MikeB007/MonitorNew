@@ -1,0 +1,39 @@
+<div class="panel-body">
+    <b style="font-size:8px">
+        <b>{{afterHRSData.Api.ticker}}:{{afterHRSData.Api.exchange}} </b> ({{afterHRSData.Api.companyName}})
+        <table border="1">
+            <tr>
+                <td>
+                    {{afterHRSData.Api.duringDay.dateTime}}
+                    {{afterHRSData.Api.duringDay.value}}
+                <span ng-if="afterHRSData.Api.duringDay.change>=0">
+                    <div style="color:lightgreen"> {{afterHRSData.Api.duringDay.change}}</div>
+                </span>    
+                <span ng-if="afterHRSData.Api.duringDay.change<0">
+                    <span style="color:red"> {{afterHRSData.Api.duringDay.change}} </span>
+                </span>
+                </td>
+
+                <td rowspan="2">
+
+                    <img width="70" heighth="60" ng-src={{afterHRSData.Api.duringDay.chart}}>
+                </td>
+
+            </tr>
+            <tr>
+                <td>
+                    {{afterHRSData.Api.extendedHours.dateTime}}
+                    {{afterHRSData.Api.extendedHours.value}}
+                <span ng-if="afterHRSData.Api.extendedHours.change>0">
+                    <span style="color:lightgreen">{{afterHRSData.Api.extendedHours.change}} </span>
+                </span>    
+                <span ng-if="afterHRSData.Api.extendedHours.change<0">
+                    <span style="color:red"> {{afterHRSData.Api.extendedHours.change}} </span>
+                </span>
+                </td>
+            </tr>
+        </table>
+    </b>
+
+
+</div>

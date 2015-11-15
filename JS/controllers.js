@@ -28,19 +28,20 @@ Monitor.controller('stocksController', ['$scope','$log','$routeParams', 'tickerS
     $scope.tickersBySector = tickerFactory.getTickersSectorBySymbol("TD");
 
     $scope.sectors = tickerFactory.getSectors();
-    $scope.activeSector = tickerFactory.getSector("TD");
+    $scope.activeSector = tickerService.activeSector || tickerFactory.getSector("TD");
 //    $scope.subSectors  = tickerFactory.getSubSectors($scope.activeSector);
     $scope.$watch('symbol', function () {
         tickerService.symbol = $scope.symbol;
         $scope.afterHRSData = afterHRSFactory.getAfterHrsQuote(tickerService.symbol.S);
-        $scope.advfn.symbol = $scope.formatADVFN($scope.symbol.S);
-        $scope.symbol.ADVFN= $scope.formatADVFN($scope.symbol.S);
+        $scope.advfn.symbol = $scope.formatAdvfn($scope.symbol.S);
+        $scope.symbol.ADVFN = $scope.formatAdvfn($scope.symbol.S);
 
     });
 
     $scope.cWidth = 400;
     $scope.$watch('activeSector',function () {
     $scope.tickersBySector = tickerFactory.getTickersBySector($scope.activeSector);
+        tickerService.activeSector = $scope.activeSector;
     });
 
     $scope.$watch('period',function () {
@@ -53,7 +54,7 @@ Monitor.controller('stocksController', ['$scope','$log','$routeParams', 'tickerS
     });
 
 
-    $scope.formatADVFN = function (s) {
+    $scope.formatAdvfn = function (s) {
         var sADVFN = {};
         var pos = s.indexOf(".");
         if (pos <0){
@@ -119,7 +120,6 @@ Monitor.controller('forecastController', ['$scope', '$resource', '$routeParams',
     $scope.days = $routeParams.days || '2';
     
     $scope.weatherAPI = $resource("http://api.openweathermap.org/data/2.5/forecast/daily", { callback: "JSON_CALLBACK" }, { get: { method: "JSONP" }});
-    
     $scope.weatherResult = $scope.weatherAPI.get({ q: $scope.city, cnt: $scope.days });
     
     $scope.convertToFahrenheit = function(degK) {
@@ -133,7 +133,14 @@ Monitor.controller('forecastController', ['$scope', '$resource', '$routeParams',
         return new Date(dt * 1000);
         
     };
-    
+
+}]);
+
+Monitor.controller("newsCTRLJSONP", ['$scope', '$resource', function ($scope, $resource) {
+    $scope.newsUrl = 'http://www.cnbc.com/franchise/20991458?&mode=breaking_news';
+    $scope.newsAPI = $resource($scope.newsUrl, {callback: "JSON_CALLBACK"}, {get: {method: "JSONP"}});
+    $scope.news = $scope.newsAPI.get({});
+    $scope.receivedDate = '';
 }]);
 Monitor.controller('chartController', ['$scope', '$resource', '$routeParams', 'symbolService', function($scope, $resource, $routeParams, symbolService) {
     $scope.symbol = symbolService.symbol;

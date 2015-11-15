@@ -6,3 +6,40 @@
     clip: rect(160px, 200px, 200px, 0);
     /* clip: shape(top, right, bottom, left); NB 'rect' is the only available option */
 }
+
+html, body, input, select, textarea {
+    font-size: 1.05em !important;
+}
+
+html, body, input, select, textarea {
+    font-size: 1.05em !important;
+}
+
+.link-container {
+    border: 1px solid;
+    width: 50%;
+    height: 20px;
+}
+
+.link-container a {
+    display: block;
+    background: #c8c8c8;
+    height: 100%;
+    text-align: center;
+}
+
+.link-container a:hover {
+    background: #f8f8f8;
+}
+
+.div_hover {
+    background-color: #FFFFFF;
+}
+
+.div_hover:hover {
+    background-color: #000000;
+}
+
+#IDDiv {
+    height: 500px;
+}

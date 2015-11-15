@@ -15,7 +15,6 @@ Monitor.config(function ($routeProvider) {
         templateUrl: 'pages/home.htm',
         controller: 'stocksController'
         })
-
         .when('/charts', {
         templateUrl: 'pages/charts.htm',
         controller: 'stocksController'
@@ -57,6 +56,14 @@ Monitor.config(function ($routeProvider) {
         .when('/markets/AU', {
         templateUrl: 'markets/Australia.htm',
         controller: 'marketsController as MC'
+        })
+        .when('/L2', {
+            templateUrl: 'pages/L2.html',
+            controller: 'stocksController'
+        })
+        .when('/News', {
+            templateUrl: 'pages/News.html',
+            controller: 'newsCTRLJSONP'
         })
         .otherwise({
             template: "BAD URL"

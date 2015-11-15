@@ -1,0 +1,24 @@
+{
+  "name": "MonitorNew",
+  "homepage": "https://github.com/kogutc/MonitorNew",
+  "authors": [
+    "kogutc <kogutc@hotmail.com>"
+  ],
+  "description": "StockMonitor",
+  "main": "package.json",
+  "moduleType": [
+    "node"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular-ui-router": "ui-router#~0.2.15"
+  }
+}

@@ -1,0 +1,14 @@
+<div ng-if!="'{{newsLink}}'">
+    <div id="mydiv" style="width:900px;background:red" onmouseover="this.style.background='green';"
+         onmouseout="this.style.background='red';">
+        Breaking News:({{receivedDate}}):{{news.id}}--
+        <span class="div_hover">
+            <a href='{{  newsLink + news.url}}'>{{news.headline}} </a>
+        </span>
+    </div>
+    <marquee behavior="scroll" direction="left"><a href="{{  newsLink + news.url}}"
+                                                   target="_blank">{{news.headline}} </a></marquee>
+</div>    
+    
+
+    

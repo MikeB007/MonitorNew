@@ -1,0 +1,9 @@
+add close price to the stock
+filter by price range
+filer by company name
+retrive live data 
+retrieve closing prices
+auto save signal indicator based on my click ( date time price symbol) show report 
+auto fake buy check pnl
+setup default select for drop downs done
+show realtime charts only by sector

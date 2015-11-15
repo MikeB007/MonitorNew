@@ -1,5 +1,5 @@
 Monitor.factory("tickerFactory", function() {
-    var favourites = [{S:"RT.TO"},{ S:"TD.TO"}];
+    var favourites = [{Symbol: "RY.TO"}, {Symbol: "TD.TO"}];
     return {
         getTickers: function(){
             return tickers;

@@ -1,0 +1,19 @@
+{
+  "name": "monitornew",
+  "version": "1.0.0",
+  "description": "StockMonitor",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kogutc/MonitorNew.git"
+  },
+  "author": "kogutc",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kogutc/MonitorNew/issues"
+  },
+  "homepage": "https://github.com/kogutc/MonitorNew#readme"
+}

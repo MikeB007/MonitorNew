@@ -3,12 +3,11 @@ Monitor.factory("commonFactory", function() {
         getPeriods: function(){
             return _periods;
         },
-        getDefaultPeriod: function(){
-            return this.getPeriod("5d");
+        getDefaultPeriod: function(p){
+            return this.getPeriod(p);
         },
-        getPeriod: function(d){
-            var i  =_.where(_periods, {duration: d} );
-            return (_periods[_.where(_periods, {duration: d})[0].id-1]);
+        getPeriod: function(p){
+            return (_periods[_.where(_periods, {duration: p})[0].id-1]);
         },
         getSizes: function(){
             return _sizes;
@@ -19,10 +18,18 @@ Monitor.factory("commonFactory", function() {
         getUSBanks: function(){
             return _USBanks;
         },
-        getIndexes: function(indx){
-        return _.where(_INDEXES, {id:indx });
-    }
-
+        getIndexes: function(indx) {
+            return _.where(_INDEXES, {id: indx});
+        },
+        getRecordFilters: function(){
+            return _RECROD_FILTERS;
+        },
+        getDefaultRecordFilter: function(f){
+            return this.getRecordFilter(f);
+        },
+        getRecordFilter: function(i){
+            return (_RECROD_FILTERS[_.where(_RECROD_FILTERS, {cnt: i})[0].id-1])
+        }
 };
 });
 

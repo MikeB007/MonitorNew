@@ -4,33 +4,44 @@ Monitor.controller('stocksController', ['$scope','$log','$routeParams', 'tickerS
     $scope.symbol={S:"",ADVFN:""};
     $scope.symbol.S =  $routeParams.symbol || tickerService.symbol.S;
     $scope.advfn={};
-    $scope.howMany={};
-    $scope.howMany.cnt = 10;
+
     $scope.indexCountry= commonFactory.getIndexes($routeParams.indexCountry || "AU");
     $scope.tickers = tickerFactory.getTickers();
     $scope.list = commonFactory.getUSBanks();
-        $scope.periods = commonFactory.getPeriods();
- console.log($scope.periods);
-   if ( !$routeParams.duration ){
-       $scope.period =  $scope.period || commonFactory.getDefaultPeriod();
-   }
-    else{
-          $scope.period = commonFactory.getPeriod($routeParams.duration);
+
+    $scope.periods = commonFactory.getPeriods();
+    if ( !$routeParams.duration ){
+        $scope.period =  $scope.period || commonFactory.getDefaultPeriod("3m");
     }
-    
-    
+    else{
+          $scope.period =  commonFactory.getPeriod($routeParams.duration);
+    }
+
+    $scope.$watch('period',function () {
+        $scope.tickersBySector = tickerFactory.getTickersBySector($scope.activeSector);
+        tickerService.period=$scope.period;
+    });
+
     $scope.selected = {};
     $scope.selected.Symbol = tickerFactory.getFavourites()[0];
     $scope.favourites = tickerFactory.getFavourites();
     
     $scope.sizes = commonFactory.getSizes();
     $scope.size= tickerService.size ||commonFactory.getDefaultSize();
+    $scope.$watch('size',function () {
+        tickerService.size=$scope.size;
+    });
 
     $scope.tickersBySector = tickerFactory.getTickersSectorBySymbol("TD");
 
     $scope.sectors = tickerFactory.getSectors();
     $scope.activeSector = tickerService.activeSector || tickerFactory.getSector("TD");
-//    $scope.subSectors  = tickerFactory.getSubSectors($scope.activeSector);
+    $scope.$watch('activeSector',function () {
+        $scope.tickersBySector = tickerFactory.getTickersBySector($scope.activeSector);
+        tickerService.activeSector = $scope.activeSector;
+    });
+
+
     $scope.$watch('symbol', function () {
         tickerService.symbol = $scope.symbol;
         $scope.afterHRSData = afterHRSFactory.getAfterHrsQuote(tickerService.symbol.S);
@@ -39,20 +50,14 @@ Monitor.controller('stocksController', ['$scope','$log','$routeParams', 'tickerS
 
     });
 
+    $scope.recordFilters=commonFactory.getRecordFilters();
+    $scope.activeRecordFilter=tickerService.activeRecordFilter || commonFactory.getRecordFilter(10);
+    $scope.$watch('activeRecordFilter',function () {
+        tickerService.activeRecordFilter = $scope.activeRecordFilter;
+    });
+
+
     $scope.cWidth = 400;
-    $scope.$watch('activeSector',function () {
-    $scope.tickersBySector = tickerFactory.getTickersBySector($scope.activeSector);
-        tickerService.activeSector = $scope.activeSector;
-    });
-
-    $scope.$watch('period',function () {
-        $scope.tickersBySector = tickerFactory.getTickersBySector($scope.activeSector);
-        tickerService.period=$scope.period;
-    });
-
-    $scope.$watch('size',function () {
-        tickerService.size=$scope.size;
-    });
 
 
     $scope.formatAdvfn = function (s) {

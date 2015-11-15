@@ -5,15 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cde3874b-e620-499b-817e-aaa45b1f1c1f" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/CADBanks.htm" afterPath="$PROJECT_DIR$/pages/CADBanks.htm" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/CADBanksRT.html" afterPath="$PROJECT_DIR$/pages/CADBanksRT.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/bankDetails1.htm" afterPath="$PROJECT_DIR$/pages/bankDetails1.htm" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/bankDetails2.htm" afterPath="$PROJECT_DIR$/pages/bankDetails2.htm" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/charts.htm" afterPath="$PROJECT_DIR$/pages/charts.htm" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/JS/controllers.js" afterPath="$PROJECT_DIR$/JS/controllers.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/home.htm" afterPath="$PROJECT_DIR$/pages/home.htm" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VIP/temp.txt" afterPath="$PROJECT_DIR$/VIP/temp.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/usBanks.htm" afterPath="$PROJECT_DIR$/pages/usBanks.htm" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="MonitorNew.iws" />
@@ -101,7 +92,7 @@
       <file leaf-file-name="bankDetails2.htm" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/pages/bankDetails2.htm">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.41284403" vertical-offset="0" max-vertical-offset="725">
+            <state vertical-scroll-proportion="0.4945055" vertical-offset="0" max-vertical-offset="725">
               <caret line="9" column="23" selection-start-line="9" selection-start-column="23" selection-end-line="9" selection-end-column="23" />
               <folding />
             </state>
@@ -437,7 +428,13 @@
       <option name="project" value="LOCAL" />
       <updated>1447565338346</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Stable Version 20151114">
+      <created>1447575144381</created>
+      <option name="number" value="00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1447575144381</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TodoView" selected-index="0">
@@ -466,11 +463,11 @@
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32903227" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32903227" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.42580646" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.42580646" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.15085025" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32903227" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32903227" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32903227" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32903227" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25233132" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
@@ -902,7 +899,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/pages/bankDetails2.htm">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.41284403" vertical-offset="0" max-vertical-offset="725">
+        <state vertical-scroll-proportion="0.4945055" vertical-offset="0" max-vertical-offset="725">
           <caret line="9" column="23" selection-start-line="9" selection-start-column="23" selection-end-line="9" selection-end-column="23" />
           <folding />
         </state>

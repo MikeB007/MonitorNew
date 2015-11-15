@@ -1,7 +1,21 @@
 <div>
-    <dir-show-filter hide-sector="true"></dir-show-filter>
+    <dir-show-filter fltr-sectors="sectors"
+                     active-sector="activeSector"
+                     fltr-symbol="symbol"
+                     fltr-periods="periods"
+                     active-period="period"
+                     fltr-sizes="sizes"
+                     active-size="size"
+                     fltr-records="howMany.cnt"
+                     hide-sector="true"
+                     hide-symbol="false"
+                     hide-period="false"
+                     hide-size="false"
+                     hide-records="false">
+    </dir-show-filter>
+
 </div>
-<div> 
+<div>
     <div ng-controller="afterHRSController">
     <after-hrs></after-hrs>
     </div>

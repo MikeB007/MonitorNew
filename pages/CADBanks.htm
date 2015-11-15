@@ -1,6 +1,18 @@
 <div>
-<dir-show-filter></dir-show-filter>
-    
+    <dir-show-filter fltr-sectors="sectors"
+                     active-sector="activeSector"
+                     fltr-symbol="symbol"
+                     fltr-periods="periods"
+                     active-period="period"
+                     fltr-sizes="sizes"
+                     active-size="size"
+                     fltr-Records="howMany.cnt"
+                     hide-sector="true"
+                     hide-symbol="true"
+                     hide-period="false"
+                     hide-size="false"
+                     hide-Records="true">
+    </dir-show-filter>
 <table border="1">
 <tr>
 <td><img src="https://chart.finance.yahoo.com/z?s=BMO.TO&t={{period.duration}}&q=c&l=on&z={{size.size}}&a=m,v,fs,f14,p12&p=m50,p,b,v,m&lang=en-CA&region=CA"></td>       

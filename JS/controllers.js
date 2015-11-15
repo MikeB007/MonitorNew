@@ -10,6 +10,7 @@ Monitor.controller('stocksController', ['$scope','$log','$routeParams', 'tickerS
     $scope.tickers = tickerFactory.getTickers();
     $scope.list = commonFactory.getUSBanks();
         $scope.periods = commonFactory.getPeriods();
+ console.log($scope.periods);
    if ( !$routeParams.duration ){
        $scope.period =  $scope.period || commonFactory.getDefaultPeriod();
    }

@@ -11,7 +11,7 @@ Monitor.controller('stocksController', ['$scope','$log','$routeParams', 'tickerS
 
     $scope.periods = commonFactory.getPeriods();
     if ( !$routeParams.duration ){
-        $scope.period =  $scope.period || commonFactory.getDefaultPeriod("3m");
+        $scope.period =  $scope.period || commonFactory.getDefaultPeriod("5d");
     }
     else{
           $scope.period =  commonFactory.getPeriod($routeParams.duration);

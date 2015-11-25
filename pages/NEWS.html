@@ -3,9 +3,11 @@
          onmouseout="this.style.background='red';">
         Breaking News:({{receivedDate}}):{{news.id}}--
         <span class="div_hover">
-            <a href='{{  newsLink + news.url}}'>{{news.headline}} </a>
+            <a href='#/external2/{{  newsLink + news.url}}'>{{news.headline}} </a>
         </span>
     </div>
+    <marquee behavior="scroll" direction="left"><a href="{{  newsLink + news.url}}"
+                                                   target="_blank">{{news.headline}} </a></marquee>
     <marquee behavior="scroll" direction="left"><a href="{{  newsLink + news.url}}"
                                                    target="_blank">{{news.headline}} </a></marquee>
 </div>    

@@ -29,10 +29,23 @@ Monitor.factory("commonFactory", function() {
         },
         getRecordFilter: function(i){
             return (_RECROD_FILTERS[_.where(_RECROD_FILTERS, {cnt: i})[0].id-1])
+        },
+        getSiteUrl: function(i){
+            var site=angular.copy (_.where(_URLS, {id: i}));
+            return (site);
+        },
+        replaceWith: function(source,findWhat,replaceWith){
+            var pos = source.indexOf(findWhat);
+            if (pos >0){
+                source=  source.slice(0,pos) + replaceWith + source.slice(pos+2)
+            }
+            return source;
+        },
+        injectSymbols: function (url,s){
+            return  this.replaceWith(url.url,"[]",s);
         }
-};
+    };
 });
-
 
 Monitor.factory("afterHRSFactory", ['$resource', function($resource) {
     return {

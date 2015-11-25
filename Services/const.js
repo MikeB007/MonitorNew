@@ -1,47 +1,55 @@
 var _periods= [
     {
         id:1,
-        duration:"1d"
+        duration1:"",duration:"1d"
     },
     {
         id:2,
-        duration:"5d"
+        duration1:"",duration:"5d"
     },
     {
         id:3,
-        duration:"10d"
+        duration1:"",duration:"10d"
     },
     {
         id:4,
-        duration:"1m"
+        duration1:"",duration:"1m"
     },
     {
         id:5,
-        duration:"3m"
+        duration1:"",duration:"3m"
     },
     {
         id:6,
-        duration:"6m"
+        duration1:"",duration:"6m"
     },
     {
         id:7,
-        duration:"9m"
+        duration1:"",duration:"9m"
     },
     {
         id:8,
-        duration:"1y"
+        duration1:"",duration:"1y"
     },
     {
         id:9,
-        duration:"3y"
+        duration1:"",duration:"2y"
     },
     {
         id:10,
-        duration:"5y"
+        duration1:"",duration:"3y"
     },
     {
         id:11,
-        duration:"9y"
+        duration1:"",duration:"5y"
+    },
+    {
+        id:12,
+        duration1:"",duration:"9y"
+    },
+    {
+        id:13,
+        duration1:"",duration:"my"
     }
 
 ];
@@ -194,10 +202,6 @@ _INDEXES = [
         i:"%5eSTI"
 },
 {
-    id:"AA",
-        i:"%5eAXJO"
-},
-{
     id:"SA",
         i:"%5eBVSP"
 },
@@ -265,32 +269,26 @@ _INDEXES = [
     id:"CA",
     i:"%5eNQCA"
 },
-
-    {
-        id:"EU",
-        i:"%5eAXJO"
-    },
-
-    {
-        id:"EU",
-        i:"%5eFTSE"
-    },
-    {
-        id:"EU",
-        i:"%5eGDAXI"
-    },
-    {
-        id:"EU",
-        i:"%5eFCHI"
-    },
-    {
-        id:"EU",
-        i:"%5eSTOXX50E"
-    },
-    {
-        id: "EU",
-        i: "%5en100"
-    }
+{
+    id:"EU",
+    i:"%5eFTSE"
+},
+{
+    id:"EU",
+    i:"%5eGDAXI"
+},
+{
+    id:"EU",
+    i:"%5eFCHI"
+},
+{
+    id:"EU",
+    i:"%5eSTOXX50E"
+},
+{
+    id: "EU",
+    i: "%5en100"
+}
 ];
 
 var _RECROD_FILTERS= [
@@ -328,3 +326,62 @@ var _RECROD_FILTERS= [
     }
 ]
 
+var _URLS= [
+    {
+        id:"BLANK",
+        url:""
+    },
+    {
+        id:"TMX",
+        url:"http://www.tmxmoney.com/en/index.html"
+    },
+    {
+        id:"L2",
+        url:"http://162.68.208.10/arcadataserver/ArcaBookData.php?Symbol=TD"
+    },
+    {
+        id:"YI",
+        url:"http://finance.yahoo.com/stock-center"
+    },
+    {
+        id:"USF",
+        url:"http://money.cnn.com/data/premarket/"
+    },
+    {
+        id:"FPost",
+        url:"http://www.financialpost.com/index.html"
+    },
+    {
+        id:"ADVFN",
+        url:"http://www.advfn.com"
+    },
+    {
+        id:"YV",
+    url:"http://ca.finance.yahoo.com/actives?e=to"
+    },
+    {
+        id:"YN",
+        url:"http://finance.yahoo.com/quotes/[]/view/fg"
+    },
+    {
+        id: "YG",
+        url: "http://finance.yahoo.com/echarts?s=vrx.to,td.to,ry.to&t=1y}"
+    },
+    {
+        id:10,
+        url:"3y"
+    },
+    {
+        id:11,
+        url:"5y"
+    },
+    {
+        id:12,
+        url:"9y"
+    },
+    {
+        id:13,
+        url:"my"
+    }
+
+];

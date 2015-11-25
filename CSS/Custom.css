@@ -43,3 +43,60 @@ html, body, input, select, textarea {
 #IDDiv {
     height: 500px;
 }
+
+
+
+p
+{
+    margin:0px;
+    padding: 0px;
+}
+
+img.frame
+{
+    background-image:url('../images/background.png');
+    background-repeat:no-repeat;
+    background-position: center;
+    background-size: 100% 100%;
+    padding:23px 60px 50px;
+}
+
+
+
+
+
+
+
+div.format {
+    background-color:black;
+    color:darkred;
+    text-align:center;
+    padding:5px;
+}
+
+div.format2 {
+    background-color: #d9edf7;
+    color: #333333;
+    text-align:center;
+    padding:5px;
+}
+#nav {
+    line-height:30px;
+    background-color:#eeeeee;
+    height:300px;
+    width:100px;
+    float:left;
+    padding:5px;
+}
+#section {
+    width:350px;
+    float:left;
+    padding:10px;
+}
+#footer {
+    background-color:black;
+    color:white;
+    clear:both;
+    text-align:center;
+    padding:5px;
+}

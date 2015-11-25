@@ -1,6 +1,6 @@
 // ROUTES
 Monitor.config(function ($routeProvider) {
-
+console.log($routeProvider);
     $routeProvider
 
         .when('/', {
@@ -36,13 +36,13 @@ Monitor.config(function ($routeProvider) {
         .when('/banksRT', {
         templateUrl: 'pages/CADBanksRT.html',
         controller: 'stocksController'
-        })    
+        }) 
+        .when('/tickerRT', {
+        templateUrl: 'pages/tickerRT.html',
+        controller: 'stocksController'
+        }) 
         .when('/bankDetails1', {
         templateUrl: 'pages/bankDetails1.htm',
-        controller: 'stocksController'
-        })    
-        .when('/bankDetails2', {
-        templateUrl: 'pages/bankDetails2.htm',
         controller: 'stocksController'
         })
         .when('/indx/:indexCountry', {
@@ -63,7 +63,15 @@ Monitor.config(function ($routeProvider) {
         })
         .when('/News', {
             templateUrl: 'pages/News.html',
-            controller: 'newsCTRLJSONP'
+            controller: 'newsController'
+        })
+        .when('/external/:site', {
+            templateUrl: 'pages/external.htm',
+            controller: 'stocksController'
+        })
+        .when('/external2/:directSite', {
+            templateUrl: 'pages/exter``````````````````````````````````````````````````````````````````````nal.htm',
+            controller: 'stocksController'
         })
         .otherwise({
             template: "BAD URL"

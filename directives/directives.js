@@ -10,10 +10,22 @@ Monitor.directive("dirShowFilter", function () {
     return {
         restrict: 'E', templateUrl: "directives/show-filter.html",
         replace: true,
-        link: function (scope, element, attrs) {
-            element.addClass('ng-hide="true"');
-            console.log("Linking:" + attrs);
-        }
+            scope: {
+                fltrSectors: "=",
+                activeSector: "=",
+                  fltrSymbol: "=",
+                 fltrPeriods: "=",
+                activePeriod: "=",
+                   fltrSizes: "=",
+                  activeSize: "=",
+                 fltrRecords: "=",
+                activeRecord: "=",
+                  hideSector:"=",
+                  hideSymbol:"=",
+                  hidePeriod:"=",
+                   hideSize:"=",
+                hideRecords:"="
+            }
     }
 });
 
@@ -22,11 +34,10 @@ Monitor.directive("dirShowImage", function () {
         restrict: 'AEC', templateUrl: "directives/show-image.html",
         replace: true,
         scope: {
-            imgList: "=",
-            imgSize: "=",
+              imgList: "=",
+              imgSize: "=",
             imgPeriod: "="
         }
-
     }
 });
 
@@ -37,13 +48,25 @@ Monitor.directive("dirShowIndex", function () {
     }
 });
 
-Monitor.directive("advfnChart", function () {
+Monitor.directive("dirShowAdvfn", function () {
     return {
-        restrict: 'AEC', templateUrl: "directives/advfn-chart.html",
+        restrict: 'AEC', templateUrl: "directives/show-advfn.html",
         scope: {
-            passSymbol: "@"
+            dirTickersBySector: "=",
+                   activeRecord: "=",
+                 fnFormatAdvfn:"&",
+                    hideAdvfn:"="
         },
         replace: true
     }
 });
 
+Monitor.directive("dirShowExternalUrl", function () {
+    return {
+        restrict: 'AEC', templateUrl: "directives/show-external-url.html",
+        replace: true,
+        scope: {
+            url: "="
+        }
+    }
+});

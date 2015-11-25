@@ -1,22 +1,28 @@
-<div class="panel-body">
+<div class="format">
     <label>
-        <div ng-hide="hideSector">
+        <div  ng-hide="hideSector">
             Sectors:
-            <select ng-model="activeSector" ng-options="s for s in sectors">
-                <option value="">-- choose industry --</option>
+            <select ng-model="activeSector" ng-options="s for s in fltrSectors">
+                <option value="">-- choose industry --</ +format>
             </select>
         </div>
     </label>
-    <label> Enter Symbol: <input type="text" ng-model="symbol.S" value="RY.TO"></label>
-    <label>
-        Period: <select ng-model="period" ng-options="p.duration for p in periods">
-        <option value="">{{p.duration}}</option>
-    </select>
-    </label>
-    <label>
-        Size: <select ng-model="size" ng-options="s.size for s in sizes">
+    <label ng-hide="hideSymbol"> Enter Symbol: <input type="text" ng-model="fltrSymbol.S" value="RY.TO"></label>
+    <label ng-hide="hidePeriod" >
+        Period: <select ng-model="activePeriod" ng-options="p.duration for p in fltrPeriods">
         <option value="">select</option>
     </select>
     </label>
-    <label>Show Recs: <input type="text" ng-model="howMany.cnt"></label>
+    <label ng-hide="hideSize">
+        Size: <select ng-model="activeSize" ng-options=" s.size for s in fltrSizes">
+        <option value="">select</option>
+    </select>
+    </label>
+    <label ng-hide="hideRecords">
+        Show Recs: <select ng-model="activeRecord" ng-options="r.cnt for r in fltrRecords">
+        <option value="">select</option>
+    </select>
+    </label>
 </div>
+
+

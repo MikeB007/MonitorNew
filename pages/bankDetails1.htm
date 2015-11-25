@@ -1,5 +1,5 @@
 
-<span>
+<div>
     <dir-show-filter fltr-sectors="sectors"
                      active-sector="activeSector"
                      fltr-symbol="symbol"
@@ -15,28 +15,45 @@
                      hide-size="false"
                      hide-records="true">
     </dir-show-filter>
-    <table>
-        <tr>
-            <td>
-            
-            </td>
-            <td>{{cProfile[0].Name}}</b></td>
-            <td>{{cProfile[0].Sector}}</b></td>
-            <td><b>{{cProfile[0].QMV|currency}}</b></td>
-        </tr>
-     </table>
+    <h1>
 
+    </h1>
     <div>
-        <IMG ng-src="http://www.advfn.com/p.php?pid=staticchart&s={{ formatAdvfn(symbol.S) }}&p=0&t=23&dm=1&vol=1">
-       <br>
-        <img  ng-src="http://chart.finance.yahoo.com/z?s={{symbol.S}}&t=1d&q=c&l=on&z={{size.size}}&a=m,v&p=b&lang=en-CA&region=CA" >
-        <img  ng-src="http://chart.finance.yahoo.com/z?s={{symbol.S}}&t=5d&q=c&l=on&z={{size.size}}&a=m,v&p=b&lang=en-CA&region=CA" >
-        <img  ng-src="http://chart.finance.yahoo.com/z?s={{symbol.S}}&t=20d&q=c&l=on&z={{size.size}}&a=m,v&p=b&lang=en-CA&region=CA" >
-           <br/>
-        <img  ng-src="http://chart.finance.yahoo.com/z?s={{symbol.S}}&t=1m&q=c&l=on&z={{size.size}}&a=m,v&p=b&lang=en-CA&region=CA" >
-        <img  ng-src="http://chart.finance.yahoo.com/z?s={{symbol.S}}&t=3m&q=c&l=on&z={{size.size}}&a=m,v&p=b&lang=en-CA&region=CA" >
-        <img  ng-src="http://chart.finance.yahoo.com/z?s={{symbol.S}}&t=6m&q=c&l=on&z={{size.size}}&a=m,v&p=b&lang=en-CA&region=CA" >
+        <table>
+            <tr>
+                <td>{{cProfile[0].Name}}</b></td>
+            </tr>
+            <tr>
+                <td>{{cProfile[0].Sector}}</b></td>
+            </tr>
+            <tr>
+                <td><b>{{cProfile[0].QMV|currency}}</b>
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    <div  ng-if="hideAdvfn==flase"> <img class="frame" ng-src="http://www.advfn.com/p.php?pid=staticchart&s={{ formatAdvfn(symbol.S) }}&p=0&t=23&dm=1&vol=1"></div>
+                    <img class="frame" ng-src="http://realtimebigchart.gtm.idmanagedsolutions.com/custom/fidelity-com/big.chart?nosettings=1&symb={{convertToBigChart(symbol.S)}}&uf=8&type=4&size=1&style=1145&freq=10mi&time=1&rand=1447825004572&compidx=aaaaa:0&comp=&ma=3&maval=9&lf=4&lf2=0&lf3=0&height=301&width=504&mocktick=1">
+
+                </td>
+            </tr>
+        </table>
+        <br>
+        <img class="frame"  ng-src="http://chart.finance.yahoo.com/z?s={{symbol.S}}&t=1d&q=c&l=on&z={{size.size}}&a=m,v&p=b&lang=en-CA&region=CA" >
+        <img class="frame"  ng-src="http://chart.finance.yahoo.com/z?s={{symbol.S}}&t=5d&q=c&l=on&z={{size.size}}&a=m,v&p=b&lang=en-CA&region=CA" >
+        <img class="frame"  ng-src="http://chart.finance.yahoo.com/z?s={{symbol.S}}&t=20d&q=c&l=on&z={{size.size}}&a=m,v&p=b&lang=en-CA&region=CA" >
+
+        <img class="frame"  ng-src="http://chart.finance.yahoo.com/z?s={{symbol.S}}&t=1m&q=c&l=on&z={{size.size}}&a=m,v&p=b&lang=en-CA&region=CA" >
+        <img class="frame"  ng-src="http://chart.finance.yahoo.com/z?s={{symbol.S}}&t=3m&q=c&l=on&z={{size.size}}&a=m,v&p=b&lang=en-CA&region=CA" >
+        <img class="frame"  ng-src="http://chart.finance.yahoo.com/z?s={{symbol.S}}&t=6m&q=c&l=on&z={{size.size}}&a=m,v&p=b&lang=en-CA&region=CA" >
       
-    </div>        
-</span>
+        <img class="frame"  ng-src="http://chart.finance.yahoo.com/z?s={{symbol.S}}&t=6m&q=c&l=on&z={{size.size}}&a=m,v&p=b&lang=en-CA&region=CA" >
+         <img class="frame"  ng-src="http://chart.finance.yahoo.com/z?s={{symbol.S}}&t=1y&q=c&l=on&z={{size.size}}&a=m,v&p=b&lang=en-CA&region=CA" >
+         <img class="frame"  ng-src="http://chart.finance.yahoo.com/z?s={{symbol.S}}&t=2yd&q=c&l=on&z={{size.size}}&a=m,v&p=b&lang=en-CA&region=CA" >
+         <img class="frame"  ng-src="http://chart.finance.yahoo.com/z?s={{symbol.S}}&t=5y&q=c&l=on&z={{size.size}}&a=m,v&p=b&lang=en-CA&region=CA" >
+         <img class="frame"  ng-src="http://chart.finance.yahoo.com/z?s={{symbol.S}}&t=10y&q=c&l=on&z={{size.size}}&a=m,v&p=b&lang=en-CA&region=CA" >
+         <br>
+        <div  ng-if="hideAdvfn==flase"><img class="frame" ng-src="http://www.advfn.com/p.php?pid=staticchart&s={{ formatAdvfn(symbol.S) }}&p=0&t=23&dm=1&vol=1"> </div>
+    </div>
+</div>
             

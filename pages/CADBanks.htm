@@ -13,34 +13,34 @@
                      hide-size="false"
                      hide-Records="true">
     </dir-show-filter>
-<table border="1">
-<tr>
-<td><img src="https://chart.finance.yahoo.com/z?s=BMO.TO&t={{period.duration}}&q=c&l=on&z={{size.size}}&a=m,v,fs,f14,p12&p=m50,p,b,v,m&lang=en-CA&region=CA"></td>       
-<td><img  src="http://www.advfn.com/p.php?pid=staticchart&s=T^BMO&p=0&t=24&dm=1&vol=1"></td>
-<td><img src="http://www.advfn.com/p.php?pid=staticchart&s=T^bmo&p=0&t=23&dm=1&vol=1">   </td>
+
+<td><img class="frame" src="http://chart.finance.yahoo.com/z?s=vrx.TO&t={{period.duration}}&q=c&l=on&z={{size.size}}&a=m,v,fs,f14,p12&p=m50,p,b,v,m&lang=en-CA&region=CA"></td>       
+<td><img class="frame" src="http://chart.finance.yahoo.com/z?s=BMO.TO&t={{period.duration}}&q=c&l=on&z={{size.size}}&a=m,v,fs,f14,p12&p=m50,p,b,v,m&lang=en-CA&region=CA"></td>
+<td><div  ng-if="hideAdvfn==false"><img class="frame"  src="http://www.advfn.com/p.php?pid=staticchart&s=T^BMO&p=0&t=24&dm=1&vol=1"></td></div>
+<td><div  ng-if="hideAdvfn==false"><img class="frame" src="http://www.advfn.com/p.php?pid=staticchart&s=T^bmo&p=0&t=23&dm=1&vol=1">   </td></div>
 </tr>    
-<tr>
-<td><img src="https://chart.finance.yahoo.com/z?s=TD.TO&t={{period.duration}}&q=c&l=on&z={{size.size}}&a=m,v,fs,f14,p12&p=m50,p,b,v,m&lang=en-CA&region=CA"></td> 
-<td><img  src="http://www.advfn.com/p.php?pid=staticchart&s=T^TD&p=0&t=24&dm=1&vol=1"></td>     
-<td><img src="http://www.advfn.com/p.php?pid=staticchart&s=T^TD&p=0&t=23&dm=1&vol=1">   </td>    
+<tr> 
+<td><img class="frame" src="http://chart.finance.yahoo.com/z?s=TD.TO&t={{period.duration}}&q=c&l=on&z={{size.size}}&a=m,v,fs,f14,p12&p=m50,p,b,v,m&lang=en-CA&region=CA"></td>
+<td><div  ng-if="hideAdvfn==false"><img class="frame"  src="http://www.advfn.com/p.php?pid=staticchart&s=T^TD&p=0&t=24&dm=1&vol=1"></td></div>
+<td><div  ng-if="hideAdvfn==false"><img class="frame" src="http://www.advfn.com/p.php?pid=staticchart&s=T^TD&p=0&t=23&dm=1&vol=1">   </td></div>
 </tr>    
 
 <tr>
-<td><img src="https://chart.finance.yahoo.com/z?s=ry.TO&t={{period.duration}}&q=c&l=on&z={{size.size}}&a=m,v,fs,f14,p12&p=m50,p,b,v,m&lang=en-CA&region=CA"></td>    
-<td><img src="http://www.advfn.com/p.php?pid=staticchart&s=T^ry&p=0&t=24&dm=1&vol=1"></td>    
-<td><img src="http://www.advfn.com/p.php?pid=staticchart&s=T^ry&p=0&t=23&dm=1&vol=1">   </td>    
+<td><img class="frame" src="http://chart.finance.yahoo.com/z?s=ry.TO&t={{period.duration}}&q=c&l=on&z={{size.size}}&a=m,v,fs,f14,p12&p=m50,p,b,v,m&lang=en-CA&region=CA"></td>
+<td><div  ng-if="hideAdvfn==false"><img class="frame" src="http://www.advfn.com/p.php?pid=staticchart&s=T^ry&p=0&t=24&dm=1&vol=1"></td></div>
+<td><div  ng-if="hideAdvfn==false"><img class="frame" src="http://www.advfn.com/p.php?pid=staticchart&s=T^ry&p=0&t=23&dm=1&vol=1">   </td></div>
 </tr>    
 
 <tr>
-<td><img src="https://chart.finance.yahoo.com/z?s=cm.TO&t={{period.duration}}&q=c&l=on&z={{size.size}}&a=m,v,fs,f14,p12&p=m50,p,b,v,m&lang=en-CA&region=CA"></td>    
-<td><img src="http://www.advfn.com/p.php?pid=staticchart&s=T^cm&p=0&t=24&dm=1&vol=1"></td>
-<td><img src="http://www.advfn.com/p.php?pid=staticchart&s=T^cm&p=0&t=23&dm=1&vol=1">   </td>    
+<td><img class="frame" src="http://chart.finance.yahoo.com/z?s=cm.TO&t={{period.duration}}&q=c&l=on&z={{size.size}}&a=m,v,fs,f14,p12&p=m50,p,b,v,m&lang=en-CA&region=CA"></td>
+<td><div  ng-if="hideAdvfn==false"><img class="frame" src="http://www.advfn.com/p.php?pid=staticchart&s=T^cm&p=0&t=24&dm=1&vol=1"></td></div>
+<td><div  ng-if="hideAdvfn==false"><img class="frame" src="http://www.advfn.com/p.php?pid=staticchart&s=T^cm&p=0&t=23&dm=1&vol=1">   </td></div>
 </tr>    
 
 <tr>
-<td><img src="https://chart.finance.yahoo.com/z?s=bns.TO&t={{period.duration}}&q=c&l=on&z={{size.size}}&a=m,v,fs,f14,p12&p=m50,p,b,v,m&lang=en-CA&region=CA"></td>    
-<td><img src="http://www.advfn.com/p.php?pid=staticchart&s=T^bns&p=0&t=24&dm=1&vol=1"></td>
-<td><img src="http://www.advfn.com/p.php?pid=staticchart&s=T^bns&p=0&t=23&dm=1&vol=1">   </td>    
+<td><img class="frame" src="http://chart.finance.yahoo.com/z?s=bns.TO&t={{period.duration}}&q=c&l=on&z={{size.size}}&a=m,v,fs,f14,p12&p=m50,p,b,v,m&lang=en-CA&region=CA"></td>
+<td><div  ng-if="hideAdvfn==false"><img class="frame" src="http://www.advfn.com/p.php?pid=staticchart&s=T^bns&p=0&t=24&dm=1&vol=1"></td></div>
+<td><div  ng-if="hideAdvfn==false"><img class="frame" src="http://www.advfn.com/p.php?pid=staticchart&s=T^bns&p=0&t=23&dm=1&vol=1">   </td></div>
 </tr>    
 
 </table>        

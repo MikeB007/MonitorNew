@@ -1,24 +1,37 @@
 //CONTROLLERS
 "use strict";
-Monitor.controller('stocksController', ['$scope','$log','$routeParams', 'tickerService','tickerFactory','commonFactory','afterHRSFactory', function($scope,$log,$routeParams, tickerService, tickerFactory,commonFactory,afterHRSFactory) {
-    $scope.symbol={S:"",ADVFN:""};
+Monitor.controller('stocksController', ['$scope','$log','$routeParams','$sce','tickerService','tickerFactory','commonFactory','afterHRSFactory', function($scope,$log,$routeParams,$sce, tickerService, tickerFactory,commonFactory,afterHRSFactory) {
+    $scope.symbol={S:"",ADVFN:"",s:""};
     $scope.symbol.S =  $routeParams.symbol || tickerService.symbol.S;
+//    $scope.symbol.s=$scope.convertToBigChart($scope.symbol.S);
     $scope.advfn={};
-
-    $scope.indexCountry= commonFactory.getIndexes($routeParams.indexCountry || "AU");
+    $scope.hideAdvfn=true;
+    $scope.hideRT=false;
+    $scope.hideRT1=true;
+    if( $routeParams.directSite){
+        $scope.myImg=commonFactory.getSiteUrl("BLANK");
+       $scope.myImg[0].url = $sce.trustAsResourceUrl($routeParams.directSite);
+    }
+    if ( $routeParams.site ){
+        $scope.myImg= commonFactory.getSiteUrl($routeParams.site);
+        $scope.myImg[0].url=commonFactory.injectSymbols($scope.myImg[0],$scope.symbol.S);
+        //$scope.myImg[0].url = $sce.trustAsResourceUrl($scope.myImg[0].url);
+    }
+    if ( $routeParams.indexCountry ) {
+        $scope.indexCountry = commonFactory.getIndexes($routeParams.indexCountry || "AU");
+    }
     $scope.tickers = tickerFactory.getTickers();
     $scope.list = commonFactory.getUSBanks();
 
     $scope.periods = commonFactory.getPeriods();
     if ( !$routeParams.duration ){
-        $scope.period =  $scope.period || commonFactory.getDefaultPeriod("5d");
+        $scope.period =  tickerService.period || commonFactory.getDefaultPeriod("5d");
     }
     else{
           $scope.period =  commonFactory.getPeriod($routeParams.duration);
     }
-
     $scope.$watch('period',function () {
-        $scope.tickersBySector = tickerFactory.getTickersBySector($scope.activeSector);
+       // $scope.tickersBySector = tickerFactory.getTickersBySector($scope.activeSector);
         tickerService.period=$scope.period;
     });
 
@@ -42,14 +55,17 @@ Monitor.controller('stocksController', ['$scope','$log','$routeParams', 'tickerS
     });
 
 
-    $scope.$watch('symbol', function () {
+    $scope.$watch('symbol.S', function () {
         tickerService.symbol = $scope.symbol;
         $scope.afterHRSData = afterHRSFactory.getAfterHrsQuote(tickerService.symbol.S);
         $scope.advfn.symbol = $scope.formatAdvfn($scope.symbol.S);
         $scope.symbol.ADVFN = $scope.formatAdvfn($scope.symbol.S);
-
+        $scope.symbol.s = $scope.convertToBigChart($scope.symbol.S);
+        $scope.cProfile=tickerFactory.getCompanyDetails($scope.extractJustSymbol($scope.symbol.S.toUpperCase())  );
+        $scope.s= $scope.symbol.S;
     });
-
+    
+    $scope.s= $scope.symbol.S;
     $scope.recordFilters=commonFactory.getRecordFilters();
     $scope.activeRecordFilter=tickerService.activeRecordFilter || commonFactory.getRecordFilter(10);
     $scope.$watch('activeRecordFilter',function () {
@@ -83,10 +99,25 @@ Monitor.controller('stocksController', ['$scope','$log','$routeParams', 'tickerS
         return tmp;
     };
 
-    $scope.cProfile=tickerFactory.getCompanyDetails($scope.extractJustSymbol($scope.symbol.S)  );
-
+     $scope.convertToBigChart = function(s){
+         var convertedS;
+         var pos = s.indexOf(".");
+         if (pos <0){
+             convertedS=s;
+         }
+         else{
+             convertedS= "CA:" + s.slice(0,pos);
+         }
+         return convertedS;
+     }
 }]);
 
+
+  Monitor.filter('trustUrl', function ($sce) {
+    return function(url) {
+      return $sce.trustAsResourceUrl(url);
+    };
+  });
 
 Monitor.controller('dataController', ['$scope', '$resource', '$routeParams', 'symbolService', function($scope, $resource, $routeParams, symbolService) {
   
@@ -142,10 +173,12 @@ Monitor.controller('forecastController', ['$scope', '$resource', '$routeParams',
 
 }]);
 
-Monitor.controller("newsCTRLJSONP", ['$scope', '$resource', function ($scope, $resource) {
+Monitor.controller("newsCTRLJSONP", ['$scope', '$resource','tickerService', function ($scope, $resource,tickerService) {
     $scope.newsUrl = 'http://www.cnbc.com/franchise/20991458?&mode=breaking_news';
     $scope.newsAPI = $resource($scope.newsUrl, {callback: "JSON_CALLBACK"}, {get: {method: "JSONP"}});
-    $scope.news = $scope.newsAPI.get({});
+
+    $scope.news = $scope.newsAPI.get({}).success(function (data){});
+    tickerService.newsURL=$scope.news.url;
     $scope.receivedDate = '';
 }]);
 Monitor.controller('chartController', ['$scope', '$resource', '$routeParams', 'symbolService', function($scope, $resource, $routeParams, symbolService) {
@@ -154,3 +187,49 @@ Monitor.controller('chartController', ['$scope', '$resource', '$routeParams', 's
        
 
 }]);
+
+//http://jsfiddle.net/sonicblis/5tcQa/3/
+Monitor.controller("news", function($scope, UrlCaller, $q, $timeout){
+    $scope.LoadStatus = "Pending";
+    $scope.JSONPayload = '';
+    $scope.CallUrl = function(){
+        UrlCaller.Url.get({hi: 'howdy'}).$promise.then(function(value){
+            console.log(value);
+            //console.log(httpresponse);
+        });
+    };
+    $scope.loadContent = function(){
+        $scope.AsyncLoad().then(
+            function(){
+                $scope.LoadStatus = "Done!";
+            },
+            function(){
+                $scope.LoadStatus = "Failed!";
+            }
+        )
+    };
+    $scope.AsyncLoad = function(){
+        var d = $q.defer();
+        var hi = $timeout(function(){1/0}, 2000);
+        hi.then(d.resolve, d.reject);
+        return d.promise;
+    };
+});
+
+
+Monitor.factory('NewsService', function($http) {
+    var newsUrl = 'http://www.cnbc.com/franchise/20991458?&mode=breaking_news';
+    return {
+        getNews: function (id) {
+            return $http.get(newsUrl).then(function (response) {
+                return response.data;
+            });
+        }
+    }
+});
+
+Monitor.controller('newsController', ['$scope', '$resource', '$routeParams','NewsService', function($scope, $resource, $routeParams,NewsService) {
+    $scope.news = NewsService.getNews(0);
+
+}]);
+

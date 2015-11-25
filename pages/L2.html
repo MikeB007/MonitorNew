@@ -1,7 +1,21 @@
 <div>
-    <label> Enter Symbol: <input type="text" ng-model="s" value="{{symbol.S}}"></label>
-    {{s}}
-    <div>
-        <iframe width="1800" height="900" ng-src="http://162.68.208.10/arcadataserver/ArcaBookData.php?Symbol={{s}}"/>
+    <dir-show-filter fltr-sectors="sectors"
+                     active-sector="activeSector"
+                     fltr-symbol="symbol"
+                     fltr-periods="periods"
+                     active-period="period"
+                     fltr-sizes="sizes"
+                     active-size="size"
+                     fltr-records="recordFilters"
+                     active-record="activeRecordFilter"
+                     hide-sector="true"
+                     hide-symbol="false"
+                     hide-period="true"
+                     hide-size="true"
+                     hide-records="true">
+    </dir-show-filter>
+{{symbol.S}}
+     <div>
+         <iframe width="1800" height="900" ng-src="{{'http://162.68.208.10/arcadataserver/ArcaBookData.php?Symbol='+ convertToUS(symbol.S)|trustUrl}}"/>
     </div>
 </div>

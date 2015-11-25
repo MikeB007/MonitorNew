@@ -110,6 +110,16 @@ Monitor.controller('stocksController', ['$scope','$log','$routeParams','$sce','t
          }
          return convertedS;
      }
+
+    $scope.convertToUS = function(s){
+        var l2S=s;
+        var pos = s.indexOf(".");
+        if (pos >0){
+            l2S = s.slice(0,pos);
+        }
+        return l2S;
+    }
+
 }]);
 
 

@@ -63,7 +63,7 @@ console.log($routeProvider);
         })
         .when('/News', {
             templateUrl: 'pages/News.html',
-            controller: 'newsController'
+            controller: 'newsCTRLJSONP'
         })
         .when('/external/:site', {
             templateUrl: 'pages/external.htm',

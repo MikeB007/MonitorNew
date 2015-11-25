@@ -147,7 +147,18 @@ Monitor.controller('afterHRSController', ['$scope', '$resource', '$routeParams',
     console.log(tickerService.symbol.S);
     $scope.afterHRSData = afterHRSFactory.getAfterHrsQuote(tickerService.symbol.S);
     console.log($scope.afterHRSData);
+    $scope.symbol=tickerService.symbol;
+
+    $scope.convertToUS = function(s) {
+        var l2S = s;
+        var pos = s.indexOf(".");
+        if (pos > 0) {
+            l2S = s.slice(0, pos);
+        }
+        return l2S;
     }
+
+}
 ]);
 
 
@@ -187,7 +198,7 @@ Monitor.controller("newsCTRLJSONP", ['$scope', '$resource','tickerService', func
     $scope.newsUrl = 'http://www.cnbc.com/franchise/20991458?&mode=breaking_news';
     $scope.newsAPI = $resource($scope.newsUrl, {callback: "JSON_CALLBACK"}, {get: {method: "JSONP"}});
 
-    $scope.news = $scope.newsAPI.get({}).success(function (data){});
+    $scope.news = $scope.newsAPI.get({});
     tickerService.newsURL=$scope.news.url;
     $scope.receivedDate = '';
 }]);

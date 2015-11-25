@@ -1,5 +1,20 @@
 <div>
-   show it {{myImg[0].url}}
+    <dir-show-filter fltr-sectors="sectors"
+                     active-sector="activeSector"
+                     fltr-symbol="symbol"
+                     fltr-periods="periods"
+                     active-period="period"
+                     fltr-sizes="sizes"
+                     active-size="size"
+                     fltr-records="recordFilters"
+                     active-record="activeRecordFilter"
+                     hide-sector="true"
+                     hide-symbol="false"
+                     hide-period="true"
+                     hide-size="true"
+                     hide-records="true">
+    </dir-show-filter>
+
     <dir-show-external-url
             url="myImg[0].url">
     </dir-show-external-url>

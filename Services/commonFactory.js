@@ -42,6 +42,14 @@ Monitor.factory("commonFactory", function() {
             return source;
         },
         injectSymbols: function (url,s){
+            var pos = s.indexOf('.');
+            if (pos>0){
+                s = s + "," + s.slice(0,pos-1)
+            }
+            else{
+                s = s + "," + s + ".TO"
+            }
+
             return  this.replaceWith(url.url,"[]",s);
         }
     };

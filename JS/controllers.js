@@ -5,9 +5,9 @@ Monitor.controller('stocksController', ['$scope','$log','$routeParams','$sce','t
     $scope.symbol.S =  $routeParams.symbol || tickerService.symbol.S;
 //    $scope.symbol.s=$scope.convertToBigChart($scope.symbol.S);
     $scope.advfn={};
-    $scope.hideAdvfn=true;
+    $scope.hideAdvfn=false;
     $scope.hideRT=false;
-    $scope.hideRT1=true;
+    $scope.hideRT1=false;
     if( $routeParams.directSite){
         $scope.myImg=commonFactory.getSiteUrl("BLANK");
        $scope.myImg[0].url = $sce.trustAsResourceUrl($routeParams.directSite);

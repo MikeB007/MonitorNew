@@ -3,7 +3,7 @@
 
 Monitor.service('tickerService',['commonFactory','tickerFactory', function(commonFactory,tickerFactory) {
     this.img={Url:"www.google.ca"};
-    this.symbol={S:"VRX"};
+    this.symbol={S:"VRX.to"};
     this.period = commonFactory.getDefaultPeriod("1d");
     this.activeRecordFilter=commonFactory.getRecordFilter("10");
     this.sector = tickerFactory.getDefaultSector("TD");

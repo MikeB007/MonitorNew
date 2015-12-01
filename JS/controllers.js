@@ -5,7 +5,7 @@ Monitor.controller('stocksController', ['$scope','$log','$routeParams','$sce','t
     $scope.symbol.S =  $routeParams.symbol || tickerService.symbol.S;
 //    $scope.symbol.s=$scope.convertToBigChart($scope.symbol.S);
     $scope.advfn={};
-    $scope.hideAdvfn=true;
+    $scope.hideAdvfn=false;
     $scope.hideRT=false;
     $scope.hideRT1=true;
     if( $routeParams.directSite){

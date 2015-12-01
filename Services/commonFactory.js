@@ -44,7 +44,7 @@ Monitor.factory("commonFactory", function() {
         injectSymbols: function (url,s){
             var pos = s.indexOf('.');
             if (pos>0){
-                s = s + "," + s.slice(0,pos-1)
+                s = s + "," + s.slice(0,pos)
             }
             else{
                 s = s + "," + s + ".TO"

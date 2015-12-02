@@ -1,8 +1,28 @@
 Monitor.factory("tickerFactory", function() {
     var favourites = [{Symbol: "RY.TO"}, {Symbol: "TD.TO"}];
     return {
+        stripExchange: function (s){
+            var l2S=s;
+            var pos = s.indexOf(".");
+            if (pos >0){
+                l2S = s.slice(0,pos);
+            }
+            return l2S;
+        },
         getTickers: function(){
             return tickers;
+        },
+        getCADTicker: function(thisSymbol){
+            var t = _.where(tickers, {USSymbol: this.stripExchange(thisSymbol)});
+            if (t.length>0) {
+              return t[0].Symbol+"." + t[0].Market;
+            }
+        },
+        getUSTicker: function(thisSymbol){
+            var t = _.where(tickers, {Symbol: this.stripExchange(thisSymbol)});
+            if (t.length>0) {
+               return t[0].USSymbol;
+            }
         },
         getTickersSectorBySymbol: function(thisSymbol){
            return _.where(tickers, {Sector: this.getSector(thisSymbol)});
@@ -20,7 +40,7 @@ Monitor.factory("tickerFactory", function() {
 
         getSubSector: function(thisSymbol){
             var match = _.findWhere(this.getTickersSectorBySymbol(thisSymbol), {Symbol: thisSymbol});
-            return match.Sub_Sector;
+            return match[0].Sub_Sector;
         },
         getSubSectors: function(thisSector){
             return _.uniq(_.pluck(_.flatten(this.getTickersBySector(thisSector)), "Sub_Sec"));

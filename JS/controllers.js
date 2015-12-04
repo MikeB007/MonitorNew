@@ -68,10 +68,10 @@ Monitor.controller('stocksController', ['$scope','$log','$routeParams','$sce','t
         $scope.symbol.ADVFN = $scope.formatAdvfn($scope.symbol.S);
         $scope.symbol.s = $scope.convertToBigChart($scope.symbol.S);
         $scope.cProfile=tickerFactory.getCompanyDetails($scope.extractJustSymbol($scope.symbol.S.toUpperCase())  );
-        $scope.s= $scope.symbol.S;
+        $scope.s= $scope.convertToBigChart($scope.symbol.S);
     });
-    
-    $scope.s= $scope.symbol.S;
+
+    //$scope.s= $scope.symbol.S;
     $scope.recordFilters=commonFactory.getRecordFilters();
     $scope.activeRecordFilter=tickerService.activeRecordFilter || commonFactory.getRecordFilter(10);
     $scope.$watch('activeRecordFilter',function () {

@@ -41,13 +41,17 @@ Monitor.factory("commonFactory", function() {
             }
             return source;
         },
-        injectSymbols: function (url,s){
+        injectSymbols: function (url,s,usSymbol,caSymbol){
             var pos = s.indexOf('.');
             if (pos>0){
-                s = s + "," + s.slice(0,pos-1)
+                s = s
+                if (usSymbol !="")
+                    s =s + "," + usSymbol;
             }
             else{
-                s = s + "," + s + ".TO"
+                s = s
+                if (caSymbol !="")
+                    s =s + "," + caSymbol
             }
 
             return  this.replaceWith(url.url,"[]",s);

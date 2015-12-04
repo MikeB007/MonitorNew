@@ -3,7 +3,10 @@
 Monitor.controller('stocksController', ['$scope','$log','$routeParams','$sce','tickerService','tickerFactory','commonFactory','afterHRSFactory', function($scope,$log,$routeParams,$sce, tickerService, tickerFactory,commonFactory,afterHRSFactory) {
     $scope.symbol={S:"",ADVFN:"",s:""};
     $scope.symbol.S =  $routeParams.symbol || tickerService.symbol.S;
+    $scope.symbol.S = $scope.symbol.S.toUpperCase();
+
 //    $scope.symbol.s=$scope.convertToBigChart($scope.symbol.S);
+    $scope.fltrRealTime={isVisible:"0"};
     $scope.advfn={};
     $scope.hideAdvfn=false;
     $scope.hideRT=false;
@@ -14,7 +17,10 @@ Monitor.controller('stocksController', ['$scope','$log','$routeParams','$sce','t
     }
     if ( $routeParams.site ){
         $scope.myImg= commonFactory.getSiteUrl($routeParams.site);
-        $scope.myImg[0].url=commonFactory.injectSymbols($scope.myImg[0],$scope.symbol.S);
+        var USS=tickerFactory.getUSTicker($scope.symbol.S);
+        var CADS=tickerFactory.getCADTicker($scope.symbol.S);
+
+        $scope.myImg[0].url=commonFactory.injectSymbols($scope.myImg[0],$scope.symbol.S,USS,CADS);
         //$scope.myImg[0].url = $sce.trustAsResourceUrl($scope.myImg[0].url);
     }
     if ( $routeParams.indexCountry ) {

@@ -11,6 +11,7 @@ Monitor.directive("dirShowFilter", function () {
         restrict: 'E', templateUrl: "directives/show-filter.html",
         replace: true,
             scope: {
+                fltrRealTime:"=",
                 fltrSectors: "=",
                 activeSector: "=",
                   fltrSymbol: "=",

@@ -1,5 +1,12 @@
 <div class="format">
     <label>
+        <div  ng-hide="hideSymbol">
+            Hide Rt:
+            <input type="text" ng-model="fltrRealTime.isVisible" value="0">
+        </div>
+    </label>
+
+    <label>
         <div  ng-hide="hideSector">
             Sectors:
             <select ng-model="activeSector" ng-options="s for s in fltrSectors">

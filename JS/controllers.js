@@ -93,7 +93,7 @@ Monitor.controller('stocksController', ['$scope','$log','$routeParams','$sce','t
 
     );
     
-    $scope.s= $scope.symbol.S;
+    //$scope.s= $scope.symbol.S;
     $scope.recordFilters=commonFactory.getRecordFilters();
     $scope.activeRecordFilter=tickerService.activeRecordFilter || commonFactory.getRecordFilter(10);
     $scope.$watch('activeRecordFilter',function () {

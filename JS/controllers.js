@@ -14,6 +14,7 @@ Monitor.controller('stocksController', ['$scope','$log','$routeParams','$sce','t
     $scope.fltr =  tickerService.fltr;
 
 //    $scope.symbol.s=$scope.convertToBigChart($scope.symbol.S);
+    $scope.fltrRealTime={isVisible:"0"};
     $scope.advfn={};
     $scope.hideAdvfn=false;
     $scope.hideRT=false;
@@ -81,7 +82,9 @@ Monitor.controller('stocksController', ['$scope','$log','$routeParams','$sce','t
         $scope.symbol.s = $scope.convertToBigChart($scope.symbol.S);
         $scope.cProfile=tickerFactory.getCompanyDetails($scope.extractJustSymbol($scope.symbol.S.toUpperCase())  );
         $scope.s= $scope.symbol.S;
-        if($scope.symbol.S.indexOf(".")){
+            //$scope.s= $scope.convertToBigChart($scope.symbol.S);
+
+            if($scope.symbol.S.indexOf(".")){
             $scope.symbol.usS = tickerFactory.getUSTicker($scope.symbol.S);
         }
         else{
@@ -93,6 +96,9 @@ Monitor.controller('stocksController', ['$scope','$log','$routeParams','$sce','t
 
     );
     
+    //$scope.s= $scope.symbol.S;
+    
+
     //$scope.s= $scope.symbol.S;
     $scope.recordFilters=commonFactory.getRecordFilters();
     $scope.activeRecordFilter=tickerService.activeRecordFilter || commonFactory.getRecordFilter(10);

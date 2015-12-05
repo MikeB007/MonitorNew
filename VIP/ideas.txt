@@ -8,6 +8,8 @@ auto fake buy check pnl
 setup default select for drop downs done
 show realtime charts only by sector
 
+new idea
+
 5min 
 http://realtimebigchart.gtm.idmanagedsolutions.com/custom/fidelity-com/big.chart?nosettings=1&symb=CA:VRX&uf=0&type=4&size=1&style=1145&freq=1mi&time=1&rand=1448291271728&compidx=aaaaa:0&comp=&ma=0&maval=9&lf=268435456&lf2=0&lf3=0&height=301&width=504&mocktick=1
 

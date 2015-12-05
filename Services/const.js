@@ -376,12 +376,15 @@ var _URLS= [
         url:"http://quotes.wsj.com/CA/<>"
     },
     {
-        id:12,
-        url:"9y"
+        id:"WALL",
+        url:"http://quotes.wsj.com/CA/XTSE/<>/research-ratings"
     },
     {
-        id:13,
-        url:"my"
+        id:"STOCKHOUSE",
+        url:"http://www.stockhouse.com/companies/bullboard/t.<>"
+    },
+    {
+        id:"REUTERS",
+        url:"http://www.stockhouse.com/companies/bullboard/{}"
     }
-
-];
+    ];

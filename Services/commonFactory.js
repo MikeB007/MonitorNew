@@ -56,6 +56,7 @@ Monitor.factory("commonFactory", function() {
             }
             var s2 = this.replaceWith(url.url,"[]",s1);
             var s2 = this.replaceWith(url.url,"<>",s);
+            var s2 = this.replaceWith(url.url,"{}",caSymbol);
             return  s2;
         }
     };

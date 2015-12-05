@@ -14,7 +14,10 @@
                      hide-Records="true">
     </dir-show-filter>
 
-<td><img class="frame" src="http://chart.finance.yahoo.com/z?s=vrx.TO&t={{period.duration}}&q=c&l=on&z={{size.size}}&a=m,v,fs,f14,p12&p=m50,p,b,v,m&lang=en-CA&region=CA"></td>       
+    <dir-show-image img-list="favourites" img-size="size.size" img-period="period.duration"></dir-show-image>
+
+
+    <td><img class="frame" src="http://chart.finance.yahoo.com/z?s=vrx.TO&t={{period.duration}}&q=c&l=on&z={{size.size}}&a=m,v,fs,f14,p12&p=m50,p,b,v,m&lang=en-CA&region=CA"></td>
 <td><img class="frame" src="http://chart.finance.yahoo.com/z?s=BMO.TO&t={{period.duration}}&q=c&l=on&z={{size.size}}&a=m,v,fs,f14,p12&p=m50,p,b,v,m&lang=en-CA&region=CA"></td>
 <td><div  ng-if="hideAdvfn==false"><img class="frame"  src="http://www.advfn.com/p.php?pid=staticchart&s=T^BMO&p=0&t=24&dm=1&vol=1"></td></div>
 <td><div  ng-if="hideAdvfn==false"><img class="frame" src="http://www.advfn.com/p.php?pid=staticchart&s=T^bmo&p=0&t=23&dm=1&vol=1">   </td></div>

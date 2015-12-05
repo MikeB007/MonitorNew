@@ -1,5 +1,5 @@
 Monitor.factory("tickerFactory", function() {
-    var favourites = [{Symbol: "RY.TO"}, {Symbol: "TD.TO"}];
+    var favourites = [{Symbol: "vrx.TO"},{Symbol: "cxr.TO"},{Symbol: "RY.TO"}, {Symbol: "TD.TO"},{Symbol: "CM.TO"},{Symbol: "TD.TO"},{Symbol: "BNS.TO"}];
     return {
         stripExchange: function (s){
             var l2S=s;

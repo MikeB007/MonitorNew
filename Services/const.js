@@ -368,12 +368,12 @@ var _URLS= [
         url: "http://finance.yahoo.com/echarts?s=vrx.to,td.to,ry.to&t=1y}"
     },
     {
-        id:10,
-        url:"3y"
+        id:"FULL",
+        url:"http://www.fool.ca"
     },
     {
-        id:11,
-        url:"5y"
+        id:"WALLSTREET",
+        url:"http://quotes.wsj.com/CA/<>"
     },
     {
         id:12,

@@ -43,18 +43,20 @@ Monitor.factory("commonFactory", function() {
         },
         injectSymbols: function (url,s,usSymbol,caSymbol){
             var pos = s.indexOf('.');
+            var s1;
             if (pos>0){
-                s = s
+                s1 = s
                 if (usSymbol !="")
-                    s =s + "," + usSymbol;
+                    s1 =s1 + "," + usSymbol;
             }
             else{
-                s = s
+                s1 = s
                 if (caSymbol !="")
-                    s =s + "," + caSymbol
+                    s1 =s1 + "," + caSymbol
             }
-
-            return  this.replaceWith(url.url,"[]",s);
+            var s2 = this.replaceWith(url.url,"[]",s1);
+            var s2 = this.replaceWith(url.url,"<>",s);
+            return  s2;
         }
     };
 });

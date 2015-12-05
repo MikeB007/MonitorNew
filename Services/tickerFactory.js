@@ -9,6 +9,7 @@ Monitor.factory("tickerFactory", function() {
             }
             return l2S;
         },
+
         getTickers: function(){
             return tickers;
         },

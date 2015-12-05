@@ -4,6 +4,14 @@ Monitor.controller('stocksController', ['$scope','$log','$routeParams','$sce','t
     $scope.symbol={S:"",ADVFN:"",s:""};
     $scope.symbol.S =  $routeParams.symbol || tickerService.symbol.S;
     $scope.symbol.S = $scope.symbol.S.toUpperCase();
+    if($scope.symbol.S.indexOf(".")){
+        $scope.symbol.usS = tickerFactory.getUSTicker($scope.symbol.S);
+    }
+    else{
+        $scope.symbol.usS = $scope.symbol.S;
+    }
+
+    $scope.fltr =  tickerService.fltr;
 
 //    $scope.symbol.s=$scope.convertToBigChart($scope.symbol.S);
     $scope.fltrRealTime={isVisible:"0"};
@@ -41,6 +49,12 @@ Monitor.controller('stocksController', ['$scope','$log','$routeParams','$sce','t
         tickerService.period=$scope.period;
     });
 
+    $scope.$watch('fltr',function () {
+        // $scope.tickersBySector = tickerFactory.getTickersBySector($scope.activeSector);
+        tickerService.fltr=$scope.fltr;
+    });
+
+
     $scope.selected = {};
     $scope.selected.Symbol = tickerFactory.getFavourites()[0];
     $scope.favourites = tickerFactory.getFavourites();
@@ -63,13 +77,27 @@ Monitor.controller('stocksController', ['$scope','$log','$routeParams','$sce','t
 
     $scope.$watch('symbol.S', function () {
         tickerService.symbol = $scope.symbol;
-        $scope.afterHRSData = afterHRSFactory.getAfterHrsQuote(tickerService.symbol.S);
         $scope.advfn.symbol = $scope.formatAdvfn($scope.symbol.S);
         $scope.symbol.ADVFN = $scope.formatAdvfn($scope.symbol.S);
         $scope.symbol.s = $scope.convertToBigChart($scope.symbol.S);
         $scope.cProfile=tickerFactory.getCompanyDetails($scope.extractJustSymbol($scope.symbol.S.toUpperCase())  );
-        $scope.s= $scope.convertToBigChart($scope.symbol.S);
-    });
+        $scope.s= $scope.symbol.S;
+            //$scope.s= $scope.convertToBigChart($scope.symbol.S);
+
+            if($scope.symbol.S.indexOf(".")){
+            $scope.symbol.usS = tickerFactory.getUSTicker($scope.symbol.S);
+        }
+        else{
+            $scope.symbol.usS = $scope.symbol.S;
+        }
+            tickerService.symbol = $scope.symbol;
+            $scope.afterHRSData = afterHRSFactory.getAfterHrsQuote(tickerService.symbol.usS);
+        }
+
+    );
+    
+    //$scope.s= $scope.symbol.S;
+    
 
     //$scope.s= $scope.symbol.S;
     $scope.recordFilters=commonFactory.getRecordFilters();
@@ -149,9 +177,9 @@ Monitor.controller('marketsController', ['$scope', '$resource', '$routeParams', 
 
 
 
-Monitor.controller('afterHRSController', ['$scope', '$resource', '$routeParams', 'afterHRSFactory','tickerService', function($scope, $resource, $routeParams, afterHRSFactory,tickerService) {
+Monitor.controller('afterHRSController', ['$scope', '$resource', '$routeParams', 'afterHRSFactory','tickerService','tickerFactory', function($scope, $resource, $routeParams, afterHRSFactory,tickerService,tickerFactory) {
     console.log(tickerService.symbol.S);
-    $scope.afterHRSData = afterHRSFactory.getAfterHrsQuote(tickerService.symbol.S);
+    $scope.afterHRSData = afterHRSFactory.getAfterHrsQuote(tickerService.symbol.usS);
     console.log($scope.afterHRSData);
     $scope.symbol=tickerService.symbol;
 
@@ -160,6 +188,7 @@ Monitor.controller('afterHRSController', ['$scope', '$resource', '$routeParams',
         var pos = s.indexOf(".");
         if (pos > 0) {
             l2S = s.slice(0, pos);
+            l2S = tickerFactory.getUSTicker(l2S);
         }
         return l2S;
     }

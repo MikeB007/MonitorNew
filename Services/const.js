@@ -368,20 +368,23 @@ var _URLS= [
         url: "http://finance.yahoo.com/echarts?s=vrx.to,td.to,ry.to&t=1y}"
     },
     {
-        id:10,
-        url:"3y"
+        id:"FULL",
+        url:"http://www.fool.ca"
     },
     {
-        id:11,
-        url:"5y"
+        id:"WALLSTREET",
+        url:"http://quotes.wsj.com/CA/<>"
     },
     {
-        id:12,
-        url:"9y"
+        id:"WALL",
+        url:"http://quotes.wsj.com/CA/XTSE/<>/research-ratings"
     },
     {
-        id:13,
-        url:"my"
+        id:"STOCKHOUSE",
+        url:"http://www.stockhouse.com/companies/bullboard/t.<>"
+    },
+    {
+        id:"REUTERS",
+        url:"http://www.stockhouse.com/companies/bullboard/{}"
     }
-
-];
+    ];

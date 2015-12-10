@@ -27,8 +27,12 @@ Monitor.controller('stocksController', ['$scope','$log','$routeParams','$sce','t
         $scope.myImg= commonFactory.getSiteUrl($routeParams.site);
         var USS=tickerFactory.getUSTicker($scope.symbol.S);
         var CADS=tickerFactory.getCADTicker($scope.symbol.S);
+        console.log("CAD Symbol" + CADS);
+        console.log("Here is the URL: "+    $scope.myImg[0].url);
 
         $scope.myImg[0].url=commonFactory.injectSymbols($scope.myImg[0],$scope.symbol.S,USS,CADS);
+
+        console.log("Here is the URL: "+    $scope.myImg[0].url);
         //$scope.myImg[0].url = $sce.trustAsResourceUrl($scope.myImg[0].url);
     }
     if ( $routeParams.indexCountry ) {
@@ -112,6 +116,7 @@ Monitor.controller('stocksController', ['$scope','$log','$routeParams','$sce','t
 
     $scope.formatAdvfn = function (s) {
         var sADVFN = {};
+
         var pos = s.indexOf(".");
         if (pos <0){
             sADVFN=s;

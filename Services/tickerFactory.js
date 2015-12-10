@@ -14,7 +14,13 @@ Monitor.factory("tickerFactory", function() {
             return tickers;
         },
         getCADTicker: function(thisSymbol){
-            var t = _.where(tickers, {USSymbol: this.stripExchange(thisSymbol)});
+            var t;
+            if (thisSymbol.indexOf(".")>0){
+                t= _.where(tickers, {Symbol: this.stripExchange(thisSymbol)});
+            }
+            else {
+                t = _.where(tickers, {USSymbol: this.stripExchange(thisSymbol)});
+            }
             if (t.length>0) {
               return t[0].Symbol+"." + t[0].Market;
             }

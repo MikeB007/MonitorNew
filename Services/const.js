@@ -369,7 +369,7 @@ var _URLS= [
     },
     {
         id:"FULL",
-        url:"http://www.fool.ca"
+        url:"http://www.fool.ca/?s=<>&submit="
     },
     {
         id:"WALLSTREET",
@@ -385,6 +385,10 @@ var _URLS= [
     },
     {
         id:"REUTERS",
-        url:"http://www.stockhouse.com/companies/bullboard/{}"
+        url:"http://www.reuters.com/finance/stocks/overview?symbol=<-->"
+    },
+    {
+        id:"Empty",
+        url:"http://www.googel.ca"
     }
     ];

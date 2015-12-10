@@ -37,9 +37,17 @@ Monitor.factory("commonFactory", function() {
         replaceWith: function(source,findWhat,replaceWith){
             var pos = source.indexOf(findWhat);
             if (pos >0){
-                source=  source.slice(0,pos) + replaceWith + source.slice(pos+2)
+                source=  source.slice(0,pos) + replaceWith + source.slice(pos+ findWhat.length)
             }
             return source;
+        },
+        stripExchange: function (s){
+            var l2S=s;
+            var pos = s.indexOf(".");
+            if (pos >0){
+                l2S = s.slice(0,pos);
+            }
+            return l2S;
         },
         injectSymbols: function (url,s,usSymbol,caSymbol){
             var pos = s.indexOf('.');
@@ -54,9 +62,9 @@ Monitor.factory("commonFactory", function() {
                 if (caSymbol !="")
                     s1 =s1 + "," + caSymbol
             }
-            var s2 = this.replaceWith(url.url,"[]",s1);
-            var s2 = this.replaceWith(url.url,"<>",s);
-            var s2 = this.replaceWith(url.url,"{}",caSymbol);
+           var s2 = this.replaceWith(url.url,"[]",s1);
+               s2 = this.replaceWith(s2,"<-->",caSymbol);
+               s2 = this.replaceWith(s2,"<>",this.stripExchange(s));
             return  s2;
         }
     };

@@ -43,8 +43,8 @@
       <file leaf-file-name="show-external-url.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/directives/show-external-url.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.08935611" vertical-offset="0" max-vertical-offset="761">
-              <caret line="4" column="4" selection-start-line="4" selection-start-column="4" selection-end-line="4" selection-end-column="4" />
+            <state vertical-scroll-proportion="0.044678055" vertical-offset="0" max-vertical-offset="761">
+              <caret line="2" column="40" selection-start-line="2" selection-start-column="40" selection-end-line="2" selection-end-column="40" />
               <folding />
             </state>
           </provider>
@@ -534,7 +534,13 @@
       <option name="project" value="LOCAL" />
       <updated>1449726375554</updated>
     </task>
-    <option name="localTasksCounter" value="26" />
+    <task id="LOCAL-00026" summary="Stable Version 20151116">
+      <created>1449727012078</created>
+      <option name="number" value="00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1449727012078</updated>
+    </task>
+    <option name="localTasksCounter" value="27" />
     <servers />
   </component>
   <component name="TodoView" selected-index="0">
@@ -1017,8 +1023,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/directives/show-external-url.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.08935611" vertical-offset="0" max-vertical-offset="761">
-          <caret line="4" column="4" selection-start-line="4" selection-start-column="4" selection-end-line="4" selection-end-column="4" />
+        <state vertical-scroll-proportion="0.044678055" vertical-offset="0" max-vertical-offset="761">
+          <caret line="2" column="40" selection-start-line="2" selection-start-column="40" selection-end-line="2" selection-end-column="40" />
           <folding />
         </state>
       </provider>

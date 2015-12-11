@@ -353,8 +353,8 @@ var _URLS= [
     },
     {
         id:"FPost",
-        url:"http://www.financialpost.com/index.html",
-        urlMain:""
+        url:"http://www.financialpost.com/markets/company/index.html?symbol=<>",
+        urlMain:"http://www.financialpost.com/index.html"
     },
     {
         id:"ADVFN",

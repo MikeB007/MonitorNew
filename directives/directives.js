@@ -88,3 +88,27 @@ Monitor.directive("dirShowExternalUrl", function () {
         }
     }
 });
+
+Monitor.directive("dirShowExternalGenericImg", function () {
+    return {
+        restrict: 'AEC', templateUrl: "directives/show-external-generic-img.html",
+        replace: true,
+        scope: {
+            img: "=",
+            imgSize: "=",
+            imgPeriod: "="
+        }
+    }
+});
+
+Monitor.directive("dirShowExternalGenericImgCurrency", function () {
+    return {
+        restrict: 'AEC', templateUrl: "directives/show-external-generic-img-currency.html",
+        replace: true,
+        scope: {
+            img: "=",
+            imgSize: "=",
+            imgPeriod: "="
+        }
+    }
+});

@@ -348,8 +348,8 @@ var _URLS= [
     },
     {
         id:"USF",
-        url:"http://money.cnn.com/data/premarket/",
-        urlMain:""
+        url:"http://money.cnn.com/quote/quote.html?symb=<>",
+        urlMain:"http://money.cnn.com/data/premarket/"
     },
     {
         id:"FPost",
@@ -364,7 +364,7 @@ var _URLS= [
     {
         id:"YV",
         url:"http://ca.finance.yahoo.com/actives?e=to",
-        urlMain:"http://ca.finance.yahoo.com"
+        urlMain:"http://ca.finance.yahoo.com/gainers?e=to"
     },
     {
         id:"YN",

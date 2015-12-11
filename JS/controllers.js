@@ -25,10 +25,17 @@ Monitor.controller('stocksController', ['$scope','$log','$routeParams','$sce','t
         tickerService.size = $scope.size
 
     }
+    if( $routeParams.com) {
+        $scope.myImg = commonFactory.getSiteUrl("BLANK");
+        $scope.myImg[0].c1 = "cadusd";
+        $scope.myImg[0].s1 = "CLF16.NYM";
+        $scope.myImg[0].s2 = "GCZ15.CMX";
+        $scope.myImg[0].s3 = "HGZ15.CMX";
+    }
 
     if( $routeParams.directSite){
-        $scope.myImg=commonFactory.getSiteUrl("BLANK");
-       $scope.myImg[0].url = $sce.trustAsResourceUrl($routeParams.directSite);
+       $scope.resources=commonFactory.getSiteURLs("BLANK");
+       $scope.resources[0].url = $sce.trustAsResourceUrl($routeParams.directSite);
     }
     if ( $routeParams.site ){
         $scope.myImg= commonFactory.getSiteUrl($routeParams.site);
@@ -186,6 +193,26 @@ Monitor.controller('marketsController', ['$scope', '$resource', '$routeParams', 
 
 }]);
 
+
+
+Monitor.controller('commoditiesController', ['$scope', '$resource', '$routeParams', 'afterHRSFactory','tickerService','tickerFactory', function($scope, $resource, $routeParams, afterHRSFactory,tickerService,tickerFactory) {
+    console.log(tickerService.symbol.S);
+    $scope.afterHRSData = afterHRSFactory.getAfterHrsQuote(tickerService.symbol.usS);
+    console.log($scope.afterHRSData);
+    $scope.symbol=tickerService.symbol;
+
+    $scope.convertToUS = function(s) {
+        var l2S = s;
+        var pos = s.indexOf(".");
+        if (pos > 0) {
+            l2S = s.slice(0, pos);
+            l2S = tickerFactory.getUSTicker(l2S);
+        }
+        return l2S;
+    }
+
+}
+]);
 
 
 

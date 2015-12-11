@@ -74,7 +74,11 @@ console.log($routeProvider);
             controller: 'stocksController'
         })
         .when('/external2/:directSite', {
-            templateUrl: 'pages/exter``````````````````````````````````````````````````````````````````````nal.htm',
+            templateUrl: 'pages/external.htm',
+            controller: 'stocksController'
+        })
+        .when('/commodities/:com', {
+            templateUrl: 'pages/commodities.htm',
             controller: 'stocksController'
         })
         .otherwise({

@@ -9,7 +9,7 @@ Monitor.service('tickerService',['commonFactory','tickerFactory', function(commo
     this.activeRecordFilter=commonFactory.getRecordFilter("10");
     this.sector = tickerFactory.getDefaultSector("TD");
     this.newsURL="";
-    this.size= commonFactory.getSize("l");
+    this.size= commonFactory.getSize("m");
 }]);
 
 app.service('UrlCaller', function($resource){

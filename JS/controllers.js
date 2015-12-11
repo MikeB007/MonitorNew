@@ -33,6 +33,7 @@ Monitor.controller('stocksController', ['$scope','$log','$routeParams','$sce','t
         $scope.myImg[0].s3 = "HGZ15.CMX";
     }
 
+
     if( $routeParams.directSite){
        $scope.resources=commonFactory.getSiteURLs("BLANK");
        $scope.resources[0].url = $sce.trustAsResourceUrl($routeParams.directSite);
@@ -76,7 +77,20 @@ Monitor.controller('stocksController', ['$scope','$log','$routeParams','$sce','t
     $scope.selected = {};
     $scope.selected.Symbol = tickerFactory.getFavourites()[0];
     $scope.favourites = tickerFactory.getFavourites();
-    
+    $scope.gainers = tickerFactory.getFavouritesGainers();
+    $scope.loosers = tickerFactory.getFavouritesLoosers();
+
+    if( $routeParams.showList){
+        if (($routeParams.showList)==("GAINERS")){
+            $scope.list =$scope.gainers;
+        }
+        if (($routeParams.showList)==("LOOSERS")){
+            $scope.list = $scope.loosers;
+        }
+    }
+
+
+
     $scope.sizes = commonFactory.getSizes();
     $scope.size= tickerService.size ||commonFactory.getDefaultSize();
     $scope.$watch('size',function () {

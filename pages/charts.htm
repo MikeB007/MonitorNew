@@ -16,14 +16,14 @@
     hide-records="false">
 </dir-show-filter>
 
-<span ng-repeat="t in tickersBySector | orderBy: '-QMV' | limitTo:activeRecordFilter.cnt">
-    <dir-show-fancy-chart img-Details="t"
-      img-size="size"
-      img-period="period"
-      fn-format-advfn="formatAdvfn(s)"
-      fn-convert-to-big-chart="convertToBigChart(s)"
-      hide-advfn="hideAdvfn"
-      fltr-real-time="fltr">
-    </dir-show-fancy-chart>
-</span>
+<div ng-repeat="t in tickersBySector | orderBy: '-QMV' | limitTo:activeRecordFilter.cnt">
+        <dir-show-fancy-chart img-Details="t"
+          img-size="size"
+          img-period="period"
+          fn-format-advfn="formatAdvfn(s)"
+          fn-convert-to-big-chart="convertToBigChart(s)"
+          hide-advfn="hideAdvfn"
+          fltr-real-time="fltr">
+        </dir-show-fancy-chart>
+</div>
 

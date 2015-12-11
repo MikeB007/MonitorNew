@@ -77,6 +77,11 @@ console.log($routeProvider);
             templateUrl: 'pages/external.htm',
             controller: 'stocksController'
         })
+        .when('/list/:showList', {
+            templateUrl: 'pages/showList.htm',
+            controller: 'stocksController'
+        })
+
         .when('/commodities/:com', {
             templateUrl: 'pages/commodities.htm',
             controller: 'stocksController'

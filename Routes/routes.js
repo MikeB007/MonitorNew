@@ -45,6 +45,10 @@ console.log($routeProvider);
         templateUrl: 'pages/bankDetails1.htm',
         controller: 'stocksController'
         })
+        .when('/bankDetails1/:size', {
+            templateUrl: 'pages/bankDetails1.htm',
+            controller: 'stocksController'
+        })
         .when('/indx/:indexCountry', {
             templateUrl: 'pages/showIndex.htm',
             controller: 'stocksController'

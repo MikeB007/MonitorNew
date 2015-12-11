@@ -30,9 +30,9 @@ Monitor.directive("dirShowFilter", function () {
     }
 });
 
-Monitor.directive("dirShowImage", function () {
+Monitor.directive("dirShowImageList", function () {
     return {
-        restrict: 'AEC', templateUrl: "directives/show-image.html",
+        restrict: 'AEC', templateUrl: "directives/show-image-list.html",
         replace: true,
         scope: {
               imgList: "=",
@@ -41,6 +41,23 @@ Monitor.directive("dirShowImage", function () {
         }
     }
 });
+
+Monitor.directive("dirShowFancyChart", function () {
+    return {
+        restrict: 'AEC', templateUrl: "directives/show-fancy-chart.html",
+        replace: true,
+        scope: {
+            imgDetails: "=",
+            imgSize: "=",
+            imgPeriod: "=",
+            fnFormatAdvfn:"&",
+            fnConvertToBigChart:"&",
+            hideAdvfn:"=",
+            fltrRealTime: "="
+        }
+    }
+});
+
 
 Monitor.directive("dirShowIndex", function () {
     return {

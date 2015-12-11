@@ -1,0 +1,40 @@
+<div xmlns="http://www.w3.org/1999/html">
+
+ <span ng-if="fltrRealTime.isVisible==0">
+    <span>{{imgDetails.Symbol+"."+imgDetails.Market}}</span>
+        <a href="#/chart/{{imgDetails.Symbol + '.' + imgDetails.Market}}"><i class="fa fa-home"></i>
+
+            <div ng-if="hideAdvfn==false"><img class="frame"
+                                               ng-src='http://www.advfn.com/p.php?pid=staticchart&s={{ fnFormatAdvfn({s:imgDetails.Symbol + "." + imgDetails.Market}) }}&p=0&t=23&dm=1&vol=1'>
+            </div>
+            <img class="frame"
+                 ng-src="http://realtimebigchart.gtm.idmanagedsolutions.com/custom/fidelity-com/big.chart?nosettings=1&symb={{fnConvertToBigChart({s:imgDetails.Symbol+'.'})}}&uf=8&type=4&size=1&style=1145&freq=10mi&time=1&rand=1447825004572&compidx=aaaaa:0&comp=&ma=3&maval=9&lf=4&lf2=0&lf3=0&height=301&width=504&mocktick=1">
+        </a>
+         <a href="#/chart/{{imgDetails.Symbol + '.' + imgDetails.Market}}">
+             <img class="frame"
+                  ng-src="http://chart.finance.yahoo.com/z?s={{imgDetails.Symbol + '.' + imgDetails.Market}}&t={{imgPeriod.duration}}&q=c&l=on&z={{imgSize.size}}&a=m,vm,fs,p&p=m50,b,v,m">
+         </a>
+          <a href="#/chart/{{imgDetails.Symbol + '.' + imgDetails.Market}}"><i class="fa fa-home"></i>
+              <img class="frame"
+                   ng-src="http://ichart.yahoo.com/t?s={{imgDetails.Symbol + '.' + imgDetails.Market}}&width={{400}}&height={{400/1.402}}">
+          </a>
+
+    </span>
+    </span>
+
+ <span ng-if="fltrRealTime.isVisible>=1">
+             <a href="#/chart/{{imgDetails.Symbol + '.' + imgDetails.Market}}"><i class="fa fa-home"></i>
+                 <img width="450" height="450" class="frame"
+                      ng-src="http://chart.finance.yahoo.com/z?s={{imgDetails.Symbol + '.' + imgDetails.Market}}&t={{imgPeriod.duration}}&q=c&l=on&z={{imgSize.size}}&a=m,v&p=b&lang=en-CA&region=CA">
+             </a>
+             <span ng-if="fltrRealTime.isVisible>=2">
+                <img class="frame"
+                     ng-src="http://chart.finance.yahoo.com/z?s={{imgDetails.Symbol + '.' + imgDetails.Market}}&t=5d&q=c&l=on&z={{imgSize.size}}&a=m,v&p=b&lang=en-CA&region=CA">
+                <span ng-if="fltrRealTime.isVisible>=3">
+                    <img class="frame"
+                         ng-src="http://chart.finance.yahoo.com/z?s={{imgDetails.Symbol + '.' + imgDetails.Market}}&t=20d&q=c&l=on&z={{imgSize.size}}&a=m,v&p=b&lang=en-CA&region=CA">
+                </span>
+            </span>
+    </span>
+
+</div>

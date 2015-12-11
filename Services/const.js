@@ -333,51 +333,63 @@ var _URLS= [
     },
     {
         id:"TMX",
-        url:"http://www.tmxmoney.com/en/index.html"
+        url:"http://web.tmxmoney.com/quote.php?qm_symbol=<>",
+        urlMain:"http://www.tmxmoney.com/en/index.html"
     },
     {
         id:"L2",
-        url:"http://162.68.208.10/arcadataserver/ArcaBookData.php?Symbol=TD"
+        url:"http://162.68.208.10/arcadataserver/ArcaBookData.php?Symbol=TD",
+        urlMain:""
     },
     {
         id:"YI",
-        url:"http://finance.yahoo.com/stock-center"
+        url:"http://finance.yahoo.com/stock-center",
+        urlMain:""
     },
     {
         id:"USF",
-        url:"http://money.cnn.com/data/premarket/"
+        url:"http://money.cnn.com/data/premarket/",
+        urlMain:""
     },
     {
         id:"FPost",
-        url:"http://www.financialpost.com/index.html"
+        url:"http://www.financialpost.com/index.html",
+        urlMain:""
     },
     {
         id:"ADVFN",
-        url:"http://www.advfn.com"
+        url:"http://www.advfn.com",
+        urlMain:""
     },
     {
         id:"YV",
-    url:"http://ca.finance.yahoo.com/actives?e=to"
+        url:"http://ca.finance.yahoo.com/actives?e=to",
+        urlMain:"http://ca.finance.yahoo.com"
     },
     {
         id:"YN",
-        url:"http://finance.yahoo.com/quotes/[]/view/fg"
+        url:"http://finance.yahoo.com/quotes/[]/view/fg",
+        urlMain:"https://ca.finance.yahoo.com/personal-finance/"
     },
     {
         id: "YG",
-        url: "http://finance.yahoo.com/echarts?s=vrx.to,td.to,ry.to&t=1y}"
+        url: "http://finance.yahoo.com/echarts?s=vrx.to,td.to,ry.to&t=1y}",
+        urlMain:"http://finance.yahoo.com"
     },
     {
         id:"FULL",
-        url:"http://www.fool.ca/?s=<>&submit="
+        url:"http://www.fool.ca/?s=<>&submit=",
+        urlMain: "http://www.fool.ca"
     },
     {
         id:"WALLSTREET",
-        url:"http://quotes.wsj.com/CA/<>"
+        url:"http://quotes.wsj.com/CA/<>",
+        urlMain: "http://www.wsj.com/"
     },
     {
         id:"WALL",
-        url:"http://quotes.wsj.com/CA/XTSE/<>/research-ratings"
+        url:"http://quotes.wsj.com/CA/XTSE/<>/research-ratings",
+        urlMain: "http://www.wsj.com/"
     },
     {
         id:"STOCKHOUSE",
@@ -385,10 +397,11 @@ var _URLS= [
     },
     {
         id:"REUTERS",
-        url:"http://www.reuters.com/finance/stocks/overview?symbol=<-->"
+        url:"http://www.reuters.com/finance/stocks/overview?symbol=<-->",
+        urlMain: "http://www.reuters.com"
     },
     {
         id:"Empty",
-        url:"http://www.googel.ca"
+        url:"http://www.google.ca"
     }
     ];

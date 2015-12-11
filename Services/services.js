@@ -4,11 +4,12 @@
 Monitor.service('tickerService',['commonFactory','tickerFactory', function(commonFactory,tickerFactory) {
     this.img={Url:"www.google.ca"};
     this.symbol={S:"VRX.to",usS:"VRX"};
-    this.fltr={isVisible:1};
+    this.fltr={isVisible:0};
     this.period = commonFactory.getDefaultPeriod("1d");
     this.activeRecordFilter=commonFactory.getRecordFilter("10");
     this.sector = tickerFactory.getDefaultSector("TD");
     this.newsURL="";
+    this.size= commonFactory.getSize("l");
 }]);
 
 app.service('UrlCaller', function($resource){

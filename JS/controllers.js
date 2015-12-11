@@ -21,8 +21,9 @@ Monitor.controller('stocksController', ['$scope','$log','$routeParams','$sce','t
     $scope.hideRT1=false;
 
     if( $routeParams.size){
-        $scope.myImg=commonFactory.getSiteUrl("BLANK");
-        $scope.myImg[0].url = $sce.trustAsResourceUrl($routeParams.directSite);
+        $scope.size = commonFactory.getSize($routeParams.size);
+        tickerService.size = $scope.size
+
     }
 
     if( $routeParams.directSite){

@@ -1,7 +1,8 @@
 <div>
-  <b></b>  <a href="{{url}}" target="_blank">link to:{{url}}</a> </b>
+  <b></b>  <a href="{{url.url}}" target="_blank">link to:{{url.url}}</a> </b>
     <br>
-   <iframe name="me" width="1800" height="900" ng-src="{{url|trustUrl}}"/>
-
-
+    <Span>
+        <iframe name="me" width="1200" height="1200" ng-src="{{url.url|trustUrl}}"/>
+        <iframe name="we" width="1200" height="1200" ng-src="{{url.urlMain|trustUrl}}"/>
+    </Span>
 </div>

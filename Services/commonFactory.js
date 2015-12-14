@@ -3,14 +3,18 @@ Monitor.factory("commonFactory", function() {
         getPeriods: function(){
             return _periods;
         },
-        getDefaultPeriod: function(p){
-            return this.getPeriod(p);
+        getDefaultPeriod: function(i){
+            return this.getPeriod(i);
         },
-        getPeriod: function(p){
-            return (_periods[_.where(_periods, {duration: p})[0].id-1]);
+        getPeriod: function(i){
+            return (_periods[_.where(_periods, {duration: i})[0].id-1]);
         },
         getSizes: function(){
             return _sizes;
+        },
+        getSize: function(i){
+            var s =(_sizes[_.where(_sizes, {size: i})[0].id-1]);
+            return s;
         },
         getDefaultSize: function(){
             return _sizes[0];
@@ -18,8 +22,8 @@ Monitor.factory("commonFactory", function() {
         getUSBanks: function(){
             return _USBanks;
         },
-        getIndexes: function(indx) {
-            return _.where(_INDEXES, {id: indx});
+        getIndexes: function(i) {
+            return _.where(_INDEXES, {id: i});
         },
         getRecordFilters: function(){
             return _RECROD_FILTERS;
@@ -37,9 +41,17 @@ Monitor.factory("commonFactory", function() {
         replaceWith: function(source,findWhat,replaceWith){
             var pos = source.indexOf(findWhat);
             if (pos >0){
-                source=  source.slice(0,pos) + replaceWith + source.slice(pos+2)
+                source=  source.slice(0,pos) + replaceWith + source.slice(pos+ findWhat.length)
             }
             return source;
+        },
+        stripExchange: function (s){
+            var l2S=s;
+            var pos = s.indexOf(".");
+            if (pos >0){
+                l2S = s.slice(0,pos);
+            }
+            return l2S;
         },
         injectSymbols: function (url,s,usSymbol,caSymbol){
             var pos = s.indexOf('.');
@@ -54,10 +66,13 @@ Monitor.factory("commonFactory", function() {
                 if (caSymbol !="")
                     s1 =s1 + "," + caSymbol
             }
-            var s2 = this.replaceWith(url.url,"[]",s1);
-            var s2 = this.replaceWith(url.url,"<>",s);
-            var s2 = this.replaceWith(url.url,"{}",caSymbol);
+           var s2 = this.replaceWith(url.url,"[]",s1);
+               s2 = this.replaceWith(s2,"<-->",caSymbol);
+               s2 = this.replaceWith(s2,"<>",this.stripExchange(s));
             return  s2;
+        },
+        getLinks: function(){
+            return _LINKS;
         }
     };
 });

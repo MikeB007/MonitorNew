@@ -6,16 +6,14 @@
                      active-period="period"
                      fltr-sizes="sizes"
                      active-size="size"
-                     fltr-records="recordFilters"
-                     active-record="activeRecordFilter"
+                     fltr-records="howMany.cnt"
                      hide-sector="true"
-                     hide-symbol="false"
-                     hide-period="true"
-                     hide-size="true"
+                     hide-symbol="true"
+                     hide-period="false"
+                     hide-size="false"
                      hide-records="true">
     </dir-show-filter>
 
-    <dir-show-external-url
-            url="myImg[0]">
-    </dir-show-external-url>
+    <dir-show-image-list img-list="list" img-size="size.size" img-period="period.duration"></dir-show-image-list>
+
 </div>

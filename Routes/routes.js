@@ -45,6 +45,10 @@ console.log($routeProvider);
         templateUrl: 'pages/bankDetails1.htm',
         controller: 'stocksController'
         })
+        .when('/bankDetails1/:size', {
+            templateUrl: 'pages/bankDetails1.htm',
+            controller: 'stocksController'
+        })
         .when('/indx/:indexCountry', {
             templateUrl: 'pages/showIndex.htm',
             controller: 'stocksController'
@@ -70,7 +74,20 @@ console.log($routeProvider);
             controller: 'stocksController'
         })
         .when('/external2/:directSite', {
-            templateUrl: 'pages/exter``````````````````````````````````````````````````````````````````````nal.htm',
+            templateUrl: 'pages/external.htm',
+            controller: 'stocksController'
+        })
+        .when('/list/:showList', {
+            templateUrl: 'pages/showList.htm',
+            controller: 'stocksController'
+        })
+        .when('/links/:link', {
+            templateUrl: 'pages/showLinks.htm',
+            controller: 'stocksController'
+        })
+
+        .when('/commodities/:com', {
+            templateUrl: 'pages/commodities.htm',
             controller: 'stocksController'
         })
         .otherwise({

@@ -14,34 +14,16 @@
     hide-period="false"
     hide-size="false"
     hide-records="false">
-
 </dir-show-filter>
 
-<span ng-repeat="t in tickersBySector | orderBy: '-QMV' | limitTo:activeRecordFilter.cnt">
-    <span  ng-if="fltr.isVisible==0">
-    <span>{{t.Symbol+"."+t.Market}}</span>
-        <a href="#/chart/{{t.Symbol + '.' + t.Market}}"><i class="fa fa-home"></i>
-            <div  ng-if="hideAdvfn==false"><img class="frame" ng-src='http://www.advfn.com/p.php?pid=staticchart&s={{ formatAdvfn(t.Symbol + "." + t.Market) }}&p=0&t=23&dm=1&vol=1'> </div>
-            <img class="frame" ng-src="http://realtimebigchart.gtm.idmanagedsolutions.com/custom/fidelity-com/big.chart?nosettings=1&symb={{convertToBigChart(t.Symbol+'.')}}&uf=8&type=4&size=1&style=1145&freq=10mi&time=1&rand=1447825004572&compidx=aaaaa:0&comp=&ma=3&maval=9&lf=4&lf2=0&lf3=0&height=301&width=504&mocktick=1">
-        </a>
-        <a href="#/chart/{{t.Symbol + '.' + t.Market}}">
-            <img class="frame"  ng-src="http://chart.finance.yahoo.com/z?s={{t.Symbol + '.' + t.Market}}&t={{period.duration}}&q=c&l=on&z={{size.size}}&a=m,vm,fs,p&p=m50,b,v,m">
-        </a>
-        <a href="#/chart/{{t.Symbol + '.' + t.Market}}"><i class="fa fa-home"></i>
-            <img class="frame"  ng-src="http://ichart.yahoo.com/t?s={{t.Symbol + '.' + t.Market}}&width={{cWidth}}&height={{cWidth/1.402}}">
-        </a>
-    </span>
-
-    <span  ng-if="fltr.isVisible>=1">
-         <a href="#/chart/{{t.Symbol + '.' + t.Market}}"><i class="fa fa-home"></i>
-         <img width="250" height="350" class="frame"  ng-src="http://chart.finance.yahoo.com/z?s={{t.Symbol + '.' + t.Market}}&t=1d&q=c&l=on&z={{size.size}}&a=m,v&p=b&lang=en-CA&region=CA" >
-         </a>
-     <span  ng-if="fltr.isVisible>=2">
-        <img class="frame"  ng-src="http://chart.finance.yahoo.com/z?s={{t.Symbol + '.' + t.Market}}&t=5d&q=c&l=on&z={{size.size}}&a=m,v&p=b&lang=en-CA&region=CA" >
-    <span  ng-if="fltr.isVisible>=3">
-        <img class="frame"  ng-src="http://chart.finance.yahoo.com/z?s={{t.Symbol + '.' + t.Market}}&t=20d&q=c&l=on&z={{size.size}}&a=m,v&p=b&lang=en-CA&region=CA" >
-    </span>
-    </span>
-    </span>
-</span>
+<div ng-repeat="t in tickersBySector | orderBy: '-QMV' | limitTo:activeRecordFilter.cnt">
+        <dir-show-fancy-chart img-Details="t"
+          img-size="size"
+          img-period="period"
+          fn-format-advfn="formatAdvfn(s)"
+          fn-convert-to-big-chart="convertToBigChart(s)"
+          hide-advfn="hideAdvfn"
+          fltr-real-time="fltr">
+        </dir-show-fancy-chart>
+</div>
 

@@ -30,9 +30,9 @@ Monitor.directive("dirShowFilter", function () {
     }
 });
 
-Monitor.directive("dirShowImage", function () {
+Monitor.directive("dirShowImageList", function () {
     return {
-        restrict: 'AEC', templateUrl: "directives/show-image.html",
+        restrict: 'AEC', templateUrl: "directives/show-image-list.html",
         replace: true,
         scope: {
               imgList: "=",
@@ -41,6 +41,34 @@ Monitor.directive("dirShowImage", function () {
         }
     }
 });
+
+Monitor.directive("dirShowLinkList", function () {
+    return {
+        restrict: 'AEC', templateUrl: "directives/show-link-list.html",
+        replace: true,
+        scope: {
+            linkList: "=",
+            defaultLink: "="
+        }
+    }
+});
+
+Monitor.directive("dirShowFancyChart", function () {
+    return {
+        restrict: 'AEC', templateUrl: "directives/show-fancy-chart.html",
+        replace: true,
+        scope: {
+            imgDetails: "=",
+            imgSize: "=",
+            imgPeriod: "=",
+            fnFormatAdvfn:"&",
+            fnConvertToBigChart:"&",
+            hideAdvfn:"=",
+            fltrRealTime: "="
+        }
+    }
+});
+
 
 Monitor.directive("dirShowIndex", function () {
     return {
@@ -68,6 +96,30 @@ Monitor.directive("dirShowExternalUrl", function () {
         replace: true,
         scope: {
             url: "="
+        }
+    }
+});
+
+Monitor.directive("dirShowExternalGenericImg", function () {
+    return {
+        restrict: 'AEC', templateUrl: "directives/show-external-generic-img.html",
+        replace: true,
+        scope: {
+            img: "=",
+            imgSize: "=",
+            imgPeriod: "="
+        }
+    }
+});
+
+Monitor.directive("dirShowExternalGenericImgCurrency", function () {
+    return {
+        restrict: 'AEC', templateUrl: "directives/show-external-generic-img-currency.html",
+        replace: true,
+        scope: {
+            img: "=",
+            imgSize: "=",
+            imgPeriod: "="
         }
     }
 });

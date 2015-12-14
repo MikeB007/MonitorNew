@@ -1,0 +1,7 @@
+<div class="row">
+        <div class="col-sm-6 col-lg-3" ng-repeat="link in linkList ">
+            <a href="{{link.url}}" target="linkDetails">{{link.desc}}<i class="fa fa-home"></i>
+             </a>
+        </div>
+    <iframe  height="900"  class="iframe-class"  name="linkDetails"  ng-src="{{link.default|trustUrl}}"/>
+</div>

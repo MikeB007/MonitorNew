@@ -1,5 +1,7 @@
 Monitor.factory("tickerFactory", function() {
-    var favourites = [{Symbol: "vrx.TO"},{Symbol: "cxr.TO"},{Symbol: "RY.TO"}, {Symbol: "TD.TO"},{Symbol: "CM.TO"},{Symbol: "TD.TO"},{Symbol: "BNS.TO"}];
+    var _favourites = [{Symbol: "vrx.TO"},{Symbol: "cxr.TO"},{Symbol: "RY.TO"}, {Symbol: "TD.TO"},{Symbol: "CM.TO"},{Symbol: "TD.TO"},{Symbol: "BNS.TO"}];
+    var _gainers = [{Symbol: "KXS.TO"},{Symbol: "NFI.TO"},{Symbol: "DDC.TO"}, {Symbol: "NSU.TO"},{Symbol: "PEY.TO"},{Symbol: "CXR.TO"},{Symbol: "ESI.TO"},{Symbol: "HSE.TO"},{Symbol: "LIF.TO"},{Symbol: "SW.TO"}, {Symbol: "YRI.TO"},{Symbol: "BAM.A.TO"},{Symbol: "BPY.UN.TO"},{Symbol: "MRU.TO"},{Symbol: "SAP.TO"},{Symbol: "DOL.TO"},{Symbol: "ARD.B.TO"}, {Symbol: "CSU.TO"},{Symbol: "FNV.TO"},{Symbol: "IPL.TO"},{Symbol: "AGU.TO"}, {Symbol: "ARX.TO"},{Symbol: "ECA.TO"},{Symbol: "YRI.TO"}];
+    var _loosers = [{Symbol: "BNK.TO"},{Symbol: "NAL.TO"},{Symbol: "PRE.TO"}, {Symbol: "PPY.TO"},{Symbol: "HMY.TO"},{Symbol: "RMX.TO"},{Symbol: "ACI.TO"},{Symbol: "CENX.TO"},{Symbol: "CLD.TO"},{Symbol: "HMY.TO"}, {Symbol: "HCLP.TO"},{Symbol: "ZINC.TO"},{Symbol: "NRP.TO"},{Symbol: "BTU.TO"},{Symbol: "RMX.TO"},{Symbol: "S.TO"},{Symbol: "HSE.TO"}, {Symbol: "PGF.TO"},{Symbol: "TDG.TO"},{Symbol: "AVO.TO"},{Symbol: "NAL.TO"}, {Symbol: "ZINC.TO"},{Symbol: "NRP.TO"},{Symbol: "BTU.TO"},{Symbol: "RMX.TO"},{Symbol: "S.TO"},{Symbol: "HSE.TO"}, {Symbol: "ABX.TO"},{Symbol: "BBD.B.TO"},{Symbol: "GIL.TO"},{Symbol: "MG.TO"}, {Symbol: "HSE.TO"},{Symbol: "NAL.TO"},{Symbol: "PWT.TO"}];
     return {
         stripExchange: function (s){
             var l2S=s;
@@ -14,7 +16,13 @@ Monitor.factory("tickerFactory", function() {
             return tickers;
         },
         getCADTicker: function(thisSymbol){
-            var t = _.where(tickers, {USSymbol: this.stripExchange(thisSymbol)});
+            var t;
+            if (thisSymbol.indexOf(".")>0){
+                t= _.where(tickers, {Symbol: this.stripExchange(thisSymbol)});
+            }
+            else {
+                t = _.where(tickers, {USSymbol: this.stripExchange(thisSymbol)});
+            }
             if (t.length>0) {
               return t[0].Symbol+"." + t[0].Market;
             }
@@ -48,8 +56,15 @@ Monitor.factory("tickerFactory", function() {
         },
 
         getFavourites: function(){
-            return favourites;
+            return _favourites;
         },
+        getFavouritesGainers: function(){
+            return _gainers;
+        },
+        getFavouritesLoosers: function(){
+            return _loosers;
+        },
+
         getCompanyDetails: function(s){
             return _.where(tickers, {Symbol: s});
         },

@@ -70,6 +70,9 @@ Monitor.factory("commonFactory", function() {
                s2 = this.replaceWith(s2,"<-->",caSymbol);
                s2 = this.replaceWith(s2,"<>",this.stripExchange(s));
             return  s2;
+        },
+        getLinks: function(){
+            return _LINKS;
         }
     };
 });

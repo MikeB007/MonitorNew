@@ -42,6 +42,17 @@ Monitor.directive("dirShowImageList", function () {
     }
 });
 
+Monitor.directive("dirShowLinkList", function () {
+    return {
+        restrict: 'AEC', templateUrl: "directives/show-link-list.html",
+        replace: true,
+        scope: {
+            linkList: "=",
+            defaultLink: "="
+        }
+    }
+});
+
 Monitor.directive("dirShowFancyChart", function () {
     return {
         restrict: 'AEC', templateUrl: "directives/show-fancy-chart.html",

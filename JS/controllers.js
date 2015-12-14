@@ -23,8 +23,12 @@ Monitor.controller('stocksController', ['$scope','$log','$routeParams','$sce','t
     if( $routeParams.size){
         $scope.size = commonFactory.getSize($routeParams.size);
         tickerService.size = $scope.size
-
     }
+
+    if( $routeParams.link){
+        $scope.urlList = commonFactory.getLinks();
+    }
+
     if( $routeParams.com) {
         $scope.myImg = commonFactory.getSiteUrl("BLANK");
         $scope.myImg[0].c1 = "cadusd";

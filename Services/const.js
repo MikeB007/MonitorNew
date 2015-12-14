@@ -405,3 +405,35 @@ var _URLS= [
         url:"http://www.google.ca"
     }
     ];
+
+
+
+var _LINKS= [
+    {
+        id:"TMX",
+        url:"http://www.tmxmoney.com/en/index.html",
+        desc:"TSX",
+        default:"http://www.tmxmoney.com/en/index.html"
+    },
+    {
+    id:"TMX",
+    url:"http://www.tmxmoney.com/en/index.html",
+    desc:"TSX",
+    default:"http://www.tmxmoney.com/en/index.html"
+},
+    {
+    id:"TMX",
+    url:"http://www.tmxmoney.com/en/index.html",
+    desc:"TSX",
+    default:"http://www.tmxmoney.com/en/index.html"
+},
+
+
+    {
+        id:"Cloud",
+        url:"http://www.clivemaund.com/",
+        desc:"clivemaund",
+        default:"http://www.clivemaund.com/"
+    }
+
+   ]

@@ -1,5 +1,14 @@
+
+.iframe-class {
+    width: 100%;
+   /* height: 100%;*/
+    border: 1px solid red;
+    overflow: auto;
+}
+
 .container {
-    position: relative;
+    width: 100%;
+    height: 250px;
 }
 #clip {
     position: absolute;

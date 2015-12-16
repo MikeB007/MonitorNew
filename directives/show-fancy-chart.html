@@ -11,7 +11,7 @@
             </a>
              <a href="#/chart/{{imgDetails.Symbol + '.' + imgDetails.Market}}">
                  <img class="frame"
-                      ng-src="http://chart.finance.yahoo.com/z?s={{imgDetails.Symbol + '.' + imgDetails.Market}}&t={{imgPeriod.duration}}&q=c&l=on&z={{imgSize.size}}&a=m,vm,fs,p&p=m50,b,v,m">
+                      ng-src="http://chart.finance.yahoo.com/z?s={{imgDetails.Symbol + '.' + imgDetails.Market}}&t={{imgPeriod.duration}}&q=c&l=on&z={{imgSize.size}}&a=m,vm,fs,p&p=e50,e200,b,v,m">
              </a>
               <a href="#/chart/{{imgDetails.Symbol + '.' + imgDetails.Market}}"><i class="fa fa-home"></i>
                   <img class="frame"
@@ -25,14 +25,14 @@
             <span>
                  <a href="#/chart/{{imgDetails.Symbol + '.' + imgDetails.Market}}"><i class="fa fa-home"></i>
                      <img class="frame"
-                          ng-src="http://chart.finance.yahoo.com/z?s={{imgDetails.Symbol + '.' + imgDetails.Market}}&t={{imgPeriod.duration}}&q=c&l=on&z={{imgSize.size}}&a=m,v&p=b&lang=en-CA&region=CA">
+                          ng-src="http://chart.finance.yahoo.com/z?s={{imgDetails.Symbol + '.' + imgDetails.Market}}&t={{imgPeriod.duration}}&q=c&l=on&z={{imgSize.size}}&a=m,v&p=e50,e200,v,b&lang=en-CA&region=CA">
                  </a>
                  <span ng-if="fltrRealTime.isVisible>=2">
                     <img class="frame"
-                         ng-src="http://chart.finance.yahoo.com/z?s={{imgDetails.Symbol + '.' + imgDetails.Market}}&t=5d&q=c&l=on&z={{imgSize.size}}&a=m,v&p=b&lang=en-CA&region=CA">
+                         ng-src="http://chart.finance.yahoo.com/z?s={{imgDetails.Symbol + '.' + imgDetails.Market}}&t=5d&q=c&l=on&z={{imgSize.size}}&a=m,v&p=e50,e200,v,b&lang=en-CA&region=CA">
                         <span ng-if="fltrRealTime.isVisible>=3">
                             <img class="frame"
-                                 ng-src="http://chart.finance.yahoo.com/z?s={{imgDetails.Symbol + '.' + imgDetails.Market}}&t=20d&q=c&l=on&z={{imgSize.size}}&a=m,v&p=b&lang=en-CA&region=CA">
+                                 ng-src="http://chart.finance.yahoo.com/z?s={{imgDetails.Symbol + '.' + imgDetails.Market}}&t=20d&q=c&l=on&z={{imgSize.size}}&a=m,v&p==e50,e200,v,b&lang=en-CA&region=CA">
                         </span>
                 </span>
              </span>

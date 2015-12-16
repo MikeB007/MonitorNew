@@ -1,0 +1,13 @@
+Abbr	Exchange	ExchangeLink
+CBOT	Chicago Board of Trade - Division of CME Group	http://www.cbot.com/
+CME	Chicago Mercantile Exchange	http://www.cmegroup.com/
+CMX	COMEX Division - New York Mercantile Exchange 	http://www.nymex.com/
+NYBOT	New York Board of Trade	https://www.theice.com/nybot.jhtml
+KCBT	Kansas City Board of Trade	http://www.kcbt.com/
+MGE	Minneapolis Grain Exchange	http://www.mgex.com/
+MATIF	ParisBourse SA	http://www.matif.fr/
+SFE	Sydney Futures Exchange	http://www.sfe.com.au/
+NYM	NYMEX Division - New York Mercantile Exchange 	http://www.cmegroup.com/
+LIFFE	London Int'l Financial Futures Exchange	http://www.liffe.com/
+EUREX	Eurex	http://www.eurexchange.com/
+ICE	Int'l Commodity Exchange	http://www.theice.com/

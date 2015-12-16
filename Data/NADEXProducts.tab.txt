@@ -1,0 +1,15 @@
+Category	Country	Product	SubProduct	Symbol	Traded
+Future Commodities	USA	Crude Oil	NYMEX® Crude Oil Futures	CL	All 12 Months
+Future Commodities – Agricultural	USA	Soybeans	CBOT® Soybean Futures	ZS	"Jan, Mar, May, Jul, Aug, Sep, Nov"
+Future Commodities – Agricultural	USA	Corn	CBOT® Corn Futures	ZC	"Mar, May, Jul, Sep, Dec"
+Future Commodities – Energy	USA	Natrual Gas	NYMEX® Natural Gas Futures	NG	All 12 Months
+Future Commodities – Metals	USA	Gold	COMEX/NYMEX® Gold Futures	GC	All 12 Months
+Future Commodities – Metals	USA	Silver	COMEX/NYMEX® Silver Futures	SI	All 12 Months
+Future Commodities – Metals	USA	Copper	COMEX/NYMEX® Copper Futures	HG	All 12 Months
+Future Index Spreads	USA	Wall Street 30	CBOT® E-mini Dow® Futures	YM	"Mar, Jun, Sep, Dec"
+Future Index Spreads	USA	US 500	CME® E-mini S&P 500 Index® Futures	ES	"Mar, Jun, Sep, Dec"
+Future Index Spreads	USA	US TECH 100	CME® E-mini NASDAQ 100 Index® Futures	NQ	"Mar, Jun, Sep, Dec"
+Future Index Spreads	USA	US SmallCap 2000 	ICE® Mini Russell 2000 Index® Futures	TF	"Mar, Jun, Sep, Dec"
+Future Index Spreads	EUROPE	FTSE 100®	Liffe FTSE 100 Index Futures	Z	"Mar, Jun, Sep, Dec"
+Future Index Spreads	EUROPE	Germany 30	Eurex DAX Index® Futures	FDAX	"Mar, Jun, Sep, Dec"
+Future Index Spreads	ASIA	Japan 225	SGX® Nikkei 225 Index Futures	NU	"Mar, Jun, Sep, Dec"

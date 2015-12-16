@@ -1,0 +1,413 @@
+Symbol	Name	Grouping	url	Exchange
+YM	DJIA mini-sized	Indices	http://www.commoditycharts.com/commodityprices/DJIA_mini-sized/YM/&?mode=i	
+YC	Corn mini-sized (P)	Grains	http://www.commoditycharts.com/commodityprices/Corn_mini-sized_(P)/YC/&?mode=i	
+XN	Corn mini-sized	Grains	http://www.commoditycharts.com/commodityprices/Corn_mini-sized/XN/&?mode=i	
+YW	Wheat mini-sized (P)	Grains	http://www.commoditycharts.com/commodityprices/Wheat_mini-sized_(P)/YW/&?mode=i	
+XW	Wheat mini-sized	Grains	http://www.commoditycharts.com/commodityprices/Wheat_mini-sized/XW/&?mode=i	
+YK	Soybeans mini-siz(P)	Grains	http://www.commoditycharts.com/commodityprices/Soybeans_mini-siz(P)/YK/&?mode=i	
+XK	Soybeans mini-sized	Grains	http://www.commoditycharts.com/commodityprices/Soybeans_mini-sized/XK/&?mode=i	
+				
+Cbot				
+	Name	Grouping		
+C	Corn (P)	Grains	http://www.commoditycharts.com/commodityprices/Corn_(P)/C/&?mode=i	
+ZC	Corn	Grains	http://www.commoditycharts.com/commodityprices/Corn/ZC/&?mode=i	
+O	Oats (P)	Grains	http://www.commoditycharts.com/commodityprices/Oats_(P)/O/&?mode=i	
+ZO	Oats	Grains	http://www.commoditycharts.com/commodityprices/Oats/ZO/&?mode=i	
+W	Wheat (P)	Grains	http://www.commoditycharts.com/commodityprices/Wheat_(P)/W/&?mode=i	
+ZW	Wheat	Grains	http://www.commoditycharts.com/commodityprices/Wheat/ZW/&?mode=i	
+S	Soybeans (P)	Grains	http://www.commoditycharts.com/commodityprices/Soybeans_(P)/S/&?mode=i	
+ZS	Soybeans	Grains	http://www.commoditycharts.com/commodityprices/Soybeans/ZS/&?mode=i	
+RR	Rough Rice (P)	Grains	http://www.commoditycharts.com/commodityprices/Rough_Rice_(P)/RR/&?mode=i	
+ZR	Rough Rice	Grains	http://www.commoditycharts.com/commodityprices/Rough_Rice/ZR/&?mode=i	
+SM	Soybean Meal (P)	Grains	http://www.commoditycharts.com/commodityprices/Soybean_Meal_(P)/SM/&?mode=i	
+ZM	Soybean Meal	Grains	http://www.commoditycharts.com/commodityprices/Soybean_Meal/ZM/&?mode=i	
+BO	Soybean Oil (P)	Grains	http://www.commoditycharts.com/commodityprices/Soybean_Oil_(P)/BO/&?mode=i	
+ZL	Soybean Oil	Grains	http://www.commoditycharts.com/commodityprices/Soybean_Oil/ZL/&?mode=i	
+AK	Ethanol Futures (P)	Energies	http://www.commoditycharts.com/commodityprices/Ethanol_Futures_(P)/AK/&?mode=i	
+ZK	Ethanol Futures	Energies	http://www.commoditycharts.com/commodityprices/Ethanol_Futures/ZK/&?mode=i	
+FZ	Ethanol Forward	Energies	http://www.commoditycharts.com/commodityprices/Ethanol_Forward/FZ/&?mode=i	
+EG	LIFFE EuroDollar	Financials	http://www.commoditycharts.com/commodityprices/LIFFE_EuroDollar/EG/&?mode=i	
+EN	MSCI Europe Value	Indices	http://www.commoditycharts.com/commodityprices/MSCI_Europe_Value/EN/&?mode=i	
+EH	MSCI Europe Index	Indices	http://www.commoditycharts.com/commodityprices/MSCI_Europe_Index/EH/&?mode=i	
+AJ	AJC	Grains	http://www.commoditycharts.com/commodityprices/AJC/AJ/&?mode=i	
+CS	Soybean Crush	Grains	http://www.commoditycharts.com/commodityprices/Soybean_Crush/CS/&?mode=i	
+CX	Soybean-Corn Ratio	Grains	http://www.commoditycharts.com/commodityprices/Soybean-Corn_Ratio/CX/&?mode=i	
+CM	E-Micro USD/CNY	Currencies	http://www.commoditycharts.com/commodityprices/E-Micro_USD_CNY/CM/&?mode=i	
+CN	Renminbi USD Banking	Currencies	http://www.commoditycharts.com/commodityprices/Renminbi_USD_Banking/CN/&?mode=i	
+CO	HKFE Copper Mini	Metals	http://www.commoditycharts.com/commodityprices/HKFE_Copper_Mini/CO/&?mode=i	
+CY	E-Micro Crude Oil	Energies	http://www.commoditycharts.com/commodityprices/E-Micro_Crude_Oil/CY/&?mode=i	
+DO	Euro Stoxx Dividend	Indices	http://www.commoditycharts.com/commodityprices/Euro_Stoxx_Dividend/DO/&?mode=i	
+FE	3-Month EuriBor	Financials	http://www.commoditycharts.com/commodityprices/3-Month_EuriBor/FE/&?mode=i	
+FQ	Corn Calendar Swap	Grains	http://www.commoditycharts.com/commodityprices/Corn_Calendar_Swap/FQ/&?mode=i	
+FR	Soybean CalendarSwap	Grains	http://www.commoditycharts.com/commodityprices/Soybean_CalendarSwap/FR/&?mode=i	
+FU	Wheat Calendar Swap	Grains	http://www.commoditycharts.com/commodityprices/Wheat_Calendar_Swap/FU/&?mode=i	
+US	T-Bond (P)	Financials	http://www.commoditycharts.com/commodityprices/T-Bond_(P)/US/&?mode=i	
+ZB	T-Bond	Financials	http://www.commoditycharts.com/commodityprices/T-Bond/ZB/&?mode=i	
+TY	10-Year T-Note (P)	Financials	http://www.commoditycharts.com/commodityprices/10-Year_T-Note_(P)/TY/&?mode=i	
+ZN	10-Year T-Note	Financials	http://www.commoditycharts.com/commodityprices/10-Year_T-Note/ZN/&?mode=i	
+FV	5-Year T-Note (P)	Financials	http://www.commoditycharts.com/commodityprices/5-Year_T-Note_(P)/FV/&?mode=i	
+ZF	5-Year T-Note	Financials	http://www.commoditycharts.com/commodityprices/5-Year_T-Note/ZF/&?mode=i	
+TU	2-Year T-Note (P)	Financials	http://www.commoditycharts.com/commodityprices/2-Year_T-Note_(P)/TU/&?mode=i	
+ZT	2-Year T-Note	Financials	http://www.commoditycharts.com/commodityprices/2-Year_T-Note/ZT/&?mode=i	
+NZ	NSE CNX IT Index	Indices	http://www.commoditycharts.com/commodityprices/NSE_CNX_IT_Index/NZ/&?mode=i	
+QS	TurkDex TRYEUR	Currencies	http://www.commoditycharts.com/commodityprices/TurkDex_TRYEUR/QS/&?mode=i	
+NI	10-Year Swaps (P)	Financials	http://www.commoditycharts.com/commodityprices/10-Year_Swaps_(P)/NI/&?mode=i	
+SR	20-Year USD I/R Swap	Financials	http://www.commoditycharts.com/commodityprices/20-Year_USD_I_R_Swap/SR/&?mode=i	
+J8	HKFE 3-Year Note	Financials	http://www.commoditycharts.com/commodityprices/HKFE_3-Year_Note/J8/&?mode=i	
+NJ	5-Year Swaps (P)	Financials	http://www.commoditycharts.com/commodityprices/5-Year_Swaps_(P)/NJ/&?mode=i	
+SA	7-Year USD I/R Swap	Financials	http://www.commoditycharts.com/commodityprices/7-Year_USD_I_R_Swap/SA/&?mode=i	
+FF	30-Day Fed Funds (P)	Financials	http://www.commoditycharts.com/commodityprices/30-Day_Fed_Funds_(P)/FF/&?mode=i	
+ZQ	30-Day Fed Funds	Financials	http://www.commoditycharts.com/commodityprices/30-Day_Fed_Funds/ZQ/&?mode=i	
+DJ	DJIA	Indices	http://www.commoditycharts.com/commodityprices/DJIA/DJ/&?mode=i	
+ZD	ICE Mini Brent	Energies	http://www.commoditycharts.com/commodityprices/ICE_Mini_Brent/ZD/&?mode=i	
+DD	DJIA big-sized	Indices	http://www.commoditycharts.com/commodityprices/DJIA_big-sized/DD/&?mode=i	
+AH	BBerg Commodity Inde	Indices	http://www.commoditycharts.com/commodityprices/BBerg_Commodity_Inde/AH/&?mode=i	
+DH	DJ Real Estate Index	Indices	http://www.commoditycharts.com/commodityprices/DJ_Real_Estate_Index/DH/&?mode=i	
+				
+Chicago Mercantile Exchange (GBLX)				
+Symbol	Name	Grouping		
+ES	E-Mini S&P 500	Indices	http://www.commoditycharts.com/commodityprices/E-Mini_S&P_500/ES/&?mode=i	
+EW	E-Mini S&P Midcap	Indices	http://www.commoditycharts.com/commodityprices/E-Mini_S&P_Midcap/EW/&?mode=i	
+SO	Silver 1000-oz	Metals	http://www.commoditycharts.com/commodityprices/Silver_1000-oz/SO/&?mode=i	
+PC	E-Mini S&P Smallcap	Indices	http://www.commoditycharts.com/commodityprices/E-Mini_S&P_Smallcap/PC/&?mode=i	
+EO	E-Mini S&P 500 EUR	Indices	http://www.commoditycharts.com/commodityprices/E-Mini_S&P_500_EUR/EO/&?mode=i	
+EA	Canadian 30-Year	Financials	http://www.commoditycharts.com/commodityprices/Canadian_30-Year/EA/&?mode=i	
+NQ	E-Mini Nasdaq 100	Indices	http://www.commoditycharts.com/commodityprices/E-Mini_Nasdaq_100/NQ/&?mode=i	
+NC	E-Mini Nasdaq Comp	Indices	http://www.commoditycharts.com/commodityprices/E-Mini_Nasdaq_Comp/NC/&?mode=i	
+NB	E-Mini Nasdaq Bio	Indices	http://www.commoditycharts.com/commodityprices/E-Mini_Nasdaq_Bio/NB/&?mode=i	
+FN	Euro OAT Long-Term	Financials	http://www.commoditycharts.com/commodityprices/Euro_OAT_Long-Term/FN/&?mode=i	
+ER	30-Day O/N Repo Rate	Financials	http://www.commoditycharts.com/commodityprices/30-Day_O_N_Repo_Rate/ER/&?mode=i	
+J7	E-Mini Japanese Yen	Currencies	http://www.commoditycharts.com/commodityprices/E-Mini_Japanese_Yen/J7/&?mode=i	
+E7	E-Mini Euro FX	Currencies	http://www.commoditycharts.com/commodityprices/E-Mini_Euro_FX/E7/&?mode=i	
+EB	Cocoa Euro	Softs	http://www.commoditycharts.com/commodityprices/Cocoa_Euro/EB/&?mode=i	
+E8	Eurodollar 5-Year MidCurve Options	Financials	http://www.commoditycharts.com/commodityprices/Eurodollar_5-Year_MidCurve_Options/E8/&?mode=i	
+MB	E-Micro GBP/USD	Currencies	http://www.commoditycharts.com/commodityprices/E-Micro_GBP_USD/MB/&?mode=i	
+MF	E-Micro EUR/USD	Currencies	http://www.commoditycharts.com/commodityprices/E-Micro_EUR_USD/MF/&?mode=i	
+MG	E-Micro AUD/USD	Currencies	http://www.commoditycharts.com/commodityprices/E-Micro_AUD_USD/MG/&?mode=i	
+MH	E-Micro USD/JPY	Currencies	http://www.commoditycharts.com/commodityprices/E-Micro_USD_JPY/MH/&?mode=i	
+MM	E-Micro USD/CAD	Currencies	http://www.commoditycharts.com/commodityprices/E-Micro_USD_CAD/MM/&?mode=i	
+MN	E-Micro USD/CHF	Currencies	http://www.commoditycharts.com/commodityprices/E-Micro_USD_CHF/MN/&?mode=i	
+				
+Chicago Mercantile Exchange (IMM)				
+Symbol	Name	Grouping		
+AD	Australian Dollar(P)	Currencies	http://www.commoditycharts.com/commodityprices/Australian_Dollar(P)/AD/&?mode=i	
+A6	Australian Dollar	Currencies	http://www.commoditycharts.com/commodityprices/Australian_Dollar/A6/&?mode=i	
+BP	British Pound (P)	Currencies	http://www.commoditycharts.com/commodityprices/British_Pound_(P)/BP/&?mode=i	
+B6	British Pound	Currencies	http://www.commoditycharts.com/commodityprices/British_Pound/B6/&?mode=i	
+CD	Canadian Dollar (P)	Currencies	http://www.commoditycharts.com/commodityprices/Canadian_Dollar_(P)/CD/&?mode=i	
+D6	Canadian Dollar	Currencies	http://www.commoditycharts.com/commodityprices/Canadian_Dollar/D6/&?mode=i	
+JY	Japanese Yen (P)	Currencies	http://www.commoditycharts.com/commodityprices/Japanese_Yen_(P)/JY/&?mode=i	
+J6	Japanese Yen	Currencies	http://www.commoditycharts.com/commodityprices/Japanese_Yen/J6/&?mode=i	
+EC	Euro FX (P)	Currencies	http://www.commoditycharts.com/commodityprices/Euro_FX_(P)/EC/&?mode=i	
+E6	Euro FX	Currencies	http://www.commoditycharts.com/commodityprices/Euro_FX/E6/&?mode=i	
+SF	Swiss Franc (P)	Currencies	http://www.commoditycharts.com/commodityprices/Swiss_Franc_(P)/SF/&?mode=i	
+S6	Swiss Franc	Currencies	http://www.commoditycharts.com/commodityprices/Swiss_Franc/S6/&?mode=i	
+MQ	Mexican Peso (P)	Currencies	http://www.commoditycharts.com/commodityprices/Mexican_Peso_(P)/MQ/&?mode=i	
+M6	Mexican Peso	Currencies	http://www.commoditycharts.com/commodityprices/Mexican_Peso/M6/&?mode=i	
+BR	Brazilian Real (P)	Currencies	http://www.commoditycharts.com/commodityprices/Brazilian_Real_(P)/BR/&?mode=i	
+L6	Brazilian Real	Currencies	http://www.commoditycharts.com/commodityprices/Brazilian_Real/L6/&?mode=i	
+NE	New Zealand Doll.(P)	Currencies	http://www.commoditycharts.com/commodityprices/New_Zealand_Doll.(P)/NE/&?mode=i	
+N6	New Zealand Dollar	Currencies	http://www.commoditycharts.com/commodityprices/New_Zealand_Dollar/N6/&?mode=i	
+RU	Russian Ruble (P)	Currencies	http://www.commoditycharts.com/commodityprices/Russian_Ruble_(P)/RU/&?mode=i	
+R6	Russian Ruble	Currencies	http://www.commoditycharts.com/commodityprices/Russian_Ruble/R6/&?mode=i	
+RA	South African (P)	Currencies	http://www.commoditycharts.com/commodityprices/South_African_(P)/RA/&?mode=i	
+T6	South African Rand	Currencies	http://www.commoditycharts.com/commodityprices/South_African_Rand/T6/&?mode=i	
+RP	Euro/Pound	Currencies	http://www.commoditycharts.com/commodityprices/Euro_Pound/RP/&?mode=i	
+RY	Euro/Yen	Currencies	http://www.commoditycharts.com/commodityprices/Euro_Yen/RY/&?mode=i	
+RF	Euro/Swiss	Currencies	http://www.commoditycharts.com/commodityprices/Euro_Swiss/RF/&?mode=i	
+SK	Swedish Krona	Currencies	http://www.commoditycharts.com/commodityprices/Swedish_Krona/SK/&?mode=i	
+NR	Norwegian Krone	Currencies	http://www.commoditycharts.com/commodityprices/Norwegian_Krone/NR/&?mode=i	
+UA	Euro/Krona	Currencies	http://www.commoditycharts.com/commodityprices/Euro_Krona/UA/&?mode=i	
+UB	Euro/Krone	Currencies	http://www.commoditycharts.com/commodityprices/Euro_Krone/UB/&?mode=i	
+UC	Euro/Australian	Currencies	http://www.commoditycharts.com/commodityprices/Euro_Australian/UC/&?mode=i	
+UE	Euro/Canadian	Currencies	http://www.commoditycharts.com/commodityprices/Euro_Canadian/UE/&?mode=i	
+UF	Canadian/Yen	Currencies	http://www.commoditycharts.com/commodityprices/Canadian_Yen/UF/&?mode=i	
+UG	Australian/Canadian	Currencies	http://www.commoditycharts.com/commodityprices/Australian_Canadian/UG/&?mode=i	
+UI	Australian/N.Zealand	Currencies	http://www.commoditycharts.com/commodityprices/Australian_N.Zealand/UI/&?mode=i	
+UK	Australian/Yen	Currencies	http://www.commoditycharts.com/commodityprices/Australian_Yen/UK/&?mode=i	
+UN	British/Swiss Franc	Currencies	http://www.commoditycharts.com/commodityprices/British_Swiss_Franc/UN/&?mode=i	
+UR	British/Yen	Currencies	http://www.commoditycharts.com/commodityprices/British_Yen/UR/&?mode=i	
+UP	Swiss Franc/Yen	Currencies	http://www.commoditycharts.com/commodityprices/Swiss_Franc_Yen/UP/&?mode=i	
+WC	Czech Koruna	Currencies	http://www.commoditycharts.com/commodityprices/Czech_Koruna/WC/&?mode=i	
+WE	Euro/Czech Koruna	Currencies	http://www.commoditycharts.com/commodityprices/Euro_Czech_Koruna/WE/&?mode=i	
+WH	Hungarian Forint	Currencies	http://www.commoditycharts.com/commodityprices/Hungarian_Forint/WH/&?mode=i	
+WP	Polish Zloty	Currencies	http://www.commoditycharts.com/commodityprices/Polish_Zloty/WP/&?mode=i	
+WU	Euro/Hungary Forint	Currencies	http://www.commoditycharts.com/commodityprices/Euro_Hungary_Forint/WU/&?mode=i	
+WY	Israeli Shekel	Currencies	http://www.commoditycharts.com/commodityprices/Israeli_Shekel/WY/&?mode=i	
+WZ	Euro/Polish Zloty	Currencies	http://www.commoditycharts.com/commodityprices/Euro_Polish_Zloty/WZ/&?mode=i	
+KZ	Korean Won	Currencies	http://www.commoditycharts.com/commodityprices/Korean_Won/KZ/&?mode=i	
+QR	Renminbi/Yen	Currencies	http://www.commoditycharts.com/commodityprices/Renminbi_Yen/QR/&?mode=i	
+QV	Renminbi/Euro	Currencies	http://www.commoditycharts.com/commodityprices/Renminbi_Euro/QV/&?mode=i	
+QT	Chinese Renminbi	Currencies	http://www.commoditycharts.com/commodityprices/Chinese_Renminbi/QT/&?mode=i	
+E4	Turkish Lira	Currencies	http://www.commoditycharts.com/commodityprices/Turkish_Lira/E4/&?mode=i	
+E5	Euro/Turkish Lira	Currencies	http://www.commoditycharts.com/commodityprices/Euro_Turkish_Lira/E5/&?mode=i	
+MB	E-Micro GBP/USD	Currencies	http://www.commoditycharts.com/commodityprices/E-Micro_GBP_USD/MB/&?mode=i	
+MF	E-Micro EUR/USD	Currencies	http://www.commoditycharts.com/commodityprices/E-Micro_EUR_USD/MF/&?mode=i	
+MG	E-Micro AUD/USD	Currencies	http://www.commoditycharts.com/commodityprices/E-Micro_AUD_USD/MG/&?mode=i	
+MH	E-Micro USD/JPY	Currencies	http://www.commoditycharts.com/commodityprices/E-Micro_USD_JPY/MH/&?mode=i	
+MM	E-Micro USD/CAD	Currencies	http://www.commoditycharts.com/commodityprices/E-Micro_USD_CAD/MM/&?mode=i	
+MN	E-Micro USD/CHF	Currencies	http://www.commoditycharts.com/commodityprices/E-Micro_USD_CHF/MN/&?mode=i	
+CZ	CME$INDEX	Currencies	http://www.commoditycharts.com/commodityprices/CME$INDEX/CZ/&?mode=i	
+ED	Eurodollar (P)	Financials	http://www.commoditycharts.com/commodityprices/Eurodollar_(P)/ED/&?mode=i	
+GE	Eurodollar	Financials	http://www.commoditycharts.com/commodityprices/Eurodollar/GE/&?mode=i	
+EY	EuroYen Tibor (P)	Financials	http://www.commoditycharts.com/commodityprices/EuroYen_Tibor_(P)/EY/&?mode=i	
+GJ	EuroYen Tibor	Financials	http://www.commoditycharts.com/commodityprices/EuroYen_Tibor/GJ/&?mode=i	
+EL	MSCI Europe Growth	Indices	http://www.commoditycharts.com/commodityprices/MSCI_Europe_Growth/EL/&?mode=i	
+EM	1-Month Libor (P)	Financials	http://www.commoditycharts.com/commodityprices/1-Month_Libor_(P)/EM/&?mode=i	
+GH	1-Month Libor	Financials	http://www.commoditycharts.com/commodityprices/1-Month_Libor/GH/&?mode=i	
+C7	SGX IHS Indonesia	Energies	http://www.commoditycharts.com/commodityprices/SGX_IHS_Indonesia/C7/&?mode=i	
+JB	S&P Technology	Indices	http://www.commoditycharts.com/commodityprices/S&P_Technology/JB/&?mode=i	
+FD	DAP FOB Tampa Swap	Grains	http://www.commoditycharts.com/commodityprices/DAP_FOB_Tampa_Swap/FD/&?mode=i	
+				
+Chicago Mercantile Exchange (IOM)				
+Symbol	Name	Grouping		
+SP	S&P 500 Index	Indices	http://www.commoditycharts.com/commodityprices/S&P_500_Index/SP/&?mode=i	
+ND	Nasdaq 100	Indices	http://www.commoditycharts.com/commodityprices/Nasdaq_100/ND/&?mode=i	
+MD	S&P Midcap 400	Indices	http://www.commoditycharts.com/commodityprices/S&P_Midcap_400/MD/&?mode=i	
+SG	S&P 500/Barra Growth	Indices	http://www.commoditycharts.com/commodityprices/S&P_500_Barra_Growth/SG/&?mode=i	
+SU	S&P 500/Barra Value	Indices	http://www.commoditycharts.com/commodityprices/S&P_500_Barra_Value/SU/&?mode=i	
+PH	S&P Smallcap 600	Indices	http://www.commoditycharts.com/commodityprices/S&P_Smallcap_600/PH/&?mode=i	
+PP	Japanese Yen	Currencies	http://www.commoditycharts.com/commodityprices/Japanese_Yen/PP/&?mode=i	
+PZ	Swiss Franc	Currencies	http://www.commoditycharts.com/commodityprices/Swiss_Franc/PZ/&?mode=i	
+PR	Canadian Dollar	Currencies	http://www.commoditycharts.com/commodityprices/Canadian_Dollar/PR/&?mode=i	
+LS	Lumber	Softs	http://www.commoditycharts.com/commodityprices/Lumber/LS/&?mode=i	
+XY	CZCE Rapeseed Meal	Grains	http://www.commoditycharts.com/commodityprices/CZCE_Rapeseed_Meal/XY/&?mode=i	
+XZ	CZCE Rapeseed	Grains	http://www.commoditycharts.com/commodityprices/CZCE_Rapeseed/XZ/&?mode=i	
+YQ	DCE Coking Coal	Softs	http://www.commoditycharts.com/commodityprices/DCE_Coking_Coal/YQ/&?mode=i	
+PI	Euro Stoxx Small	Indices	http://www.commoditycharts.com/commodityprices/Euro_Stoxx_Small/PI/&?mode=i	
+PF	Euro Stoxx Large	Indices	http://www.commoditycharts.com/commodityprices/Euro_Stoxx_Large/PF/&?mode=i	
+PT	Stoxx Eur Small 200	Indices	http://www.commoditycharts.com/commodityprices/Stoxx_Eur_Small_200/PT/&?mode=i	
+NK	Nikkei 225 (P)	Indices	http://www.commoditycharts.com/commodityprices/Nikkei_225_(P)/NK/&?mode=i	
+NL	Nikkei 225 Yen	Indices	http://www.commoditycharts.com/commodityprices/Nikkei_225_Yen/NL/&?mode=i	
+NY	Nikkei 225	Indices	http://www.commoditycharts.com/commodityprices/Nikkei_225/NY/&?mode=i	
+GI	S&P GSCI (P)	Indices	http://www.commoditycharts.com/commodityprices/S&P_GSCI_(P)/GI/&?mode=i	
+GD	S&P GSCI	Indices	http://www.commoditycharts.com/commodityprices/S&P_GSCI/GD/&?mode=i	
+G7	S&P GS Excess Index	Indices	http://www.commoditycharts.com/commodityprices/S&P_GS_Excess_Index/G7/&?mode=i	
+G8	ICE Gold Miners	Metals	http://www.commoditycharts.com/commodityprices/ICE_Gold_Miners/G8/&?mode=i	
+LD	Lead	Metals	http://www.commoditycharts.com/commodityprices/Lead/LD/&?mode=i	
+F3	Nonfarm Payroll	Financials	http://www.commoditycharts.com/commodityprices/Nonfarm_Payroll/F3/&?mode=i	
+				
+Chicago Mercantile Exchange (CME)				
+Symbol	Name	Grouping		
+PB	Pork Bellies (P)	Meats	http://www.commoditycharts.com/commodityprices/Pork_Bellies_(P)/PB/&?mode=i	
+PD	Pork Bellies	Meats	http://www.commoditycharts.com/commodityprices/Pork_Bellies/PD/&?mode=i	
+FC	Feeder Cattle (P)	Meats	http://www.commoditycharts.com/commodityprices/Feeder_Cattle_(P)/FC/&?mode=i	
+GF	Feeder Cattle	Meats	http://www.commoditycharts.com/commodityprices/Feeder_Cattle/GF/&?mode=i	
+LC	Live Cattle (P)	Meats	http://www.commoditycharts.com/commodityprices/Live_Cattle_(P)/LC/&?mode=i	
+LE	Live Cattle	Meats	http://www.commoditycharts.com/commodityprices/Live_Cattle/LE/&?mode=i	
+LH	Lean Hogs (P)	Meats	http://www.commoditycharts.com/commodityprices/Lean_Hogs_(P)/LH/&?mode=i	
+HE	Lean Hogs	Meats	http://www.commoditycharts.com/commodityprices/Lean_Hogs/HE/&?mode=i	
+DB	Butter	Meats	http://www.commoditycharts.com/commodityprices/Butter/DB/&?mode=i	
+BD	Butter Cash-Settled	Meats	http://www.commoditycharts.com/commodityprices/Butter_Cash-Settled/BD/&?mode=i	
+DA	Class III Milk (P)	Meats	http://www.commoditycharts.com/commodityprices/Class_III_Milk_(P)/DA/&?mode=i	
+DL	Class III Milk	Meats	http://www.commoditycharts.com/commodityprices/Class_III_Milk/DL/&?mode=i	
+DF	Nonfat Dry Milk	Meats	http://www.commoditycharts.com/commodityprices/Nonfat_Dry_Milk/DF/&?mode=i	
+DN	Durum Wheat	Grains	http://www.commoditycharts.com/commodityprices/Durum_Wheat/DN/&?mode=i	
+DK	Class IV Milk	Meats	http://www.commoditycharts.com/commodityprices/Class_IV_Milk/DK/&?mode=i	
+LB	Lumber (P)	Softs	http://www.commoditycharts.com/commodityprices/Lumber_(P)/LB/&?mode=i	
+LS	Lumber	Softs	http://www.commoditycharts.com/commodityprices/Lumber/LS/&?mode=i	
+DG	Dry Whey	Softs	http://www.commoditycharts.com/commodityprices/Dry_Whey/DG/&?mode=i	
+XP	CZCE Pumai Wheat	Grains	http://www.commoditycharts.com/commodityprices/CZCE_Pumai_Wheat/XP/&?mode=i	
+LP	HKFE Lead Mini	Metals	http://www.commoditycharts.com/commodityprices/HKFE_Lead_Mini/LP/&?mode=i	
+				
+Kansas City Board of Trade (KCBT)				
+Symbol	Name	Grouping		
+KW	Hard Red Wheat (P)	Grains	http://www.commoditycharts.com/commodityprices/Hard_Red_Wheat_(P)/KW/&?mode=i	
+KE	Hard Red Wheat	Grains	http://www.commoditycharts.com/commodityprices/Hard_Red_Wheat/KE/&?mode=i	
+MV	Value Line Futures	Indices	http://www.commoditycharts.com/commodityprices/Value_Line_Futures/MV/&?mode=i	
+				
+Minneapolis Grain Exchange (MGEX)				
+Symbol	Name	Grouping		
+MW	Spring Wheat	Grains	http://www.commoditycharts.com/commodityprices/Spring_Wheat/MW/&?mode=i	
+IH	HRWI Hard Red	Grains	http://www.commoditycharts.com/commodityprices/HRWI_Hard_Red/IH/&?mode=i	
+IC	NCI National Corn	Grains	http://www.commoditycharts.com/commodityprices/NCI_National_Corn/IC/&?mode=i	
+IS	NSI National Soybean	Grains	http://www.commoditycharts.com/commodityprices/NSI_National_Soybean/IS/&?mode=i	
+IP	HRSI Hard Red Spring	Grains	http://www.commoditycharts.com/commodityprices/HRSI_Hard_Red_Spring/IP/&?mode=i	
+IW	SRWI Soft Red Wheat	Grains	http://www.commoditycharts.com/commodityprices/SRWI_Soft_Red_Wheat/IW/&?mode=i	
+				
+Winnipeg Commodity Exchange (WCE)				
+Symbol	Name	Grouping		
+RS	Canola	Grains	http://www.commoditycharts.com/commodityprices/Canola/RS/&?mode=i	
+				
+Commodities Exchange (COMEX)				
+Symbol	Name	Grouping		
+AL	Aluminum	Metals	http://www.commoditycharts.com/commodityprices/Aluminum/AL/&?mode=i	
+HG	High Grade Copper	Metals	http://www.commoditycharts.com/commodityprices/High_Grade_Copper/HG/&?mode=i	
+GC	Gold	Metals	http://www.commoditycharts.com/commodityprices/Gold/GC/&?mode=i	
+SI	Silver	Metals	http://www.commoditycharts.com/commodityprices/Silver/SI/&?mode=i	
+AM	MSCI EM Asia NTR	Indices	http://www.commoditycharts.com/commodityprices/MSCI_EM_Asia_NTR/AM/&?mode=i	
+				
+New York Mercantile Exchange (NYMEX)				
+Symbol	Name	Grouping		
+CL	Crude Oil WTI	Energies	http://www.commoditycharts.com/commodityprices/Crude_Oil_WTI/CL/&?mode=i	
+WS	Crude Oil WTI (F)	Energies	http://www.commoditycharts.com/commodityprices/Crude_Oil_WTI_(F)/WS/&?mode=i	
+SC	Crude Oil Brent	Energies	http://www.commoditycharts.com/commodityprices/Crude_Oil_Brent/SC/&?mode=i	
+RE	Rapeseed Meal	Grains	http://www.commoditycharts.com/commodityprices/Rapeseed_Meal/RE/&?mode=i	
+CP	ICE South China Coal	Energies	http://www.commoditycharts.com/commodityprices/ICE_South_China_Coal/CP/&?mode=i	
+QB	Ultra Long Gilt	Financials	http://www.commoditycharts.com/commodityprices/Ultra_Long_Gilt/QB/&?mode=i	
+MT	Gulf Sour Crude Oil	Energies	http://www.commoditycharts.com/commodityprices/Gulf_Sour_Crude_Oil/MT/&?mode=i	
+FH	Ethanol Swaps-NY	Energies	http://www.commoditycharts.com/commodityprices/Ethanol_Swaps-NY/FH/&?mode=i	
+FL	Ethanol Swaps-Chgo	Energies	http://www.commoditycharts.com/commodityprices/Ethanol_Swaps-Chgo/FL/&?mode=i	
+HO	ULSD NY Harbor	Energies	http://www.commoditycharts.com/commodityprices/ULSD_NY_Harbor/HO/&?mode=i	
+BH	ULSD NY Harbor (F)	Energies	http://www.commoditycharts.com/commodityprices/ULSD_NY_Harbor_(F)/BH/&?mode=i	
+RB	Gasoline RBOB	Energies	http://www.commoditycharts.com/commodityprices/Gasoline_RBOB/RB/&?mode=i	
+RT	Gasoline RBOB (F)	Energies	http://www.commoditycharts.com/commodityprices/Gasoline_RBOB_(F)/RT/&?mode=i	
+LR	JSE FTSE FINI 15	Indices	http://www.commoditycharts.com/commodityprices/JSE_FTSE_FINI_15/LR/&?mode=i	
+LT	SAFEX CBOT Corn	Grains	http://www.commoditycharts.com/commodityprices/SAFEX_CBOT_Corn/LT/&?mode=i	
+LL	JSE FTSE Weighted 40	Indices	http://www.commoditycharts.com/commodityprices/JSE_FTSE_Weighted_40/LL/&?mode=i	
+PN	Propane	Energies	http://www.commoditycharts.com/commodityprices/Propane/PN/&?mode=i	
+NG	Natural Gas	Energies	http://www.commoditycharts.com/commodityprices/Natural_Gas/NG/&?mode=i	
+HP	Natural Gas (F)	Energies	http://www.commoditycharts.com/commodityprices/Natural_Gas_(F)/HP/&?mode=i	
+HH	Natural Gas LDay (F)	Energies	http://www.commoditycharts.com/commodityprices/Natural_Gas_LDay_(F)/HH/&?mode=i	
+QL	Coal Appalachian	Energies	http://www.commoditycharts.com/commodityprices/Coal_Appalachian/QL/&?mode=i	
+PA	Palladium	Metals	http://www.commoditycharts.com/commodityprices/Palladium/PA/&?mode=i	
+PL	Platinum	Metals	http://www.commoditycharts.com/commodityprices/Platinum/PL/&?mode=i	
+AN	MSCI Euro Index	Indices	http://www.commoditycharts.com/commodityprices/MSCI_Euro_Index/AN/&?mode=i	
+AO	MSCI Pan-Euro Index	Indices	http://www.commoditycharts.com/commodityprices/MSCI_Pan-Euro_Index/AO/&?mode=i	
+F0	Urea FOB Egypt Swap	Grains	http://www.commoditycharts.com/commodityprices/Urea_FOB_Egypt_Swap/F0/&?mode=i	
+R3	Nasdaq 100 VIX	Indices	http://www.commoditycharts.com/commodityprices/Nasdaq_100_VIX/R3/&?mode=i	
+JM	PJM Monthly On Peak	Energies	http://www.commoditycharts.com/commodityprices/PJM_Monthly_On_Peak/JM/&?mode=i	
+JP	PJM Monthly Off Peak	Energies	http://www.commoditycharts.com/commodityprices/PJM_Monthly_Off_Peak/JP/&?mode=i	
+HT	SGX Nikkei Dividend	Indices	http://www.commoditycharts.com/commodityprices/SGX_Nikkei_Dividend/HT/&?mode=i	
+UX	Uranium	Metals	http://www.commoditycharts.com/commodityprices/Uranium/UX/&?mode=i	
+HV	US Steel Coil	Metals	http://www.commoditycharts.com/commodityprices/US_Steel_Coil/HV/&?mode=i	
+R2	MSCI World Index	Indices	http://www.commoditycharts.com/commodityprices/MSCI_World_Index/R2/&?mode=i	
+Q5	Coal Newcastle	Energies	http://www.commoditycharts.com/commodityprices/Coal_Newcastle/Q5/&?mode=i	
+PG	Euro Stoxx Mid	Indices	http://www.commoditycharts.com/commodityprices/Euro_Stoxx_Mid/PG/&?mode=i	
+PJ	Polyethylene	Energies	http://www.commoditycharts.com/commodityprices/Polyethylene/PJ/&?mode=i	
+C6	Colombian Peso	Currencies	http://www.commoditycharts.com/commodityprices/Colombian_Peso/C6/&?mode=i	
+CJ	CME Cocoa	Softs	http://www.commoditycharts.com/commodityprices/CME_Cocoa/CJ/&?mode=i	
+KT	CME Coffee	Softs	http://www.commoditycharts.com/commodityprices/CME_Coffee/KT/&?mode=i	
+KG	CME Cotton #2	Softs	http://www.commoditycharts.com/commodityprices/CME_Cotton_2/KG/&?mode=i	
+KA	CME Sugar #11	Softs	http://www.commoditycharts.com/commodityprices/CME_Sugar_11/KA/&?mode=i	
+RD	2-Year USD I/R Swap	Financials	http://www.commoditycharts.com/commodityprices/2-Year_USD_I_R_Swap/RD/&?mode=i	
+RH	5-Year USD I/R Swap	Financials	http://www.commoditycharts.com/commodityprices/5-Year_USD_I_R_Swap/RH/&?mode=i	
+RO	Rapeseed Oil	Grains	http://www.commoditycharts.com/commodityprices/Rapeseed_Oil/RO/&?mode=i	
+Q6	NOX Seasonal V 2009	Energies	http://www.commoditycharts.com/commodityprices/NOX_Seasonal_V_2009/Q6/&?mode=i	
+T4	NOX Seasonal V 2010	Energies	http://www.commoditycharts.com/commodityprices/NOX_Seasonal_V_2010/T4/&?mode=i	
+T9	Phalix French Base	Energies	http://www.commoditycharts.com/commodityprices/Phalix_French_Base/T9/&?mode=i	
+V6	Molybdenum	Metals	http://www.commoditycharts.com/commodityprices/Molybdenum/V6/&?mode=i	
+V7	NOX Annual V 2008	Energies	http://www.commoditycharts.com/commodityprices/NOX_Annual_V_2008/V7/&?mode=i	
+V8	NOX Annual V 2009	Energies	http://www.commoditycharts.com/commodityprices/NOX_Annual_V_2009/V8/&?mode=i	
+Y3	DCE Fiberboard	Softs	http://www.commoditycharts.com/commodityprices/DCE_Fiberboard/Y3/&?mode=i	
+O3	BMF Euro Futures	Currencies	http://www.commoditycharts.com/commodityprices/BMF_Euro_Futures/O3/&?mode=i	
+RQ	10-Year USD I/R Swap	Financials	http://www.commoditycharts.com/commodityprices/10-Year_USD_I_R_Swap/RQ/&?mode=i	
+				
+New York Mercantile Exchange - miNY's (NYMI)				
+Symbol	Name	Grouping		
+QM	E-Mini Crude Oil	Energies	http://www.commoditycharts.com/commodityprices/E-Mini_Crude_Oil/QM/&?mode=i	
+QH	E-Mini ULSD NYHarbor	Energies	http://www.commoditycharts.com/commodityprices/E-Mini_ULSD_NYHarbor/QH/&?mode=i	
+QU	E-Mini Gasoline	Energies	http://www.commoditycharts.com/commodityprices/E-Mini_Gasoline/QU/&?mode=i	
+QG	E-Mini Natural Gas	Energies	http://www.commoditycharts.com/commodityprices/E-Mini_Natural_Gas/QG/&?mode=i	
+				
+Commodities Exchange - miNY's (CXMI)				
+Symbol	Name	Grouping		
+YN	Colombian Peso	Currencies	http://www.commoditycharts.com/commodityprices/Colombian_Peso/YN/&?mode=i	
+YS	Stoxx Euro600 Health	Indices	http://www.commoditycharts.com/commodityprices/Stoxx_Euro600_Health/YS/&?mode=i	
+QC	E-Mini Copper	Metals	http://www.commoditycharts.com/commodityprices/E-Mini_Copper/QC/&?mode=i	
+QO	Gold emiNY	Metals	http://www.commoditycharts.com/commodityprices/Gold_emiNY/QO/&?mode=i	
+QI	Silver emiNY	Metals	http://www.commoditycharts.com/commodityprices/Silver_emiNY/QI/&?mode=i	
+				
+Dubai Mercantile Exchange (DME)				
+Symbol	Name	Grouping		
+OQ	DME Crude Oil Oman	Energies	http://www.commoditycharts.com/commodityprices/DME_Crude_Oil_Oman/OQ/&?mode=i	
+				
+New York Board of Trade (CSCE)				
+Symbol	Name	Grouping		
+KC	Coffee	Softs	http://www.commoditycharts.com/commodityprices/Coffee/KC/&?mode=i	
+CC	Cocoa	Softs	http://www.commoditycharts.com/commodityprices/Cocoa/CC/&?mode=i	
+SB	Sugar #11	Softs	http://www.commoditycharts.com/commodityprices/Sugar_11/SB/&?mode=i	
+SD	Sugar #16	Softs	http://www.commoditycharts.com/commodityprices/Sugar_16/SD/&?mode=i	
+				
+New York Board of Trade (NYCE)				
+Symbol	Name	Grouping		
+CT	Cotton #2	Softs	http://www.commoditycharts.com/commodityprices/Cotton_2/CT/&?mode=i	
+OJ	Orange Juice	Softs	http://www.commoditycharts.com/commodityprices/Orange_Juice/OJ/&?mode=i	
+				
+New York Board of Trade (NYFE)				
+Symbol	Name	Grouping		
+CR	HKFE Zinc Mini	Metals	http://www.commoditycharts.com/commodityprices/HKFE_Zinc_Mini/CR/&?mode=i	
+CI	HKFE Aluminium Mini	Metals	http://www.commoditycharts.com/commodityprices/HKFE_Aluminium_Mini/CI/&?mode=i	
+YV	NYSE Composite	Indices	http://www.commoditycharts.com/commodityprices/NYSE_Composite/YV/&?mode=i	
+RI	Russell 1000 Mini	Indices	http://www.commoditycharts.com/commodityprices/Russell_1000_Mini/RI/&?mode=i	
+RJ	Russell 2000 Mini	Indices	http://www.commoditycharts.com/commodityprices/Russell_2000_Mini/RJ/&?mode=i	
+				
+New York Board of Trade (FINEX)				
+Symbol	Name	Grouping		
+DX	U.S. Dollar Index	Currencies	http://www.commoditycharts.com/commodityprices/U.S._Dollar_Index/DX/&?mode=i	
+EX	MIB 30 Mini	Indices	http://www.commoditycharts.com/commodityprices/MIB_30_Mini/EX/&?mode=i	
+OL	Euro/Krone	Currencies	http://www.commoditycharts.com/commodityprices/Euro_Krone/OL/&?mode=i	
+AR	Aussie/New Zealand	Currencies	http://www.commoditycharts.com/commodityprices/Aussie_New_Zealand/AR/&?mode=i	
+YA	Aussie/Yen	Currencies	http://www.commoditycharts.com/commodityprices/Aussie_Yen/YA/&?mode=i	
+EU	Euro Futures	Currencies	http://www.commoditycharts.com/commodityprices/Euro_Futures/EU/&?mode=i	
+YP	Pound/Dollar	Currencies	http://www.commoditycharts.com/commodityprices/Pound_Dollar/YP/&?mode=i	
+YY	DCE Iron Ore	Softs	http://www.commoditycharts.com/commodityprices/DCE_Iron_Ore/YY/&?mode=i	
+YD	CZCE Gluten Wheat	Grains	http://www.commoditycharts.com/commodityprices/CZCE_Gluten_Wheat/YD/&?mode=i	
+YF	CZCE RapeSeed Oil	Grains	http://www.commoditycharts.com/commodityprices/CZCE_RapeSeed_Oil/YF/&?mode=i	
+OR	Dollar/Rand	Currencies	http://www.commoditycharts.com/commodityprices/Dollar_Rand/OR/&?mode=i	
+SY	Pound/Yen	Currencies	http://www.commoditycharts.com/commodityprices/Pound_Yen/SY/&?mode=i	
+SS	Pound/Swiss	Currencies	http://www.commoditycharts.com/commodityprices/Pound_Swiss/SS/&?mode=i	
+AU	Australian Dollar	Currencies	http://www.commoditycharts.com/commodityprices/Australian_Dollar/AU/&?mode=i	
+ZX	ICE Offshore USD/CNH	Currencies	http://www.commoditycharts.com/commodityprices/ICE_Offshore_USD_CNH/ZX/&?mode=i	
+EP	Euro/Canadian	Currencies	http://www.commoditycharts.com/commodityprices/Euro_Canadian/EP/&?mode=i	
+AS	Aussie/Canadian	Currencies	http://www.commoditycharts.com/commodityprices/Aussie_Canadian/AS/&?mode=i	
+HY	Canadian/Yen	Currencies	http://www.commoditycharts.com/commodityprices/Canadian_Yen/HY/&?mode=i	
+KU	Dollar/Krona	Currencies	http://www.commoditycharts.com/commodityprices/Dollar_Krona/KU/&?mode=i	
+NS	Dollar/Krone	Currencies	http://www.commoditycharts.com/commodityprices/Dollar_Krone/NS/&?mode=i	
+EQ	Euro/Australian	Currencies	http://www.commoditycharts.com/commodityprices/Euro_Australian/EQ/&?mode=i	
+GB	Euro/Pound	Currencies	http://www.commoditycharts.com/commodityprices/Euro_Pound/GB/&?mode=i	
+EJ	Euro/Yen	Currencies	http://www.commoditycharts.com/commodityprices/Euro_Yen/EJ/&?mode=i	
+RK	Euro/Krona	Currencies	http://www.commoditycharts.com/commodityprices/Euro_Krona/RK/&?mode=i	
+RZ	Euro/Swiss	Currencies	http://www.commoditycharts.com/commodityprices/Euro_Swiss/RZ/&?mode=i	
+EK	Krone/Krona	Currencies	http://www.commoditycharts.com/commodityprices/Krone_Krona/EK/&?mode=i	
+ZY	Swiss/Yen	Currencies	http://www.commoditycharts.com/commodityprices/Swiss_Yen/ZY/&?mode=i	
+UZ	Dollar/Koruna	Currencies	http://www.commoditycharts.com/commodityprices/Dollar_Koruna/UZ/&?mode=i	
+GZ	Euro/Koruna	Currencies	http://www.commoditycharts.com/commodityprices/Euro_Koruna/GZ/&?mode=i	
+UY	Dollar/Forint	Currencies	http://www.commoditycharts.com/commodityprices/Dollar_Forint/UY/&?mode=i	
+GY	Euro/Forint	Currencies	http://www.commoditycharts.com/commodityprices/Euro_Forint/GY/&?mode=i	
+PY	Euro/Rand	Currencies	http://www.commoditycharts.com/commodityprices/Euro_Rand/PY/&?mode=i	
+PV	Pound/Australian	Currencies	http://www.commoditycharts.com/commodityprices/Pound_Australian/PV/&?mode=i	
+GN	Pound/New Zealand	Currencies	http://www.commoditycharts.com/commodityprices/Pound_New_Zealand/GN/&?mode=i	
+PW	Pound/Canadian	Currencies	http://www.commoditycharts.com/commodityprices/Pound_Canadian/PW/&?mode=i	
+PK	Pound/Krone	Currencies	http://www.commoditycharts.com/commodityprices/Pound_Krone/PK/&?mode=i	
+PX	Pound/Rand	Currencies	http://www.commoditycharts.com/commodityprices/Pound_Rand/PX/&?mode=i	
+PS	Pound/Krona	Currencies	http://www.commoditycharts.com/commodityprices/Pound_Krona/PS/&?mode=i	
+ZJ	New Zealand/Yen	Currencies	http://www.commoditycharts.com/commodityprices/New_Zealand_Yen/ZJ/&?mode=i	
+KY	Krone/Yen	Currencies	http://www.commoditycharts.com/commodityprices/Krone_Yen/KY/&?mode=i	
+KJ	Krona/Yen	Currencies	http://www.commoditycharts.com/commodityprices/Krona_Yen/KJ/&?mode=i	
+				
+InterContinental Exchange (ICE)				
+Symbol	Name	Grouping		
+CB	Crude Oil Brent	Energies	http://www.commoditycharts.com/commodityprices/Crude_Oil_Brent/CB/&?mode=i	
+WI	Crude Oil WTI ICE	Energies	http://www.commoditycharts.com/commodityprices/Crude_Oil_WTI_ICE/WI/&?mode=i	
+ZU	ICE ASCI Crude	Energies	http://www.commoditycharts.com/commodityprices/ICE_ASCI_Crude/ZU/&?mode=i	
+ZV	ICE ASCI Crude Diff	Energies	http://www.commoditycharts.com/commodityprices/ICE_ASCI_Crude_Diff/ZV/&?mode=i	
+LF	ICE Gas Oil LS	Energies	http://www.commoditycharts.com/commodityprices/ICE_Gas_Oil_LS/LF/&?mode=i	
+NF	ICE Natural Gas	Energies	http://www.commoditycharts.com/commodityprices/ICE_Natural_Gas/NF/&?mode=i	
+LG	ICE RBOB Blendstock	Energies	http://www.commoditycharts.com/commodityprices/ICE_RBOB_Blendstock/LG/&?mode=i	
+LO	ICE Heating Oil	Energies	http://www.commoditycharts.com/commodityprices/ICE_Heating_Oil/LO/&?mode=i	
+LM	ICE Middle East Sour	Energies	http://www.commoditycharts.com/commodityprices/ICE_Middle_East_Sour/LM/&?mode=i	
+LU	ICE Rotterdam Coal	Energies	http://www.commoditycharts.com/commodityprices/ICE_Rotterdam_Coal/LU/&?mode=i	
+LV	ICE Richard Bay Coal	Energies	http://www.commoditycharts.com/commodityprices/ICE_Richard_Bay_Coal/LV/&?mode=i	
+LQ	ICE NewCastle Coal	Energies	http://www.commoditycharts.com/commodityprices/ICE_NewCastle_Coal/LQ/&?mode=i	
+CK	ICE EUA Futures	Energies	http://www.commoditycharts.com/commodityprices/ICE_EUA_Futures/CK/&?mode=i	
+CQ	ICE CER Futures	Energies	http://www.commoditycharts.com/commodityprices/ICE_CER_Futures/CQ/&?mode=i	
+				
+CBOE Futures Exchange (CFE)				
+Symbol	Name	Grouping		
+VI	CBOE S&P 500 VIX	Indices	http://www.commoditycharts.com/commodityprices/CBOE_S&P_500_VIX/VI/&?mode=i	
+VM	SHFE Nickel	Metals	http://www.commoditycharts.com/commodityprices/SHFE_Nickel/VM/&?mode=i	
+VJ	Gold VIX	Metals	http://www.commoditycharts.com/commodityprices/Gold_VIX/VJ/&?mode=i	
+VE	Crude Oil VIX	Energies	http://www.commoditycharts.com/commodityprices/Crude_Oil_VIX/VE/&?mode=i	
+VL	CBOE S&P Variance	Indices	http://www.commoditycharts.com/commodityprices/CBOE_S&P_Variance/VL/&?mode=i	
+VO	Corn VIX	Grains	http://www.commoditycharts.com/commodityprices/Corn_VIX/VO/&?mode=i	
+				
+NYSE Liffe (NYSE Liffe)				
+Symbol	Name	Grouping		
+YG	Gold mini-sized	Metals	http://www.commoditycharts.com/commodityprices/Gold_mini-sized/YG/&?mode=i	
+YI	Silver mini-sized	Metals	http://www.commoditycharts.com/commodityprices/Silver_mini-sized/YI/&?mode=i	
+ZG	ICE Gold 100-oz	Metals	http://www.commoditycharts.com/commodityprices/ICE_Gold_100-oz/ZG/&?mode=i	
+ZI	ICE Silver 5000-oz	Metals	http://www.commoditycharts.com/commodityprices/ICE_Silver_5000-oz/ZI/&?mode=i	
+DE	MSCI EMI Index	Indices	http://www.commoditycharts.com/commodityprices/MSCI_EMI_Index/DE/&?mode=i	
+DI	MSCI EAFE Index	Indices	http://www.commoditycharts.com/commodityprices/MSCI_EAFE_Index/DI/&?mode=i	
+DQ	MSCI USA Index	Indices	http://www.commoditycharts.com/commodityprices/MSCI_USA_Index/DQ/&?mode=i	

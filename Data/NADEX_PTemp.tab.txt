@@ -1,0 +1,62 @@
+Commodity Information					
+Sym	Futures	Exch	Futures 	Min	Unit
+	Contract		Delivery Months	Tick	Move
+Currencies					
+AD	Australian Dollar	CME	"H,M,U,Z"	0.01	"$1,000"
+BP	British Pound	CME	"H,M,U,Z"	0.01	$625
+CD	Canadian Dollar	CME	"H,M,U,Z"	0.01	1000
+DX	US Dollar Index	ICE	"H,M,U,Z"	0.01	1000
+EU	EuroFx	CME	"H,M,U,Z"	0.01	1250
+JY	Japanese Yen	CME	"H,M,U,Z"	0.01	1250
+SF	Swiss Franc	CME	"H,M,U,Z"	0.01	1250
+Energies					
+CL	Crude Oil	NYM	"F,G,H,J,K,M,N,Q,U,V,X,Z"	0.01	1000
+HO	NY Harbor ULSD/Heating Oil	NYM	"F,G,H,J,K,M,N,Q,U,V,X,Z"	0.01	420
+HU	Unleaded Gas	NYM	"F,G,H,J,K,M,N,Q,U,V,X,Z"	0.01	420
+NG	Natural Gas	NYM	"F,G,H,J,K,M,N,Q,U,V,X,Z"	0.001	"10,000"
+RB	RBOB Gasoline	NYM	"F,G,H,J,K,M,N,Q,U,V,X,Z"	0.01	420
+ITCO	Brent Crude	ICE	"F,G,H,J,K,M,N,Q,U,V,X,Z"	0.01	1000
+Grains & Soy Complex					
+BO	Soybean Oil	CBOT	"F,H,K,N,Q,U,V,Z"	0.01	600
+C	Corn	CBOT	"F,H,K,N,U,X,Z"	04-Jan	50
+KW	Kansas City Wheat	KCBT	"H,K,N,U,Z"	04-Jan	50
+MW	Minneapolis Wheat	MGE	"H,K,N,U,Z"	04-Jan	50
+O	Oats	CBOT	"H,K,N,U,Z"	04-Jan	50
+S	Soybeans	CBOT	"F,H,K,N,Q,U,X"	04-Jan	50
+SM	Soybean Meal	CBOT	"F,H,K,N,Q,U,V,Z"	0.1	100
+W	Wheat	CBOT	"H,K,N,U,Z"	04-Jan	50
+Stock Indices					
+DJ	Dow Jones Industrials	CBOT	"H,M,U,Z"	1	10
+KV	Value Line (Discontinued)	KCBT	"H,M,U,Z"	0.05	250
+MV	Value Line (Mini)	KCBT	"H,M,U,Z"	0.05	100
+ND	Nasdaq-100	CME	"H,M,U,Z"	0.25	100
+RL	Russell 2000 (Discontinued)	CME	"H,M,U,Z"	0.05	500
+SP	S & P 500	CME	"H,M,U,Z"	0.05	250
+YU	NYSE Composite (Discontinued)	NYFE	"H,M,U,Z"	0.05	500
+Interest Rates					
+ED	Eurodollars	CME	"H,M,U,Z"	0.005	2500
+FV	5-Yr T-Notes	CBOT	"H,M,U,Z"	1/64	1000
+MB	Municipal Bonds	CBOT	"H,M,U,Z"	1/32	1000
+TU	2-Yr T-Notes	CBOT	"H,M,U,Z"	1/128	2000
+TY	10-Yr T-Notes	CBOT	"H,M,U,Z"	1/64	1000
+US	30-Yr T-Bonds	CBOT	"H,M,U,Z"	1/32	1000
+Meats					
+FC	Feeder Cattle	CME	"F,H,J,K,Q,U,V,X"	0.025	500
+LC	Live Cattle	CME	"G,J,M,Q,V,Z"	0.025	400
+LH/LE	Lean Hogs	CME	"G,J,K,M,N,Q,V,Z"	0.025	400
+PB	Pork Bellies	CME	"G,H,K,N,Q"	0.025	400
+DA	Milk Class III	CME	"F,G,H,J,K,M,N,Q,U,V,X,Z"	0.01	2000
+Metals					
+GC	Gold	CMX	"G,J,M,Q,V,Z"	0.1	100
+HG	Copper	CMX	"H,K,N,U,Z"	0.05	250
+PL	Platinum	NYM	"F,J,N,V"	0.1	50
+SI	Silver	CMX	"H,K,N,U,Z"	0.005	50
+Softs & Fibers					
+RR	Rice	CBOT	"F,H,K,N,U,X"	02-Jan	100
+CC	Cocoa	ICE	"H,K,N,U,Z"	1	10
+CT	Cotton	ICE	"H,K,N,V,Z"	0.01	500
+KC	Coffee	ICE	"H,K,N,U,Z"	0.05	375
+LB	Lumber	CME	"F,H,K,N,U,X"	0.1	110
+JO	Orange Juice	ICE	"F,H,K,N,U,X"	0.05	150
+SB	Sugar #11	ICE	"H,K,N,V"	0.01	1120
+					

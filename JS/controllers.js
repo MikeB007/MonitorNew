@@ -32,7 +32,7 @@ Monitor.controller('stocksController', ['$scope','$log','$routeParams','$sce','t
     if( $routeParams.com) {
         $scope.myImg = commonFactory.getSiteUrl("BLANK");
         $scope.myImg[0].c1 = "cadusd";
-        $scope.myImg[0].s1 = "CLF16.NYM";
+        $scope.myImg[0].s1 = commonFactory.generateFeatureSymbol("CL","CLF16.NYM");
         $scope.myImg[0].s2 = "GCZ15.CMX";
         $scope.myImg[0].s3 = "HGZ15.CMX";
     }

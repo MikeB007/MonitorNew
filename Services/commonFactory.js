@@ -1,4 +1,4 @@
-Monitor.factory("commonFactory", function() {
+Monitor.factory("commonFactory", function(featuresFactory) {
     return {
         getPeriods: function(){
             return _periods;
@@ -71,11 +71,36 @@ Monitor.factory("commonFactory", function() {
                s2 = this.replaceWith(s2,"<>",this.stripExchange(s));
             return  s2;
         },
+
+        generateFeatureSymbol: function(commodity,ss){
+            switch (commodity){
+                case "CL":{
+                    var d = new Date();
+                    console.log(commodity + featuresFactory.getFMonth(d.getMonth(d))+ d.getYear(d)+ "."  + featuresFactory.getFExchange(commodity));
+                    s= 'CL';
+                }
+
+            }
+        return "SS";
+    },
         getLinks: function(){
             return _LINKS;
         }
     };
 });
+
+Monitor.factory("featuresFactory",[ function() {
+    return{
+        getFMonth: function(i) {
+
+        return "z";
+        },
+
+        getFExchange: function(i) {
+          return "16";
+        }
+
+}}]);
 
 Monitor.factory("afterHRSFactory", ['$resource', function($resource) {
     return {

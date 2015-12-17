@@ -12,43 +12,47 @@ var _periods= [
         duration1:"",duration:"10d"
     },
     {
-        id:4,
-        duration1:"",duration:"1m"
+    id:4,
+    duration1:"",duration:"20d"
     },
     {
         id:5,
-        duration1:"",duration:"3m"
+        duration1:"",duration:"1m"
     },
     {
         id:6,
-        duration1:"",duration:"6m"
+        duration1:"",duration:"3m"
     },
     {
         id:7,
-        duration1:"",duration:"9m"
+        duration1:"",duration:"6m"
     },
     {
         id:8,
-        duration1:"",duration:"1y"
+        duration1:"",duration:"9m"
     },
     {
         id:9,
-        duration1:"",duration:"2y"
+        duration1:"",duration:"1y"
     },
     {
         id:10,
-        duration1:"",duration:"3y"
+        duration1:"",duration:"2y"
     },
     {
         id:11,
-        duration1:"",duration:"5y"
+        duration1:"",duration:"3y"
     },
     {
         id:12,
-        duration1:"",duration:"9y"
+        duration1:"",duration:"5y"
     },
     {
         id:13,
+        duration1:"",duration:"9y"
+    },
+    {
+        id:14,
         duration1:"",duration:"my"
     }
 

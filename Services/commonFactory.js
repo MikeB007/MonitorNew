@@ -72,17 +72,11 @@ Monitor.factory("commonFactory", function(featuresFactory) {
             return  s2;
         },
 
-        generateFeatureSymbol: function(commodity,ss){
-            switch (commodity){
-                case "CL":{
-                    var d = new Date();
-                    console.log(commodity + featuresFactory.getFMonth(d.getMonth(d))+ d.getYear(d)+ "."  + featuresFactory.getFExchange(commodity));
-                    s= 'CL';
-                }
-
-            }
-        return "SS";
-    },
+        generateFeatureSymbol: function(commodity){
+            var c = commodity.toUpperCase();
+            var d = new Date();
+            return( c + featuresFactory.getFMonth(d.getMonth()+1) + ((d.getFullYear(d)-2000) + "."  + featuresFactory.getFExchange(c)));
+        },
         getLinks: function(){
             return _LINKS;
         }
@@ -92,13 +86,11 @@ Monitor.factory("commonFactory", function(featuresFactory) {
 Monitor.factory("featuresFactory",[ function() {
     return{
         getFMonth: function(i) {
-
-        return "z";
+                return ((_.where(NADEX_MONTHS, {mnth: i}))[0].Symbol);
         },
-
-        getFExchange: function(i) {
-          return "16";
-        }
+        getFExchange: function(i){
+        return ((_.where(FEATURES_CONTRACT_SYMBOLS, {Sym: i}))[0].Exch);
+    }
 
 }}]);
 

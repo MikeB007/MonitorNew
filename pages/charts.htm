@@ -17,11 +17,13 @@
 </dir-show-filter>
 
 <div ng-repeat="t in tickersBySector | orderBy: '-QMV' | limitTo:activeRecordFilter.cnt">
-        <dir-show-fancy-chart img-Details="t"
+        <dir-show-fancy-chart
+          img-Details="t"
           img-size="size"
           img-period="period"
           fn-format-advfn="formatAdvfn(s)"
           fn-convert-to-big-chart="convertToBigChart(s)"
+          fn-convert-duration-to-big-chart="convertDurationToBigChart(s,t)"
           hide-advfn="hideAdvfn"
           fltr-real-time="fltr">
         </dir-show-fancy-chart>

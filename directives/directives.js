@@ -63,6 +63,7 @@ Monitor.directive("dirShowFancyChart", function () {
             imgPeriod: "=",
             fnFormatAdvfn:"&",
             fnConvertToBigChart:"&",
+            fnConvertDurationToBigChart:"&",
             hideAdvfn:"=",
             fltrRealTime: "="
         }
@@ -82,9 +83,12 @@ Monitor.directive("dirShowAdvfn", function () {
         restrict: 'AEC', templateUrl: "directives/show-advfn.html",
         scope: {
             dirTickersBySector: "=",
-                   activeRecord: "=",
-                 fnFormatAdvfn:"&",
-                    hideAdvfn:"="
+            activeRecord: "=",
+            activePeriod:"=",
+            fnFormatAdvfn:"&",
+            fnConvertDurationToBigChart:"&",
+            hideAdvfn:"=",
+            fltrRealTime:"="
         },
         replace: true
     }

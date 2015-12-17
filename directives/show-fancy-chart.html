@@ -18,7 +18,7 @@
                        ng-src="http://ichart.yahoo.com/t?s={{imgDetails.Symbol + '.' + imgDetails.Market}}&width={{400}}&height={{400/1.402}}">
               </a>
         </span>
-       </span>
+    </span>
     </span>
 
      <span ng-if="fltrRealTime.isVisible>=1">
@@ -37,5 +37,25 @@
                 </span>
              </span>
         </span>
+    </span>
+    <span ng-if="fltrRealTime.isVisible==-1">
+            <a href="#/chart/{{imgDetails.Symbol + '.' + imgDetails.Market}}"><i class="fa fa-home"></i>
+
+                <span ng-if="hideAdvfn==false"><img class="frame"
+                                                    ng-src='http://www.advfn.com/p.php?pid=staticchart&s={{ fnFormatAdvfn({s:imgDetails.Symbol + "." + imgDetails.Market}) }}&p=0&t=23&dm=1&vol=1'>
+                </span>
+            </a>
+    </span>
+    <span ng-if="fltrRealTime.isVisible==-2">
+            <a href="#/chart/{{imgDetails.Symbol + '.' + imgDetails.Market}}"><i class="fa fa-home"></i>
+                <img class="frame" id="image" ng-src="http://realtimebigchart.gtm.idmanagedsolutions.com/custom/fidelity-com/big.chart?nosettings=1&symb={{fnConvertToBigChart({s:imgDetails.Symbol+'.'})}}&uf=8&type=4&size=1&style=1145&freq={{fnConvertDurationToBigChart({s:'1d',t:'1'})}}&time={{fnConvertDurationToBigChart({s:imgPeriod.duration,t:'2'})}}&rand=1447825004572&compidx=aaaaa:0&comp=&ma=3&maval=9&lf=4&lf2=0&lf3=0&height=301&width=504&mocktick=1">
+            </a>
+           <a href="#/chart/{{imgDetails.Symbol + '.' + imgDetails.Market}}"><i class="fa fa-home"></i>
+               <img class="frame" id="image" ng-src="http://realtimebigchart.gtm.idmanagedsolutions.com/custom/fidelity-com/big.chart?nosettings=1&symb={{fnConvertToBigChart({s:imgDetails.Symbol+'.'})}}&uf=8&type=4&size=1&style=1145&freq={{fnConvertDurationToBigChart({s:'5d',t:'1'})}}&time={{fnConvertDurationToBigChart({s:imgPeriod.duration,t:'2'})}}&rand=1447825004572&compidx=aaaaa:0&comp=&ma=3&maval=9&lf=4&lf2=0&lf3=0&height=301&width=504&mocktick=1">
+           </a>
+           <a href="#/chart/{{imgDetails.Symbol + '.' + imgDetails.Market}}"><i class="fa fa-home"></i>
+               <img class="frame" id="image" ng-src="http://realtimebigchart.gtm.idmanagedsolutions.com/custom/fidelity-com/big.chart?nosettings=1&symb={{fnConvertToBigChart({s:imgDetails.Symbol+'.'})}}&uf=8&type=4&size=1&style=1145&freq={{fnConvertDurationToBigChart({s:'10d',t:'1'})}}&time={{fnConvertDurationToBigChart({s:imgPeriod.duration,t:'2'})}}&rand=1447825004572&compidx=aaaaa:0&comp=&ma=3&maval=9&lf=4&lf2=0&lf3=0&height=301&width=504&mocktick=1">
+           </a>
+
     </span>
  </div>

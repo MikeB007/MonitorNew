@@ -14,7 +14,7 @@ Monitor.controller('stocksController', ['$scope','$log','$routeParams','$sce','t
     $scope.fltr =  tickerService.fltr;
 
 //    $scope.symbol.s=$scope.convertToBigChart($scope.symbol.S);
-    $scope.fltrRealTime={isVisible:"0"};
+    $scope.fltrRT={isVisible:2}; //valid options 1-advfn, 2-bigchart 3-both
     $scope.advfn={};
     $scope.hideAdvfn=false;
     $scope.hideRT=false;
@@ -181,6 +181,61 @@ Monitor.controller('stocksController', ['$scope','$log','$routeParams','$sce','t
          }
          return convertedS;
      }
+
+    $scope.convertDurationToBigChart = function(s,t) {
+        var r;
+        switch (t) {
+            case "1":
+            {
+                switch (s) {
+                    case "1d":
+                        r = "1mi";
+                        break;
+                    case "5d":
+                        r = "5mi";
+                        break;
+                    case "10d":
+                        r = "15mi";
+                        break;
+                    case "1y":
+                        r = "30mi";
+                        break;
+                    default:
+                        r = "1mi"
+                }
+                break;
+            }
+            case "2":
+            {
+                switch (s) {
+                    case "1d":
+                        r = "1";
+                        break;
+                    case "5d":
+                        r = "1";
+                        break;
+                    case "1m":
+                        r = "1";
+                        break;
+                    case "1y":
+                        r = "1";
+                        break;
+                    default:
+                        r = "1"
+                        break;
+                }
+                break;
+            }
+            default:
+            {
+                console.warn("bad param:" + t + "." + s);
+                break;
+            }
+        }
+    return r;
+}
+
+
 
     $scope.convertToUS = function(s){
         var l2S=s;

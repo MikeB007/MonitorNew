@@ -1,9 +1,22 @@
 <div class="row">
-    <DIV  class="col-lg-6 col-sm-2" ng-repeat="t in dirTickersBySector | orderBy: '-QMV' | limitTo:activeRecord.cnt">
+    value{{fltrRealTime.isVisible}}
+    <DIV  class="col-lg-3" ng-repeat="t in dirTickersBySector | orderBy: '-QMV' | limitTo:activeRecord.cnt">
             {{t.Symbol+"."+t.Market}} -- <b>{{t.Name}}</b><BR>
                     <a href="#/chart/{{t.Symbol + '.' + t.Market}}"><i class="fa fa-home"></i>
-                     <div  ng-if="hideAdvfn==false"><img class="frame" ng-src="http://www.advfn.com/p.php?pid=staticchart&s={{fnFormatAdvfn({s: t.Symbol + '.' + t.Market})}}&p=0&t=23&dm=1&vol=1"></div>
-                        <img class="frame" ng-src="http://realtimebigchart.gtm.idmanagedsolutions.com/custom/fidelity-com/big.chart?nosettings=1&symb=CA:{{t.Symbol}}&uf=8&type=4&size=1&style=1145&freq=10mi&time=1&rand=1447825004572&compidx=aaaaa:0&comp=&ma=3&maval=9&lf=4&lf2=0&lf3=0&height=301&width=504&mocktick=1">
+                         <span ng-if="fltrRealTime.isVisible==1">
+                             <span  ng-if="hideAdvfn==false">
+                                <img class="frame" ng-src="http://www.advfn.com/p.php?pid=staticchart&s={{fnFormatAdvfn({s: t.Symbol + '.' + t.Market})}}&p=0&t=23&dm=1&vol=1">
+                             </span>
+                        </span>
+                         <span ng-if="fltrRealTime.isVisible==2">
+                                <img class="frame" ng-src="http://realtimebigchart.gtm.idmanagedsolutions.com/custom/fidelity-com/big.chart?nosettings=1&symb=CA:{{t.Symbol}}&uf=8&type=4&size=1&style=1145&freq={{fnConvertDurationToBigChart({s:activePeriod.duration,t:'1'})}}&time={{fnConvertDurationToBigChart({s:activePeriod.duration,t:'2'})}}&rand=1447825004572&compidx=aaaaa:0&comp=&ma=3&maval=9&lf=4&lf2=0&lf3=0&height=301&width=504&mocktick=1">
+                        </span>
+                         <span ng-if="fltrRealTime.isVisible==3">
+                             <span  ng-if="hideAdvfn==false">
+                              <img class="frame" ng-src="http://www.advfn.com/p.php?pid=staticchart&s={{fnFormatAdvfn({s: t.Symbol + '.' + t.Market})}}&p=0&t=23&dm=1&vol=1">
+                             </span>
+                             <img class="frame" ng-src="http://realtimebigchart.gtm.idmanagedsolutions.com/custom/fidelity-com/big.chart?nosettings=1&symb=CA:{{t.Symbol}}&uf=8&type=4&size=1&style=1145&freq={{fnConvertDurationToBigChart({s:activePeriod.duration,t:'1'})}}&time={{fnConvertDurationToBigChart({s:activePeriod.duration,t:'2'})}}&rand=1447825004572&compidx=aaaaa:0&comp=&ma=3&maval=9&lf=4&lf2=0&lf3=0&height=301&width=504&mocktick=1">
+                        </span>
 
                     </a>
     </DIV>

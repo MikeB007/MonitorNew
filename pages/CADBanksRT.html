@@ -8,15 +8,19 @@
                       active-size="size"
                       fltr-records="recordFilters"
                       active-record="activeRecordFilter"
+                      fltr-real-time="fltrRT"
                       hide-sector="false"
                       hide-symbol="true"
-                      hide-period="true"
+                      hide-period="false"
                       hide-size="true"
                       hide-records="false">
      </dir-show-filter>
    <dir-show-advfn dir-tickers-by-sector="tickersBySector"
                    active-record="activeRecordFilter"
+                   active-period="period"
                    fn-format-advfn="formatAdvfn(s)"
-                        hide-advfn="hideAdvfn">
+                   fn-convert-duration-to-big-chart="convertDurationToBigChart(s,t)"
+                   hide-advfn="hideAdvfn"
+                   fltr-real-time="fltrRT">
    </dir-show-advfn>
 </span>

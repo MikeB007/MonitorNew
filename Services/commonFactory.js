@@ -75,7 +75,8 @@ Monitor.factory("commonFactory", function(featuresFactory) {
         generateFeatureSymbol: function(commodity){
             var c = commodity.toUpperCase();
             var d = new Date();
-            return( c + featuresFactory.getFMonth(d.getMonth()+1) + ((d.getFullYear(d)-2000) + "."  + featuresFactory.getFExchange(c)));
+
+            return( c + featuresFactory.getFMonth((d.getMonth()+1+1)%12) + ((d.getFullYear(d)-1999) + "."  + featuresFactory.getFExchange(c)));
         },
         getLinks: function(){
             return _LINKS;

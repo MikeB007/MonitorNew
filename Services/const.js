@@ -414,16 +414,16 @@ var _URLS= [
 
 var _LINKS= [
     {
-        id:"TMX",
-        url:"http://www.tmxmoney.com/en/index.html",
-        desc:"TSX",
-        default:"http://www.tmxmoney.com/en/index.html"
+        id:"247",
+        url:"http://247wallst.com/investing/",
+        desc:"247",
+        default:"http://247wallst.com/investing/"
     },
     {
-    id:"TMX",
-    url:"http://www.tmxmoney.com/en/index.html",
-    desc:"TSX",
-    default:"http://www.tmxmoney.com/en/index.html"
+    id:"BIT BUCKET-https://bitbucket.org/richardpenman/webscraping/overview",
+    url:"https://bitbucket.org/richardpenman/webscraping/overview",
+    desc:"scraPing-http://docs.webscraping.com/introduction.html",
+    default:"http://docs.webscraping.com/introduction.html"
 },
     {
     id:"TMX",

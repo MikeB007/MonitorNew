@@ -83,15 +83,21 @@ Monitor.controller('stocksController', ['$scope','$log','$routeParams','$sce','t
     $scope.loosers = tickerFactory.getFavouritesLoosers();
 
     if( $routeParams.showList){
-        if (($routeParams.showList)==("GAINERS")){
-            $scope.list =$scope.gainers;
-        }
-        if (($routeParams.showList)==("LOOSERS")){
-            $scope.list = $scope.loosers;
+        switch ($routeParams.showList) {
+            case("GAINERS"):
+                $scope.list = $scope.gainers;
+                break;
+            case("LOOSERS"):
+                $scope.list = $scope.loosers;
+                break;
+            case("LEADS"):
+                $scope.list = tickerFactory.getLeads();
+                break;
+            default:
+                $scope.list={};
+                break;
         }
     }
-
-
 
     $scope.sizes = commonFactory.getSizes();
     $scope.size= tickerService.size ||commonFactory.getDefaultSize();
@@ -402,3 +408,8 @@ Monitor.controller('newsController', ['$scope', '$resource', '$routeParams','New
 
 }]);
 
+
+
+Monitor.controller('UIController', ['$scope', '$resource', '$routeParams', function($scope, $resource, $routeParams) {
+    console.log("Runnig UI");
+}]);

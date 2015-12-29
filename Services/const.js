@@ -16,43 +16,47 @@ var _periods= [
     duration1:"",duration:"20d"
     },
     {
-        id:5,
+    id:5,
+    duration1:"",duration:"29d"
+    },    
+    {
+        id:6,
         duration1:"",duration:"1m"
     },
     {
-        id:6,
+        id:7,
         duration1:"",duration:"3m"
     },
     {
-        id:7,
+        id:8,
         duration1:"",duration:"6m"
     },
     {
-        id:8,
+        id:9,
         duration1:"",duration:"9m"
     },
     {
-        id:9,
+        id:10,
         duration1:"",duration:"1y"
     },
     {
-        id:10,
+        id:11,
         duration1:"",duration:"2y"
     },
     {
-        id:11,
+        id:12,
         duration1:"",duration:"3y"
     },
     {
-        id:12,
+        id:13,
         duration1:"",duration:"5y"
     },
     {
-        id:13,
+        id:14,
         duration1:"",duration:"9y"
     },
     {
-        id:14,
+        id:15,
         duration1:"",duration:"my"
     }
 
@@ -405,12 +409,16 @@ var _URLS= [
         urlMain: "http://www.reuters.com"
     },
     {
+        id:"BNN",
+        url:"http://www.bnn.ca/Stock.aspx?pi_symbol=<-->",
+        urlMain: "http://www.bnn.ca"
+    },
+
+    {
         id:"Empty",
         url:"http://www.google.ca"
     }
     ];
-
-
 
 var _LINKS= [
     {
@@ -439,5 +447,6 @@ var _LINKS= [
         desc:"clivemaund",
         default:"http://www.clivemaund.com/"
     }
+
 
    ]

@@ -24,3 +24,23 @@ http://realtimebigchart.gtm.idmanagedsolutions.com/custom/fidelity-com/big.chart
 http://realtimebigchart.gtm.idmanagedsolutions.com/custom/fidelity-com/big.chart?nosettings=1&symb=CA:VRX&uf=8&type=4&size=1&style=1145&freq=1&time=6&rand=1448290053221&compidx=aaaaa:0&comp=&ma=1&maval=9&lf=4&lf2=0&lf3=0&height=301&width=504&mocktick=1
 
 http://realtimebigchart.gtm.idmanagedsolutions.com/custom/fidelity-com/big.chart?nosettings=1&symb=CA:VRX&uf=8&type=4&size=1&style=1145&freq=30mi&time=3&rand=1448289858281&compidx=aaaaa:0&comp=&ma=1&maval=9&lf=4&lf2=0&lf3=0&height=301&width=504&mocktick=1
+
+
+
+BNN  news
+GOOD!!!!
+
+
+http://www.bnn.ca/WebServices/Cache/MarketDataServiceJS.svc/GetReutersCompanySnapshot?symbol=td.to
+
+http://www.bnn.ca/WebServices/Cache/MarketDataServiceJS.svc/GetStockQuote?symbol=cm.TO
+http://www.bnn.ca/WebServices/Cache/MarketDataServiceJS.svc/GetReutersSearch?text=vrx&PageSize=10&PageNo=0
+http://www.bnn.ca/WebServices/Cache/AjaxServices.svc/Search?query=vrx&PageSize=5&PageNo=0&PageType=News
+http://www.bnn.ca/WebServices/Cache/AjaxServices.svc/Search?query=vrx.ro&PageSize=5&PageNo=0&PageType=Blogs
+
+
+http://capi.9c9media.com/destinations/bnn_web/platforms/desktop/contents?$inlinecount=true&$include=[Images,Desc,BroadcastDate,BroadcastDateTime,ContentPackages,Media,Keywords,Tags]&$page=0&$top=100&$sort=BroadcastDate&$order=desc&$search=cxr&callback=getJsonFromCAPI_SearchResutls_searchInAxis
+
+http://www.bnn.ca/WebServices/Cache/AjaxServices.svc/Search?query=vrx&PageSize=5&PageNo=0&PageType=Others
+
+http://www.bnn.ca/WebServices/Cache/AjaxServices.svc/SearchNewShowGuestPicks_Search?query=vrx&pageNum=0&pageSize=5
